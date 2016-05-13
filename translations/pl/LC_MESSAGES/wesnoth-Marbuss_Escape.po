@@ -1,0 +1,1246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: wespo 2.2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: pl_PL\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#. [scenario]: id = 01_Bag-not_Under_Attack;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:4
+msgid "01 - Bag'not Under Attack"
+msgstr "1. Atak na Bag'not"
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:14
+msgid "Our story begins in year 883 YW. It takes place in far north, where all the dates stopped to mean anything to anybody. Violence, blood and damnation. Wrestling competitions and drinking sprees between raids. Women get their legs over bonfires and let their partners go bird's-nesting. Yes, I am talking about orcs."
+msgstr "Nasza historia rozpoczyna się w 883 YW."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:18
+msgid "Many years have passed since the time orcs intimidated elves, humans and dwarves. Many years have passed since they ventured to walk in the Wesnoth land. Many years have passed since the time they were filthy rich."
+msgstr "Wiele lat minęło, odkąd orkowie budzili postrach w sercach elfów, ludzi i krasnoludów. Wiele, odkąd odważyli się postawić stopę na ziemiach Wesnoth. Wiele, odkąd opływali w bogactwa. "
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:21
+msgid "Plenty of battles were fought, one time orcs conquered new lands, the other time they gained new wounds. Other realms, as strong as orcs, started to whet their swords. After a next, unsuccessful attack of the bloodthirsty army, orcs retreated deep into their lands, elves followed them."
+msgstr "Gdy bitwa za bitwą, orkowie to raz zdobywali nowe ziemie, to wracali do swych chat z kolejnymi ranami, równie silne krainy zaczęły ostrzyć swoje miecze. Gdy po kolejnym, nieudanym ataku żądnej krwi armii, orkowie wycofali się wgłąb swych ziem, podążyli za nimi elfy."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:24
+msgid "Humans, as well as dwarves willingly joined the revenge. Year after year, orcs became separated by trade routes camps of refugees. A few tribes joined the Northern Alliance, where through many years were forced to accept human rules. The other fought and were destroyed after several battles aginist dwarves or elves."
+msgstr "Ludzie, tak jak i krasnoludy ochoczo dołączyli do odwetu. Rok za rokiem, orkowie stawali się tylko rozdzielanymi przez szlaki handlowe obozami uchodźców i kobiet. Niektóre plemienia przyłączyły się do Sojuszu Północy, gdzie przez dziesięciolecia zmuszani byli do akceptowania ludzkich norm. Inni walczyli i po kilku większych bitwach zostawali wyniszczeni przez krasnoludów bądź elfy."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:24
+msgid "Human tradeposts took place of orcish smelters. Only the clans that lived deep in the north have survived the forages of other nations. Amongst them, there lived a small Marbus's clan. Even too small to have a name, history, or a future."
+msgstr "W miejscach starych orkowych hut żelaza wyrosły siedliska handlowe ludzi. Tylko najbardziej oddalone na północ klany przetrwały najazd innych nacji. Wśród nich został też mały klan Marbusa, klan zbyt mały, by mieć nazwę, historię bądź przyszłość."
+
+#. [side]: id = Marbus; type = Orcish Leader;
+#. [side]: id = Marbus;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:36
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:36
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:33
+msgid "Player"
+msgstr "Gracz"
+
+#. [side]: id = Marbus; type = Orcish Leader;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:38
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:38
+msgid "Marbus"
+msgstr "Marbus"
+
+#. [unit]: id = Kochan; type = Wolf Rider;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:52
+msgid "Kochan"
+msgstr "Kochan"
+
+#. [side]: id = Wincent; type = Lieutenant;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:86
+msgid "Opponents"
+msgstr "Przeciwnicy"
+
+#. [side]: id = Wincent; type = Lieutenant;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:88
+msgid "Lieutenant Wincent"
+msgstr "Porucznik Wincent"
+
+#. [unit]: id = Wincent's Rider; type = Cavalryman;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:92
+msgid "Wincent's Rider"
+msgstr "Kawalerzysta Wincenta"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:124
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:88
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:65
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:77
+msgid "Bag'not Fortress"
+msgstr "Forteca Bag'not"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:125
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:89
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:66
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:78
+msgid "Old Elbor Fortress"
+msgstr "Stary fort Elbor"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:126
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:90
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:67
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:79
+msgid "Bridge of Kazara"
+msgstr "Most Kazary"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:127
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:80
+msgid "Camp of the white-skinned"
+msgstr "Obóz białoskórych"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:128
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:68
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:81
+msgid "Bridge of Thot the Four Fingered"
+msgstr "Most Thota Czteropalczastego"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:129
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:82
+msgid "the Barren Fields"
+msgstr "Jałowe Pole"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:130
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:92
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:69
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:83
+msgid "Tut'anor Pass"
+msgstr "Przełęcz Tut'anor"
+
+#. [objective]: condition = win;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:153
+msgid "Defeat Lieutenant Wincent"
+msgstr "Pokonaj Porucznika Wincenta"
+
+#. [objective]: condition = lose;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:158
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:109
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:232
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:117
+msgid "Death of Marbus"
+msgstr "Śmierć Marbusa"
+
+#. [objective]: condition = lose;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:162
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:113
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:236
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:121
+msgid "Death of Kochan"
+msgstr "Śmierć Kochana"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:177
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:93
+msgid "Only one month of summer has passed. Our crops have not even sprouted, and we are getting gloomy winds from the south. I am afraid we may experience serious problems with food this winter. Ah... If only Gewold had accepted the Allianc--e's offer."
+msgstr "Lato trwało tylko miesiąc, nasze plony nie zdążyły nawet wzrosnąć, a z południa dobiega nas mroźny wiatr. Boję się, że możemy mieć poważne problemy z żywnością tej zimy. Ahh... Gdyby tylko Gewold przystał na propozycję Sojuszu..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:178
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:94
+msgid "Marbus! White-skinned have appeared on the other side of the river. They are chained."
+msgstr "Marbus! Białoskórzy pojawili się po drugiej stronie rzeki. Są zakuci w stal."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:179
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:95
+msgid "What? Are they Alliance's emissaries? Maybe they want to give us a hand and they are sending some supplies."
+msgstr "Co? Czy to wysłannicy Sojuszu? Może chcą wyciągnąć do nas pomocną dłoń i przysłali nam jakieś zapasy."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:180
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:96
+msgid "As a lieutenant of the garrison in Celadon City, I command you, orcs, to leave this place and leave Bag'not to our rule. Should you decline, you will die."
+msgstr "Jako porucznik garnizonu w Seledynowym Mieście, nakazuję wam, orkom, opuścić to miejsce i oddać nam w posiadanie Bag'not. Jeśli odmówicie, czeka was śmierć."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:181
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:97
+msgid "What? Celadon City is placed only a few miles to the south and we have never experienced any aggression from them. It is a trading post dealing between Northern Alliance and Wesnoth. And even if they want to get rid of us, why did they not send somebody of higher rank than you?"
+msgstr "Co? Seledynowe Miasto mieści się tylko kilka mil na południe i nigdy nie mięliśmy z ich strony żadnego aktu agresji. To placówka handlowa między Sojuszem Północy, a Wesnoth. A nawet jeśli chcą się nas stąd pozbyć, dlaczego nie wysłali kogoś większego rangą!?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:182
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:98
+msgid "Celadon City is not a free city anymore and it does not have a general that can lead its army"
+msgstr "Seledynowe Miasto nie jest już wolnym miastem. I nie ma generała, który mógłby poprowadzić armię. Ale dość słów, odmieńcze! Wynoś się z ziem, które nigdy nie powinny zostać wam dane albo giń!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:183
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:99
+msgid "I do not like it, my cousin. If that human is telling us truth, something must have flushed the city's dwellers out. Way of in the distance I can see their women and children. Marbus, they are not an army, they are refugees."
+msgstr "Nie podoba mi się to, kuzynie. Jeśli ten człowiek mówi prawdę, coś musiało wykurzyć ich z miasta. Tam w oddali widzę ich kobiety i dzieci. To nie wojsko, Marbus, to uchodźcy!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:184
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:100
+msgid "Refugees or army... we can not surrender Bag'not to them, either way. It is our homeland. And as its soldiers we must defend it! Arke netu Karash!"
+msgstr "Uchodźcy, czy wojsko... Nie możemy oddać im Bag'not. To nasz dom. I jako jego mieszkańcy musimy go bronić! Arke netu Karash! Chwyćcie za swe miecze!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:215
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:131
+msgid "Um... I am dying..."
+msgstr "Um... Umieram..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:218
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:235
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:134
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:235
+msgid "No! I will not be able to lead the clan without Kochan!"
+msgstr "Nie! Bez Kochana nie uda mi się poprowadzić klanu!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:246
+msgid "These unloyal bastards! Pillaging villages for their own profit, while these stinking orcs are going to kill me!"
+msgstr "Te nielojalne dranie! Grabią wioski dla własnego zysku, podczas gdy śmierdzące orki zamierzają mnie zabić!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:250
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:144
+msgid "Nooo! Now we will not save our clan!"
+msgstr "Nieee... Teraz nie uda się nam już ocalić naszego klanu!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:258
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:150
+msgid "Go to the devil, bastards! I hope you will be slayed by the spectres that slaughtered our people..."
+msgstr "Niech was piekło pochłonie... Wy psie syny! Niech wyrżną was te widma, które wyrżnęły naszych ludzi..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:259
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:151
+msgid "Shut your mouth up, human. And let our wolves open theirs. They are going to have a bloody feat."
+msgstr "Zamknij usta, człowieku. I niech otworzą się pyski naszych wilków. Dziś czeka ich krwawa uczta."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:260
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:152
+msgid "I have got a bad feeling about this, Marbus. Everything implicates that something pushed these people here. And we may get attacked by that something, too."
+msgstr "Nie podoba mi się to, Marbus. Wszystko wskazuje na to, że coś przygnało tu tych ludzi. I to coś może zaatakować i nas. "
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:261
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:153
+msgid "I know that, my cousin. Yet, we can not worry about guesswork when our pantries are empty. Excavate all corpses. Loot food, clothes and   everything that may come handy. If they were really the survivors, they should carry tons of wealth. Throw the corpses to the sheepfold."
+msgstr "Wiem to, kuzynie. Jednak nie możemy przejmować się przypuszczeniami, gdy nasze spiżarnie świecą pustkami. Przeszukajcie wszystkie trupy. Bierzcie jedzenie, ubrania, wszystko co się nada. Jeśli to rzeczywiście ocaleni, powinni przynieść ze sobą wiele bogactw. Trupy rzućcie do owczarni."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:262
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:154
+msgid "As usual, you only take the nearest future into account. You will get baned because of that, my cousin."
+msgstr "Jak zwykle zwracasz uwagę tylko na najbliższą przyszłość. Kiedyś przyniesie nam to zgubę, kuzynie."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:263
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:155
+msgid "You have been telling me that for ages. Yet, until now, I have been defending your kinsmen very well, Kochan."
+msgstr "Od lat mi to powtarzasz, jednak jak dotąd doskonale chronię Twoich pobratymców."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:264
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:156
+msgid "And I hope it will continue to be that way, I hope..."
+msgstr "I mam nadzieję, że będzie tak dalej. Mam nadzieję..."
+
+#. {NAMED_LOYAL_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:275
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:313
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:316
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:160
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:171
+msgid "Wincent's Cavalryman"
+msgstr "Kawalerzysta Wincenta"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:305
+msgid "The orcs are stronger than I supposed. Luckily, I am prepared for such drift of events"
+msgstr "Orkowie są silniejsi, niż sądziłem. Dobrze, że przygotowałem się na takie rozwinięcie sytuacji..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:319
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:172
+msgid "I report that both groups are ready to strike, sergeant!"
+msgstr "Obie grupy są już gotowe do ataku, sierżancie!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:320
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:173
+msgid "It is an ambush! Show that human scum how fragile their horses are! Mount your wolves, my brothers!"
+msgstr "Zasadzka! Pokażcie tym ludzkim pomiotom, jak słabe są ich koniki! Dosiądźcie swych wilków, moi bracia!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:321
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:174
+msgid "Take your weapons, goblins!"
+msgstr "Do broni, gobliny!"
+
+#. [scenario]: id = 02_Winter_in_Bag-not;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:4
+msgid "Winter in Bag'not"
+msgstr "2. Zima w Bag'not"
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:13
+msgid "It's hard to assess how long Marbus's clan occupied the Bag'not Fortress. The elders sometimes weaved stories about mighty Elebor, a human fortress turned to ruin by a sorcerer. Not much time have passed until the wizard kicked the bucket himself. A dozen years or so after that happened, elves invaded northern lands. That is when the orcs set out to erect minor fortresses along the most important cities. Bag'not was one of these, it's aim was to defend Gelu'Aben. the motherland of swords"
+msgstr "Trudno określić, jak długo klan Marbusa zajmował fortecę Bag'not. Starsi snuli czasem opowieści o potężnym Elborze, ludzkiej fortecy, którą pewien czarnoksiężnik zamienił w ruinę. Niedługo potem sam czarnoksiężnik poszedł do piachu, a kilkanaście lat po tym wydarzeniu miała miejsce inwazja elfów na krainy północy. Wtedy właśnie orkowie postanowili wznieść wzdłuż swoich najważniejszych miast pomniejsze fortece. Bag'not było właśnie jedną z tych fortec, miało bronić Gelu'Aben, Ojczyzny Mieczy."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:16
+msgid "Gelu'Aben was a city dealing mainly with metals. Smelters, armouries, traders selling metal articles made by orcs, elves, dwarves and humans. Being placed far in the north, it was almost unreachable for elvish armies. Road to the city led through Tut'anor pass. Even the elves heard about it. It was infamous, having thin passes and numerous traps. Raiders abandoned plans of an assault on the city. Obvoiusly, there waas another path, going through dwarven caverns. By that time, dwarves hadn't joined the elvish army yet. When they did that, had long been forgotten."
+msgstr "Gelu'Aben było miastem zajmującym się głównie metalem. Huty, zbrojownie, handlarze sprzedający metalowe przedmioty zarówno orków, jak i elfów, krasnoludów i ludzi. Położone daleko na północy, było prawie niedostępne dla elfickich armii. Droga do miasta prowadziła przez przełęcz Tut'anor, która nawet elfom obiła się o uszy. Owiana złą sławą, z wąskimi przejściami i pułapkami. Najeźdźcy zrezygnowali z ataku na miasto. Oczywiście była i inna droga, przez krasnoludzkie tunele. Wówczas jednak krasnoludy nie przyłączyły się jeszcze do armii elfickiej, a gdy to uczyniono, o Gelu'Aben dawno zapomniano."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:19
+msgid "A dozen years after the raid, when orcs started coming to the south again, Gelu'Aben's chieftain, Sovereign Gewold commanded to settle Bag'not again. He sent there the least accepted creatures in the city, goblins. Together with them, he also sent to the south a small orcish division. It consisted mainly of individuals who had any goblin in his family."
+msgstr "Kilkanaście lat po najeździe, gdy orkowie znów zaczęli zapuszczać się na południe, wódz Gelu'Aben, Suweren Gewold, nakazał zasiedlić dawną fortecę Bag'not. Wysłał tam najmniej tolerowane w mieście istoty, gobliny. Wraz z nimi wysłał na południe także mały oddział innych orków, głównie tych, którzy mięli w rodzinie jakiegoś goblina. Władzę nad nimi miał sprawować Marbus.\\"
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:22
+msgid "Path through the Tut'anor pass was fearsome and perilous. Immense snakes and spiders and feeling of being watched. Evil in this place was indeed sensate. Yet, Marbus managed to pass it with his legions almost without any casualties. Settling Gelu'aben was a piece of cake in comparison to that. Goblins represented three quarters of Marbus's clan's population and were treated equally with orcs. Even Marbus had a goblin cousin, Kochan, who took charge of wolf raiders. Life here was good, or at least not worse than in Gelu'Aben. Until now..."
+msgstr "Ścieżka przez przełęcz Tut'anor była straszna i niebezpieczna. Ogromne węże i pająki oraz przeczucie, że jest się obserwowanym. Zło w tym miejscu było wręcz namacalne, jednak Marbusowi udało się przejść ze swoim oddziałem niemal bez ofiar. Zasiedlanie Gelu'Aben było przy tym jak bułka z masłem. Gobliny stanowiły trzy czwarte populacji klanu Marbusa i była traktowane na równi z orkami. Sam Marbus miał za kuzyna goblina, Kochana, który przejął dowodzenie nad jeźdźcami wilków. Żyło się tu dobrze, a przynajmniej nie gorzej, niż w Gelu'Aben. Aż do teraz..."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:25
+msgid "Winter turned out to be even worse than expected. What is more, everything was surrounded by outre, worrying fog. Fear aroused int orcish hearts and was creeping into their dreams. Not so long after that, there appeared a rumour that the forests are not safe anymore. Numbers of those who didn't come back, perished for ever. Thus, the dwellers started to get wood from the purlieus of the villages. Soon after they had run out of it, the wooden bridge got disassembled. One of these days, the fear showed it's face at last."
+msgstr "Zima była jeszcze gorsza, niż wszyscy się obawiali. Na domiar złego, wszystkiemu towarzyszyła dziwna, niepokojąca mgła. Strach budził się w sercach orków i wkraczał do ich snów. Niedługo potem rozeszła się nowina, że w lasach nie jest już bezpiecznie. Wielu z tych, którzy w nie wkraczali, ginęło bezpowrotnie. Mieszkańcy zaczęli więc pozyskiwać drewno tylko w pobliżu wiosek. A gdy nawet tego zabrakło, wkrótce rozebrany został drewniany most. Niedługo potem nastał dzień, w którym strach nareszcie pokazał swoje oblicze."
+
+#. [side]: id = Spectral Knight; type = Nightgaunt;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:73
+msgid "Enemy"
+msgstr "Wróg"
+
+#. [side]: id = Spectral Knight; type = Nightgaunt;
+#. [side]: id = Spectre1; type = Shadow;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:75
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:61
+msgid "Spectral Knight"
+msgstr "Widmowy Rycerz"
+
+#. [side]:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:84
+msgid "Nature"
+msgstr "Natura"
+
+#. [objective]: condition = win;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:104
+msgid "Defend Bag-not from undead attack"
+msgstr "Obroń Bag'not przed atakiem nieumarłych"
+
+#. [objective]: condition = lose;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:117
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:240
+msgid "Undead break into the Bag-not fortress"
+msgstr "Nieumarli wdzierają się do twierdzy Bag'not"
+
+#. {NAMED_LOYAL_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:128
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:79
+msgid "Filar, the Mighty Battleaxe"
+msgstr "Filar, Potężny Topór Bojowy"
+
+#. {NAMED_LOYAL_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:129
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:80
+msgid "Adris, the Blunt Sword"
+msgstr "Adris, Tępy Miecz"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:137
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:126
+msgid "I have a bad feeling about this, cousin. Since the snow fell, we have been having that dreadful fog... I don't remember such since... Since we crossed the Tut'anor pass. Even the wolves are uneasy."
+msgstr "Nie podoba mi się to, kuzynie. Odkąd spadł śnieg, ciągle unosi się w powietrzu ta potworna mgła... Nie pamiętam takiej od czasu... Odkąd kroczyliśmy przez przełęcz Tut'anor. Nawet wilki są niespokojne."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:138
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:127
+msgid "Ashen'tir, Kochan. We can not let the fear and psychosis overcome us. It is only the first month of winter. We are running out of food in our granaries. I am worried about the future."
+msgstr "Ashen'tir, Kochan. Nie możemy pozwolić, by ogarnął nas strach i psychoza. To dopiero pierwszy miesiąc zimy, a w naszych magazynach zaczyna powoli brakować żywności. Martwię się o przyszłość..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:139
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:128
+msgid "Suddenly, there blew a wind piercing a body like an arrow. In Bag'not, there was heard a voice, as cold and biting as icicles dangling on roofs."
+msgstr "Wtem zawiał wiatr przeszywający ciało jak strzała, a przez Bag'not potoczył się głos równie zimny i ostry, jak lodowate sople zwisające z dachów. budynków."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:183
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:129
+msgid "Shudder! Shudder and despair! A chariot of dead horses will race through your lands. It will trample your homes and children. Your blood will slop in our goblets, raised by us for the glory of the Dead King!"
+msgstr "Drżyjcie. Drżyjcie i rozpaczajcie. Przez wasze ziemię pogna zaprzęg umarłych koni. Stratuje wasze domy i wyrżnie dzieci. Wasza krew będzie przelewać się w naszych pucharach, które wzniesiemy na chwałę Umarłego Króla!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:184
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:130
+msgid "So they... they have destroyed Celadon City. Undead."
+msgstr "A więc Oni... Oni zniszczyli Seledynowe Miasto. Nieumarli."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:185
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:131
+msgid "Stand up! Get out of your houses! Take up arms! Undead!"
+msgstr "Wstawać! Wychodźcie ze swoich chat! Weźcie do rąk swoje miecze! Umarli!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:186
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:132
+msgid "Cousin! It will be the best if I go for a reconnaissance. My wolf will escape ghosts and skeletons even on snow. If the undead conquered the Celadon City indeed, we are going to have a serious problem with them."
+msgstr "Kuzynie! Najlepiej będzie, gdy pojadę na zwiad. Mój wilk umknie przed duchami i szkieletami nawet na śniegu. Jeśli Ci nieumarli faktycznie podbili Seledynowe Miasto, możemy mieć z nimi poważny problem."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:188
+msgid "You are right. I will command the orcs to guard the walls. I do not want my orcs to encounter these creatures on open ground. We stand no chances on snow."
+msgstr "Masz rację. Ustawię orków wzdłuż murów. Nie chcę, by moi orkowie spotkali się z tymi stworzeniami na otwartym terenie. Na śniegu nie mamy z nimi żadnych szans."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:199
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:138
+msgid "Kochan, what can you see there? How many of them are left?"
+msgstr "Co widzisz, Kochan? Ile ich tam jeszcze zostało!?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:200
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:139
+msgid "..."
+msgstr "..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:201
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:140
+msgid "Cousin!"
+msgstr "Kuzynie!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:214
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:141
+msgid "We stand no chances against them, Marbus! There are thousands of them."
+msgstr "Nie mamy z nimi szans, Marbus. Ich armia liczy tysiące wojowników."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:215
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:142
+msgid "What!? That is impossible... Why have we not noticed them? March of such a big army can not stay unnoticed!"
+msgstr "Co!? To niemożliwe... Dlaczego ich nie zauważyliśmy? Przemarsz takiej armii nie mógł pozostać niezauważony!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:216
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:143
+msgid "The fog. It must be them who have brought it... We will die here, cousin..."
+msgstr "Mgła. To pewnie oni ją zesłali. Kuzynie... Umrzemy tutaj."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:217
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:144
+msgid "No! We can still escape. Let the orcs pack the most important things. Food goes first, then clothes and weapons. Then the rest. Hurry! We do not have much time."
+msgstr "Nie! Pozostaje ucieczka. Niech orkowie spakują wszystko, co najważniejsze. Najpierw jedzenie, ubrania i broń. Potem resztę. Spieszcie się. Nie mamy wiele czasu."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:218
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:145
+msgid "Were do you want to escape!? Wherever we go, these corpses will hunt us down. We stand no chances to... Do... you want to lead us through Tut'anor pass?"
+msgstr "Gdzie chcesz uciekać!? Gdziekolwiek się nie udamy, te trupy nas dopadną. Nie mamy szans, by... Ty... Chcesz przeprowadzić nas przez przełęcz Tut'anor?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:219
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:146
+msgid "We do not have much time left. The Pass has already turned out to be gracious once. I hope it will be this way again."
+msgstr "Nie mamy wiele czasu. Przełęcz już raz okazała się dla nas łaskawa. Miejmy nadzieję, że zrobi to po raz drugi."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:252
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:151
+msgid "Do you think you will hide from death? Wherever you go... wherever you hide... you will never escape from us"
+msgstr "Myślisz, że zdołasz uciec śmierci? Dokądkolwiek nie pójdziesz... Gdziekolwiek się nie schowasz... Nigdy nam nie uciekniesz. Niedługo wszystko ulegnie naszej potędze."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:263
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:156
+msgid "Almost everyone is packed. We are starting to load the wolves soon. Then we can set out."
+msgstr "Wszyscy są już prawie spakowani, kuzynie. Zaraz zaczniemy pakować wszystko na wilki, a potem możemy ruszać."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:264
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:157
+msgid "Very well. Our defences are starting to break."
+msgstr "To dobrze. Nasza obrona już się chwieje. "
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:284
+msgid "I will cut your rotting body into pieces!"
+msgstr "Posiekam twoje gnijące ciało na kawałki!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:292
+msgid "Begone, filthy being!"
+msgstr "Precz, ohydna istoto!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:307
+msgid "Let's crush their bones!"
+msgstr "Połammy im kości!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:319
+msgid "Let me taste your fleeesh..."
+msgstr "Pozwól mi posmakować twojego ciaaała..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:332
+msgid "Good puppy, catch the bone!"
+msgstr "Dobry piesek, łap kość!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:345
+msgid "Aaargh!"
+msgstr "Aaargh!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:346
+msgid "You're deliciouuus..."
+msgstr "Jesteś wybooorny..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:356
+msgid "I'm feeling sick... I will vomit"
+msgstr "Słabo się czuję... Zaraz zwymiotuję."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:357
+msgid "This lousy creature must have infected him! Send this man to the village and take care of him."
+msgstr "Ten wstrętny stwór musiał go zarazić! Weźcie go do wioski i zajmijcie się nim."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:358
+msgid "Marbus, their claws must be covered with poison. Tell your man to avoid fighting them hand-to-hand and let archers shoot them down from distance."
+msgstr "Marbusie, ich szpony muszą być pokryte trucizną! Powiedz wszystkim, żeby unikać walki wręcz i pozwolić łucznikom ich ustrzelić."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:361
+msgid "Their claws... They must be covered with poison!"
+msgstr "Ich szpony... muszą być pokryte trucizną!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:362
+msgid "We must avoid fighting them hand-to-hand and let archers shoot them down from distance, or else we will all get infected!"
+msgstr "Musimy unikać walki wręcz i pozwolić łucznikom ostrzeliwywać ich z dystansu, w innym wypadku wszyscy się zarazimy!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:381
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:404
+msgid "Woof woof!"
+msgstr "Hau! Hau!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:382
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:405
+msgid "Hey! Get out of me! Stop licking my face! Argghh~!"
+msgstr "Hej! Zejdź ze mnie! Przestań lizać moją twarz! Argghh~!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:443
+msgid "Don't let them get any closer! Our wives and children haven't finished packing yet. If these damned undead get in, they will murder them all!"
+msgstr "Nie pozwólcie im podejść ani kroku bliżej! Nasze żony i dzieci tam są. Jeżeli te przeklęte trupy się przedostaną, zamordują je wszystkie!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:446
+msgid "Don't let them get any closer! Our wives and children are there. If these damned undead get in, they will murder them all!"
+msgstr "Don't let them get any closer! Our wives and children haven't finished packing yet. If these damned undead get in, they will murder them all!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:467
+msgid "No! We failed to protect them!"
+msgstr "Nie! Nie udało nam się ich ochronić!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:476
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:208
+msgid "We did it! Everyone is ready to set out."
+msgstr "Udało się! Wszyscy są gotowi do wyruszenia w drogę."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:477
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:209
+msgid "Very well. Abandon the posts. To the Pass, everyone!"
+msgstr "Dobra robota. Zejść z posterunków. Wszyscy w kierunku Przełęczy."
+
+#. [scenario]: id = 03_Banished_Saurians;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:4
+msgid "Banished Saurians"
+msgstr "3. Wygnani jaszczurzy"
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:13
+msgid "In orcish stories you can often hear an old saying: 'Do not be afraid of anything that bleeds'. However Marbus's clan had to face an enemy that had neither blood, nor feeling. Nor life. Thus, the clan's leader had to decide to escape."
+msgstr "W orkowych opowieściach co jakiś czas usłyszeć można stare porzekadło: \"Nie bój się niczego, co krwawi\". Klan Marbusa stanął jednak w obliczu przeciwnika, który nie ma w sobie ni krwi, ni uczuć, ni życia. Przywódca klanu musiał więc podjąć decyzję o ucieczce..."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:16
+msgid "The only hope for survivar was passing the long cursed Pass and reaching the old home of the clan, Gelu'Aben. Even though the elder, women and children dreaded the journey, Marbus guided them with iron fist and relentlessness. Soon, the whole clan walked into the Pass."
+msgstr "Jedyną nadzieją na przetrwanie było powtórne przekroczenie przeklętej od wieków przełęczy i dotarcie do byłego domu Klanu Marbusa, Gelu'Aben. Choć starcy, kobiety i dzieci lękali się wyruszenia w drogę, Marbus poprowadził wszystkich żelaznym ręką i nieugiętą wolą. Wkrótce cały klan zagłębił się w przełęcz."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:19
+msgid "And, as in almost every story, when our protagonists are almost completely wrecked, the fate sends them hope and rest. Their balm turned out to be Tut'anor. So far it hadn't been not very hospitable to them. Yet, nobody felt neither bad energy nor thrills this time. Totally as if someone sucked all the evil from this place and made this pas perfectly average looking like a thousand of others."
+msgstr "I jak w niemal każdej opowieści, tak i w tej, gdy bohaterowie są już niemal u szczytu swojej wytrzymałości, wówczas los zsyła im nadzieję i odpoczynek. I takim balsamem okazała się dla orków Przełęcz Tut'anor. O ile poprzednio niechętnie gościła ich w swoich progach, tym razem nikt nie poczuł złych sił, ani dreszczy na plecach. Jakby ktoś wyssał z tego miejsca całe zło i uczynił je przeciętną przełęczą. Jakich tysiące."
+
+#. [story]: [part]
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:22
+msgid "Undead had not been chasing the orcs, who eventually walked out from the pass. A new adventure was waiting for the clan. Their way to Gelu'Aben was cut by a torrent, that could be crossed only through a bridge. A nasty surprise was awaiting the orcs..."
+msgstr "Nieumarli nie wyruszyli w pościg za orkami, którzy po jakimś czasie wynurzyli się z przełęczy. Teraz Klan Marbusa czekała kolejna przeszkoda. Drogę do Gelu'Aben blokowała rwąca rzeka, nad którą można było przejść jedynie mostem... Orków czekała jednak przykra niespodzianka..."
+
+#. [side]: id = Ashuran; type = Saurian Ambusher;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:46
+msgid "Ashuran-san"
+msgstr "Aszuran'san"
+
+#. [side]: id = Spectre1; type = Shadow;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:59
+msgid "Undead"
+msgstr "Nieumarli"
+
+#. [objective]: condition = win;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:112
+msgid "Defeat Spectral Knight"
+msgstr "Pokonaj Widmowego Rycerza"
+
+#. [objective]: condition = lose;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:125
+msgid "Death of Ashuran-San"
+msgstr "Śmierć Aszuran-San"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:141
+msgid "We've managed to cross this darn pass. Now the path should be way more straght-forward. We only need to pass the brid..."
+msgstr "Udało nam się przejść przez tę cholerną przełęcz. Teraz droga będzie już o wiele prostsza. Wystarczy przejść przez mos.. Co tu się stało!?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:142
+msgid "Bugger! The house nearby are deserted. Somebody must have plundered this hamlet long time ago."
+msgstr "Niech to szlag! Domy w okolicy są opuszczone. Ktoś dawno splądrował tę osadę."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:143
+msgid "Wait, orcsss! This territory belongs to us - saurians!"
+msgstr "Sssstójcie, orkowie! Te tereny należą teraz do nas, jaszczurów."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:144
+msgid "Cursed reptiles! We should have destroyed them long time ago. Gewold did right by rejecting your alliance proposal. This settlement has guarded the bridge for decades. The next one like that is placed a couple of days of march to the north. You have cut our way to Gelu'Aben!"
+msgstr "Przeklęte płazy! Trzeba było was wytępić dawno temu! Gewold dobrze zrobił, odmawiając wam sojuszu z naszymi klanami. Ta osada przez dziesięciolecia czuwała nad mostem. Następny taki jest kilka dni drogi na północ. Odcięliście nam drogę do Gelu'Aben!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:145
+msgid "Calm down, cousin. I can not see any evidence of pillage. The food is still in the granaries. Not to mention the treasures. I doubt the reptiles have raided the homes of our brothers."
+msgstr "Uspokój się, kuzynie. Nie widzę tutaj śladów grabieży. Jedzenie dalej jest w spichlerzach. Nie wspominając już o kosztownościach. Wątpię, by jaszczury napadły na domy naszych braci."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:146
+msgid "That raider is probably right, orcish lord. Almost a year ago, me and my brothers were banished by human mages from the swamps in the west. We stayed here. We had good relationshipd with orcs from the settlement. Soon, trade between us started to flourish. We gave them medications, they gave us metals... Eveything changed a month ago."
+msgstr "Jeździec wilka ma rację, wodzu orków... Niecały rok temu ja i moi bracia zostaliśmy przepędzeni przez ludzkich magów z bagien na zachodzie. Zatrzymaliśmy się tu, a z orkami z osady mięliśmy całkiem dobre stosunki. Niedługo potem zakwitł między nami handel. My dawaliśmy im leki, oni nam metal... Wszystko zmieniło się przed miesiącem."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:147
+msgid "It was a cold an foggy night, like during all the winters. Our shamanesses had been foreseeing coming of evil forces for a long time. Yet, what we saw was unspeakable... Ghosts got out of forests almost noiselessly. They had managed to murder a dozen of our warriors before the orcs realised they were being attacked. Chaos blew up. Together with my best warrioirs I rushed up the river to help your brothers, but when we reached the bridge..."
+msgstr "Noc była zimna i mglista. Jak wszystkie tej zimy. Nasze szamanki od dawna wróżyły nadejście złych mocy, jednak to, co zobaczyliśmy, było ponad wszelką miarę... Duchy niemal bezgłośnie wychyliły się z lasów. Zdążyły wyrżnąć kilkunastu wojowników, zanim orkowie spostrzegli się, że są atakowani. Rozpętał się chaos. Razem z moimi najlepszymi wojownikami ruszyliśmy w górę rzeki, by pomóc waszym braciom, jednak gdy doszliśmy do mostu..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:148
+msgid "Continue, saurian leader"
+msgstr "Mów dalej, jaszczurzy przywódco..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:149
+msgid "One of the ghosts possessed the body of the orcish leader. He grabbed olive oil and torches. I saw him pour and emblaze the oil on himself with maniacal laughter... The bridge burned shortly after him... We couldn't see much through the smoke. The of the dying could be heard until morning. A few of my veterans tried to swim accross the river... None has returned."
+msgstr "Jeden z duchów opętał ciało dowódcy orków. Ten chwycił oliwę i pochodnie. Na własne oczy widziałem, jak z szaleńczym uśmiechem staje na środku mostu, wylewa na siebie łatwopalną ciecz i podpala... Zaraz po nim spłonął też most... Przez dym niewiele widzieliśmy, jednak krzyki umierających słychać było do samego rana. Kilku moich weteranów próbowało przepłynąć rzekę... Żaden z nich nie powrócił."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:150
+msgid "Cousin, I've got a feeling the saurian is saying truth. A few of my scouts found tracks of their medications. We can not let a pointless battle happen."
+msgstr "Kuzynie, zdaje się, że jaszczur mówi prawdę. Kilku moich zwiadowców znalazło w domach ślady ich leków. Nie możemy sobie pozwolić na bezsensowną bitwę..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:151
+msgid "Yes, you are right, Kochan. Saurian! Me and my warriors want to cross the river!"
+msgstr "Tak... Masz rację, Kochan. Jaszczurze! Ja i moi wojownicy musimy przejść na drugą stronę rzeki!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:152
+msgid "I am affraid it will be utterly hard, orc... Our oracle sensed evil coming from the south. Maybe we will manage to counter the undead together, though."
+msgstr "Obawiam się, że będzie to trudne, orku... Nasza wróżbitka wyczuła zbliżające się z południa zło. Może jednak uda się nam odeprzeć nieumarłych wspólnymi siłami."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:153
+msgid "So be it. Those soulless creatures will pay a big price for killing our brothers. Let the women and children take all the food from the granaries while we kill the undead off."
+msgstr "Niech tak będzie. Te bezduszne stwory zapłacą nam za naszych braci. Niech kobiety i dzieci zabiorą ze spichlerzy całą żywność, gdy my rozprawimy się z nieumarłymi."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:159
+msgid "Nadchodzi mrok... Porzuc nadzieje... "
+msgstr ""
+
+#. {NAMED_LOYAL_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:160
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:161
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:167
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:168
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:176
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:177
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:178
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:179
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:181
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:182
+msgid "Mroczne Widmo"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:166
+msgid "Nie masz gdzie uciec... Pogodz sie ze swoim losem..."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:169
+msgid "Mam zle przeczucie..."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:174
+msgid "Twoj trud jest daremny..."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:175
+msgid "Potepione dusze! Uwolnijcie swoj gniew!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:184
+msgid "Smierc tym, ktorzy osmielaja sie zaklocic nasz odpoczynek..."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:185
+msgid "Musimy szybko zajac sie tym widmem, zanim przywola jeszcze wiecej sobie podobnych!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:195
+msgid "Powstancie, ci, ktorych zycie pochlonela mroczne glebina rzeki!"
+msgstr ""
+
+#. {NAMED_LOYAL_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:196
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:197
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:198
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:199
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:200
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:201
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:202
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:204
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:205
+msgid "Topielec"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:207
+msgid "On ozywil zwloki z dna rzeki!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:218
+msgid "Mam nadzieje, ze ten most sie nie zapadnie."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:219
+msgid "Wlasciwie to dziwi mnie, ze nie rozlecial sie do tej pory."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:224
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:111
+msgid "This river is treacherous... I do not remember such a large part covered with ice during any winter."
+msgstr "Rzeka jest zdradliwa... Nie pamiętam żadnej zimy, podczas której taka jej część byłaby zlodowacona."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:225
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:112
+msgid "It is true. This is the first time the frost is so biting. We, saurians can get food even in such conditions. This year will be utterly hard for your race, though."
+msgstr "To prawda. Pierwszy raz się zdarza, by mróz był aż tak silny. My, jaszczury, potrafimy zdobyć żywność nawet w takich warunkach, jednak dla waszej rasy będzie to naprawdę trudny rok."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:226
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:113
+msgid "Dwarves always have vaults full of food and booze. Humans will get supplies from Wesnoth. Elves have so much food in their forests that they don't even need to stockpile... Pillage is the only opportunity for us to survive."
+msgstr "Krasnoludy wiecznie mają krypty pełne żywności i gorzałki. Ludzie dostaną zaopatrzenie z Wesnoth. Elfy mają w lasach tyle żywności, że nawet nie czynią zapasów... Grabież to zaprawdę jedyna droga przetrwania dla orków."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:230
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:117
+msgid "Finally, we did it! The battle was really hard. Everyone has to cross the river now. Set campfires and put on dry clothes."
+msgstr "Wreszcie się udało. Bitwa była naprawdę ciężka. Niech wszyscy przejdą na zachodnią stronę rzeki. Rozpalicie ogniska i załóżcie suche ubrania. "
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:231
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:118
+msgid "Yes, let us drink some booze, too. It will serve us well. Give me the meet for the dogs!"
+msgstr "Tak. Napijmy się też wódki. Dobrze nam zrobi. Dać mi zaraz mięso dla psów!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:232
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:119
+msgid "So it came off. I doubted we would get away scot-free. Let us rest and talk about your way, orcish lord..."
+msgstr "Więc jednak się udało. Wątpiłem, byśmy wyszli z tej bitwy cało. Odpocznijmy zatem i pomówmy o twojej drodze, wodzu orków..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:233
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:120
+msgid "What do you mean, saurian?"
+msgstr "Hmm... Co masz na myśli, jaszczurze?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:234
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:121
+msgid "You are heading to Gelu'Aben, but the road to the fortress may be deceptive... Who knows whether your brothers have not been attacked by the undead already."
+msgstr "Podążasz do Gelu'Aben, jednak droga do twierdzy może być zwodnicza... Kto wie, czy nieumarli nie zaatakowali już waszych braci?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:235
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:122
+msgid "Yes... We will need to cross the lands of Elgarus to reach Gelu'Aben. This lousy orc is called mad for ages. I bet that the situation in his fortress, Sunek Dal is a lot worse than ours. He may try to loot us."
+msgstr "Tak... By dojść do Gelu'Aben będziemy musieli przejść przez tereny Elgerusa. Ten zawszony ork od lat nazywany jest szalonym. Założę się, że sytuacja w jego twierdzy, Sunek Dal, jest jeszcze gorsza, niż nasza. Może próbować nas ograbić..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:236
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:123
+msgid "Apart from Elgerus, trolls are the second rulers of that land. They have been under the yoke of Elgerus and his clan. If a battle is awaiting us, they will certainly help."
+msgstr "Prócz Elgerusa na tych ziemiach władają też trollę. Od lat były pod batem Elgerusa i jego klanu. Jeśli czeka nas bitwa, na pewno nam pomogą."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:237
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:124
+msgid "There is one other way, though... through bogs... a lot faster"
+msgstr "Jest jednak inna droga... Przez bagna... Znacznie szybsza..."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:238
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:125
+msgid "Where is the catch, reptile?"
+msgstr "A gdzie jest haczyk, jaszczurze?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:239
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:126
+msgid "I am speaking of bogs we were banished from by the mages. You can go through them. Obviously, you will have to fight a battle there, but my saurians will help. You can have best of my warriors and shamans at your disposal. You will also find dozens of them hidden in the bogs... not to mention the amounts of food you could take back from the mages."
+msgstr "Mowa tu o bagnach, z których wyrzucili nas ludzcy magowie. Możecie przez nie przejść. Niechybnie czeka was wówczas bitwa, ale pomogą wam w niej moje jaszczury. Mogę dać wam do dyspozycji najlepszych żołnierzy i wróżbitów, a całkiem sporo znajdziecie ich też ukrytych na bagnach... Nie wspominam już o zasobach żywności, które odbilibyście z rąk magów."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:240
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:127
+msgid "Think about that thoroughly, cousin... We are going to fight anyway. What way will we choose..."
+msgstr "Zastanów się dobrze, kuzynie... I tak czeka nas walka. Którą drogą pójdziemy..."
+
+#. [message]: speaker = narrator;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:245
+msgid "I want to..."
+msgstr "Więc ja..."
+
+#. [option]:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:247
+msgid "I want to keep the saurians nearby. We are heading to the bogs!"
+msgstr "Chcę mieć jaszczurki przy swoim boku. Maszerujemy na bagna!"
+
+#. [unit]: id = Emborgi; type = Saurian Soothsayer;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:251
+msgid "Emborgi-tarash"
+msgstr "Emborgi'tarasz"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:262
+msgid "What? Where has that saurian come from?"
+msgstr "Co? Skąd się wzięła ta stara jaszczurka?"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:263
+msgid "This is Emborgi-tarash. Our spiritual leader and the best oracle in our clan."
+msgstr "To jest Emborgi-tarash. Nasza duchowa przewodniczka i najlepsza wróżbitka w naszym klanie."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:264
+msgid "I have heard that, wolf rider. I foresaw you would come here. I also forecast that you will these human jesters on the bogs. I will lead you there myself and I will assist you through your whole journey. Together with my folk."
+msgstr "Słyszałam to, jeźdźcze wilka... Przewidziałam to, że się tu pojawiasz. Przepowiedziałam też, że pokonasz ludzkich kuglarzy na bagnach. Sama Cię tam poprowadzę i będę Ci towarzyszyć przez całą twoją podróż. Wraz z moim ludem."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:265
+msgid "These are grat words, Emborgi-tarash. It will be a pleasure to have you between my people."
+msgstr "Hmm... To wielkie słowa, Emborgi-tarash. Zaszczytem będzie dla mnie mieć Cię wśród swojego klanu."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:266
+msgid "Your leaving is indeed a great loss for us, oracle. Yet, I can not forbid you to do this. May the wisdom of your words speak to your new brothers, as it used to spoke to us, elder."
+msgstr "To wielka strata dla nas, że nas opuszczasz, wróżbitko. Nie mam jednak prawa Ci tego zabronić. Niech mądrość twego słowa przemawia do twych nowych braci, jak przemawiała do nas, starsza."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:267
+msgid "So be it. Farewell, my son. I augur you and our brothers will soon return to our bogs, reclaimed by us."
+msgstr "Niech tak będzie. Żegnaj, mój synu. Przepowiadam Ci, że niedługo wrócisz z naszymi braćmi na bagna, które odbijemy."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:268
+msgid "Let us drink a toast to our brothers' and sisers' health! Rest and feast! Bury the dead, commemorate them. Tommorow we are setting out to the bogs."
+msgstr "Wypijmy zdrowie naszych nowych braci i sióstr. Odpocznijmy i bawmy się. Pogrzebmy zmarłych, uczcijmy ich pamięć. A nazajutrz ruszymy drogą na bagna."
+
+#. [option]:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:279
+msgid "Helping the trolls is the best way. we are going to Sunek Dal"
+msgstr "Wsparcie trolli będzie najlepszym wyborem. Ruszamy do Sunek Dal!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:281
+msgid "SSSSSS,,,! So be it. We understand you would rather slay your own brothers than help us. Go then."
+msgstr "Sss...! Niech tak będzie. Rozumiemy to, że wolicie zarżnąć waszych własnych braci, niż nam pomóc. Idźcie zatem."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:282
+msgid "Retract that, lousy reptile!"
+msgstr "Odszczekaj to, nędzny płazie!"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:283
+msgid "Calm down, Marbus... We may have to return here soon. Let us rest for a while, and then set out..."
+msgstr "Marbus! Spokojnie... Nie chcemy walki. Może się także okazać, że będziemy musieli tu wrócić."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:284
+msgid "Yes, you are right. We shall drink some booze and then set out. It is high time we helped trolls."
+msgstr "Tak... Masz rację. Wypijmy jeszcze trochę wódki, a potem ruszajmy. Pora wesprzeć trolle."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:319
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:242
+msgid "Um... I am dying"
+msgstr "Um... Umieram"
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:326
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:249
+msgid "No! Without help of the saurians we will not beat the undead."
+msgstr "Nie! Bez pomocy jaszczurów nie pokonamy nieumarłych."
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:330
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scentrzy.cfg:253
+msgid "Nooo... Now we will not save our clan!"
+msgstr "Nieee... Teraz nie uda się nam już ocalić naszego klanu!"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:74
+msgid "Orcish Camp"
+msgstr "Obóz orków."
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:75
+msgid "Fortress of the Crystal Order"
+msgstr "Forteca Kryształowego Zakonu"
+
+#. {SET_LABEL ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:76
+msgid "Order's Signpost"
+msgstr "Drogowskaz Zakonu"
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:86
+msgid "Swashbuckling Ashenvol"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:87
+msgid "Eshanvel, Son of Ashenvol"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:96
+msgid "Kira-Suki Fastfeet"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:97
+msgid "Elgradesh"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:98
+msgid "Ondriagashi"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:99
+msgid "Nenuki the Blind"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:108
+msgid "Eriskuri Brother"
+msgstr ""
+
+#. {NAMED_GENERIC_UNIT ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenczteryA.cfg:109
+msgid "Obenshiru Brother"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:133
+msgid "You are right. I will command the orcs to gueard the walls. I do not want my orcs to encounter these creatures on open ground. We stand no chances on snow."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scenjed.cfg:166
+msgid "The orcs are stringer than I supposed. Luckily, I am preapred for such drift of events"
+msgstr ""
+
+#. [campaign]: id = MARBUSS_ESCAPE;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:8
+msgid "Marbus's Escape"
+msgstr "Ucieczka Marbusa"
+
+#. [campaign]: id = MARBUSS_ESCAPE;
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:13
+msgid "Many years have passed since the time orcs intimidated elves, humans and dwarves. Many years have passed since they ventured to walk in the Wesnoth land. Many years have passed since the time they were filthy rich. Amongst the survived orcish clans, there was a small Marbus's clan. Even too small to have a name. Will the orcs endure the destruction that is covering bigger and bigger part of the north?"
+msgstr ""
+"Wiele lat minęło, odkąd orkowie budzili postrach w sercach elfów, ludzi i krasnoludów. Wiele, odkąd odważyli się postawić stopę na ziemiach Wesnoth. Wiele, odkąd opływali w bogactwa. Wśród przetrwałych klanów orków, był również pewien klan Marbusa, klan zbyt mały, by mieć nazwę, historię bądź przyszłość.  Czy uda mu się przeprowadzić orków przez dziką północ, opanowaną przez krwiożercze, mroczne moce?\n"
+"(Poziom trudności: Średniozaawansowany, 11 scenariuszy, 3 grywalne)"
+
+#. {MENU_IMG_TXT2 ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:15
+msgid "(easy)"
+msgstr "(łatwy)"
+
+#. {MENU_IMG_TXT2 ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:15
+msgid "Civilian"
+msgstr "Obywatel"
+
+#. {MENU_IMG_TXT2 ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:16
+msgid "(normal)"
+msgstr "(normalny)"
+
+#. {MENU_IMG_TXT2 ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:16
+msgid "Soldier"
+msgstr "Żołnierz"
+
+#. {MENU_IMG_TXT2 ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:17
+msgid "Veteran"
+msgstr "Weteran"
+
+#. {MENU_IMG_TXT2 ...}:
+#: add-ons/C:\Users\pjotr\Documents\My
+#: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/_main.cfg:17
+msgid "(hard)"
+msgstr "(trudny)"

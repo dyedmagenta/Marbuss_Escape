@@ -1,0 +1,68 @@
+G³ówni bohateriowie:
+
+Marbus: 9, 3
+Kochan: 10, 3
+Emborgi-tarash: 8, 3
+
+Uwagi: mo¿emy rekrutowaæ te¿ jaszczurki!
+
+To s¹ wszyscy dla strony pierwszej. Teraz strona druga, która ma sojusz ze stron¹ trzeci¹:
+
+Wielmo¿ny Umberg (mag ognia na trzecim poziomie): 32, 12
+
+Lista rekrutacji: W³ócznik, £ucznik, Ciê¿ki Piechór, Mag
+
+Strona trzecia:
+
+Skryba Tambaros (bia³y mag na drugim poziomie): 11, 30
+
+Lista rekrutacji: Mag
+
+
+Teraz dodatkowe jednostki dla strony drugiej:
+
+W³ócznicy: 11, 27         16, 27       36, 29        40, 3          20, 3         11, 9         5, 20             22, 16
+
+
+Dodatkowe jednostki dla strony trzeciej:
+
+Magowie: 28, 10          32, 9         36, 11
+
+
+
+Z³oto pocz¹tkowe:
+Orki: 200
+Strona Druga: 120
+Strona Trzecia: 80
+
+Przychód:
+Orki: +3
+Strona Druga: +2
+Strona Trzecia: +1
+
+
+
+Teraz tak: na mapie bêdzie kilka bagiennych wioseczek. Gdy na nie wejdziemy, wówczas wyskocz¹ z nich jaszczurki, ¿eby do nas do³¹czyæ i nam pomóc. Oczywiœcie to tyczy siê tylko tego, gdy to nasza strona przejmie wioseczkê.
+
+
+Pierwsza wioseczka: 43, 30
+Jaszczurka Wojownik lvl.2: 42, 30 (imiê: Awanturniczy Ashenvol)
+Jaszczurka Wojownik lvl.1: 43, 31 (imiê: Syn Ashenvola, Eshanvel)
+
+Druga wioseczka: 25, 26
+Jaszczurka Wojownik lvl.2: 25, 27 (imiê: Kira-Suki Szybkostopy)
+Jaszczurka Wojownik lvl.1: 26, 26 (imiê: Elgradesh)
+Jaszczurka Szaman lvl.1: 24, 26 (imiê: Ondriagashi)
+Jaszczurka Szaman lvl.2: 24, 25 (imiê: Œlepa Nenuki)
+
+Pierwsza wioseczka: 43, 30
+Jaszczurka Szaman lvl.1: 31, 3 (imiê: Brat Obiwanshu)
+Jaszczurka Wojownik lvl.1: 30, 3 (imiê: Brat Obenshiru)
+
+
+I na koñcu napisy:
+
+Obóz Orków - 9, 3
+Twierdza Zakonu Kryszta³u - 32, 12
+Posterunek Zakonu - 11, 30
+
