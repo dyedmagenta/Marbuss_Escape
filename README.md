@@ -1,4 +1,4 @@
-# Marbuss Escape
+﻿# Marbuss Escape
 Kampania Marbuss Escape wersja 0.3.4
 
 Link do trello na forum:
@@ -9,5 +9,7 @@ v0.3.4
 
 v0.3.3:
 -Dodałem 5 scenariusz tak na szybko
-~kalfat
+
+Współtworzą:
+-Kalfat
 
