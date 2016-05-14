@@ -11,5 +11,6 @@ v0.3.3:
 -Dodałem 5 scenariusz tak na szybko
 
 Współtworzą:
+
 -Kalfat
 
