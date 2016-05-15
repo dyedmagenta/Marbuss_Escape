@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Language: pl_PL\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #. [scenario]: id = 01_Bag-not_Under_Attack;
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -22,7 +22,7 @@ msgstr "1. Atak na Bag'not"
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/01_Bag-not_Under_Attack.cfg:14
 msgid "Our story begins in year 883 YW. It takes place in far north, where all the dates stopped to mean anything to anybody. Violence, blood and damnation. Wrestling competitions and drinking sprees between raids. Women get their legs over bonfires and let their partners go bird's-nesting. Yes, I am talking about orcs."
-msgstr "Nasza historia rozpoczyna się w 883 YW."
+msgstr "Nasza historia rozpoczyna się w 883 YW, a ma miejsce na dalekiej północy, gdzie wszystkie te daty przestały mieć znaczenie. Siła, krew i potępienie. Zawody zapaśnicze i hulanki alkoholowe, między jedną grabieżą, a drugą. Gdzie kobiety rozkładają nogi przy ognisku, a ich partnerzy kryją je jak suki. Tak, mowa tu o orkach."
 
 #. [story]: [part]
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -363,7 +363,7 @@ msgstr "Gelu'Aben było miastem zajmującym się głównie metalem. Huty, zbrojo
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:19
 msgid "A dozen years after the raid, when orcs started coming to the south again, Gelu'Aben's chieftain, Sovereign Gewold commanded to settle Bag'not again. He sent there the least accepted creatures in the city, goblins. Together with them, he also sent to the south a small orcish division. It consisted mainly of individuals who had any goblin in his family."
-msgstr "Kilkanaście lat po najeździe, gdy orkowie znów zaczęli zapuszczać się na południe, wódz Gelu'Aben, Suweren Gewold, nakazał zasiedlić dawną fortecę Bag'not. Wysłał tam najmniej tolerowane w mieście istoty, gobliny. Wraz z nimi wysłał na południe także mały oddział innych orków, głównie tych, którzy mięli w rodzinie jakiegoś goblina. Władzę nad nimi miał sprawować Marbus.\\"
+msgstr "Kilkanaście lat po najeździe, gdy orkowie znów zaczęli zapuszczać się na południe, wódz Gelu'Aben, Suweren Gewold, nakazał zasiedlić dawną fortecę Bag'not. Wysłał tam najmniej tolerowane w mieście istoty, gobliny. Wraz z nimi wysłał na południe także mały oddział innych orków, głównie tych, którzy mięli w rodzinie jakiegoś goblina. Władzę nad nimi miał sprawować Marbus."
 
 #. [story]: [part]
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -443,7 +443,7 @@ msgstr "Ashen'tir, Kochan. Nie możemy pozwolić, by ogarnął nas strach i psyc
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:139
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:128
 msgid "Suddenly, there blew a wind piercing a body like an arrow. In Bag'not, there was heard a voice, as cold and biting as icicles dangling on roofs."
-msgstr "Wtem zawiał wiatr przeszywający ciało jak strzała, a przez Bag'not potoczył się głos równie zimny i ostry, jak lodowate sople zwisające z dachów. budynków."
+msgstr "Wtem zawiał wiatr przeszywający ciało jak strzała, a przez Bag'not potoczył się głos równie zimny i ostry, jak lodowate sople zwisające z dachów."
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -457,7 +457,7 @@ msgstr "Drżyjcie. Drżyjcie i rozpaczajcie. Przez wasze ziemię pogna zaprzęg 
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:184
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:130
 msgid "So they... they have destroyed Celadon City. Undead."
-msgstr "A więc Oni... Oni zniszczyli Seledynowe Miasto. Nieumarli."
+msgstr "A więc to Oni... Oni zniszczyli Seledynowe Miasto. Nieumarli."
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -505,7 +505,7 @@ msgstr "Kuzynie!"
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:214
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:141
 msgid "We stand no chances against them, Marbus! There are thousands of them."
-msgstr "Nie mamy z nimi szans, Marbus. Ich armia liczy tysiące wojowników."
+msgstr "Nie mamy z nimi szans, Marbus. Są ich tysiące."
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -526,7 +526,7 @@ msgstr "Mgła. To pewnie oni ją zesłali. Kuzynie... Umrzemy tutaj."
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:217
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/_scendwa.cfg:144
 msgid "No! We can still escape. Let the orcs pack the most important things. Food goes first, then clothes and weapons. Then the rest. Hurry! We do not have much time."
-msgstr "Nie! Pozostaje ucieczka. Niech orkowie spakują wszystko, co najważniejsze. Najpierw jedzenie, ubrania i broń. Potem resztę. Spieszcie się. Nie mamy wiele czasu."
+msgstr "Nie! Nadal możemy uciekać. Niech orkowie spakują wszystko, co najważniejsze. Najpierw jedzenie, ubrania i broń. Potem resztę. Spieszcie się. Nie mamy wiele czasu."
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -653,13 +653,13 @@ msgstr "Hej! Zejdź ze mnie! Przestań lizać moją twarz! Argghh~!"
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:443
 msgid "Don't let them get any closer! Our wives and children haven't finished packing yet. If these damned undead get in, they will murder them all!"
-msgstr "Nie pozwólcie im podejść ani kroku bliżej! Nasze żony i dzieci tam są. Jeżeli te przeklęte trupy się przedostaną, zamordują je wszystkie!"
+msgstr "Nie pozwólcie im podejść ani kroku bliżej! Nasze żony i dzieci nie skończyły się jeszcze pakować. Jeżeli te przeklęte trupy się przedostaną, zamordują je wszystkie!"
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:446
 msgid "Don't let them get any closer! Our wives and children are there. If these damned undead get in, they will murder them all!"
-msgstr "Don't let them get any closer! Our wives and children haven't finished packing yet. If these damned undead get in, they will murder them all!"
+msgstr "Nie pozwólcie im podejść ani kroku bliżej! Nasze żony i dzieci tam są. Jeżeli te przeklęte trupy się przedostaną, zamordują je wszystkie!"
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -685,7 +685,7 @@ msgstr "Dobra robota. Zejść z posterunków. Wszyscy w kierunku Przełęczy."
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:4
 msgid "Banished Saurians"
-msgstr "3. Wygnani jaszczurzy"
+msgstr "3. Wygnane jaszczury"
 
 #. [story]: [part]
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -715,7 +715,7 @@ msgstr "Nieumarli nie wyruszyli w pościg za orkami, którzy po jakimś czasie w
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:46
 msgid "Ashuran-san"
-msgstr "Aszuran'san"
+msgstr "Aszuran-san"
 
 #. [side]: id = Spectre1; type = Shadow;
 #: add-ons/C:\Users\pjotr\Documents\My
@@ -733,7 +733,7 @@ msgstr "Pokonaj Widmowego Rycerza"
 #: add-ons/C:\Users\pjotr\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:125
 msgid "Death of Ashuran-San"
-msgstr "Śmierć Aszuran-San"
+msgstr "Śmierć Aszuran-san"
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\pjotr\Documents\My
