@@ -1363,7 +1363,7 @@ msgstr "Mam złe przeczucie..."
 #: add-ons/C:\Users\Jarom\Documents\My
 #: Games\Wesnoth1.12\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:167
 msgid "Your effort is futile..."
-msgstr ""
+msgstr "Twój trud jest daremny..."
 
 #. {MESSAGE ...}:
 #: add-ons/C:\Users\Jarom\Documents\My
