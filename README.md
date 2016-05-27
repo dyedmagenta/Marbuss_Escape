@@ -1,5 +1,5 @@
 ﻿# Marbuss Escape
-Kampania Marbuss Escape wersja 0.4.1
+Kampania Marbuss Escape wersja 0.4.3
 
 
 Więcej na forum:
@@ -13,3 +13,5 @@ Współtworzą:
 -Kalfat
 
 -Jarom
+
+-Piko
