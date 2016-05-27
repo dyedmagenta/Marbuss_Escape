@@ -1,16 +1,15 @@
 ﻿# Marbuss Escape
-Kampania Marbuss Escape wersja 0.3.4
+Kampania Marbuss Escape wersja 0.4.1
 
-Link do trello na forum:
+
+Więcej na forum:
 http://www.wesnoth.com.pl/forum/viewthread.php?thread_id=1179
 
-v0.3.4
--Dodano scenariusz 4a i 4b bez polskiego tłumaczenia
 
-v0.3.3:
--Dodałem 5 scenariusz tak na szybko
 
 Współtworzą:
 
+
 -Kalfat
+
 -Jarom
