@@ -1,5 +1,5 @@
 ﻿# Marbuss Escape
-Kampania Marbuss Escape wersja 0.4.6
+Kampania Marbuss Escape wersja 0.4.8
 
 
 Więcej na forum:
@@ -9,6 +9,7 @@ http://www.wesnoth.com.pl/forum/viewthread.php?thread_id=1179
 
 Współtworzą:
 
+---Deidara
 
 -Kalfat
 
