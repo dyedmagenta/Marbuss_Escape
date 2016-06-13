@@ -1,0 +1,176 @@
+Dialog podczas zabicia Krulla Ska³y:
+
+Krull Ska³a:
+Trolle nie poradz¹... Sobie... Samiuœkie...
+
+Marbus:
+Bez tego trolla nie damy rady poprowadziæ ich stada do ataku, to koniec...
+
+
+
+POCZ¥TEK:
+
+Marbus:
+A wiêc dotarliœmy do Sunek Dalu... Widaæ, ¿e zima nie oszczêdzi³a i tego miejsca. Ale coœ jest nie tak. Nawet przy takiej pogodzie powinniœmy zostaæ zauwa¿eni przez patrole.
+
+Kochan:
+Kuzynie, coœ jest zdecydowanie na rzeczy. Wargi s¹ niespokojne. Zachowuj¹ siê, jak na bitwie. Miejmy nadziejê, ¿e nie przybyliœmy za póŸno.
+
+Marbus:
+Elgerus nigdy nie nale¿a³ do opanowanych wodzów. Jeœli rozgorza³a tutaj bitwa, walczy³by do ostatniego orka, nikomu nie pozwalaj¹c uciec z pola walki. Na razie sprawdŸmy, co siê sta³o. Byle ostro¿nie. Nie chcê ryzykowaæ kolejnego spotkania z tymi upiorami.
+
+
+
+DIALOG PO SPOTKANIU PIERWSZEJ JEDNOSTKI:
+
+Kochan:
+To orkowie Elgerusa... Ale co oni robi¹!?
+
+Elgerus:
+Walczcie, nêdzne kundle! Walczcie, jeœli chcecie siê po¿ywiæ siê jedzeniem, które ten nêdzny troll przed nami ukrywa!
+
+Krull Ska³a:
+Ork szalony. G³ód z³amaæ jego umys³. Krull nie mieæ ani trochê jad³a w spi¿arnie!
+
+Elgerus:
+S³yszeliœcie go, ch³opcy!? Temu staremu capowi wydaje siê, ¿e mo¿e nas od tak ok³amywaæ! Sami wrzucimy go do gara, jeœli bêdzie trzeba! Tak samo, jak Twoich wojowników, których z³apaliœmy!
+
+Krull Ska³a:
+Wypuœæ trolle. One wam nic nie zrobi³y. Z³amany umys³... Wymaga z³amania kilku koœci... Odbijemy naszych braci...
+
+Marbus:
+Co tu siê dzieje na Hordê!?
+
+Krull Ska³a:
+Inny ork?
+
+Elgerus:
+Kim ty do diab³a jesteœ!?
+
+Martwa Ryba:
+Panie, to Marbus. Wódz orków z twierdzy Bag'not. Ponoæ jest mi³oœnikiem goblinów i s³ucha siê kuzyna, który sypia z kundlem.
+
+Elgerus:
+Tak. Tak... S³ysza³em o nim. Œmieæ niewart pos³uchu... Wyr¿n¹æ go! Na pewno przyniós³ ze sob¹ wystarczaj¹co jedzenia, by nape³niæ nasze brzuchy!
+
+Martwa Ryba:
+Ale... Panie... Jest ich niemal¿e tylu, co nas...
+
+Elgerus:
+Zamknij siê, Kunus! Ja tutaj dowodzê! Zatem, Marbusie, mam nadziejê, ¿e naostrzy³eœ swój miecz. Pozwolê Ci nim poder¿n¹æ sobie gard³o, gdy moi orkowie Ciê ju¿ dopadn¹.
+
+Kochan:
+To chore... Nie da³ nam nawet dojœæ do s³owa. I ta rzeŸ... Naprawdê chcieli wyr¿n¹æ trolle...
+
+Marbus:
+A wiêc tak... Najpierw umarli, potem zawierucha, a teraz przyjdzie nam walczyæ przeciw naszym braciom. Ale czy daj¹ nam wyjœcie? 
+
+Krull Ska³a:
+Inny ork... M¹dry ork? Trolle pomog¹ pokonaæ orka ze z³amanym umys³em.
+
+Marbus:
+Tak... To uczciwa oferta. Pozb¹dŸmy siê ich, a potem zastanowimy siê, co czyniæ dalej.
+
+Kochan:
+Zdaje siê, ¿e Elgerus schwyta³ trolle do klatek. Mo¿e uda nam siê je uwolniæ.
+
+Krull Ska³a:
+Wymarsz, dzieci. Pora biæ. Pora bardzo mocno biæ.
+
+
+PO ŒMIERCI MARTWEJ RYBY:
+
+Martwa Ryba:
+Ahh... Jak mog³eœ... Ty... Ty... Bratobójco!
+
+Marbus:
+Nie my chcieliœmy rozpocz¹æ tê bitwê... ¯egnaj, bracie...
+
+PO ŒMIERCI ELGERUSA:
+
+Elgerus:
+Grr... Dobry z Ciebie wojownik... Marbus... Ale i tak nie masz szans... Zawierucha, g³ód... Wykoñczy Ciê to, tak jak wykoñczy³o mnie...
+
+Kochan:
+Zdaje siê, ¿e chwilê przed œmierci¹ odzyska³ odrobinê rozs¹dku... Ciekawe, co ma do powiedzenia.
+
+Elgerus:
+Nie przetrwasz... Ale dziêkujê Ci... Zgin¹³em jako wojownik... A podczas walki uda³o mi siê... Zapomnieæ... O g³odzie... Po prostu zapomnieæ...
+
+Marbus:
+¯egnaj... Nie zostaniesz zapomniany.
+
+
+PO ZABICIU OBU PRZYWÓDCÓW WROGA:
+
+Marbus:
+I to by by³o na tyle...
+
+Kochan:
+Wyr¿nêliœmy wszystkich wojowników. Zostali tylko orkowie niezdolni do walki. Co z nimi zrobiæ, kuzynie?
+
+Marbus:
+Nie potrzeba nam wiêcej mord do wykarmienia, jednak nie powyrzynam tych, którzy nie podnieœli na nas rêki. Wcielcie ich do kobiet i dzieci, którzy id¹ razem z nami.
+
+Krull Ska³a:
+Wódz ork- m¹dry ork. Przewodziæ lepiej, ni¿ poprzedni. Trolle chêtnie przy³¹czyæ siê do wodza orka.
+
+Kochan:
+Wsparcie ze strony trolli by³oby nieocenione w takim terenie.
+
+Marbus:
+Chêtnie przy³¹czê do swojej armii Ciebie i Twoje szczeniêta, trollu.
+
+Krull Ska³a:
+W takim razie ja i moje dzieci bêdziemy biæ siê dla Ciebie.
+
+
+DIALOGI SCENARIUSZA 4A:
+
+Œmieræ Emborgi:
+
+Emborgi-tarash:
+Umieram... Mój wzrok zmêtnia³, moja krew stanê³a w ¿y³ach... Czas na mnie... Czas... Odchodzê...
+
+Marbus:
+Bez niej nie uda nam siê odzyskaæ ojczyzny jaszczurów! Wszystko stracone!
+
+DIALOGI SCENARIUSZA 3:
+
+Przed atakiem upiorów:
+
+Przywódca upiorów:
+Wzywam wass... Dzieci... Dzieci nocy... ChodŸcie... Wyr¿nijcie tych g³upców...
+
+Jaszczurka przywódca:
+Woda zmêtnia³a... Powietrze sta³o siê gêstsze... Uwa¿ajcie... Coœ nadchodzi...
+
+Kochan:
+On ma racjê, Marbus. Musimy uwa¿aæ... Coœ mo¿e zaatakowaæ nas z niewiadomej strony.
+
+
+ŒMIERÆ KRULLA SKA£Y PO SCENARIUSZU 4B (nie koñczy gry):
+
+Krull Ska³a:
+Ughm... Moja serce... Moja w¹troba... Moja jelita... Ju¿ koniec... Ale m¹dry-ork niech prowadzi... Niech prowadzi szczeniêta... One musz¹ ¿yæ.
+
+Marbus:
+¯egnaj, Krullu Ska³o. Twoje poœwiêcenie nie pójdzie na marne... A teraz, do boju, orkowie! Uczcijmy jego pamiêæ w boju!
+
+Wilk:
+Warf, warf!
+
+Sylwana (ta naga):
+By³ mê¿nym wojownikiem na l¹dzie... Niech jego dusza p³ynie z pr¹dem rzek trolli.
+
+
+ŒMIERÆ EMBORGI-TARASH PO SCENARIUSZU 4A (nie koñczy gry):
+
+Emborgi:
+Umieram... Mój wzrok... S³abnie... Widzê w przysz³oœci ju¿ tylko... Œmieræ...
+
+Marbus:
+¯egnaj, wyrocznio. Twoje poœwiêcenie nie pójdzie na marne. Poprowadzê Twoje jaszczury ku lepszemu, nowemu ¿yciu.
+
+Sylwana (ta naga):
+Jej m¹droœæ i wiekowoœæ by³a godna podziwu... Cieszê siê, ¿e mia³yœmy okazjê jednoczyæ orê¿ we wspólnych walkach.
