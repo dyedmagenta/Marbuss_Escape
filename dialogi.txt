@@ -1,0 +1,192 @@
+DIALOGI PRZY OTWIERANIU KLATEK DLA TROLLI (SCENARIUSZ 4B):
+
+KLATKA ZE SZCZENIÊTAMI:
+
+Krull Ska³a:
+To moja m³ode! Wypuœciæ one z klatek!
+
+Jednostka wchodz¹ca na pole klatki:
+Troll z tej klatki jest ju¿ wolny!
+
+KOLEJNE KLATKI ZE SZCZENIÊTAMI:
+
+Jednostka wchodz¹ca na pole klatki:
+Troll z tej klatki jest ju¿ wolny!
+
+KLATKA Z SZAMANEM:
+
+Krull Ska³a:
+To byæ troll szaman, wielki wojownik i mag! On musieæ do³¹czyæ do walki!
+
+Kochan:
+Ktoœ o jego umiejêtnoœciach by³by niebywale u¿yteczny w walce z nieumar³ymi.
+
+Marbus:
+Masz racjê... Natychmiast wypuœcie i nakarmcie tego trolla!
+
+KLATKA Z TROLLEM SKA£OMIOTEM:
+
+Krull Ska³a:
+To byæ nasz mistrz w rzucie g³azem! Nikt nie potrafi miotaæ kamieniem tak daleko jak on!
+
+Kochan:
+Oby by³ w stanie rzucaæ równie celnie, co mocno.
+
+KLATKA Z TROLLEM BOHATEREM:
+
+Krull Ska³a:
+Nasz najlepszy wojownik! Silny, silny... Teraz razem zmia¿d¿ymy wroga!
+
+Troll Bohater:
+Wypuœæcie mnie, a poka¿ê temu orkowi, kto tutaj rz¹dzi!
+
+Jednostka wchodz¹ca na pole klatki:
+Klatka otwarta!
+
+
+SCENARIUSZ 5:
+
+Dialog po dotarciu jednostk¹ do zamku Gewolda:
+
+Jednostka, która dotar³a do oblê¿onego zamku (to nie mo¿e byæ wilk!):
+Wreszcie! Oblê¿enie puœci³o. Mamy teraz szansê odbiæ Gelu-Aben!
+
+Gewold:
+Marbus! Ze wszystkich moich zawszonych krewnych! Nigdy nie pomyœla³bym, ¿e to w³aœnie Ty przyjdziesz mi z odsiecz¹... Hahahaha... Dawno nie czu³em siê taki rozbawiony...
+
+Marbus:
+Egh tro Grash, bracie! Zdaje siê, ¿e jesteœ ranny. Jak wiêkszoœæ orków w Twoim zamku. Ale opowiadaj... Co tu siê sta³o, na Hordê?
+
+Gewold:
+Tutaj? Chodzi Ci o oblê¿enie, co? Hahaha... To zabawna historia... Zaczê³o siê od plotek na temat nieumar³ych nadci¹gaj¹cych z pó³nocy... Wzi¹³em wiêc swoich najlepszych ch³opców i ruszyliœmy, ¿eby z³upiæ te koœciaki. Zima w tym roku jest ciê¿ka... Potrzebowaliœmy zapasów, nawet z r¹k nieumar³ych...
+
+Kochan:
+Nie podoba mi siê to... Nieumarli zaatakowali nas od po³udnia... Wygl¹da na to, ¿e jesteœmy zamkniêci.
+
+Gewold:
+...wytropiliœmy ich. I poprowadzi³em szturm... Jednak ich iloœæ, ich si³a... Mia¿d¿yli nas. A moi ch³opcy? Zostawili mnie tam samego! W pierwszej linii! Nie warto by³o, Marbus! Nie warto by³o zrobiæ nic! Ale ju¿ doœæ... Szkoda gadaæ, szkoda strzêpiæ jêzyk...
+
+Gewold:
+W ka¿dym razie... Droga powrotna zosta³a odciêta... Ruszyliœmy przez ziemiê Sojuszu Pó³nocy... A za nami ci¹gnêli nieumarli. Z tego co wiem, pó³noc le¿y teraz w ruinie. Ludzie, elfy, krasnoludy... Ka¿dy potrzebuje ¿ywnoœci, stali i kawa³ka ziemi, którego nie zamieszkuj¹ upiory... Ruszyli wiêc na nas.
+
+Marbus:
+Nie pozostaje nam nic innego, jak walczyæ... Chwyæcie za swe miecze jeszcze raz! Poprowadzimy was do zwyciêstwa!
+
+Genera³ Helias:
+Zdaje siê, ¿e orkom uda³o siê przebiæ oblê¿enie... To nie wró¿y dobrze. Pos³aæ po wiêcej wojska! Niech ci¹gn¹ tutaj legiony z pó³nocnych posterunków!
+
+Jakakolwiek jednostka Genera³a Heliasa:
+Ale panie... Jeœli zabierzemy stamt¹d oddzia³y, kto obroni granice przed nieumar³ymi?
+
+General Helias:
+Nie lekcewa¿ moich rozkazów, kmiotku! Wykonaæ! I dawaæ mi tutaj ciê¿kich piechurów! Rozwalimy w drzazgi ich bramy miejskie i fortyfikacje!
+
+Raslaw Œnie¿nostopy:
+Nie podoba mi siê to... Ale jeœli mamy ochroniæ nasz klan przed zagro¿eniem z zewn¹trz, musimy pozbyæ siê orków. Poœlijcie po moich kuzynów, Gilla i Billa! Za³atwi¹ ich!
+
+(W tym miejscu koñczy siê dialog i zaczyna nowy warunek zwyciêstwa: "Pokonaj przywódców wroga". Sojusz Pó³nocy dostaje kopa w postaci jakiejœ tam, ustalonej iloœci z³ota, a obok przywódcy krasnoludów pojawiaj¹ siê dwie jednostki: Gill Œnie¿nostopy i Bill Œnie¿nostopy. Mog¹ to byæ grzmotomioty na drugim poziomie. B¹dŸ jakieœ inne krasnoludy, jednak drugi poziom.)
+
+
+Dialog œmierci Gewolda:
+
+Gewold:
+Co... Na Hordê...? Nie mogê umrzeæ... Orkowie... Nie poradz¹ sobie... Beze mnie...
+
+(Koñczy scenariusz, ten i ka¿dy nastêpny. Gewold musi prze¿yæ do koñca kampanii.)
+
+
+Dialog œmierci krasnala:
+
+Raslaw Œnie¿nostopy:
+Nie! Ja... Ekhm... Ekhm... Nie mogê paœæ... Wy tchórze... Wy bêkarty... Wy diab³y wcielone... Wy...
+
+Gewold:
+A zamknij siê wreszcie! Niech ktoœ przyniesie mi jego ³eb na tacy!
+
+
+Dialog po rekrutacji elfa przez genera³a:
+
+Marbus:
+Co? Elfy! Ale sk¹d...
+
+Gewold:
+Co wyœcie robili na tym po³udniu, Marbus? Do Sojuszu Pó³nocy przy³¹czy³y siê ju¿ niemal¿e wszystkie rasy, nawet smoki i... Tfu, niektóre plemiona orków... Tworz¹ teraz najwiêksz¹ si³ê, rywalizuj¹c z Knalg¹ w dziedzinach gospodarki...
+
+Krull Ska³a:
+Elfy! D³ugouchy! Moje szczeniêta chcieæ siê z nimi bawiæ!
+
+Emborgi-tarash:
+Nie mo¿na lekcewa¿yæ m¹droœci i potêgi elfów... Ich rasa jest równie pradawna, co nasza... Byli pierwszymi, którzy pojêli potêgê natury... Choæ ich rasa skarla³a... Nie ma ju¿ bohaterów takich, jak Kalenz...
+
+Wilk:
+Warf, warf!
+
+Marbus (jeœli wilk wci¹¿ ¿yje):
+Cicho, cicho Jêczmieñ... To wrogowie.
+
+Kochan:
+Nazwa³eœ tego wilka Jêczmieñ, kuzynie?
+
+Marbus:
+. . .
+
+(Od tego momentu wilk mo¿e nosiæ imiê Jêczmieñ.)
+
+
+Dialog œmierci genera³a:
+
+General Helias:
+To niemo¿liwe... Nie uda³o siê... Nawet z posi³kami z pó³nocy... Ale to nic... I tak zginiecie. Pokonani... Przez Króla Gonu...
+
+Emborgi-tarash:
+Król Gonu...? Czy to mo¿liwe...? Musimy st¹d uciekaæ, szybko! Nie jesteœmy w stanie pokonaæ tej istoty!
+
+Kochan (jeœli mamy jaszczurki i ¿yj¹c¹ Emborgi):
+Hm? O czym mówisz, stara wró¿bitko? Dlaczego ta nazwa jest dla Ciebie tak straszna?
+
+Emborgi-tarash:
+Jest on o wiele starszy, ni¿ mo¿ecie sobie wyobraziæ... Pamiêta czasy, gdy orkowie dopiero dop³ywali na Wielki Kontynent na statkach ludzi... Ale dlaczego siê zjawi³? Nie wiem... Ale muszê siê dowiedzieæ... 
+
+
+Dialog koñcowy, po pokonaniu obu przywódców:
+
+Gewold:
+Uda³o siê, Marbus! ¯yjemy! Zdaje siê, ¿e to dziêki Tobie... Choæ w mojej prywatnej opinii, to raczej ja ratowa³em Ciebie.
+
+Marbus:
+Hahaha... Cieszê siê, ¿e ju¿ po wszystkim... Ale do rzeczy... Pora nam zebraæ Hordê. Nieumarli ruszaj¹ na nas z po³udnia... A z tego, co mówisz, nadchodz¹ tak¿e z pó³nocy... Wyœlijmy kruki do wodzów...
+
+Gewold:
+Hmm... Marbus... Bo widzisz... TO jest Horda. Ca³a. Gdy wróci³em z tej szar¿y, zebra³em wszystkich, których mog³em... Reszta... Pos³añcy nie wrócili. Zewsz¹d dochodz¹ mnie wieœci o nowych armiach upiorów. Musimy za³o¿yæ, ¿e stanowimy teraz najwiêkszy trzon orkowej armii.
+
+Kochan:
+To... To niemo¿liwe... S³owa genera³a... Umrzemy tutaj.
+
+Gewold:
+. . .
+
+Marbus:
+Hmm... Nie. Jeszcze jest nadzieja. I zamierzam z niej skorzystaæ. Ruszymy tunelami, które otwarli krasnoludowie. Przebijemy siê pod górami, a¿ wyjdziemy po wschodniej stronie. Jeœli dobrze pamiêtam, s¹ tam Pola Kalindorskie. Orkowie gromadzili siê tam od wieków.
+
+Gewold:
+Ale nie od ostatnich piêædziesiêciu lat. Elfy strzeg¹ swoich lasów przy granicy drzew, a Sojusz Pó³nocy rozci¹ga tam swoje wp³ywy, likwiduj¹c ka¿de zagro¿enie. Nie mówi¹c ju¿ o tym, ¿e krasnoludy w podziemiach nie pozwol¹ nam przejœæ dalej.
+
+Marbus:
+Nie mam zamiaru prosiæ ich o przejœcie! Ragh for En Traht, bracia! Jeszcze dziœ spakujcie dobytek, zabierzcie ¿ywnoœæ, zwierzêta, z³oto i stal, a nastêpnie... A nastêpnie spalcie Gelu'Aben! Nie ma dla nas odwrotu! Jesteœcie ze mn¹? Jeœli zginiemy, to w walce o nasz¹ rasê! A nie czekaj¹c tu na nadchodz¹cy koniec! Ragh for En Traht!
+
+Kochan:
+Ragh for En Traht!
+
+Gewold:
+Ragh for En Traht!
+
+Krull Ska³a:
+Raght... fur... En Trah?
+
+Emborgi-tarash:
+Ragh for En Traht!
+
+Wilk (Jêczmieñ):
+Auuuuu!
+
+(Koniec scenariusza)
