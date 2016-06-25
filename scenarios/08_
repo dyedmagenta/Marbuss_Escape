@@ -1,0 +1,147 @@
+#textdomain wesnoth-Marbuss_Escape
+
+[scenario]
+
+  [story]
+    [part]
+      show_title=yes
+      story=_"Story placeholder of the great epic battle at scenario #8"
+    [/part]
+  [/story]
+  
+  id=08_
+  name=_"Scenario 08 - placeholder name"
+  map_data={~add-ons/Marbuss_Escape/maps/08_.map}
+  #next_scenario=09_
+  {TURNS 62 55 48}
+  
+  {DEFAULT_SCHEDULE}
+  {DEFAULT_MUSIC_PLAYLIST}
+  
+  [side]
+		side = 1
+		controller = human
+		{GOLD 550 475 400}
+		{INCOME 6 5 4}
+		team_name = 1
+		user_team_name = _ "Orcs"
+		id = Marbus
+		fog = yes
+		[village]
+		  x=17
+		  y=17
+	  [/village]
+	  [village]
+	  	x=23
+		  y=19
+  	[/village]
+	  [village]
+	  	x=21
+	  	y=25
+	  [/village]
+	  [village]
+	  	x=12
+	  	y=28
+	  [/village]
+	[/side]
+	
+	### NORTHERN ALLIANCE ###
+	
+	[side]
+	  side=2
+		team_name = 2
+		user_team_name = _ "Northern Alliance"
+	  
+	  id=human_leader
+	  name=_"General Millo"
+	  type=General
+	  canrecruit=yes
+	  
+	  recruit=Cavalryman, Dragoon, Horseman, Lancer, Knight, Mage, Red Mage, White Mage, Heavy Infantryman, Shock Trooper, Bowman, Longbowman, Spearman, Javelineer, Pikeman, Swordsman, Lieutenant
+	  
+	  {GOLD 450 525 600}
+	  {INCOME 7 10 13}
+	[/side]
+	
+	[side]
+	  side=3
+		team_name = 2
+		user_team_name = _ "Northern Alliance"
+	  
+	  id=dwarf_leader
+	  name=_"Rallgrimmin the Heavyarmor"
+	  type=Dwarvish Lord
+	  canrecruit=yes
+	  
+	  recruit=Dwarvish Fighter, Dwarvish Steelclad, Dwarvish Guardsman, Dwarvish Stalwart, Dwarvish Scout, Dwarvish Pathfinder, Dwarvish Thunderer, Dwarvish Thunderguard, Gryphon Rider
+	  
+	  {GOLD 250 300 350}
+	  {INCOME 4 6 9}
+	[/side]
+	
+	[side]
+	  side=4
+		team_name = 2
+		user_team_name = _ "Northern Alliance"
+		
+	 	id=elf_leader
+	  name=_"Nallos"
+	  type=Elvish Marshal
+	  canrecruit=yes
+	  
+	  recruit=Elvish Archer, Elvish Marksman, Elvish Ranger, Elvish Fighter, Elvish Captain, Elvish Hero, Elvish Scout, Elvish Rider, Elvish Shaman, Elvish Druid, Elvish Sorceress
+	  
+	  {GOLD 250 300 350}
+	  {INCOME 4 6 9}
+	[/side]
+	
+	### UNDEAD ###
+  
+	[side]
+	  side=5
+		team_name = 3
+		user_team_name = _ "Undead"
+	  
+	  id=undead_leader
+	  name=_"Death Knight"
+	  type=Death Knight
+	  canrecruit=yes
+	  
+	  recruit=Chocobone, Ghoul, Skeleton, Deathblade, Revenant, Skeleton Archer, Bone Shooter
+	  
+	  {GOLD 450 525 600}
+	  {INCOME 7 10 13}
+	[/side]
+	
+	[side]
+	  side=6
+		team_name = 3
+		user_team_name = _ "Undead"
+	  
+	  id=spectre_leader
+	  type=Spectre
+	  canrecruit=yes
+	  
+	  recruit=Ghost, Wraith, Shadow
+	  
+	  {GOLD 250 300 350}
+	  {INCOME 4 6 9}
+	[/side]
+	
+	[side]
+	  side=6
+		team_name = 3
+		user_team_name = _ "Undead"
+		
+	 	id=necromaner_leader
+	  name=_"Mal-Marah"
+	  type=Necromancer
+	  canrecruit=yes
+	  
+	  recruit=Dark Adept, Dark Sorcerer, Vampire Bat, Blood Bat, Dread Bat, Walking Corpse, Soulless
+	  
+	  {GOLD 250 300 350}
+	  {INCOME 4 6 9}
+	[/side]
+	
+[/scenario]
