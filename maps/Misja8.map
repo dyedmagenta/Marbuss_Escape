@@ -1,8 +1,4 @@
-current_time=0
-description=""
-experience_modifier=70
-id="Misja8.map"
-map_data="border_size=1
+border_size=1
 usage=map
 
 Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Gs, Ms^Xm, Ms^Xm, Ms^Xm, Gs, Ms^Xm, Ms^Xm, Ha, Ha, Ha, Ms^Xm, Ha, Gs, Ha, Gs, Ms^Xm, Ms^Xm, Ha, Ha, Ha, Ha, Ha, Ha, Ha, Aa, Aa, Aa, Aa, Aa, Re, Re, Re, Aa, Aa, Aa, Ms, Ms^Xm, Ms^Xm, Ms^Xm
@@ -81,75 +77,3 @@ Aa, Aa^Fma, Gll^Fmw, Aa^Fma, Aa^Fma, Aa^Fma, Aa^Fma, Aa^Fma, Aa^Vea, Aa^Fma, Gs,
 Gs, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Aa^Fma, Gll^Fmw, Aa^Fma, Aa^Fma, Gll^Fp, Gll^Fp, Gll^Fp, Gll^Fmw, Gll^Fp, Aa^Fma, Aa^Fma, Gll^Fmw, Gll^Fmw, Cv, Cv, Cv, Cv, Aa, Aa, Aa, Gll^Fp, Gll^Fp, Re, Gll^Fp, Re, Re, Re, Re, Gll^Fmw, Gll^Fp, Ha, Aa^Fma, Ha^Fpa, Ha^Fpa, Aa, Aa, Ms, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha
 Gll^Fmw, Gll^Fmw, Gs, Gll^Fmw, Gll^Fp, Gll^Fp, Gll^Fp, Aa^Fma, Gll^Fmw, Aa^Fma, Gll^Fp, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fp, Aa^Vea, Gll^Fp, Gll^Fmw, Gll^Fmw, Cv, Cv, Cv, Gs, Gs, Gll^Fmw, Aa, Aa, Cv, Cv, Re, Re, Re, Re, Cv, Cv, Gll^Fp, Gll^Fp, Gll^Fp, Gll^Fp, Aa^Vea, Gll^Fp, Gll^Fp, Aa, Aa^Fpa, Ha, Ha
 Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fp, Gll^Fp, Gll^Fmw, Aa, Aa, Gll^Fp, Gll^Fp, Gs, Gll^Fp, Gs, Gs, Gs, Aa, Gs, Gs, Gs, Gll^Fmw, Gs, Gs, Gs, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gs, Gs, Re, Re, Re, Re, Gll^Fp, Gs, Gll^Fp, Gll^Fp, Gll^Fp, Gll^Fp, Gll^Fmw, Gll^Fmw, Aa, Gs, Gs
-"
-name="Misja8.map"
-random_starting_time=no
-turns=-1
-victory_when_enemies_defeated=yes
-[time]
-	blue=0
-	green=-20
-	id="dawn"
-	image="misc/time-schedules/default/schedule-dawn.png"
-	lawful_bonus=0
-	mask=""
-#textdomain wesnoth-help
-	name=_"Dawn"
-	red=-20
-	sound="ambient/morning.ogg"
-[/time]
-[time]
-	blue=0
-	green=0
-	id="morning"
-	image="misc/time-schedules/default/schedule-morning.png"
-	lawful_bonus=25
-	mask=""
-	name=_"Morning"
-	red=0
-	sound=""
-[/time]
-[time]
-	blue=0
-	green=0
-	id="afternoon"
-	image="misc/time-schedules/default/schedule-afternoon.png"
-	lawful_bonus=25
-	mask=""
-	name=_"Afternoon"
-	red=0
-	sound=""
-[/time]
-[time]
-	blue=-20
-	green=-20
-	id="dusk"
-	image="misc/time-schedules/default/schedule-dusk.png"
-	lawful_bonus=0
-	mask=""
-	name=_"Dusk"
-	red=0
-	sound="ambient/night.ogg"
-[/time]
-[time]
-	blue=-10
-	green=-35
-	id="first_watch"
-	image="misc/time-schedules/default/schedule-firstwatch.png"
-	lawful_bonus=-25
-	mask=""
-	name=_"First Watch"
-	red=-45
-	sound=""
-[/time]
-[time]
-	blue=-10
-	green=-35
-	id="second_watch"
-	image="misc/time-schedules/default/schedule-secondwatch.png"
-	lawful_bonus=-25
-	mask=""
-	name=_"Second Watch"
-	red=-45
-	sound=""
-[/time]
