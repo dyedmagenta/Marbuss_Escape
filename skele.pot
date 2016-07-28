@@ -306,7 +306,7 @@ msgstr ""
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:26
-msgid "Path through the Tut'anor pass was fearsome and perilous. Immense snakes and spiders and feeling of being watched. Evil in this place was indeed sensate. Yet, Marbus managed to pass it with his legions almost without any casualties. Settling Gelu'aben was a piece of cake in comparison to that. Goblins represented three quarters of Marbus's clan's population and were treated equally with orcs. Even Marbus had a goblin cousin, Kochan, who took charge of wolf raiders. Life here was good, or at least not worse than in Gelu'Aben. Until now..."
+msgid "Path through the Tut'anor pass was fearsome and perilous. Immense snakes and spiders and feeling of being watched. Evil in this place was indeed sensate. Yet, Marbus managed to pass it with his legions almost without any casualties. Settling Bag'not was a piece of cake in comparison to that. Goblins represented three quarters of Marbus's clan's population and were treated equally with orcs. Even Marbus had a goblin cousin, Kochan, who took charge of wolf raiders. Life here was good, or at least not worse than in Gelu'Aben. Until now..."
 msgstr ""
 
 #. [story]: [part]
@@ -737,9 +737,15 @@ msgid "Ashuran-san"
 msgstr ""
 
 #. [side]: id = Spectre1; type = Shadow;
+#. [side]: id = undead_leader; type = Death Knight;
+#. [side]: id = spectre_leader; type = Spectre;
+#. [side]: id = draug_leader; type = Draug;
 #. [side]:
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:105
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:206
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:260
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:314
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/09_.cfg:41
 msgid "Undead"
 msgstr ""
@@ -1926,6 +1932,12 @@ msgstr ""
 msgid "Raslav the Snowfeet"
 msgstr ""
 
+#. {SET_LABEL ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/05_Gelu-Aben_besieged.cfg:341
+msgid "Gelu'Aben Fortress"
+msgstr ""
+
 #. [message]: role = GewoldsServant;
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/05_Gelu-Aben_besieged.cfg:370
@@ -2299,6 +2311,7 @@ msgstr ""
 #. [side]: id = Marbus;
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/06_By_the_Tunnels.cfg:27
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:25
 msgid "Orcs"
 msgstr ""
 
@@ -2446,6 +2459,7 @@ msgstr ""
 #. [side]:
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/07_.cfg:178
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:366
 msgid "Bats"
 msgstr ""
 
@@ -2453,6 +2467,167 @@ msgstr ""
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/07_.cfg:300
 msgid "Move Marbus to the northern edge of the map"
+msgstr ""
+
+#. [scenario]: id = 08_;
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:5
+msgid "Scenario 08 - placeholder name"
+msgstr ""
+
+#. [side]: id = general_leader; type = General;
+#. [side]: id = cavalier_leader; type = Cavalier;
+#. [side]: id = mauler_leader; type = Iron Mauler;
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:51
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:104
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:154
+msgid "Northern Alliance"
+msgstr ""
+
+#. [side]: id = general_leader; type = General;
+#. [side]: id = cavalier_leader; type = Cavalier;
+#. [side]: id = mauler_leader; type = Iron Mauler;
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:55
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:108
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:158
+msgid "tbd"
+msgstr ""
+
+#. [side]: id = undead_leader; type = Death Knight;
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:210
+msgid "Death Knight"
+msgstr ""
+
+#. [objective]: condition = win;
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:419
+msgid "Check out what's hiding in the mist."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:432
+msgid "Znowu otoczyła nas ta mgla. Coś zlego nadciąga w nasza strone."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:433
+msgid "Cholera... przygotujmy się do bitwy."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:486
+msgid "Na domiar zlego jeszcze nieumarli?! Plugawa zaraza! Podniescie swoje miecze i pochodnie, bo nadszedł czas by odeslac ich spowrotem do niebytu!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:487
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:525
+msgid "Marbus... Wyglada na to, ze jestesmy otoczeni... Nie bedziemy w stanie ich wszystkich pokonac..."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:488
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:526
+msgid "On ma racje. Wyglada jednak na to, ze nieumarli atakuja takze ludzi. Nie sadze by dlugo utrzymali sie na swoich pozycjach."
+msgstr ""
+
+#. [objective]: condition = win;
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:493
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:531
+msgid "Survive until turns run out"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:505
+msgid "Nieumarli! Wiedzialem! Wyciagnijcie swoje miecze, bracia, wspolnie przezwyciezymy te plugawa zaraze!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:524
+msgid "I jeszcze ludzie sojuszu polnocy?! Do diabla! Bracia, podniescie swoje miecze i luki, bo nadszedl czas by pokazac tym smieciom, ze z Horda sie nie zadziera!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:543
+msgid "To sa ludzie sojuszu polnocy! Znalezli nas!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:544
+msgid "Cholera... Nie spodziewalem sie ze tak szybko nas dogonia. Widocznie bedziemy musieli przeforsowac sobie droge sila."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:589
+msgid "Cholera... Jest ich za duzo, nawet jak dla nas."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:603
+msgid "Nawet jezeli nie zabijemy tych orkow, to z pewnoscia zgina z rak nieumarlych. Walka nie ma sensu."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:604
+msgid "Masz racje. Nie bede marnowac zyc swoich zolnierzy."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:605
+msgid "Ludzie! Wycofujemy sie!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:643
+msgid "Miales racje, ci tchorze uciekli!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:644
+msgid "Taaak... Ale jak MY mamy uciec IM?!"
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:649
+msgid "Wiem co zrobic. Pojade na poludnie i odciagne ich uwage, a wy przebijecie sie dalej na wschod."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:650
+msgid "Nie pozwalam ci na to. To zbyt niebezpieczne."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:651
+msgid "Nie pytalem sie o twoje pozwolenie, kuzynie. Wezme kilku najlepszych jezdzcow i pojade wzdloz gorskiej sciezki. Nasze wilki sa wystarczajaco szybkie by im uciec."
+msgstr ""
+
+#. {MESSAGE ...}:
+#: add-ons/D:\Gry\Battle for Wesnoth
+#: 1.12.2\userdata\data\add-ons\Marbuss_Escapee/scenarios/08_.cfg:664
+msgid "Niech przodkowie maja ich w opiece."
 msgstr ""
 
 #. [scenario]: id = 09_scen;
