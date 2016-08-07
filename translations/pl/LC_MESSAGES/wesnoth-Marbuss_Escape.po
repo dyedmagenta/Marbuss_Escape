@@ -2741,6 +2741,14 @@ msgid ""
 "their old home. However, finally they had to set off to Gelu'Aben, leaving "
 "rescued Saurians behind."
 msgstr ""
+"Czarodzieje i ich potężna magia upadła pod naciskiem orkowych mieczy. Mroźna "
+"północ okazała się złym miejscem na ćwiczenia magiczne i ludzką pychę, a "
+"uciskana rasa jaszczurów jeszcze raz pokazała ile jest warta. W podbitych "
+"fortyfikacjach orkowie znaleźli sporo kosztowności, żywności oraz opału. "
+"Przez okrągły tydzień mogli więc biesiadować i ogrzewać się przy kominkach. "
+"W tym czasie coraz to nowe plemiona gadów przybywały do swojego dawnego "
+"domu. W końcu jednak trzeba było ruszyć do Gelu'Aben, pozostawiając za sobą "
+"uratowane jaszczury."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2754,6 +2762,14 @@ msgid ""
 "the same day and the whole troop set off to Gelu'Aben in the late evening, "
 "not willing to stay at this place any longer."
 msgstr ""
+"Bitwa w Sunek Dalu zakończyła się zwycięsko, choć nikt nie świętował. Wielu "
+"orków z kampanii Marbusa miało tutaj krewniaków, którzy teraz płonęli na "
+"stosach pogrzebowych. Okazało się, że tutejsze fortece nie były w równie "
+"kiepskim stanie, jak te w Bag'not. Brak żywności i opału sprawił, że płonące "
+"ciała poległych były jedynym źródłem ciepła. Krull Skała i jego trolle "
+"zebrały się jeszcze tego samego dnia, a cała gromada ruszyła w drogę do "
+"Gelu'Aben późnym wieczorem, nie chcąc zostawać w tym miejscu ani chwili "
+"dłużej."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2766,6 +2782,13 @@ msgid ""
 "moving weakened Marbus' clan. Also, someone may have connected the clan with "
 "destruction of Celadon City."
 msgstr ""
+"Droga do orkowej stolicy usiana była trudnościami. Wprawdzie zwiadowcy nie "
+"donosili już o pojawiających się upiorach, jednak pojawiło się nowe "
+"zagrożenie: patrole ludzi, elfów i krasnoludów. Sojusz Północy co prawda "
+"istniał, a niektóre orkowe plemiona cieszyły się jego szacunkiem, niemniej "
+"jednak było to zbyt mało, by nie zaatakować przemieszczającego się, "
+"osłabionego klanu Marbusa. Możliwe było też, że ktoś skojarzy sam klan ze "
+"zniszczeniem Seledynowego Miasta."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2778,6 +2801,12 @@ msgid ""
 "the place where the capital was supposed to lie, smoke was floating. "
 "Although no orc talked about it, everyone expected the worst."
 msgstr ""
+"Dobrą niespodzianką był fakt, że czym dalej od nieumarłych, tym więcej "
+"zwierzyny można było znaleźć w lasach. Cała podróż okazała się nie być tak "
+"zła, jak wszyscy przewidywali. Nadzieja na zakończenie tego koszmaru "
+"rozwiała się jednak podczas ostatniej nocy przed dojściem do Gelu'Aben. Z "
+"miejsca, gdzie miała znajdować się stolica, unosił się bowiem dym. Choć nikt "
+"z orków o tym nie rozmawiał, wszyscy spodziewali się najgorszego. "
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2788,6 +2817,10 @@ msgid ""
 "fortress, surrounded by army of Northern Alliance and dwarvish clan of "
 "Snowfeet. Obviously, Marbus gathered his units and went to rescue them."
 msgstr ""
+"O świecie przybył Kochan wraz ze swoimi zwiadowcami. Gewold wciąż bronił się "
+"w fortecy, otoczony przez wojska Sojuszu Północy i krasnoludzkiego klanu "
+"Śnieżnostopych. Marbus oczywiście zebrał swoje oddziały i ruszył im na "
+"ratunek."
 
 #. [side]: id = Gewold; type = Gewold2;
 #: add-ons/D:\Gry\Battle for Wesnoth
