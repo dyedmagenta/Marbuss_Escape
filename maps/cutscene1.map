@@ -1,0 +1,16 @@
+border_size=1
+usage=map
+
+Gd, Gd^Fms, Gd^Fmw, Gd, Gd^Fms, Gd^Fmw, Gd^Fmw, Gd, Gd^Fmw, Gd^Fms, Gd^Fmw, Aa, Gd^Fmw
+Gd^Fms, Gd^Fmw, Aa, Gd^Fmw, Gd, Gd, Aa, Gd, Aa, Gd^Fmw, Gd^Fmw, Gd^Fmw, Gd^Fms
+Gd^Fmw, Gd^Fmw, Gd, Aa, Gd^Fmw, Re, Gd, Gd^Fmw, Gd^Fmw, Gd, Gd^Fmw, Gd^Fmw, Gd^Fmw
+Gd^Fmw, Aa, Gd^Fmw, Gd^Fmw, Aa, Gd, Cea, Re, Aa, Gd^Fmw, Gd^Fmw, Gd^Fmw, Gd
+Gd^Fmw, Aa, Gd^Fmw, Rd, Cea, Cea, Re, Cea, Rb, Re, Aa, Gd^Fmw, Aa
+Gd^Fmw, Aa, Rb, Cea, Rb, 1 Rb, Re, Rb, Rb, Cea, Cea, Gd, Gd
+Gd, Gd, Re, Cea, Rd, Re, Ur^Ecf, Re, Rb, Re, Aa, Aa, Gd
+Aa, Aa, Cea, Rb, Rd, Re, Re, Rd, Rd, Re, Cea, Aa, Gd
+Gd^Fms, Aa, Cea, Rb, Re, Re, Rd, 2 Re, Rb, Re, Cea, Rb, Gd^Fmw
+Gd^Fms, Aa, Re, Cea, Rb, Rb, Re, Re, Aa, Rb, Aa, Rb, Gd^Fmw
+Gd^Fmw, Gd, Aa, Aa, Re, Cea, Cea, Aa, Cea, Cea, Rb, Gd^Fms, Gd^Fmw
+Gd^Fms, Gd^Fmw, Gd^Fmw, Gd^Fmw, Gd^Fmw, Rb, Aa, Cea, Gd^Fmw, Gd^Fmw, Gd^Fmw, Gd^Fms, Gd^Fmw
+Gd^Fms, Gd^Fms, Aa, Gd, Gd, Gd^Fmw, Gd^Fmw, Gd, Aa, Aa, Gd^Fms, Gd^Fmw, Aa
