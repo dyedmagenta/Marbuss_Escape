@@ -1,0 +1,7 @@
+border_size=0
+usage=mask
+
+_f, Co, Co, Co, _f
+_f, Co, _f, Co, _f
+Co, _f, Ko, _f, Co
+Co, Co, Co, Co, Co
