@@ -1,0 +1,609 @@
+
+Dialogi Scenariusza Szóstego:
+
+1. Dialog pocz¹tkowy.
+
+Logo Wesnoth:
+Horda Marbusa wkroczy³a w koñcu w ciemne i wilgotne korytarze krasnoludów. Ostatni z orków: starcy i kobiety, które wlok³y za sob¹ niewielkie wózki z dobytkiem i po¿ywieniem, a tak¿e nieliczne zwierzêta hodowlane, takie jak kozy i kurczaki, zostawili za sob¹ blade œwiat³o poranka. Od teraz ich drogê mia³y rozœwietlaæ jedynie pochodnie oraz fosforyzuj¹ce grzyby, które ros³y tu i ówdzie, roztaczaj¹c brzydki, kwaskowaty zapach. Tak zaczê³a siê ich droga przez g³êbiny.
+
+Gewold:
+Fuj! Te grzyby œmierdz¹ tak strasznie, ¿e nawet nasze wargi zaczynaj¹ skomleæ. Zaczynam w¹tpiæ w sens tej wyprawy, Marbus. Idziemy ju¿ od kilku godzin, a tunele staj¹ siê coraz ciaœniejsze.
+
+Krull Ska³a:
+Grzyby œmierdz¹ i bol¹. Bol¹ w brzuch. Ja zjeœæ ich du¿o i teraz wymiotowaæ.
+
+Emborgi-tarash:
+Ta odmiana grzybów nie powinna cuchn¹æ... Zdaje siê, ¿e nawet tutaj, pod ziemi¹, natura zaczyna odczuwaæ skutki tego, co dzieje siê na powierzchni. Patrzcie wiêc dobrze, orkowi wojownicy! To najlepszy dowód na to, jak silny jest upiór, który panoszy siê po tych ziemiach.
+
+Marbus:
+Uspokój siê, Gewoldzie, albo uznam, ¿e na staroœæ zaczynasz robiæ siê zrzêdliwy. Nie ma ju¿ dla nas drogi powrotnej- musimy iœæ naprzód.
+
+Kochan:
+Przyznam jednak, ¿e i ja czujê niepokój, kuzynie. Nie chodzi tylko o same tunele, ale te¿ brak jakichkolwiek oznak krasnoludów. S¹dzi³em, ¿e na drug¹ stronê gór bêdziemy musieli przedrzeæ siê po trupach, maj¹c przy tym dok³adnie wytoczon¹ œcie¿kê. Jeœli siê tutaj zgubimy, ani gwiazdy, ani wiatr, ani wilki... Nic nie poka¿e nam drogi.
+
+Krull Ska³a:
+Trolle lata i wieki ¿y³y w takich miejscach. Ja i moi synowie wiemy, jak iœæ w ciemnoœæ, by znaleŸæ drogê. Gdy siê zgubicie, poprowadzimy.
+
+Emborgi-tarash:
+Czy¿by moje œlepe oczy widzia³y wiêcej, ni¿ wasze? Widz¹ce? Wiedzcie, ¿e mój lud nie obawia siê ciemnoœci tego miejsca. Znajdziemy drogê, choæbyœmy miêli wezwaæ naszych przodków na pomoc! I przodków naszych przodków! I przodków przodków naszych przodków równie¿!
+
+Marbus:
+Widzicie wiêc? Nie mamy siê czego obawiaæ. Odk¹d Ci nieumarli pojawili siê na pó³nocy, czujê, jakby jakaœ tajemnicza si³a prowadzi³a nas za rêkê. Choæ mo¿e jest to zabobon starych orczyc, wierzê w przeznaczenie. A naszym przeznaczeniem nie jest œmieræ w tym miejscu.
+
+Gewold:
+Cisza! Uspokójcie zaraz te wargi! S³yszycie? To szumi rzeka.
+
+Kochan:
+Dziêki przodkom! Uzupe³nimy manierki i napijemy siê do syta, jeœli oka¿e siê zdatna do picia. Mo¿liwe te¿, ¿e przy rzece znajdzie siê jakaœ krasnoludzka osada, wiêc trzymajcie miecze w pogotowiu.
+
+Marbus:
+Naprzód, moi wojownicy! Poruszajcie siê sprawnie i cicho. Nie rozdzielajcie siê jednak: nie wiadomo, jakie niebezpieczeñstwa czekaj¹ nas w tych tunelach.
+
+
+2. Dialog po wynurzeniu siê nag.
+
+Marbus:
+A có¿ to, na przodków!? Chwyæcie za miecze!
+
+Krull Ska³a:
+Trolle znaj¹ ten wygl¹d. Pod naszymi mostami, sk¹d bierzemy myto, tam czêsto one s¹. To nagi. Kobiety-wê¿e.
+
+Emborgi-tarash:
+Czy¿ nie myl¹ mnie zmys³y? Jak¿e to mo¿liwe, ¿e dumna niegdyœ rasa nag osiad³a pod ziemiê? Pamiêtam czasy, gdy nasze ludy tworzy³y jednoœæ, w³adaj¹c bagnami i rzekami na ca³ym kontynencie.
+
+Aidala:
+B¹dŸcie pozdrowieni, synowie zachodu... A mo¿e powinnam rzec: synowie pó³nocy? Imiê Tej Osoby jest Aidala. To s¹ zaœ moje córy. Jestem ich matron¹.
+
+Gewold:
+Tfu... Od lat nikt z nas nie zobaczy³ ¿adnej z nag! Od³¹czy³yœcie siê od Hordy! Niektóre z was do³¹czy³y nawet do Sojuszu Pó³nocy, mieszaj¹c siê z trytonami! Nie próbuj zaprzeczaæ, wê¿u!
+
+Marbus:
+Gewold, do diab³a! Przypominam Ci, ¿e to ja jestem teraz Wielkim Suwerenem! Milcz, gdy przychodzi do rozmowy z kimœ, kto stan¹³ na naszej drodze!
+
+Aidala:
+Spostrze¿enie Twojego kompana by³o trafne, synu pó³nocy. Wiêkszoœæ mojej rasy odwróci³a siê od tradycji i wierzeñ starszyzny. Ta Osoba jednak nigdy nie wyzby³a siê swej dumy, nigdy nie zagasi³a ¿alu i nienawiœci, która obfituje w jej sercu... A jednak... Ta Osoba nie mog³a walczyæ.
+
+Marbus:
+Opowiedz mi, co siê sta³o, pani.
+
+Aidala:
+Nieca³y wiek temu starszyzna mego ludu zwo³a³a Wielki Wiec, na którym miêliœmy radziæ, jak uchroniæ rasê Tej Osoby od klêski... Jednak na Wiecu dopad³y nas sid³a zdrady. M³ode, ¿yj¹ce w najp³ytszych wodach nagi postanowi³y zjednoczyæ siê z Sojuszem Pó³nocy i wyr¿n¹æ zdecydowan¹ wiêkszoœæ rasy Tej Osoby. Ta Osoba walczy³a zaciekle, zabijaj¹c wiele swoich córek i sióstr, jednak nie uda³o siê uratowaæ starszyzny.
+
+Aidala:
+Zosta³yœmy odciête z moimi najbardziej zaufanymi córami... Droga do morza by³a zamkniêta. Na l¹dzie zaœ czekali na nas kusznicy. Ta Osoba mog³a zgin¹æ wielk¹, s³uszn¹ œmierci¹. To jednak sprawi³oby, ¿e nie by³oby ju¿ nienawiœci wœród nag i Sojuszu Pó³nocy. Krasnoludowie, elfowie, a nawet Wielkie Królestwo Wesnoth... Wszyscy zaczêliby uto¿samiaæ rasê Tej Osoby z czymœ dobrym. Z czymœ, co wyzby³o siê mroku i do³¹czy³o do nich, by ³owiæ per³y, pomagaæ ¿eglarzom i p³yn¹æ z delfinami.
+
+Aidala:
+Ta Osoba nie mog³a tego znieœæ! Ta Osoba musia³a ¿yæ, by nienawidziæ. By daæ œwiadectwo mroku i zepsucia, Œwiadectwo Wê¿a. Ta Osoba zebra³a wszystkie swoje córy i ruszy³a w jedynym kierunku, gdzie mog³a przetrwaæ: do jaskiñ. Tutaj wiêc, w mroku i ciemnoœciach, zaczê³yœmy sk³adaæ skrzek, rosn¹æ w si³ê i czekaj¹c chwili, w której mog³ybyœmy zadaæ œmiertelny cios naszym wrogom. Ta Osoba s¹dzi, ¿e ta chwila nadesz³a.
+
+Marbus:
+Twoja opowieœæ jest pe³na pasji i mroku, pani... Wróg, który nas œciga, jest jednak jeszcze mroczniejszy. Z radoœci¹ powitam Ciebie i Twoje córki w szeregach mojej armii.
+
+Gewold:
+Przemyœl to jeszcze... Nie ka¿dy, kto nie chce nas zaatakowaæ, jest naszym przyjacielem. Mog¹ k³amaæ. Mog¹ te¿ wydaæ nasz przy pierwszej mo¿liwej okazji, do³¹czaj¹c do tych nag, które s¹ ju¿ po stronie Sojuszu Pó³nocy.
+
+Aidala:
+Sss... Zamilcz, orku... Zamilcz, albo sprawiê, ¿e zamilkniesz na wieki... Jeœli trzeba, Ta Osoba z³o¿y œluby. Ta Osoba przyrzeka na gwiazdy i wê¿e, na truciznê i miecze, na czarn¹ i czerwon¹ krew, ¿e s³u¿yæ bêdzie waszemu Wielkiemu Suwerenowi i odda siê mu ca³a!
+
+Kochan:
+Nawet w obliczu ostatnich wydarzeñ muszê przyznaæ, kuzynie, ¿e brzmi to ca³kiem nieŸle.
+
+Marbus:
+Cieszê siê, ¿e znów dopisa³ Ci humor, Kochan. Co zaœ do nag... Niech wiêc tak bêdzie. Od dzisiaj i wy jesteœcie moim ludem. Razem musimy wydostaæ siê z tych tuneli.
+
+Emborgi-tarash:
+Moje serce raduje siê na wieœæ, ¿e walczyæ bêdziemy ramiê w ramiê z wodnymi wê¿ami. Ten kontynent nie wyda³ na œwiat istot równie zaciêtych, przepe³nionych pasj¹ i nienawiœci¹, które nie pozwoli³y im odejœæ w ramiona œmierci. 
+
+Krull Ska³a:
+Trolle lubi¹ wê¿e. Niech jest miêdzy nami przyjaŸñ.
+
+Aidala:
+Wodzu mój... Pozwól mi udzieliæ Ci rady... Podziemne kar³y równie¿ odczu³y wp³yw Z³ego Ducha, który pustoszy tê krainê. S¹ s³abi... Mo¿emy razem stawiæ im czo³o, pokonuj¹c ich. Jest jednak inne rozwi¹zani. Ich stra¿nicy s¹ nieliczni, a na wiêkszoœci korytarzy brakuje im wartowników. Mo¿emy niepostrze¿enie dotrzeæ na wschód, jeœli bêdziemy iœæ ostro¿nie.
+
+Kochan:
+To dobra rada. Osobiœcie wola³bym nie braæ udzia³u w walkach: warunki terenowe zdecydowanie im sprzyjaj¹.
+
+Gewold:
+Gadanie, Kochan! Potrzebujemy z³ota i zapasów, a w ich fortyfikacjach na pewno znajdziemy tego wystarczaj¹co! Nie zabijemy ich teraz, a oni wkrótce wyjd¹ z jaskiñ i zaatakuj¹ nas w najmniej odpowiednim dla nas momencie. ¯eby nie by³o wojny, musimy zaatakowaæ ich pierwsi!
+
+Aidala:
+Wodzu mój, to nie wszystko. Ta Osoba wie coœ wiêcej... Na pó³nocy, w opuszczonych przez kar³y tunelach... Czuæ stamt¹d magiczne wibracje... Ja i moje córy s¹dzimy, ¿e mo¿e tam byæ ukryte coœ, co mog³oby siê okazaæ pomocne w przysz³oœci. A mo¿e nawet mieæ decyduj¹ce znaczenie w ostatecznym rozrachunku.
+
+Krull Ska³a:
+Skarb! Trolle chc¹ ten skarb! My nie zapomnieæ, ¿e trollom wtedy by³o dobrze, gdy mieæ skarb!
+
+Emborgi-tarash:
+Równie¿ czujê coœ magicznego... Jest tam tajemna, potê¿na si³a... Ale inna, ni¿ krasnoludzka. Wydaje mi siê, ¿e mo¿e mieæ to coœ wspólnego ze z³em, które ogarnia pó³noc. Powinniœmy mieæ tê rzecz.
+
+Marbus:
+Dziêkujê wam wszystkim za rady. Sylviano... Cokolwiek post¹piê, chcê mieæ Ciê u swego boku. Bardzo cieszê siê z tego spotkania. A teraz: w drogê!
+
+
+3. Zauwa¿a nas któryœ z krasnoludów.
+
+Krasnolud:
+Na tysi¹c beczek piwa i tonê wieprzowiny! To orkowie! Zad¹æ w rogi! Orkowie atakuj¹ nasze ziemiê!
+
+Gewold:
+W rogi?! Natychmiast niech ktoœ zacznie biæ w bêbny! Do ataku!
+
+Marbus:
+Milcz, Gewoldzie! A teraz, moja Hordo, zacz¹æ biæ w bêbny! Wyr¿n¹æ ich!
+
+Aidala:
+Ta Osoba widzi, ¿e rasa orków nie zmieni³a siê przez ten czas, w którym widzia³a j¹ ostatnim razem.
+
+
+4. Zabicie jednego z Krasnoludzkich W³adców.
+
+Marbus:
+Giñ, krasnoludzka poczwaro! To za wszystkich naszych wojowników, którzy umarli z waszych r¹k!
+
+Kochan:
+Ograbcie ich twierdzê, ¿o³nierze! Jestem pewny, ¿e maj¹ tam mnóstwo z³ota i zapasów!
+
+---Po pokonaniu dowódcy gracz dostaje 100 z³ota.---
+
+
+5. Zabicie drugiego Krasnoludzkiego W³adcy. Ten dialog pojawia siê niezale¿nie od tego, który to z w³adców. Mamy dwóch i mo¿emy ich pokonaæ naprzemiennie, ale ten wczeœniejszy dialog pojawia siê przy pokonaniu pierwszego (niezale¿nie od tego, który to z nich), a ten przy pokonaniu drugiego.
+
+Marbus:
+Pad³! Krasnoludy pierzchaj¹ do swoich nor! Odnieœliœmy tu cudowne zwyciêstwo!
+
+Gewold:
+Mój miecz krzyczy z ekscytacji! Dobiæ pozosta³ych! Nie pozwólcie nikomu prze¿yæ!
+
+Aidala:
+Ta Osoba cieszy siê, ¿e kolejna zemsta zosta³a dope³niona... Za z³oto z ich skarbców uroœniemy w si³ê...
+
+---Marbus dostaje 150 z³ota, ale scenariusz siê nie koñczy: musimy mieæ jeszcze opcjê zdobycia medalionu. Tak wiêc nasz cel misji, to dostanie siê Marbusem na wschodni skraj mapy.---
+
+
+6. Dialog wszczynania alarmu, a zostaniu zauwa¿onym. Nie wiem, czym to siê ma ró¿niæ.
+
+7. Dialog koñcowy, gdy Marbus ucieka niezauwa¿enie.
+
+Marbus:
+Uda³o siê. ¯aden z krasnoludów nie zauwa¿y³ naszego przejœcia. Dobra robota, towarzysze! Dalej, wg³¹b jaskiñ!
+
+Kochan:
+Cieszê siê, ¿e uda³o nam siê unikn¹æ niepotrzebnej walki. Musimy oszczêdzaæ si³y na wa¿niejsze starcia.
+
+Aidala:
+Sss... Ta Osoba wola³aby ukróciæ o g³owê wszystkie kar³y, ni¿ pozwoliæ im ¿yæ. Nienawiœæ do nich p³onie w naszej krwi. Zrobimy jednak to, co konieczne.
+
+8. Dialog koñcowy, gdy Marbus ucieka po alarmie.
+
+Marbus:
+Szybko, moja Hordo, do tych tuneli!
+
+Gewold:
+Co!? Mamy uciekaæ teraz, gdy ju¿ rozgorza³a walka!?
+
+Aidala:
+Ta Osoba wreszcie mog³a zanurzyæ swoje ostrze w cia³ach tych, których nienawidzi! Czemu¿ wiêc mamy przerywaæ tê s³odk¹ dla Tej Osoby chwilê?
+
+Marbus:
+Nie k³óæcie siê ze mn¹! Ruszamy, wg³¹b jaskiñ! Pamiêtajcie, ¿e naszym celem nie jest walka z krasnoludami, a przedostanie siê na drug¹ stronê gór!
+
+9A. Dialog koñcowy, gdy Marbus dociera do wschodniego krañca mapy, ale zabi³ wczeœniej wszystkich krasnoludów.
+
+Marbus:
+Nasi wrogowie ju¿ nie ¿yj¹. Odnieœliœmy tutaj piêkne zwyciêstwo. Martwi mnie tylko fakt, ¿e nied³ugo wszystkie okoliczne klany krasnoludów dowiedz¹ siê o tej masakrze. Zechc¹ zemsty.
+
+Kochan:
+To rzeczywiœcie mo¿e byæ wielkim problemem. Niemniej, nie jesteœmy w stanie ju¿ temu zaradziæ. Pozostaje nam jedynie zdaæ siê na los i pod¹¿aæ dalej nasz¹ œcie¿k¹, tak jak do tej pory.
+
+Gewold:
+O czym wy mówicie!? Cieszê siê, ¿e rozgromiliœmy naszych przeciwników! Powinniœmy otworzyæ beczu³ki z piwem i œwiêtowaæ!
+
+Aidala:
+Ta Osoba s¹dzi, ¿e nierozwa¿nie by³oby zostawaæ tu d³u¿ej. Powinniœmy raczej ruszaæ jak najszybciej, by wydostaæ siê z tych jaskiñ.
+
+Marbus:
+Zgadzam siê z Twoimi s³owami, Aidalo. Szykowaæ siê do wymarszu! Opuszczamy to miejsce!
+
+
+10A. Na progu przed siedzib¹ ducha. Wariant z jaszczurkami.
+
+Emborgi-tarash:
+Czujê jak¹œ dziwn¹ energiê w tym miejscu... Nie lêkajcie siê, jednak st¹pajcie ostro¿nie! Kto wie, co czai siê w ciemnoœciach?
+
+Duch Starego Orka:
+OdejdŸcie... Póki macie jeszcze tak¹ mo¿liwoœæ...
+
+Aidala:
+Ta Osoba czuje dreszcz. Tak wiêc demon, który zamieszka³ te pieczary, wci¹¿ potrafi mówiæ!
+
+Duch Starego Orka:
+Czemu¿ mnie nie s³uchacie? OdejdŸcie...
+
+
+10B. Na progu przed siedzib¹ ducha. Wariant z trollami.
+
+Aidala:
+Tam... W³aœnie tam Ta Osoba wyczuwa dziwn¹, star¹ magiê.
+
+Duch Starego Orka:
+OdejdŸcie... Póki macie jeszcze tak¹ mo¿liwoœæ...
+
+
+Dialogi Scenariusza Szóstego:
+
+1. Dialog pocz¹tkowy.
+
+Logo Wesnoth:
+Horda Marbusa wkroczy³a w koñcu w ciemne i wilgotne korytarze krasnoludów. Ostatni z orków: starcy i kobiety, które wlok³y za sob¹ niewielkie wózki z dobytkiem i po¿ywieniem, a tak¿e nieliczne zwierzêta hodowlane, takie jak kozy i kurczaki, zostawili za sob¹ blade œwiat³o poranka. Od teraz ich drogê mia³y rozœwietlaæ jedynie pochodnie oraz fosforyzuj¹ce grzyby, które ros³y tu i ówdzie, roztaczaj¹c brzydki, kwaskowaty zapach. Tak zaczê³a siê ich droga przez g³êbiny.
+
+Gewold:
+Fuj! Te grzyby œmierdz¹ tak strasznie, ¿e nawet nasze wargi zaczynaj¹ skomleæ. Zaczynam w¹tpiæ w sens tej wyprawy, Marbus. Idziemy ju¿ od kilku godzin, a tunele staj¹ siê coraz ciaœniejsze.
+
+Krull Ska³a:
+Grzyby œmierdz¹ i bol¹. Bol¹ w brzuch. Ja zjeœæ ich du¿o i teraz wymiotowaæ.
+
+Emborgi-tarash:
+Ta odmiana grzybów nie powinna cuchn¹æ... Zdaje siê, ¿e nawet tutaj, pod ziemi¹, natura zaczyna odczuwaæ skutki tego, co dzieje siê na powierzchni. Patrzcie wiêc dobrze, orkowi wojownicy! To najlepszy dowód na to, jak silny jest upiór, który panoszy siê po tych ziemiach.
+
+Marbus:
+Uspokój siê, Gewoldzie, albo uznam, ¿e na staroœæ zaczynasz robiæ siê zrzêdliwy. Nie ma ju¿ dla nas drogi powrotnej- musimy iœæ naprzód.
+
+Kochan:
+Przyznam jednak, ¿e i ja czujê niepokój, kuzynie. Nie chodzi tylko o same tunele, ale te¿ brak jakichkolwiek oznak krasnoludów. S¹dzi³em, ¿e na drug¹ stronê gór bêdziemy musieli przedrzeæ siê po trupach, maj¹c przy tym dok³adnie wytoczon¹ œcie¿kê. Jeœli siê tutaj zgubimy, ani gwiazdy, ani wiatr, ani wilki... Nic nie poka¿e nam drogi.
+
+Krull Ska³a:
+Trolle lata i wieki ¿y³y w takich miejscach. Ja i moi synowie wiemy, jak iœæ w ciemnoœæ, by znaleŸæ drogê. Gdy siê zgubicie, poprowadzimy.
+
+Emborgi-tarash:
+Czy¿by moje œlepe oczy widzia³y wiêcej, ni¿ wasze? Widz¹ce? Wiedzcie, ¿e mój lud nie obawia siê ciemnoœci tego miejsca. Znajdziemy drogê, choæbyœmy miêli wezwaæ naszych przodków na pomoc! I przodków naszych przodków! I przodków przodków naszych przodków równie¿!
+
+Marbus:
+Widzicie wiêc? Nie mamy siê czego obawiaæ. Odk¹d Ci nieumarli pojawili siê na pó³nocy, czujê, jakby jakaœ tajemnicza si³a prowadzi³a nas za rêkê. Choæ mo¿e jest to zabobon starych orczyc, wierzê w przeznaczenie. A naszym przeznaczeniem nie jest œmieræ w tym miejscu.
+
+Gewold:
+Cisza! Uspokójcie zaraz te wargi! S³yszycie? To szumi rzeka.
+
+Kochan:
+Dziêki przodkom! Uzupe³nimy manierki i napijemy siê do syta, jeœli oka¿e siê zdatna do picia. Mo¿liwe te¿, ¿e przy rzece znajdzie siê jakaœ krasnoludzka osada, wiêc trzymajcie miecze w pogotowiu.
+
+Marbus:
+Naprzód, moi wojownicy! Poruszajcie siê sprawnie i cicho. Nie rozdzielajcie siê jednak: nie wiadomo, jakie niebezpieczeñstwa czekaj¹ nas w tych tunelach.
+
+
+2. Dialog po wynurzeniu siê nag.
+
+Marbus:
+A có¿ to, na przodków!? Chwyæcie za miecze!
+
+Krull Ska³a:
+Trolle znaj¹ ten wygl¹d. Pod naszymi mostami, sk¹d bierzemy myto, tam czêsto one s¹. To nagi. Kobiety-wê¿e.
+
+Emborgi-tarash:
+Czy¿ nie myl¹ mnie zmys³y? Jak¿e to mo¿liwe, ¿e dumna niegdyœ rasa nag osiad³a pod ziemiê? Pamiêtam czasy, gdy nasze ludy tworzy³y jednoœæ, w³adaj¹c bagnami i rzekami na ca³ym kontynencie.
+
+Aidala:
+B¹dŸcie pozdrowieni, synowie zachodu... A mo¿e powinnam rzec: synowie pó³nocy? Imiê Tej Osoby jest Aidala. To s¹ zaœ moje córy. Jestem ich matron¹.
+
+Gewold:
+Tfu... Od lat nikt z nas nie zobaczy³ ¿adnej z nag! Od³¹czy³yœcie siê od Hordy! Niektóre z was do³¹czy³y nawet do Sojuszu Pó³nocy, mieszaj¹c siê z trytonami! Nie próbuj zaprzeczaæ, wê¿u!
+
+Marbus:
+Gewold, do diab³a! Przypominam Ci, ¿e to ja jestem teraz Wielkim Suwerenem! Milcz, gdy przychodzi do rozmowy z kimœ, kto stan¹³ na naszej drodze!
+
+Aidala:
+Spostrze¿enie Twojego kompana by³o trafne, synu pó³nocy. Wiêkszoœæ mojej rasy odwróci³a siê od tradycji i wierzeñ starszyzny. Ta Osoba jednak nigdy nie wyzby³a siê swej dumy, nigdy nie zagasi³a ¿alu i nienawiœci, która obfituje w jej sercu... A jednak... Ta Osoba nie mog³a walczyæ.
+
+Marbus:
+Opowiedz mi, co siê sta³o, pani.
+
+Aidala:
+Nieca³y wiek temu starszyzna mego ludu zwo³a³a Wielki Wiec, na którym miêliœmy radziæ, jak uchroniæ rasê Tej Osoby od klêski... Jednak na Wiecu dopad³y nas sid³a zdrady. M³ode, ¿yj¹ce w najp³ytszych wodach nagi postanowi³y zjednoczyæ siê z Sojuszem Pó³nocy i wyr¿n¹æ zdecydowan¹ wiêkszoœæ rasy Tej Osoby. Ta Osoba walczy³a zaciekle, zabijaj¹c wiele swoich córek i sióstr, jednak nie uda³o siê uratowaæ starszyzny.
+
+Aidala:
+Zosta³yœmy odciête z moimi najbardziej zaufanymi córami... Droga do morza by³a zamkniêta. Na l¹dzie zaœ czekali na nas kusznicy. Ta Osoba mog³a zgin¹æ wielk¹, s³uszn¹ œmierci¹. To jednak sprawi³oby, ¿e nie by³oby ju¿ nienawiœci wœród nag i Sojuszu Pó³nocy. Krasnoludowie, elfowie, a nawet Wielkie Królestwo Wesnoth... Wszyscy zaczêliby uto¿samiaæ rasê Tej Osoby z czymœ dobrym. Z czymœ, co wyzby³o siê mroku i do³¹czy³o do nich, by ³owiæ per³y, pomagaæ ¿eglarzom i p³yn¹æ z delfinami.
+
+Aidala:
+Ta Osoba nie mog³a tego znieœæ! Ta Osoba musia³a ¿yæ, by nienawidziæ. By daæ œwiadectwo mroku i zepsucia, Œwiadectwo Wê¿a. Ta Osoba zebra³a wszystkie swoje córy i ruszy³a w jedynym kierunku, gdzie mog³a przetrwaæ: do jaskiñ. Tutaj wiêc, w mroku i ciemnoœciach, zaczê³yœmy sk³adaæ skrzek, rosn¹æ w si³ê i czekaj¹c chwili, w której mog³ybyœmy zadaæ œmiertelny cios naszym wrogom. Ta Osoba s¹dzi, ¿e ta chwila nadesz³a.
+
+Marbus:
+Twoja opowieœæ jest pe³na pasji i mroku, pani... Wróg, który nas œciga, jest jednak jeszcze mroczniejszy. Z radoœci¹ powitam Ciebie i Twoje córki w szeregach mojej armii.
+
+Gewold:
+Przemyœl to jeszcze... Nie ka¿dy, kto nie chce nas zaatakowaæ, jest naszym przyjacielem. Mog¹ k³amaæ. Mog¹ te¿ wydaæ nasz przy pierwszej mo¿liwej okazji, do³¹czaj¹c do tych nag, które s¹ ju¿ po stronie Sojuszu Pó³nocy.
+
+Aidala:
+Sss... Zamilcz, orku... Zamilcz, albo sprawiê, ¿e zamilkniesz na wieki... Jeœli trzeba, Ta Osoba z³o¿y œluby. Ta Osoba przyrzeka na gwiazdy i wê¿e, na truciznê i miecze, na czarn¹ i czerwon¹ krew, ¿e s³u¿yæ bêdzie waszemu Wielkiemu Suwerenowi i odda siê mu ca³a!
+
+Kochan:
+Nawet w obliczu ostatnich wydarzeñ muszê przyznaæ, kuzynie, ¿e brzmi to ca³kiem nieŸle.
+
+Marbus:
+Cieszê siê, ¿e znów dopisa³ Ci humor, Kochan. Co zaœ do nag... Niech wiêc tak bêdzie. Od dzisiaj i wy jesteœcie moim ludem. Razem musimy wydostaæ siê z tych tuneli.
+
+Emborgi-tarash:
+Moje serce raduje siê na wieœæ, ¿e walczyæ bêdziemy ramiê w ramiê z wodnymi wê¿ami. Ten kontynent nie wyda³ na œwiat istot równie zaciêtych, przepe³nionych pasj¹ i nienawiœci¹, które nie pozwoli³y im odejœæ w ramiona œmierci. 
+
+Krull Ska³a:
+Trolle lubi¹ wê¿e. Niech jest miêdzy nami przyjaŸñ.
+
+Aidala:
+Wodzu mój... Pozwól mi udzieliæ Ci rady... Podziemne kar³y równie¿ odczu³y wp³yw Z³ego Ducha, który pustoszy tê krainê. S¹ s³abi... Mo¿emy razem stawiæ im czo³o, pokonuj¹c ich. Jest jednak inne rozwi¹zani. Ich stra¿nicy s¹ nieliczni, a na wiêkszoœci korytarzy brakuje im wartowników. Mo¿emy niepostrze¿enie dotrzeæ na wschód, jeœli bêdziemy iœæ ostro¿nie.
+
+Kochan:
+To dobra rada. Osobiœcie wola³bym nie braæ udzia³u w walkach: warunki terenowe zdecydowanie im sprzyjaj¹.
+
+Gewold:
+Gadanie, Kochan! Potrzebujemy z³ota i zapasów, a w ich fortyfikacjach na pewno znajdziemy tego wystarczaj¹co! Nie zabijemy ich teraz, a oni wkrótce wyjd¹ z jaskiñ i zaatakuj¹ nas w najmniej odpowiednim dla nas momencie. ¯eby nie by³o wojny, musimy zaatakowaæ ich pierwsi!
+
+Aidala:
+Wodzu mój, to nie wszystko. Ta Osoba wie coœ wiêcej... Na pó³nocy, w opuszczonych przez kar³y tunelach... Czuæ stamt¹d magiczne wibracje... Ja i moje córy s¹dzimy, ¿e mo¿e tam byæ ukryte coœ, co mog³oby siê okazaæ pomocne w przysz³oœci. A mo¿e nawet mieæ decyduj¹ce znaczenie w ostatecznym rozrachunku.
+
+Krull Ska³a:
+Skarb! Trolle chc¹ ten skarb! My nie zapomnieæ, ¿e trollom wtedy by³o dobrze, gdy mieæ skarb!
+
+Emborgi-tarash:
+Równie¿ czujê coœ magicznego... Jest tam tajemna, potê¿na si³a... Ale inna, ni¿ krasnoludzka. Wydaje mi siê, ¿e mo¿e mieæ to coœ wspólnego ze z³em, które ogarnia pó³noc. Powinniœmy mieæ tê rzecz.
+
+Marbus:
+Dziêkujê wam wszystkim za rady. Sylviano... Cokolwiek post¹piê, chcê mieæ Ciê u swego boku. Bardzo cieszê siê z tego spotkania. A teraz: w drogê!
+
+
+3. Zauwa¿a nas któryœ z krasnoludów.
+
+Krasnolud:
+Na tysi¹c beczek piwa i tonê wieprzowiny! To orkowie! Zad¹æ w rogi! Orkowie atakuj¹ nasze ziemiê!
+
+Gewold:
+W rogi?! Natychmiast niech ktoœ zacznie biæ w bêbny! Do ataku!
+
+Marbus:
+Milcz, Gewoldzie! A teraz, moja Hordo, zacz¹æ biæ w bêbny! Wyr¿n¹æ ich!
+
+Aidala:
+Ta Osoba widzi, ¿e rasa orków nie zmieni³a siê przez ten czas, w którym widzia³a j¹ ostatnim razem.
+
+
+4. Zabicie jednego z Krasnoludzkich W³adców.
+
+Marbus:
+Giñ, krasnoludzka poczwaro! To za wszystkich naszych wojowników, którzy umarli z waszych r¹k!
+
+Kochan:
+Ograbcie ich twierdzê, ¿o³nierze! Jestem pewny, ¿e maj¹ tam mnóstwo z³ota i zapasów!
+
+---Po pokonaniu dowódcy gracz dostaje 100 z³ota.---
+
+
+5. Zabicie drugiego Krasnoludzkiego W³adcy. Ten dialog pojawia siê niezale¿nie od tego, który to z w³adców. Mamy dwóch i mo¿emy ich pokonaæ naprzemiennie, ale ten wczeœniejszy dialog pojawia siê przy pokonaniu pierwszego (niezale¿nie od tego, który to z nich), a ten przy pokonaniu drugiego.
+
+Marbus:
+Pad³! Krasnoludy pierzchaj¹ do swoich nor! Odnieœliœmy tu cudowne zwyciêstwo!
+
+Gewold:
+Mój miecz krzyczy z ekscytacji! Dobiæ pozosta³ych! Nie pozwólcie nikomu prze¿yæ!
+
+Aidala:
+Ta Osoba cieszy siê, ¿e kolejna zemsta zosta³a dope³niona... Za z³oto z ich skarbców uroœniemy w si³ê...
+
+---Marbus dostaje 150 z³ota, ale scenariusz siê nie koñczy: musimy mieæ jeszcze opcjê zdobycia medalionu. Tak wiêc nasz cel misji, to dostanie siê Marbusem na wschodni skraj mapy.---
+
+
+6. Dialog wszczynania alarmu, a zostaniu zauwa¿onym. Nie wiem, czym to siê ma ró¿niæ.
+
+7. Dialog koñcowy, gdy Marbus ucieka niezauwa¿enie.
+
+Marbus:
+Uda³o siê. ¯aden z krasnoludów nie zauwa¿y³ naszego przejœcia. Dobra robota, towarzysze! Dalej, wg³¹b jaskiñ!
+
+Kochan:
+Cieszê siê, ¿e uda³o nam siê unikn¹æ niepotrzebnej walki. Musimy oszczêdzaæ si³y na wa¿niejsze starcia.
+
+Aidala:
+Sss... Ta Osoba wola³aby ukróciæ o g³owê wszystkie kar³y, ni¿ pozwoliæ im ¿yæ. Nienawiœæ do nich p³onie w naszej krwi. Zrobimy jednak to, co konieczne.
+
+8. Dialog koñcowy, gdy Marbus ucieka po alarmie.
+
+Marbus:
+Szybko, moja Hordo, do tych tuneli!
+
+Gewold:
+Co!? Mamy uciekaæ teraz, gdy ju¿ rozgorza³a walka!?
+
+Aidala:
+Ta Osoba wreszcie mog³a zanurzyæ swoje ostrze w cia³ach tych, których nienawidzi! Czemu¿ wiêc mamy przerywaæ tê s³odk¹ dla Tej Osoby chwilê?
+
+Marbus:
+Nie k³óæcie siê ze mn¹! Ruszamy, wg³¹b jaskiñ! Pamiêtajcie, ¿e naszym celem nie jest walka z krasnoludami, a przedostanie siê na drug¹ stronê gór!
+
+9A. Dialog koñcowy, gdy Marbus dociera do wschodniego krañca mapy, ale zabi³ wczeœniej wszystkich krasnoludów.
+
+Marbus:
+Nasi wrogowie ju¿ nie ¿yj¹. Odnieœliœmy tutaj piêkne zwyciêstwo. Martwi mnie tylko fakt, ¿e nied³ugo wszystkie okoliczne klany krasnoludów dowiedz¹ siê o tej masakrze. Zechc¹ zemsty.
+
+Kochan:
+To rzeczywiœcie mo¿e byæ wielkim problemem. Niemniej, nie jesteœmy w stanie ju¿ temu zaradziæ. Pozostaje nam jedynie zdaæ siê na los i pod¹¿aæ dalej nasz¹ œcie¿k¹, tak jak do tej pory.
+
+Gewold:
+O czym wy mówicie!? Cieszê siê, ¿e rozgromiliœmy naszych przeciwników! Powinniœmy otworzyæ beczu³ki z piwem i œwiêtowaæ!
+
+Aidala:
+Ta Osoba s¹dzi, ¿e nierozwa¿nie by³oby zostawaæ tu d³u¿ej. Powinniœmy raczej ruszaæ jak najszybciej, by wydostaæ siê z tych jaskiñ.
+
+Marbus:
+Zgadzam siê z Twoimi s³owami, Aidalo. Szykowaæ siê do wymarszu! Opuszczamy to miejsce!
+
+
+10A. Na progu przed siedzib¹ ducha. Wariant z jaszczurkami.
+
+Emborgi-tarash:
+Czujê jak¹œ dziwn¹ energiê w tym miejscu... Nie lêkajcie siê, jednak st¹pajcie ostro¿nie! Kto wie, co czai siê w ciemnoœciach?
+
+Duch Starego Orka:
+OdejdŸcie... Póki macie jeszcze tak¹ mo¿liwoœæ...
+
+Aidala:
+Ta Osoba czuje dreszcz. Tak wiêc demon, który zamieszka³ te pieczary, wci¹¿ potrafi mówiæ!
+
+Duch Starego Orka:
+Czemu¿ mnie nie s³uchacie? OdejdŸcie...
+
+
+10B. Na progu przed siedzib¹ ducha. Wariant z trollami.
+
+Aidala:
+Tam... W³aœnie tam Ta Osoba wyczuwa dziwn¹, star¹ magiê.
+
+Duch Starego Orka:
+OdejdŸcie... Póki macie jeszcze tak¹ mo¿liwoœæ...
+
+Aidala:
+Ta Osoba czuje dreszcz. Tak wiêc demon, który zamieszka³ te pieczary, wci¹¿ potrafi mówiæ!
+
+Duch Starego Orka:
+Czemu¿ mnie nie s³uchacie? OdejdŸcie...
+
+
+11. Zobaczenie ducha.
+
+Gewold:
+Na orkowe miecze i sto tysiêcy gobliñskich bêkartów! Nieumarli!
+
+Aidala:
+Nie... Ten duch nie nale¿y do tych, które nêkaj¹ pó³noc, prawda? Kim¿e wiêc jesteœ?
+
+Duch Starego Orka:
+Me imiê jest... Nie... Nie jest ono istotne w opowieœci, w której bierzecie teraz udzia³... Wiedzcie tyle, ¿e jestem duchem tego, który by³ przed wami, wielkiego wodza orków, który ¿y³ w dawnych czasach... OdejdŸcie...
+
+Marbus:
+Moi podw³adni wykryli dziwn¹ magiê wokó³ Ciebie. A jesteœmy teraz w sytuacji, w której przyda siê nam ka¿da magia. Uciekamy przed nieumar³ymi, którzy zaczêli panoszyæ siê na pó³nocy. Pomó¿ nam, jeœli mo¿esz, duchu.
+
+Duch Starego Orka:
+Uciekacie...? Wiêc dumna rasa orków ucieka przed nieumar³ymi duszami...? Znów...
+
+Aidala:
+Znów? Ta Osoba myœli, ¿e wiesz wiêcej, ni¿ siê zdaje. Czy to, co dzieje siê teraz na pó³nocy, dzia³o siê ju¿ wczeœniej?
+
+Duch Starego Orka:
+. . .
+
+Marbus:
+Zaklinam Ciê, duchu! Wiedz, ¿e teraz to ja jestem Wielkim Suwerenem Hordy... W mojej mocy jest Ci rozkazaæ. Odpowiedz nam!
+
+Duch Starego Orka:
+Tak... To ju¿ mia³o miejsce... Ale nie tutaj, a na dalekim, dalekim zachodzie... Gdy mroczny lud Wesfolk stan¹³ przed nami, wyrywaj¹c nas z krain bitewnych... Naszego pierwotnego œwiata, z którego zostaliœmy przyzwani przez liczów...
+
+Duch Starego Orka:
+Zosta³y otwarte portale, którymi dostaliœmy siê do tego œwiata... To jednak nie koniec opowieœci... Bowiem zostaliœmy zdradzeni... W³adcy Liczów zorientowali siê, jak wielk¹ potêgê stanowiliœmy... Nie mogli trzymaæ nas w garœci, póki istnia³y ich portale... By je zamkn¹æ, u¿yli ca³ej swojej wiedzy i magii, jak¹ posiadali. Straszne i potê¿ne by³y to czary, jakich nie ma ju¿ na œwiecie i nie bêdzie, póki drugie s³oñce nie zaœwieci nad kontynentem.
+
+Duch Starego Orka:
+Portale zosta³y zamkniête, a droga do naszej ojczyzny zosta³a nam odebrana. Nim jednak to siê sta³o, z naszego pierwotnego œwiata przyby³o tu coœ jeszcze... Coœ, czego imienia nie pamiêtamy, a co sprawia, ¿e ani sen, ani jad³o, ani kobieta... Nic nie jest w stanie zaspokoiæ pragnienia krwi, które czujemy. To coœ nawiedza teraz pó³noc.
+
+Aidala:
+Pradawna jest twoja historia, duchu... Ta Osoba oœmiela siê spytaæ... Jak powstrzymaæ to, co siê teraz dzieje?
+
+Duch Starego Orka:
+Próbowaliœmy wielu rzeczy, by zawróciæ niepowstrzyman¹ rzekê przeznaczenia... Nic nie jest w stanie odmieniæ losu... IdŸcie, precz! Wystarczaj¹co du¿o ju¿ wam powiedzia³em... OdejdŸcie st¹d i zgiñcie wedle w³asnego uznania!
+
+
+12. Zaatakowanie ducha. Event pojawia siê tylko wtedy, gdy pierwsz¹ atakuj¹c¹ jednostkê nie bêdzie troll, naga, jaszczurka b¹dŸ wilk.
+
+Jednostka atakuj¹ca:
+Moje ataki nie robi¹ na nim wiêkszego wra¿enia!
+
+Duch Starego Orka:
+Nie mo¿ecie mnie pokonaæ, ¿ywotne istoty... Ja jestem bytem duchowym...
+
+
+13. Duch atakuje nas pierwszy.
+
+Duch Starego Orka:
+Wynoœcie siê st¹d... Zostawcie przesz³oœæ w spokoju...
+
+
+14. Pokonanie ducha.
+
+Duch Starego Orka:
+Ja... Przegra³em...
+
+Marbus:
+Mo¿e i jesteœ duchem wielkiego wojownika i wodza, ale mimo wszystko, nadal jesteœ tylko duchem! A teraz powiedz nam, jak rozprawiæ siê z nieumar³ymi, którzy panosz¹ siê po pó³nocy?
+
+Duch Starego Orka:
+Skoro uwa¿asz, ¿e Tobie siê uda... WeŸ wiêc mój amulet... Mo¿e z nim odmienisz... Losy... Swego ludu... Naszego ludu...
+
+
+15. Jednostka bêd¹ca orkiem wchodzi na amulet.
+
+Ta jednostka:
+Zawo³ajcie tu Wielkiego Suwerena! Powinien to wzi¹æ...
+
+16. Jednostka bêd¹ca trollem wchodzi na amulet.
+
+Krull Ska³a:
+Ta rzecz nie dla trollów. My zawo³aæ m¹drego orka.
+
+17. Naga wchodzi na amulet.
+
+Naga:
+Czujê od tego dziwn¹ magiê... Niech Wielki Ork zajmie siê tym przedmiotem.
+
+18. Aidala wchodzi na amulet.
+
+Aidala:
+Czujê od tego dziwn¹ magiê... Niech Wielki Ork zajmie siê tym przedmiotem.
+
+19. Aidala wchodzi na amulet po raz drugi.
+
+Aidala:
+Ta Osoba zwie siê Aidala... Chcesz z³o¿yæ ze mn¹ skrzek?
+
+Narrator (logo Wesnoth):
+Ten dialog zosta³ tu umieszczony przez twórców. Tak naprawdê nagi nie sk³adaj¹ skrzeku.
+
+20. Wilk wchodzi na amulet.
+
+Wilk:
+Warf, warf!
+
+Kochan:
+Zostaw... O nie, pogryz³ go!
+
+Marbus:
+Zdaje mi siê, ¿e amuletowi nic siê nie sta³o. Patrzcie! Futro Jêczmienia œwieci nowym blaskiem!
+
+21. Jaszczurka wchodzi na amulet.
+
+Jaszczurka:
+Amulet magiczny... Dziwna to rzecz... Niech przywódca Hordy j¹ zabierze.
+
+22. Marbus wchodzi na amulet.
+
+Marbus:
+To dziwny przedmiot... Pierwszy raz czujê coœ takiego, gdy go zak³adam... Taki... Mistycyzm.
+
+Kochan:
+Mam tylko nadziejê, ¿e nie bêdziesz mówiæ tak, jak tamten duch. Urywane zdania nie s¹ w Twoim stylu, kuzynie. Powinniœmy ju¿ ruszaæ dalej.
+
+Aidala:
+Ta Osoba myœli, ¿e Wielki Suweren powinien zatrzymaæ tê rzecz. Mo¿e okazaæ siê naprawdê wartoœciowa.
+
+22a. Ci¹g dalszy dialogu, jeœli mamy ze sob¹ Jêczmienia.
+
+Wilk:
+Warf, warf!
+
+---Wilk podbiega teraz do Marbusa---
+
+Marbus:
+Hej, zostaw mnie, ma³y!
+
+Marbus:
+Jêczmieñ pogryz³ amulet... Jego futro œwieci teraz nowym blaskiem.
+
+23. Dialog œmierci Aidali:
+
+Aidala:
+Sss... Ta Osoba pop³ynie teraz rzek¹ umar³ych nag...
+
+Ka¿da naga zrekrutowana w scenariuszu mówi dialog:
+Sss... Nasza Matrona umiera...
+
+---Scenariusz siê koñczy---
