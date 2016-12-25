@@ -3,19 +3,19 @@ Dialogi Scenariusza Szóstego:
 1. Dialog pocz¹tkowy.
 
 Logo Wesnoth:
-Horda Marbusa wkroczy³a w koñcu w ciemne i wilgotne korytarze krasnoludów. Ostatni z orków: starcy i kobiety, które wlok³y za sob¹ niewielkie wózki z dobytkiem i po¿ywieniem, a tak¿e nieliczne zwierzêta hodowlane, takie jak kozy i kurczaki, zostawili za sob¹ blade œwiat³o poranka. Od teraz ich drogê mia³y rozœwietlaæ jedynie pochodnie oraz fosforyzuj¹ce grzyby, które ros³y tu i ówdzie, roztaczaj¹c brzydki, kwaskowaty zapach. Tak zaczê³a siê ich droga przez g³êbiny.
+At last, Marbus's horde strided into the dark and dump dwarven corridors. Last of the orcs: oldsters and women, who dragged little carts with belongings and food, as well as a small livestock, such as goats and chickens. left behind the pale light of dawn. Now, their path would only be brighted by torches and phosphorescing fungi, which grow here and there, effusing a nasty, acrid smell. That's how their journey through the deeps begins.
 
 Gewold:
-Fuj! Te grzyby œmierdz¹ tak strasznie, ¿e nawet nasze wargi zaczynaj¹ skomleæ. Zaczynam w¹tpiæ w sens tej wyprawy, Marbus. Idziemy ju¿ od kilku godzin, a tunele staj¹ siê coraz ciaœniejsze.
+Yuk! These mushrooms stink so terrible, that even our wargs start to yelp. I start to doubt in the point of our journey, Marbus. We are already going for few hours, and the tunnels are becoming narrower.
 
 Krull Ska³a:
-Grzyby œmierdz¹ i bol¹. Bol¹ w brzuch. Ja zjeœæ ich du¿o i teraz wymiotowaæ.
+Shrooms stink and hurt. Hurt in belly. I eaten too much and now vomit.
 
 Emborgi-tarash:
-Ta odmiana grzybów nie powinna cuchn¹æ... Zdaje siê, ¿e nawet tutaj, pod ziemi¹, natura zaczyna odczuwaæ skutki tego, co dzieje siê na powierzchni. Patrzcie wiêc dobrze, orkowi wojownicy! To najlepszy dowód na to, jak silny jest upiór, który panoszy siê po tych ziemiach.
+This type of mushrooms shouldn't stink... It looks like even here, beneath the ground, nature starts to feel the results of what is happening on the surface. Thus take a good look, orcish warriors! This is the best evidence of how strong is the ghost, who runs rampant on these lands.
 
 Marbus:
-Uspokój siê, Gewoldzie, albo uznam, ¿e na staroœæ zaczynasz robiæ siê zrzêdliwy. Nie ma ju¿ dla nas drogi powrotnej- musimy iœæ naprzód.
+Calm down, Gewold, or I will deem that you are becoming crusty due to the old age. There is no way back for us - we must move forward.
 
 Kochan:
 Przyznam jednak, ¿e i ja czujê niepokój, kuzynie. Nie chodzi tylko o same tunele, ale te¿ brak jakichkolwiek oznak krasnoludów. S¹dzi³em, ¿e na drug¹ stronê gór bêdziemy musieli przedrzeæ siê po trupach, maj¹c przy tym dok³adnie wytoczon¹ œcie¿kê. Jeœli siê tutaj zgubimy, ani gwiazdy, ani wiatr, ani wilki... Nic nie poka¿e nam drogi.
@@ -120,16 +120,16 @@ Dziêkujê wam wszystkim za rady. Sylviano... Cokolwiek post¹piê, chcê mieæ Ciê u 
 3. Zauwa¿a nas któryœ z krasnoludów.
 
 Krasnolud:
-Na tysi¹c beczek piwa i tonê wieprzowiny! To orkowie! Zad¹æ w rogi! Orkowie atakuj¹ nasze ziemiê!
+For one thousand barrels of bear and a ton of pork! These are orcs! Blow into the horns! Orcs are attacking our lands!
 
 Gewold:
-W rogi?! Natychmiast niech ktoœ zacznie biæ w bêbny! Do ataku!
+Into the horns?! Somebody immediately start beating in drums! To the attack!
 
 Marbus:
-Milcz, Gewoldzie! A teraz, moja Hordo, zacz¹æ biæ w bêbny! Wyr¿n¹æ ich!
+Silence, Gewold! And now, my Horde, start beating in drums! Slaughter them!
 
 Aidala:
-Ta Osoba widzi, ¿e rasa orków nie zmieni³a siê przez ten czas, w którym widzia³a j¹ ostatnim razem.
+This Person sees, that orcish race hasn't changed since the last time she saw them.
 
 
 4. Zabicie jednego z Krasnoludzkich W³adców.
@@ -162,13 +162,13 @@ Ta Osoba cieszy siê, ¿e kolejna zemsta zosta³a dope³niona... Za z³oto z ich skar
 7. Dialog koñcowy, gdy Marbus ucieka niezauwa¿enie.
 
 Marbus:
-Uda³o siê. ¯aden z krasnoludów nie zauwa¿y³ naszego przejœcia. Dobra robota, towarzysze! Dalej, wg³¹b jaskiñ!
+We made it. None of the dwarves noticed out pass. Well done, companions! Onward, into these caves!
 
 Kochan:
-Cieszê siê, ¿e uda³o nam siê unikn¹æ niepotrzebnej walki. Musimy oszczêdzaæ si³y na wa¿niejsze starcia.
+I'm glad that we managed to avoid unneccessary fight. We must save our forces for more important battles.
 
 Aidala:
-Sss... Ta Osoba wola³aby ukróciæ o g³owê wszystkie kar³y, ni¿ pozwoliæ im ¿yæ. Nienawiœæ do nich p³onie w naszej krwi. Zrobimy jednak to, co konieczne.
+Sss... This Person would prefer to behead every dwarf, rather than let them live. Hatred to them is burning in our blood. But we will do what is neccesary.
 
 8. Dialog koñcowy, gdy Marbus ucieka po alarmie.
 
@@ -277,57 +277,57 @@ Próbowaliœmy wielu rzeczy, by zawróciæ niepowstrzyman¹ rzekê przeznaczenia... Ni
 12. Zaatakowanie ducha. Event pojawia siê tylko wtedy, gdy pierwsz¹ atakuj¹c¹ jednostkê nie bêdzie troll, naga, jaszczurka b¹dŸ wilk.
 
 Jednostka atakuj¹ca:
-Moje ataki nie robi¹ na nim wiêkszego wra¿enia!
+My attacks do not impress him!
 
 Duch Starego Orka:
-Nie mo¿ecie mnie pokonaæ, ¿ywotne istoty... Ja jestem bytem duchowym...
+You can't beat me, living beings... I'm a spiritual entity...
 
 
 13. Duch atakuje nas pierwszy.
 
 Duch Starego Orka:
-Wynoœcie siê st¹d... Zostawcie przesz³oœæ w spokoju...
+Get out of here... Leave the past alone...
 
 
 14. Pokonanie ducha.
 
 Duch Starego Orka:
-Ja... Przegra³em...
+I... Lost...
 
 Marbus:
-Mo¿e i jesteœ duchem wielkiego wojownika i wodza, ale mimo wszystko, nadal jesteœ tylko duchem! A teraz powiedz nam, jak rozprawiæ siê z nieumar³ymi, którzy panosz¹ siê po pó³nocy?
+Maybe you are a ghost of a great warrior and chief, but in spite of all, you still are but a ghost! And now tell us, how to deal with these undead, who run rampart in the north?
 
 Duch Starego Orka:
-Skoro uwa¿asz, ¿e tobie siê uda... WeŸ wiêc mój amulet... Mo¿e z nim odmienisz... Losy... Swego ludu... Naszego ludu...
+If you think, that you will manage to do it... Then take my necklace... Maybe with it you will change... The destiny... Of your people... Our people...
 
 
 15. Jednostka bêd¹ca orkiem wchodzi na amulet.
 
 Ta jednostka:
-Zawo³ajcie tu Wielkiego Suwerena! Powinien to wzi¹æ...
+Call the Great Suverein over here! He should take it...
 
 16. Jednostka bêd¹ca trollem wchodzi na amulet.
 
 Krull Ska³a:
-Ta rzecz nie dla trollów. My zawo³aæ m¹drego orka.
+This thing not for trolls. We call smart orc.
 
 17. Naga wchodzi na amulet.
 
 Naga:
-Czujê od tego dziwn¹ magiê... Niech Wielki Ork zajmie siê tym przedmiotem.
+I feel a weird magic in this thing... May the Great Orc take care of it.
 
 18. Aidala wchodzi na amulet.
 
 Aidala:
-Czujê od tego dziwn¹ magiê... Niech Wielki Ork zajmie siê tym przedmiotem.
+I feel a weird magic in this thing... May the Great Orc take care of it.
 
 19. Aidala wchodzi na amulet po raz drugi.
 
 Aidala:
-Ta Osoba zwie siê Aidala... Chcesz z³o¿yæ ze mn¹ skrzek?
+This Person's name is Aidala... Do you want to spawn with me?
 
 Narrator (logo Wesnoth):
-Ten dialog zosta³ tu umieszczony przez twórców. Tak naprawdê nagi nie sk³adaj¹ skrzeku.
+This dialogue was placed here by the autors. Actually, nagas do not spawn.
 
 20. Wilk wchodzi na amulet.
 
@@ -335,42 +335,42 @@ Wilk:
 Warf, warf!
 
 Kochan:
-Zostaw... O nie, pogryz³ go!
+Leave it... Oh no, he has bitten it!
 
 Marbus:
-Zdaje mi siê, ¿e amuletowi nic siê nie sta³o. Patrzcie! Futro Jêczmienia œwieci nowym blaskiem!
+It looks like nothing has happened to the medalion. Hey, take a look! Barley's fur is shining!
 
 20a. Wilk wchodzi na amulet poraz kolejny.
 
 Kochan:
-Jêczmieñ, zostaw!
+Barley! Leave it!
 
 Wilk:
-Auu!
+Owww!
 
 21. Jaszczurka wchodzi na amulet.
 
 Jaszczurka:
-Amulet magiczny... Dziwna to rzecz... Niech przywódca Hordy j¹ zabierze.
+Magical necklace... A weird thing it is... Shall the leader of the Horde take it.
 
 22. Marbus wchodzi na amulet.
 
 Marbus:
-To dziwny przedmiot... Pierwszy raz czujê coœ takiego, gdy go zak³adam... Taki... Mistycyzm.
+This is a weird thing... When I put it on, it's the first time I feel something like this... Such a... Mysticism...
 
 Kochan:
-Mam tylko nadziejê, ¿e nie bêdziesz mówiæ tak jak tamten duch. Urywane zdania nie s¹ w twoim stylu, kuzynie. Powinniœmy ju¿ ruszaæ dalej.
+I only hope that you won't talk like this ghost did. Broken sentences aren't in your style, cousin. We should already move forward.
 
 Aidala:
-Ta Osoba myœli, ¿e Wielki Suweren powinien zatrzymaæ tê rzecz. Mo¿e okazaæ siê naprawdê wartoœciowa.
+This person thinks that the Great Suverein should keep this thing. It might turn out to be really valuable.
 
 23. Dialog œmierci Aidali:
 
 Aidala:
-Sss... Ta Osoba pop³ynie teraz rzek¹ umar³ych nag...
+Sss... This Person will now swim in the river of dead nagas...
 
 Ka¿da naga zrekrutowana w scenariuszu mówi dialog:
-Sss... Nasza Matrona umiera...
+Sss... Our matron is dying...
 
 ---Scenariusz siê koñczy---
 
@@ -380,17 +380,17 @@ Dialogi Opcjonalne Scenariusza Szóstego:
 1. Jednostka wchodzi na wioskê z usypanych kamieni. Dialog rozpoczyna siê tylko wówczas, gdy mamy ze sob¹ Trolle.
 
 Kochan:
-Zastanawia mnie, jakie prymitywy ¿yj¹ w tych podziemiach... Ta kamienna wioska wcale nie przypomina krasnoludzkiej...
+I wonder what primitives are living beneath the grounds... This stone village doesn't look dwarven at all...
 
 Krull Ska³a:
-To nie jest robota kar³ów! To robota silnych trolli! Nasza architektura byæ gustowna i wyszukana, prawda?
+This not dwarf work! This strong trolls' work! Our architecture is stylish and sophisticated, is it not?
 
 Kochan:
-Trudno zaprzeczyæ. Wygl¹da uroczo.
+Hard to deny. It is charming.
 
 2. Starcie jakiejœ jednostki orków z nietoperzami (uwaga: niech to nie jest wilk, troll, jaszczurka, naga...).
 
 Jednostka zaatakowana przez nietoperza:
-Sio! Wynoœ siê! Ehh... Czego jak czego, ale nietoperzy siê tutaj naprawdê spodziewa³em.
+Eww! Get out! Of all the things, I really didn't expected bats to be here.
 
 3. To z rzek¹ sobie odpuœæmy.
