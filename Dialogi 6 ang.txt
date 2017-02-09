@@ -3,7 +3,7 @@ Dialogi Scenariusza Szóstego:
 1. Dialog pocz¹tkowy.
 
 Logo Wesnoth:
-At last, Marbus's horde strided into the dark and dump dwarven corridors. Last of the orcs: oldsters and women, who dragged little carts with belongings and food, as well as a small livestock, such as goats and chickens. left behind the pale light of dawn. Now, their path would only be brighted by torches and phosphorescing fungi, which grow here and there, effusing a nasty, acrid smell. That's how their journey through the deeps begins.
+At last, Marbus's horde strided into the dark and dump dwarven corridors. Last of the orcs: oldsters and women, who dragged little carts with belongings and food, as well as a small livestock, such as goats and chickens, left behind the pale light of dawn. Now, their path would only be brighted by torches and phosphorescing fungi, which grow here and there, effusing a nasty, acrid smell. That's how their journey through the deeps begins.
 
 Gewold:
 Yuk! These mushrooms stink so terrible, that even our wargs start to yelp. I start to doubt in the point of our journey, Marbus. We are already going for few hours, and the tunnels are becoming narrower.
@@ -18,60 +18,61 @@ Marbus:
 Calm down, Gewold, or I will deem that you are becoming crusty due to the old age. There is no way back for us - we must move forward.
 
 Kochan:
-Przyznam jednak, ¿e i ja czujê niepokój, kuzynie. Nie chodzi tylko o same tunele, ale te¿ brak jakichkolwiek oznak krasnoludów. S¹dzi³em, ¿e na drug¹ stronê gór bêdziemy musieli przedrzeæ siê po trupach, maj¹c przy tym dok³adnie wytoczon¹ œcie¿kê. Jeœli siê tutaj zgubimy, ani gwiazdy, ani wiatr, ani wilki... Nic nie poka¿e nam drogi.
+I must admit, however, that I feel unease as well, cousin. And it's not just about the tunnels, but about the lack of any traces of dwarves. I believed that we will force our way to the other side over their corpses, having a precisely determined path. If we get lost here, then neither starts, nor winds, nor wolves... Nothing will show us the way.
 
 Krull Ska³a:
-Trolle lata i wieki ¿y³y w takich miejscach. Ja i moi synowie wiemy, jak iœæ w ciemnoœæ, by znaleŸæ drogê. Gdy siê zgubicie, poprowadzimy.
+Trolls been living here for years and ages. I and my sons know, how to walk in gloom, to find way. When you get lost, we will lead.
 
 Emborgi-tarash:
-Czy¿by moje œlepe oczy widzia³y wiêcej, ni¿ wasze? Widz¹ce? Wiedzcie, ¿e mój lud nie obawia siê ciemnoœci tego miejsca. Znajdziemy drogê, choæbyœmy miêli wezwaæ naszych przodków na pomoc! I przodków naszych przodków! I przodków przodków naszych przodków równie¿!
+Can it be, that my blind eyes saw more, than yours? Seeing? You see, my kin isn't afraid of the darkness of this place. We will find a way, even if we will have to call our ancestors for assistance! And the ancestors of ours ancestors! And the ancestors of our ancestors' ancestors as well!
 
 Marbus:
-Widzicie wiêc? Nie mamy siê czego obawiaæ. Odk¹d Ci nieumarli pojawili siê na pó³nocy, czujê, jakby jakaœ tajemnicza si³a prowadzi³a nas za rêkê. Choæ mo¿e jest to zabobon starych orczyc, wierzê w przeznaczenie. A naszym przeznaczeniem nie jest œmieræ w tym miejscu.
+You see, then? We have nothing to be afraid of. Since when these undead appeared in the north, I feel like if an arcane force leadead us by the hand. Although it might be old' orcsess' superstition, I believe in the destiny. And death at this place isn't our destiny.
 
 Gewold:
-Cisza! Uspokójcie zaraz te wargi! S³yszycie? To szumi rzeka.
+Silence! Calm down these wargs right now! Can you hear that? It's a sough of a river.
 
 Kochan:
-Dziêki przodkom! Uzupe³nimy manierki i napijemy siê do syta, jeœli oka¿e siê zdatna do picia. Mo¿liwe te¿, ¿e przy rzece znajdzie siê jakaœ krasnoludzka osada, wiêc trzymajcie miecze w pogotowiu.
+Thank forefathers! We will replenish our canteens and drink to our's fill, provided the waters is drinkable. It's also possible, that by the river will be found a dwarven settlement, so have yours swords ready.
 
 Marbus:
-Naprzód, moi wojownicy! Poruszajcie siê sprawnie i cicho. Nie rozdzielajcie siê jednak: nie wiadomo, jakie niebezpieczeñstwa czekaj¹ nas w tych tunelach.
+Onward, my warriors! Move defty and quietly! Don't split up, however - we don't know, what dangers will await us in these tunnels.
 
 
 2. Dialog po wynurzeniu siê nag.
 
 Marbus:
-A có¿ to, na przodków!? Chwyæcie za miecze!
+What's that, for the ancestors!? Grab yours swords!
 
 Krull Ska³a:
-Trolle znaj¹ ten wygl¹d. Pod naszymi mostami, sk¹d bierzemy myto, tam czêsto one s¹. To nagi. Kobiety-wê¿e.
+Trolls know the look. Under our bridges, where we take toll, there they often are. They are nagas. Snake-women.
 
 Emborgi-tarash:
-Czy¿ nie myl¹ mnie zmys³y? Jak¿e to mo¿liwe, ¿e dumna niegdyœ rasa nag osiad³a pod ziemiê? Pamiêtam czasy, gdy nasze ludy tworzy³y jednoœæ, w³adaj¹c bagnami i rzekami na ca³ym kontynencie.
+Are the senses failing me? How is it possible, that once a proud race of nagas settled under the ground? I remember times, when our kins made one, ruling the swamps and rivers on the whole continent.
 
 Aidala:
-B¹dŸcie pozdrowieni, synowie zachodu... A mo¿e powinnam rzec: synowie pó³nocy? Imiê Tej Osoby jest Aidala. To s¹ zaœ moje córy. Jestem ich matron¹.
+Greetings, sons of the west... Or should I say: sons of the north? This Person's name is Aidala. And these are my daughters. I'm their matriarch.
 
 Gewold:
-Tfu... Od lat nikt z nas nie zobaczy³ ¿adnej z nag! Od³¹czy³yœcie siê od Hordy! Niektóre z was do³¹czy³y nawet do Sojuszu Pó³nocy, mieszaj¹c siê z trytonami! Nie próbuj zaprzeczaæ, wê¿u!
+Yuk... For years, nobody has seen any naga! You split off from the Horde! Some of you even tried to join the Northen Alliance, mating with tritons! Don't try to contradict, snake!
 
 Marbus:
-Gewold, do diab³a! Przypominam Ci, ¿e to ja jestem teraz Wielkim Suwerenem! Milcz, gdy przychodzi do rozmowy z kimœ, kto stan¹³ na naszej drodze!
+Gewold, go to hell! I reminder You, that it's me who is the Great Sovereign now! Be silent, when it comes to talking with someone, who got on our way!
 
 Aidala:
-Spostrze¿enie Twojego kompana by³o trafne, synu pó³nocy. Wiêkszoœæ mojej rasy odwróci³a siê od tradycji i wierzeñ starszyzny. Ta Osoba jednak nigdy nie wyzby³a siê swej dumy, nigdy nie zagasi³a ¿alu i nienawiœci, która obfituje w jej sercu... A jednak... Ta Osoba nie mog³a walczyæ.
+Your companion's remark was spot-on, son of the north. The majority of my race would turn their backs on our tradition and the elders' beliefs. This Person, however, never got rid of her pride, never quenched the sorrow and hatred, that abound in her heart... And yet... This Person couldn't fight.
 
 Marbus:
-Opowiedz mi, co siê sta³o, pani.
+Tell me, what has happened, lady.
 
 Aidala:
-Nieca³y wiek temu starszyzna mego ludu zwo³a³a Wielki Wiec, na którym miêliœmy radziæ, jak uchroniæ rasê Tej Osoby od klêski... Jednak na Wiecu dopad³y nas sid³a zdrady. M³ode, ¿yj¹ce w najp³ytszych wodach nagi postanowi³y zjednoczyæ siê z Sojuszem Pó³nocy i wyr¿n¹æ zdecydowan¹ wiêkszoœæ rasy Tej Osoby. Ta Osoba walczy³a zaciekle, zabijaj¹c wiele swoich córek i sióstr, jednak nie uda³o siê uratowaæ starszyzny.
+Less than one century ago, elders of my kin called a great meeting, on which we were supposed to debate, how to save This Person's race from defeat... But on the meeting we faced a betrayal. Young nagas, living in the most shallow waters, decided to join forces with the Nortern Alliance and murdered the vast majority of This Person's race. This person fought fiercely, killing many of her daughters and sisters, but she couldn't save the elders.
 
 Aidala:
-Zosta³yœmy odciête z moimi najbardziej zaufanymi córami... Droga do morza by³a zamkniêta. Na l¹dzie zaœ czekali na nas kusznicy. Ta Osoba mog³a zgin¹æ wielk¹, s³uszn¹ œmierci¹. To jednak sprawi³oby, ¿e nie by³oby ju¿ nienawiœci wœród nag i Sojuszu Pó³nocy. Krasnoludowie, elfowie, a nawet Wielkie Królestwo Wesnoth... Wszyscy zaczêliby uto¿samiaæ rasê Tej Osoby z czymœ dobrym. Z czymœ, co wyzby³o siê mroku i do³¹czy³o do nich, by ³owiæ per³y, pomagaæ ¿eglarzom i p³yn¹æ z delfinami.
+I got sealed off with my most trusted daughters... The road to the sea was closed. And on land, crossbowmen were waiting for us. This Person could die a great, rightful death... However, it would cause that there wouldn't be any hatred between nagas and Northern Alliance anymore. Dwarves, elves and even The Great Kingdom of Wesnoth... Everyone would start equating This Person's race with something good. With something, that got rid of its darkness and joined them, to hunt pearls, help sailors and swim with dolphins.
 
 Aidala:
+This Person couldn't stand that! This Person had to live, to hate. To
 Ta Osoba nie mog³a tego znieœæ! Ta Osoba musia³a ¿yæ, by nienawidziæ. By daæ œwiadectwo mroku i zepsucia, Œwiadectwo Wê¿a. Ta Osoba zebra³a wszystkie swoje córy i ruszy³a w jedynym kierunku, gdzie mog³a przetrwaæ: do jaskiñ. Tutaj wiêc, w mroku i ciemnoœciach, zaczê³yœmy sk³adaæ skrzek, rosn¹æ w si³ê i czekaj¹c chwili, w której mog³ybyœmy zadaæ œmiertelny cios naszym wrogom. Ta Osoba s¹dzi, ¿e ta chwila nadesz³a.
 
 Marbus:
@@ -173,33 +174,34 @@ Sss... This Person would prefer to behead every dwarf, rather than let them live
 8. Dialog koñcowy, gdy Marbus ucieka po alarmie.
 
 Marbus:
+Quickly, my Horde, to these tunnels!
 Szybko, moja Hordo, do tych tuneli!
 
 Gewold:
-Co!? Mamy uciekaæ teraz, gdy ju¿ rozgorza³a walka!?
+What!? We are fleeing now, after they battle already started!?
 
 Aidala:
-Ta Osoba wreszcie mog³a zanurzyæ swoje ostrze w cia³ach tych, których nienawidzi! Czemu¿ wiêc mamy przerywaæ tê s³odk¹ dla Tej Osoby chwilê?
+This Person could dip her blade in the bodies of these, whom she hates! Why do we have to interrupt such a sweet for This Person moment?
 
 Marbus:
-Nie k³óæcie siê ze mn¹! Ruszamy, wg³¹b jaskiñ! Pamiêtajcie, ¿e naszym celem nie jest walka z krasnoludami, a przedostanie siê na drug¹ stronê gór!
+Stop arguing with me! Move on, deeper into the cavern! Remember, that our goal isn't a fight with dwarves, but getting into the other side of the mountains!
 
 9A. Dialog koñcowy, gdy Marbus dociera do wschodniego krañca mapy, ale zabi³ wczeœniej wszystkich krasnoludów.
 
 Marbus:
-Nasi wrogowie ju¿ nie ¿yj¹. Odnieœliœmy tutaj piêkne zwyciêstwo. Martwi mnie tylko fakt, ¿e nied³ugo wszystkie okoliczne klany krasnoludów dowiedz¹ siê o tej masakrze. Zechc¹ zemsty.
+Our opponents are dead. We achieved a great victory over here. But I'm worried that soon, all nearby dwarven clans will find out about this massacre. They will seek revenge.
 
 Kochan:
-To rzeczywiœcie mo¿e byæ wielkim problemem. Niemniej, nie jesteœmy w stanie ju¿ temu zaradziæ. Pozostaje nam jedynie zdaæ siê na los i pod¹¿aæ dalej nasz¹ œcie¿k¹, tak jak do tej pory.
+This indeed might become a big problem. Still, we aren't able to prevent it anymore. All what's left for us is to count of the destiny and follow the path, like we did so far.
 
 Gewold:
-O czym wy mówicie!? Cieszê siê, ¿e rozgromiliœmy naszych przeciwników! Powinniœmy otworzyæ beczu³ki z piwem i œwiêtowaæ!
+What are you talking about!? I rejoice, that we vanquished our opponents! We should open barrels of beer and feast!
 
 Aidala:
-Ta Osoba s¹dzi, ¿e nierozwa¿nie by³oby zostawaæ tu d³u¿ej. Powinniœmy raczej ruszaæ jak najszybciej, by wydostaæ siê z tych jaskiñ.
+This Person thinks, that staying here would be irresonable. We should rather move as soon as possible, to leave these caves.
 
 Marbus:
-Zgadzam siê z Twoimi s³owami, Aidalo. Szykowaæ siê do wymarszu! Opuszczamy to miejsce!
+I agree with Your words, Aidala. Get ready to march off! We are leaving this place!
 
 
 10A. Na progu przed siedzib¹ ducha. Wariant z jaszczurkami.
