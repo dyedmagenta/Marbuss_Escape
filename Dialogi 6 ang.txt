@@ -105,7 +105,7 @@ Gewold:
 Quit babbling, Kochan! We require gold and supplies and there should be plenty in their fortifications! If we will not kill them now, they will emerge from the caves and attack us in the least expected moment. To avoid open war we must attack first!
 
 Aidala:
-My chieftain that is not all. This Person knows more... In the north, in the tunnels abbandoned by the midgets... I can feel magic vibrations from there... Me and my daughters think, that there can be hidden something that could prove useful in the future. It can even have the deciding touch in the final encounter.
+My chieftain, this is not everything. This Person knows more... In the north, in the tunnels abbandoned by the midgets... I can feel magic vibrations from there... Me and my daughters think, that there can be hidden something that could prove useful in the future. It can even have the deciding touch in the final encounter.
 
 Krull Ska³a:
 Treasure! Trolls want that treasure! We not forgot, that trolls were good, when trolls had treasure!
@@ -114,7 +114,7 @@ Emborgi-tarash:
 I also feel something magical... There is some arcane, powerful power... But different, not dwarvish. I think it may have something in common with the evil, that embraces the north. We should aquire this thing.
 
 Marbus:
-Thank you all for your adveces. Sylviana... Whatever I decide I want you to be at my side. I am really glad that we've met. And now - onward!
+Thank you all for your advices. Sylviana... Whatever I decide, I want you to be at my side. I am really glad that we've met. And now - onward!
 
 
 3. Zauwa¿a nas któryœ z krasnoludów.
@@ -138,7 +138,7 @@ Marbus:
 Die, you dwarven monster! This is for all our warriors slain by your brethen!
 
 Kochan:
-Loot their strongholds soldiers! I am sure they have tons of gold and supplies in there!
+Loot their strongholds, soldiers! I am sure they have tons of gold and supplies in there!
 
 ---Po pokonaniu dowódcy gracz dostaje 100 z³ota.---
 
@@ -176,7 +176,7 @@ Marbus:
 Quickly, my Horde, to these tunnels!
 
 Gewold:
-What!? We are fleeing now, after they battle already started!?
+What!? We are fleeing now, after the battle has started!?
 
 Aidala:
 This Person could dip her blade in the bodies of these, whom she hates! Why do we have to interrupt such a sweet for This Person moment?
@@ -226,7 +226,7 @@ Duch Starego Orka:
 Be gone... Now, that you still have the chance...
 
 Aidala:
-This person feels creeps. So the demon that lives in this caves can still talk!
+This person feels shivers. So the demon that lives in these caves can still speak!
 
 Duch Starego Orka:
 Why are you not listening to me? Be gone...
@@ -235,13 +235,13 @@ Why are you not listening to me? Be gone...
 11. Zobaczenie ducha.
 
 Gewold:
-For the love of the orcish blades nad the hatred of the thousands goblin bastards! Undead!
+For the love of the orcish blades and the hatred of thousands of goblin bastards! Undead!
 
 Aidala:
 No... This ghost does not belong to those that harass the north, right? Who are you then?
 
 Duch Starego Orka:
-My name is... No... It is not important for the story, you are the part of... All you must know is that I amthe ghost of the one that was before you - the great orcish chieftain that lived his life in the times of the past... Be gone...
+My name is... No... It is not important for the story, you are the part of... All you must know is that I am the ghost of the one that was before you - the great orcish chieftain that lived his life in the times of the past... Be gone...
 
 Marbus:
 My subordinates have detected strange magic aroud you. We are in the situation in which we can use any magic to help us. We are running from the undead that had started to harass the north. Help us, if you are able to, ghost.
@@ -268,7 +268,7 @@ Duch Starego Orka:
 Portals were closed and the way to our home was lost. Before it happened there was something more that managed to get here from our wolrd... The name of that thing is now forgotten but it makes the sleep, the food and even the females unable to satisfy the lust for blood that we feel. This thing haunts the north now.
 
 Aidala:
-Ancient is this story of yours, ghost... This Person dares to ask... How can we stop that what is happening now?
+Ancient is the story of yours, ghost... This Person dares to ask... How can we stop that what is happening now?
 
 Duch Starego Orka:
 We've tried many things to turn the unstoppable river of the destiny around... Nothing can change the faith... Go away! I've told you enough already... Be gone and die as you like!
@@ -391,6 +391,6 @@ Hard to deny. It is charming.
 2. Starcie jakiejœ jednostki orków z nietoperzami (uwaga: niech to nie jest wilk, troll, jaszczurka, naga...).
 
 Jednostka zaatakowana przez nietoperza:
-Eww! Get out! Of all the things, I really didn't expected bats to be here.
+Eww! Get out! Of all the things, I really didn't expect bats to be here.
 
 3. To z rzek¹ sobie odpuœæmy.
