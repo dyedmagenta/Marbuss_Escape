@@ -4,120 +4,120 @@ Tutaj masz dialogi początkowe. Przerobiłem trochę scenariusz, zgodnie z Twoim
 1. Początek scenariusza
 
 Aidala:
-This Person feels the smell of the sun... The smell of the sun and the grass... and warm waters, which run down to the seas and oceans... Such a short way to the exit now.
+This Person feels the smell of the sun... The smell of the sun and of the grass... and warm waters, which run down to seas and oceans... Our way out is nearby.
 
 Gewold:
-Finally we will be able to leave those cursed caves! We will light the fire, roast some animals and arrange a noisy feast!
+Finally we will be able to leave these damned caves! We will light the fire, roast some animals and arrange a noisy feast!
 
 Marbus:
-The feast will have to wait I'm affraid. We're still on the dwarven grounds. We must be carefull about what we do. Aidala, could you scout the lake for us? I would prefer not to walk right into an ambush trying to escape this place.
+I am afraid that the feast will have to wait. We are still on the dwarven grounds. We must be careful about what we do. Aidala, could you scout the lake for us? I would prefer not to walk into an ambush right before leaving this place.
 
 *Tutaj Aidala wychodzi z naszego zamku i wkracza do wody, po czym wraca.*
 
 Aidala:
-The waters are evil... Death roams in them. Death in the skin of the beast. This Person advices not to venture into the deeps.
+These waters are evil... Death lurks in them. Death in the form of a beast. This Person advices not to venture into the deeps.
 
 Kochan:
-I must admit, although being sceptic at first now I see that this screatures can prove to be invaluable. It would be really hard to pass the caverns without their help.
+I must admit that although I was sceptic at first, now I see that these creatures proved to be invaluable. It would be really hard to pass these caverns without their help.
 
 Marbus:
-You're right, cousin. We are in your debt Aidala. Yours nad your daughters. As for the lake, do not enter the waters unless you have no other choice. We will bypass it and then be on our way out of the caves!
+You are right, cousin. We are in your debt, Aidala. In yours, and your daughters�. As for the lake, do not enter the waters unless you have no other choice. We will bypass it and then be on our way out of the caves!
 
 2. Spotkanie krasnoludów.
 
 Zobaczony krasnolud:
-In the name of... Orcs! The whole army of orcs! Send word to the commander!
+In the name of... Orcs! A whole army of orcs! Send word to the commander!
 
 Gewold:
-There goes our avoiding of the fight. It's better this way, they must have a lot of meat for our feast. Not mentioning the beer.
+There goes our avoiding of a battle. It is good though, they must have a lot of meat for our feast. Not mentioning the beer.
 
 Kochan:
-Do not make haste opinion... Remember that the Northern Alliance recruits orcs into their army. We may be able to persuade them that we are from the alliance and pass them without an incident.
+Do not make haste opinion... Remember that the Northern Alliance recruits orcs into their army. We can pass off them, to get to the other side of the caves.
 
 Przywódca krasnoludów:
-Whose feet make such a damn noise under the doorsteps of my fortress? The hell you are looking for in the udergrounds, orcs?
+Whose feet make such noise under the doorsteps of my fortress? What are you looking for in the udergrounds, orcs?
 
 Marbus:
-Option 1: Peace upon you! We are the part of the Northern Alliance. We need to pass on the other side of the mountains. Can you help us?
+Option 1: Peace upon you! We are members of the Northern Alliance. We need to get to the other side of the mountains. Can you help us?
 Option 2: The name is Marbus. I am the Great Souvereign of my people and I will pass through this underground.
 
 Wybranie opcji 2:
 
 Przywódca krasnoludów:
-So the Horde is gathered and whimpling again? I may have few soldiers but mark my words - your journey ends here! Come brothers! Make this corridors flood with the blood of the orcish dogs!
+So the Horde has gathered again? I may have few soldiers but mark my words - your journey ends here! Come, brothers! Make this corridors flood with the blood of orcish dogs!
 
 Wybranie opcji 1:
 
 Przywódca krasnoludów:
-Peace on you! Yet I must be assured that you are telling the truth... The common for the Northern Alliance is to send a human emissary with the orcs so there will be no doubt about their allignment. I want to speak with the emissary.
+Peace on you! Yet I must be assured that you are telling the truth... Usually the Northern Alliance would send a human emissary with orcs, so there is no doubt about their allignment. Where is your emissary?
 
 Marbus:
-Opcja 1a: Enough with this mascarade! To arms, my orcs!
+Opcja 1a: Enough of this mascarade! To arms, my orcs!
 Opcja 2a: Unfortunatelly our emissary perished during our mission.
 Opcja 3a: Aidala is our emissary.
 Opcja 4a: Krull the Rock is our emissary.
 Opcja 5a: Emborgi-tarash is our emissary.
-Opcja 6a: Barley is our emissary, it's a magical wolf.
+Opcja 6a: Barley is our emissary, it is a magical wolf.
 *opcja 4a i 5a nie mogą być razem*
 
 Opcja 1a:
 
 Krasnolud przywódca:
-Lies! To arms, my brothers! Let the orcish blood flow!
+Imposture! To arms, my brothers! May the orcish blood flow.
 
 Opcja 3a:
 
 Aidala:
-This Person will speak in the name of the glorious Northern Alliance! We salut you noble dwarves and ask for your assisstance in crossing this way...
+This Person will speak in the name of glorious Northern Alliance! We salut you, noble dwarves, and ask for your assisstance in crossing this way...
 
 Przy. krasnoludów:
-You're a... naga. Wicked weird is the fact that you were chosen as the emissary... It's been a damn long time since you were fighting along the Horde. What happened that made you join the Northern Alliance?
+You are a... naga. Wicked weird is the fact that you were chosen as the emissary... But it is been a damn long time since you were fighting along the Horde. What happened that made you join the Northern Alliance?
 
 Aidala:
-My race finally understood the mistakes of the past... To redeam ourselves we've chosen the path of the righteousness. For a time now we've become a lawful nation, like the orcs. Our people cooperated since many years. The Alliance wanted to renew the old Horde tactics and learn our common culture so it merged our ranks together. Your brethen assisted us on our way here. What will you do?
+My race finally understood the mistakes of the past... To redeam ourselves we've chosen the path of the righteousness. For a time now we have been a lawful nation, like the orcs. Our races cooperated for many years. The Alliance wanted to renew the old Horde tactics and learn our common culture, so it merged our ranks together. Your brethen assisted us on our way here. What will you do?
 
 Krasnolud:
 Praise the Northern Alliance! I will help you! Walking out of here will not be easy thou, because of the damn monsters hiding in the deep. Not to mention the giant bats and other beasts. Yet, we should be able to have some fun sharpening our blades on their backs. We will show you the way.
 
 Marbus:
-My thoughts are the same, my friend. Aidala thank you... again.
+My thoughts are the same, my friend. Aidala... Thank you. Again.
 
 
 Opcja 4a:
 
 Krull Skała:
-Me is the great emisser...ary! Me be grand diplomat! You listen to trolls!
+Me is the giant emissary! Me be diplomat! You listen to trolls!
 
 Krasnolud:
-Trolls? How dare you let this filthy beast talk to me?! Trolls are our biggest enemies in this caves! I refuse to believe something like that could be chosen to be an emissary of the Northern Alliance!
+Trolls are our biggest enemies in these caves! I refuse to believe someone like that could be chosen to be an emissary of the Northern Alliance!
 
 Krull Skała:
-Stupid small man! Maybe you believe after we crush your skull!
+Stupid midget! He will believe, when we open his head!
 
 Krasnolud przywódca:
-Lies! To arms, my brothers! Let the orcish blood flow!
+Imposture! To arms, my brothers! May the orcish blood flow.
 
 Opcja 5a:
 
 Jaszczurka:
-Good day dwarves! I bow before the greatness and longevity of your people. I am glad to be able to experience the greatness of your cities, corridors and mines again.
+Hail, dwarves! I bow before the greatness and longevity of your people. I am glad to be able to see the greatness of your cities, corridors and mines again.
 
 Krasnolud:
-Then I am also glad to see you. Orcs, lizards, nagas... It looks almost like the Great Horde is assembled again.
+Then I am also glad to see you. Orcs, lizards, nagas... Together, you look almost like the Great Horde is assembled again.
 
 Jaszczurka:
 Because it is indeed... The Horde understood it's mistakes... In the face of the danger that emerged from the north we are all equal, my child... There is no wisdom in fighting anymore with each other. Let us pass.
 
 Krasnolud:
-I... eh, whatever. I don't have enough warriors to stop you anyway. I have no bloody idea how did you manage to find your way here... So be it! You may pass, but mark my words - If you attack us or even get close to my fortress we will fight. We may all die, but you will come with us to the afterlife!
+I... I don't have enough warriors to stop you anyway... I have no idea how did you manage to find your way here... So be it. You may pass, but mark my words - If you attack us or even get close to my fortress, we will fight.
 
 Jaszczurka:
-It makes my hearth happy that dispite of our differences we are still able to find a common language. It is an important lesson for our peoples.
+I am glad that despite of our differences we are still able to find a common tongue inside of our hearts. It is an important lesson for our peoples.
 
 *Tutaj krasnoludy zamierają i nie mogą się ruszać bądź rekrutować. Jeśli wejdziemy do ich twierdzy bądź zaatakujemy któregoś, wówczas zaczną z nami walki i wyświetli się poniższy dialog.*
 
 Krasnolud przywódca:
-Lies! To arms, my brothers! Let the orcish blood flow!
+Imposture! To arms, my brothers! May the orcish blood flow.
 
 Opcja 6a:
 
@@ -129,16 +129,16 @@ Magical wolf? Let us see...
 Opcja 6b:
 
 Runmistrz:
-Indeed, the wolf is full of magic. They speak the truth, we should let them pass.
+I find this wolf to be very magical. We should let them pass.
 
 Krasnolud przywódca:
 If my own Runemaster says so, there is no need to argue!
 
 Krasnolud:
-Praise the Northern Alliance! I will help you! Walking out of here will not be easy thou, because of the damn monsters hiding in the deep. Not to mention the giant bats and other beasts. Yet, we should be able to have some fun sharpening our blades on their backs. We will show you the way.
+Praised be the Northern Alliance! I will help you. Walking out of here will not be so easy, because of monsters of the deep, dwelling in this lake. Not to mention the giant bats and other beasts. However, together we will definitely manage it.
 
 Marbus:
-Barley... you are a good beast.
+Barley... you are a good puppy.
 
 Jęczmień:
 Warf, warf!
@@ -147,15 +147,15 @@ Warf, warf!
 Opcja 6c:
 
 Runmistrz:
-There is no magic in this animal! It... it was all a plot to lure me out and kill me! Help me brothers!
+I find that there is no magic in this animal! It was all a plot to lure me out and kill me! Help me brothers!
 
 Krasnolud przywódca:
-Lies! To arms, my brothers! Let the orcish blood flow!
+Imposture! To arms, my brothers! May the orcish blood flow.
 
 Opcja 2a:
 
 Krasnolud:
-Pretty handy excuse... Hard to check... but, if you say you were traveling with the emissary you must know which clan this grounds belong to. I will ask you a few question, let us see if you really are the Northern Alliance!
+Pretty handy excuse... However, if you say you were traveling with the emissary, you must know which clan this grounds belong to. Now I will ask you few questions. Let us see if you really are from the Northern Alliance!
 
 *tylko jedna odpowiedź jest poprawna i kieruje do następnych pytań. Wszystkie błędne zaczynają dialog "oszustwo..." i zaczynają walkę.*
 
@@ -166,14 +166,14 @@ Marbus:
 1. Thundering Thorlof
 2. Tales the Flaming Hand
 3. Torlof the Hanging Sack
-4. Tales the Soft Egg
+4. Tales the Soft Ball
 
 Krasnolud (po wybraniu 1):
 What is the most known dance of my people?
 
 Marbus:
-1. Wild Deaath Pogo
-2. Dwarven Lady of the Lake Balet
+1. Wild Death Pogo
+2. Lake of the Dwarven Lady Ballet
 3. Famous Leg Tearer Polka
 4. Red Beard Tango
 
@@ -196,10 +196,10 @@ Marbus:
 4. After the explosion of the Dwarven Rune Smithy.
 
 Krasnolud (po wybraniu 3):
-Indees you are a part of the Alliance!
+Indeed you are a part of the Alliance!
 
 Krasnolud:
-Praise the Northern Alliance! I will help you! Walking out of here will not be easy thou, because of the damn monsters hiding in the deep. Not to mention the giant bats and other beasts. Yet, we should be able to have some fun sharpening our blades on their backs. We will show you the way.
+Praised be the Northern Alliance! I will help you. Walking out of here will not be so easy, because of monsters of the deep, dwelling in this lake. Not to mention the giant bats and other beasts. However, together we will definitely manage it.
 
 Kochan:
 Marbus, how did you...?
