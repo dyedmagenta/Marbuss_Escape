@@ -21,7 +21,7 @@ Kochan:
 I must admit that although I was sceptic at first, now I see that these creatures proved to be invaluable. It would be really hard to pass these caverns without their help.
 
 Marbus:
-You are right, cousin. We are in your debt, Aidala. In yours, and your daughters�. As for the lake, do not enter the waters unless you have no other choice. We will bypass it and then be on our way out of the caves!
+You are right, cousin. We are in your debt, Aidala. In yours, and your daughters�. As for the lake, do not enter the waters unless you have no other choice. We will bypass it and then be on our way out of the caves!
 
 2. Spotkanie krasnoludów.
 
@@ -35,7 +35,7 @@ Kochan:
 Do not make haste opinion... Remember that the Northern Alliance recruits orcs into their army. We can pass off them, to get to the other side of the caves.
 
 Przywódca krasnoludów:
-Whose feet make such noise under the doorsteps of my fortress? What are you looking for in the udergrounds, orcs?
+Whose feet make such noise under the doorsteps of my fortress? What are you looking for in the undergrounds, orcs?
 
 Marbus:
 Option 1: Peace upon you! We are members of the Northern Alliance. We need to get to the other side of the mountains. Can you help us?
@@ -53,7 +53,7 @@ Peace on you! Yet I must be assured that you are telling the truth... Usually th
 
 Marbus:
 Opcja 1a: Enough of this mascarade! To arms, my orcs!
-Opcja 2a: Unfortunatelly our emissary perished during our mission.
+Opcja 2a: Unfortunately our emissary perished during our mission.
 Opcja 3a: Aidala is our emissary.
 Opcja 4a: Krull the Rock is our emissary.
 Opcja 5a: Emborgi-tarash is our emissary.
