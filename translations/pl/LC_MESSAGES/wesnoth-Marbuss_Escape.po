@@ -5376,7 +5376,7 @@ msgid ""
 "Tell them that you are the leader of the Great Horde and will force your "
 "pass through these tunnels"
 msgstr ""
-"Powiedzieć że jesteś przywódcą Wielkiej Hordy i przedostaniesz się przez te "
+"Powiedzieć, że jesteś przywódcą Wielkiej Hordy i przedostaniesz się przez te "
 "tunele siłą"
 
 #. {MESSAGE ...}:
