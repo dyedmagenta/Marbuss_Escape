@@ -1,0 +1,217 @@
+Dialogi Scenariusz osmego.
+
+Zalozenia:
+* Scenariusz rozpoczynamy w jakiejs odleglosci od fortecy. Naszym celem jest wkroczenie Marbusa do jej srodka.
+* Calosc mapy jest zaslonieta mgla. 
+* Obok twierdzy musi znajdowac sie male jeziorko dla nag. Zalecana takze rzeczka, jakby ktorys gracz bardzo chcial wykorzystac je w bitwie.
+
+1. Dialog poczatkowy.
+2. Dialog po wkroczeniu Marbusa do twierdzy. Mgla opada w jakims miejscu, tak ze widzimy armie ludzi oraz nieumarlych.
+3. Dialog przy pierwszych przywolaniach/rekrutacjach jednostek.
+4. Dialogi smierci bohaterow. Nie zapomniec dodac, moga byc z poprzednich scenariuszy!
+5. Dialog w 6 turze.
+6. Dialog w 10 turze.
+7. Dialog w 14, ostatniej turze. Zakonczenie.
+
+
+1. Dialog poczatkowy.
+
+Marbus:
+Szybko! Jesli sie pospieszymy, uda nam sie dotrzec do tej twierdzy przed wschodem slonca! Kto wie, co zastaniemy w srodku? Moze bedzie tam drewno na opal, a w magazynach zostalo jeszcze troche jedzenia? Musimy byc dobrej mysli.
+
+Aidala:
+Ta Osoba wyczuwa zapach jeziora... Woda oznacza ryby. Niedlugo wszyscy napelnimy nimi brzuchy.
+
+
+2. Dialog, gdy Marbus wkroczy do twierdzy.
+
+Marbus:
+Wreszcie! Przeszukajcie komnaty, odwiedzcie spichlerze, wtargnijcie do piwnic! Mam nadzieje zabawic tutaj na dluzej i zregenerowac nasze sily.
+
+Kochan:
+To chyba nie bedzie nam dane... Z wiezy strazniczej widac nieco wiecej, niz z murow zamku, patrzcie!
+
+*Moment, w ktorym mgla sie odsuwa, a gracz widzi armie ludzi i nieumarlych.*
+
+Gewold:
+Przekleci! Ich armie sa naprawde liczne. To tylko kwestia czasu, nim do nas dotra i zaatakuja z cala swoja moca. Nie ma sensu bronic twierdzy... Gelu'Aben bylo znacznie lepiej przygotowane do dlugotrwalego oblezenia, a bez Twojej pomocy i tak zostalibysmy pokonani.
+
+Marbus:
+Ta twierdza byla nasza ostatnia deska ratunku... To tutaj mielismy znalezc schronienie i sposob na pokonanie nieumarlych! Te mury mialy byc naszym zbawieniem!
+
+Kochan:
+Jeszcze nie wszystko stracone, kuzynie... Nawet, jesli nie znalezlismy tu schronienia, dalej moze znajdowac sie tu wskazowka, jak zwyciezyc w tej wojnie. Powinnismy przeszukac katakumby, a takze swiatynie i biblioteke... Byly to miejsca, gdzie najstarsi i najmadrzejsi szamani naszych klanow spotykali sie i radzili. Musieli zostawic cos na wypadek zetkniecia sie z legionami nieumarlych.
+
+Aidala:
+Tak, Ta Osoba tez tak mysli... Przez lata nagi walczyly u boku Wielkiej Hordy i dzielily z nimi tajemnice. Twierdza, w ktorej sie znajdujemy, jest pradawnym, mistycznym miejscem. Jesli gdziekolwiek czekaja nas jakies odpowiedzi, to tylko tutaj...
+
+Aidala:
+Mysle tez, ze osobiscie powinienes przeszukac wszystkie wazne komnaty... Jestes teraz Wielkim Suwerenem- ten tytul nie wiaze sie jedynie z wielka wladza, ale daje tez dostep do tego, co ukryte.
+
+Gewold:
+Co masz na mysli, wodna wiedzmo? Jesli Marbus zajmie sie sleczeniem nad ksiegami, kto pokieruje obrona twierdzy? Dlaczego to takie wazne, by sam mial sie tym zajac? Mamy od tego Starszyzne! W razie czego sam oddeleguje odpowiednich kandydatow do tego zadania!
+
+Aidala:
+Nic nie wiesz o magii, orku! Wasza Starszyzna od wiekow zazdrosnie strzegla swoich sekretow. Medrcy wiedzieli, ze gdyby pozostawili wszystkie swoje ksiegi na widoku, najpewniej zostalyby spalone przez jakiegos pijanego zoldaka badz wykorzystane do niecnych celow. Zapieczetowali wiec wiekszosc swojej wiedzy w ten sposob, ze tylko ktos znajacy odpowiednie zaklecia mogl sie do niej dostac... Wyjatek stanowil Wielki Suweren.
+
+Aidala:
+Marbus jest teraz waszym przywodca. Tylko on bedzie w stanie znalezc ukryte zwoje i magiczne ksiegi... Zakladajac, ze jeszcze jakies ocalaly. My zas bedziemy musieli zdobyc dla niego troche czasu.
+
+Marbus:
+Jesli mowisz prawde, nie mamy innego wyjscia. Sam musze sie udac wglab twierdzy... Niech wszyscy niezdolni do walki znajda sie za murami i przeszukaja budynki gospodarcze... Byc moze zdobedziemy nieco jedzenia... Co zas do obrony...
+
+Marbus:
+Na czas tej bitwy dowodzenie nad armia przejmie Kochan oraz Gewold! Badzcie jednomyslni i nie pozwolcie, by wrog wdarl sie do twierdzy! Licze na was!
+
+Kochan:
+Nie zawiode Cie, kuzynie.
+
+Gewold:
+Do mnie, zolnierze! Do mnie, leniwe kundle! Znow rozhulam ta leniwa zgraje!
+
+
+3a. Pierwsze przywolanie/rekrutacja jezdzcy wilkow.
+
+Gewold:
+Do diabla z tymi kundlami! Potrzebujemy silnych wojownikow, muskularnych ramion, ciezkich mieczy! Tylko tak uda nam sie pokonac przeciwnika!
+
+3b. Pierwsze przywolanie/rekrutacja orka... Tego z mieczami.
+
+Kochan:
+Nie idziemy na wojne, mamy tylko utrzymac sie w twierdzy! Potrzebujemy mobilnych jednostek, ktore beda mogly odciagac od nas wrogow i wyrywac sie z ich pulapek, a nie dadza sie zarznac pod naplywem przeciwnika!
+
+3c. Pierwsze przywolanie/rekrutacja nagi.
+
+Gewold:
+Jasna cholera, widzisz tu gdzies wodne tereny?! To olbrzymie pola, nie potrzebujemy tutaj zadnych wodnych wiedzm!
+
+Aidala:
+Milcz, orku! Choc Marbus pozwolil Ci dowodzic ta armia, to Ta Osoba nie dala Ci przyzwolenia na obrazanie moich corek...
+
+3d. Pierwsze przywolanie/rekrutacja trolla.
+
+Krull Skala:
+Dalej, dalej, dzieciatka... My pokonac nasi wrogowie!
+
+Gewold:
+To rozumiem! Potezne, masywne trolle! Razem obronimy twierdze, nim Marbus wroci ze swojej... Wycieczki... 
+
+3e. Pierwsze przywolanie/rekrutacja jaszczurki.
+
+Emborgi-tarash:
+Ubierzcie na siebie swoje kolczugi, chwyccie w dlonie wlocznie! Udalo nam sie wydostac z podziemi, teraz nadeszla pora na zaprezentowanie wszystkim naszych prawdziwych mozliwosci!
+
+Kochan:
+Szybkie, zwinne jednostki... Z taka armia z pewnoscia damy rade obronic twierdze... Jesli, rzecz jasna, Gewold nie bedzie mieszal sie do dowodzenia bardziej, niz to konieczne.
+
+3f. Pierwsze przywolanie/rekrutacja lucznika.
+
+Gewold:
+Chcesz ostrzelac ich z murow zamku, goblinie? Jesli podejda na tyle blisko, nie bedziemy mieli szans sie wycofac! Zajmij sie lepiej swoimi kundlami, niz dowodzeniem armia!
+
+Kochan:
+Nasi lucznicy i kusznicy sa jednymi z najlepszych wojownikow, jakich mamy. Dobre wykorzystanie ich w bitwie moze sie okazac kluczowym elementem zwyciestwa. Lepiej trzymac tez przeciwnika na dystans, niz stanac z nim na odleglosc miecz!
+
+
+4. Dialogi smierci bohaterow! Wiekszosc z nich moze brzmiec "Ugh..." i konczyc scenariusz. Byleby nie zapomniec ich dodac oraz napisac w kodzie scenariusza, ze ich smierc konczy sie przegrana. Sam czesto o tym zapominam, nie wiem, jak jest z Toba.
+
+
+5. Dialog w 6 turze.
+
+Kochan:
+Jest ich zbyt wielu... Po jednej stronie duchy i widma, po drugiej kawaleria... Obie strony dysponuja mobilnymi jednostkami, ktore moga z latwoscia do nas dotrzec i wyeliminowac.
+
+Gewold:
+Ciagle mamy to szczescie, ze nieumarli i ludzie walcza takze miedzy soba. Przy sprzyjajacych wiatrach nie bedziemy wzbudzac ich wiekszej uwagi... Powinnismy wysunac na przod nasze najsilniejsze oddzialy i stworzyc z nich mur, za ktorym mogliby sie schronic ranni.
+
+Kochan:
+I doprowadzic w ten sposob do dziesiatek zgonow? Lepszym rozwiazaniem bedzie wyslanie w rozne czesci terenu naszych najszybszych jednostek, ktore odciagnelyby uwage wrogow od naszych glownych sil.
+
+Gewold:
+Glupi karle! Nie dziwie sie, ze gobliny nie sa powazane w Hordzie! Ani troche nie znasz sie na sztuce wojennej!
+
+Kochan:
+To nie ja musialem prosic o pomoc, niezdolny do obrony naszej stolicy, najlepiej przystosowanego do oblezenia miasta orkow!
+
+Aidala:
+Zamknijcie sie obydwoje! Ta Osoba ma dosc sluchania waszych jekow. Zamiast tego skupmy sie lepiej na obronie twierdzy!
+
+
+6. Dialog w 10 turze.
+
+General Sojuszu Polnocy:
+Orkowie, ktorzy przybyli do zrujnowanej twierdzy wciaz sie bronia... Ich upor nie potrwa jednak dlugo, nieumarli wciaz wzrastaja w sile... To tylko kwestia czasu, az wybija ich do nogi.
+
+General Sojuszu Polnocy:
+Poczatkowo planowalem szybko sie ich pozbyc, jednak teraz widze okazje do odwrotu... Wiecej i tak tutaj nie zdzialamy, pora wycofac sie wglab naszych ziem. Obecnosc orkow opozni poscig nieumarlych i zminimalizuje straty. Podjalem decyzje, wycofujemy sie!
+
+*Wszystkie jednostki ludzi znikaja z pola bitwy.*
+
+Gewold:
+Co?! Tchorze! Uciekaja, majac nadzieje na to, ze opoznimy ich odwrot! Teraz wszystkie sily nieumarlych skupia sie na nas!
+
+Kochan:
+Tak, to niezbyt przyjemny scenariusz... Nie wytrzymamy juz dlugo. Jesli Marbus zaraz nie wroci z potrzebnymi informacjami, wszyscy niechybnie zginiemy. 
+
+Aidala:
+Ta Osoba zlecila corkom zbadanie podwodnych tuneli w tych okolicach. Uksztaltowanie terenu nie wskazuje jednak na to, by pod nami byla jakas droga ucieczki badz glebsze katakumby. Nie mozemy ratowac sie zniknieciem pod ziemia.
+
+Gewold:
+Wspaniale! Nie pozostaje nam nic innego, jak wystawic do obrony naszych najlepszych wojownikow i liczyc na to, ze zyskamy dzieki nim troche czasu!
+
+*W tym momencie obok Gewolda pojawiaja sie dwaj orkowie z tymi mieczami, na drugim poziomie. Ot, gracz dostanie wsparcie.*
+
+
+7. Dialog w 14 turze.
+
+Kochan:
+To juz praktycznie koniec... Otaczaja nas z kazdej strony, zaraz rozpocznie sie oblezenie.
+
+Gewold:
+Tak... Nie sadzilem, ze przyjdzie mi kiedys dowodzic armia razem z goblinem... Musze przyznac, ze przez ta cala podroz i nasza ostatnia bitwe, wiele sie dowiedzialem o waszej rasie... Musze przyznac, ze nawet was podziwiam. To, w jaki sposob dosiadacie wilkow, jak sprawnie poslugujecie sie lukiem i strzala... Niebywale.
+
+Kochan:
+Z wzajemnoscia, Gewoldzie. Nigdy nie sadzilem, ze uda mi sie zaprzyjaznic z jednym z najwiekszych wojownikow Wielkiej Hordy. Zawsze mialem was za moczymordy, ktore napadaja wylacznie na slabszych... Teraz widze, jak bardzo sie mylilem. Potraficie walczyc z honorem do upadlego, broniac przy tym tych, ktorych obiecaliscie chronic.
+
+Aidala:
+Ta Osoba przeprasza, ze przerywa te chwile wzruszenia, jednak Wielki Suweren do nas wraca...
+
+*Pojawia sie Marbus.*
+
+Marbus:
+Znalazlem to, czego szukalismy... A takze kilka innych, cennych rzeczy. Widze jednak, ze to nie pora nie wyjasnienia. Musimy jak najszybciej udac sie na polnoc, w strone tamtejszych lasow.
+
+Gewold:
+Marbus! Ciesze sie, ze wrociles... Niemniej, jak widzisz, nie bardzo mozemy spelnic Twoje wymagania. Zostalismy otoczeni, nie przebijemy sie przez pierscien nieumarlych. Moze w grupie naszych najlepszych zolnierzy... Jednak nie ze starcami, dziecmi i kobietami... Nie liczac juz wozow z zywnoscia.
+
+Kochan:
+To nie do konca prawda... Choc pierscien nieumarlych zamyka sie nad nami, to ich liczba przestala rosnac... Mozemy wyslac kogos, kto odciagnalbym glowne sily przeciwnika i dal szanse na ucieczke reszcie.
+
+Aidala:
+Tak, Ta Osoba dostrzega w tym planie nadzieje. Nieumarli nie sa zbyt bystrzy... Mozemy zamknac sie w twierdzy i przeczekac, az rusza calymi swoimi silami za oddzialem, ktory ruszy w przeciwnym kierunku do tego, w ktorym mamy sie udac.
+
+Marbus:
+Nie, odmawiam! Mialbym wyslac kogos z moich zolnierzy na pewna smierc?! To czyste szalenstwo, musi istniec inny sposob!
+
+Kochan:
+Nie ma innego sposobu... Nie mozemy tez dluzej czekac. Zatem... Postanowione.
+
+*Kochan rusza na poludniowy kraniec mapy, gdzie sie zatrzymuje. W twierdzy pojawiaja sie cztery wilczy jezdzcy na drugich poziomach, ktorzy podazaja jego sladem na kraniec mapy.*
+
+Marbus:
+Kuzynie! Co Ty wyprawiasz!? Nie dalem Ci na to przyzwolenia! Jesli wyruszysz, mozesz sie liczyc z konsekwencjami!
+
+Kochan:
+Wybacz mi, Marbus, ale jakie konsekwencje moga czekac trupa? Nie spodziewam sie wrocic z tej przejazdzki. To moja decyzja. Prosze, uszanuj ja i pozegnajmy sie w zgodzie...
+
+Gewold:
+Ty naprawde chcesz to zrobic? Zginac w walce, to jedno, ale takie poswiecenie... W historii wszystkich klanow nie ma zbyt wielu goblinow, ktorzy zapisali sie na jej kartach wielkimi literami, jednak moge Ci przysiac, ze jesli przezyjemy te wojne, wlasnie to Cie czeka, Kochanie.
+
+Marbus:
+Ja... Nie wiem, co mam powiedziec... Od lat wspierales mnie i pomagales postepowac wlasciwie... Bez Twoich rad...
+
+Kochan:
+Bez moich rad radziles sobie juz wczesniej. Nie jestem Ci juz potrzebny, kuzynie. Doskonale dajesz sobie rade sam. Masz teraz takze innych, ktorzy Cie wespra w razie potrzeby. Czas juz jednak na mnie, sciagnalem juz na siebie uwage nieumarlych... zegnaj, Marbus.
+
+Marbus:
+zegnaj, kuzynie... Mam nadzieje, ze przyjdzie nam sie jeszcze spotkac...
