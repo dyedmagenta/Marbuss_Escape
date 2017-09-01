@@ -1,0 +1,78 @@
+3. Dialog po pokonaniu Krasnoludzkiego Przywodcy.
+
+Krasnolud:
+Wiedzialem, ze nie uda mi sie was odeprzec... Moja smierc nie pojdzie jednak na marne... Moi rodacy... Beda was scigac... Zginiecie z rak krasnoludow!
+I knew that I couldn't fight you off... My death will not go in vain... My folk... They'll hunt you down... You'll die at the hands of dwarves!
+
+Marbus:
+Skroccie tego karla o glowe! Dosyc juz zmarnowalismy przez niego czasu. Dalej moi wojownicy, wychodzmy z tych przekletych tuneli!
+Behead this dwarf! We wasted enough time on him. Onwards, my warriors, we'll leave those wretched tunnels!
+
+4. Dialog po ataku nietoperza na orka.
+*Wazne, zeby to byl ork, a nie jakas jednostka typu wilk.*
+
+Ork:
+Argh! Dziabnal mnie!
+
+Aidala:
+Jak przeczuwalam... Nocne stworzenia zyjace w tych jaskiniach nie sa do nas pokojowo nastawione. Musimy przedrzec sie sila.
+As I excepted... Night creatures living in those caves aren't friendly towards us. We'll have to get out of here by force.
+
+5. Dialog po ataku potwora morskiego na jakakolwiek z naszych jednostek.
+
+Potwor morski:
+Pfffffaaaa!
+
+Gewold:
+Na Horde! Coz to jest!?
+For Horde! What is that?
+
+Aidala:
+Ta Osoba rozpoznaje te stworzenia... To diably wodne, monstra i potwory. zyja w zlych, skazonych wodach. Ta Osoba radzi, by na nie uwazac i rozwaznie klasc stopy.
+This Person recognizes those creatures... They're water devils, monsters. They live in evil, corrupted waters. This Person advices to be aware and to carefully tread steps (?).
+
+6. Dialog koncowy, gdy mamy w sojuszu krasnoluda:
+
+Kochan:
+Udalo nam sie, kuzynie. Razem z krasnoludami wywalczylismy sobie droge na powierzchnie.
+We've done it, cousin. Together with dwarves, we've fought through the way to the surface. (?)
+
+Gewold:
+Nigdy nie sadzilem, ze dojdzie miedzy nami do takiego sojuszu. Choc nowe metody dzialania Wielkiego Suwerena roznia sie od tych, ktore zazwyczaj stosowalismy, skutkuja.
+I've never thought, that an aliance will happen between us. Even though the ways of The Great Sovereign are different that those, which we've usually done, they work.
+
+Marbus:
+Dziekuje wam, ze pomogliscie nam przedostac sie na powierzchnie, krasnoludowie. Ten gest nie zostanie wam zapomniany.
+Thanks for helping us with getting to the surface, dwarves. This gesture will not be forgotten.
+
+Krasnolud:
+A my dziekujemy, ze pomogliscie nam pozbyc sie czesci potworow z tego jeziora. zegnajcie, towarzysze broni!
+And we're thankful for helping with getting rid of monsters from this lake. Farewell, brothers in arms!
+
+7. Dialog koncowy, gdy nie mamy w sojuszu krasnoluda:
+
+Kochan:
+Wreszcie przedostalismy sie na druga strone. Bylo dosyc ciezko. Kto by pomyslal, ze to wlasnie na sam koniec naszej wedrowki przyjdzie nam walczyc z krasnoludami?
+We've finally got to the other side. It was quite hard. Who would have thought, that exactly on the end of our adventure we'll fight with dwarves?
+
+Gewold:
+Karly dostaly to, na co zasluzyly. Ciesze sie, ze moglismy zanurzyc nasze miecze w ich cialach. 
+They've got exactly that what they deserved. I'm happy that we could sink our swords in their bodies.
+
+Marbus:
+Co sie stalo, to sie nie odstanie. Ruszajmy przed siebie i zapomnijmy o tych przekletych podziemiach.
+What's done, is done. Let's go ahead and forget about those damned undergrounds.
+
+8. Dialog koncowy, gdy Emborgi-tarash przekonywala krasnoludy:
+
+Marbus:
+Udalo nam sie przejsc na druga strone. Doprawdy, dziwny to byl uklad.
+We've managed to get to the other side. Surely, that was strange deal.
+
+Krasnolud:
+Idzcie teraz swoja droga! I nigdy wiecej nie wazcie sie wkraczac na nasze tereny. Jesli spotkamy sie znow, kazdy z moich wojownikow wyciagnie swoj topor. Niezaleznie od tego, jak wielka armie bedziecie ze soba ciagnac!
+Go your way now! And never dare again to enter our territory. Shall we meet again, every one of my warriors (?) will draw their axe. Regardless of how big army you'll drag with you!
+
+Emborgi-tarash:
+Nigdy sie juz nie spotkamy, krasnoludzie. Widze to w mojej wizji. zegnaj wiec. I niech mrok otaczajacy cala polnoc nie zagosci w Twoich komnatach.
+We'll never see again, dwarf. I see this in my vision. Farewell. And may the darkness surrounding whole North never appear in Your chamber.
