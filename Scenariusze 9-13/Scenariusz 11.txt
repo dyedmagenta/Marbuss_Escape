@@ -1,0 +1,571 @@
+Scenariusz 11
+
+Przebieg:
+
+Wkraczamy Marbusem, Gewoldem, Aidal¹, Jêczmieniem (jeœli ¿yje), Emborgi-tarash/Krullem Ska³¹ (jeœli ¿yj¹) do jaskini, gdzie nie mamy mo¿liwoœci rekrutacji dodatkowych si³. Zadanie: znajdŸ róg. Ruszamy wg³¹b i dochodzimy do pierwszej komnaty, gdzie znajdê siê sadzawka (lecz¹ca +8 hp na turê) i kilka elfów z drzewcami do zabicia. Mamy st¹d trzy komnaty do zwiedzenia. Po wejœciu do ka¿dej z nich wyskakuj¹ na nas kolejne elfy. W komnacie po lewej znajdujemy trzy glify, zabranie jednego z nich sprawia, ¿e przylatuje smok na drugim lvl i zaczyna z nami walczyæ. Ot, taki smaczek. W komnacie po prawej mamy dwa glify do zgarniêcia. Komnata na górze kryje w sobie pos¹g, w którego wk³adamy glify. Po zgadniêciu has³a, otwiera siê korytarz, którego strzeg¹ szczury i nietoperze. Tak, jest taka jednostka jak szczur w Wesnoth. Po przejœciu korytarza trafiamy do komnaty g³ównej, której strze¿e drzewiec na 3lvl o imieniu Trefl. Pokonujemy go i mo¿emy wzi¹æ róg. Wejœcie na heks z nim i pokonanie drzewca koñczy grê. W komnacie jest te¿ piêæ pos¹gów (zrobionych z zamienionych w kamieñ postaci). Wejœcie na nie wywo³uje dialog.
+
+Dialogi do napisania:
+
+1. Dialogi œmierci g³ównych bohaterów.
+2. Dialog pocz¹tkowy.
+3. Dialog spotkania Czerwonego Kapturka (elfka ³uczniczka w g³ównej sali).
+4. Dialog œmierci Czerwonego Kapturka (b¹dŸ uwolnienia jej).
+5. Dialog spotkania si³ elfów w sali po prawej.
+6. Dialog spotkania si³ elfów w sali po lewej.
+7. Dialog spotkania si³ elfów w sali na górze.
+8. Dialog wejœcia do sadzawki (ró¿ne warianty).
+9. Dialogi zebrania glifów.
+10. Dialog zabrania glifu, który aktywuje wejœcie smoka.
+11. Dialog zabicia smoka.
+12. Dialog na wejœcie na heks z pos¹giem do glifów, gdy nie ma siê glifów.
+13. Dialog na wejœcie na heks z pos¹giem do glifów, gdy ma siê glify.
+14. Dialog ze szczurem.
+15. Dialog z nietoperzem.
+16. Dialog obudzenia drzewca.
+17. Dialog pokonania drzewca.
+18. Dialog wejœcia na heks z rogiem, gdy drzewiec ¿yje.
+19. Dialog koñcowy (zabranie rogu i œmieræ drzewca).
+20. Dialogi wejœcia na pos¹gi w ostatniej sali.
+21. Dialog wejœcia na heks w pobli¿u skamienia³ych drzewców.
+
+Prolog:
+PóŸniej nazywano ten dzieñ Obron¹ Pó³nocy b¹dŸ Bitw¹ Piêciu Armii. Nigdy wczeœniej wszystkie potêgi pó³nocnych krain nie zjednoczy³y siê w bitwie przeciw wspólnemu wrogowi. Ani nigdy póŸniej.
+We wszystkich wst¹pi³ bohaterski nastrój, a przedstawiciele niemal¿e wszystkich ras tañczyli i œpiewali, jedli i pili, wychwalali swoje mêstwo i dumnie poklepywali siê po plecach. Ten stan rzeczy nie potrwa³ jednak d³ugo. Zagro¿enie ze strony nieumar³ych wci¹¿ by³o realne, a gdy sta³o siê jasnym, ¿e poluj¹ oni na orków, wielu elfów, ludzi i krasnoludów chcia³o pozbyæ siê ich jak najszybciej. Gdyby nie Beatrycze, która zdo³a³a poskromiæ gniew elfickich jarlów i szlachetnych rodów Sojuszu Pó³nocy, bezsprzecznie dosz³oby do bitwy.
+O ile nikt nie pozwala³ sobie na otwart¹ wrogoœæ, nieprzychylne spojrzenia i s³owa nêka³y Wielk¹ Hordê przez ca³y czas. Orkowie znosili je cierpliwie, ciesz¹c siê ciep³em ognisk, straw¹ i dostêpem do lekarstw. Marbus zdawa³ sobie jednak sprawê, i¿ ten stan rzeczy nie mo¿e trwaæ wiecznie, a Gewold i reszta starszyzny notorycznie mu o tym przypominali. Kluczowym dla Hordy sta³o siê pokonanie Króla Gonu i odejœcie.
+Po dwóch tygodniach od bitwy, Marbus i jego armia stali ju¿ przed wejœciem do jaskini, w której skrywaæ siê mia³ Róg Gjallarhorn. Nie oczekuj¹c zbyt wielu niebezpieczeñstw i nie chc¹c wkraczaæ zbyt licznym oddzia³em wg³¹b pieczary, Wielki Suweren zebra³ swoich najbardziej oddanych wojowników i wkroczy³ w ciemnoœæ.
+
+Dialogi:
+
+1. Dialogi œmierci g³ównych bohaterów.
+
+Ponownie przypominam, ¿e œmieræ NPC'ów ma koñczyæ scenariusz. I ¿eby nie zapomnieæ ich dodaæ.
+
+2a. Dialog pocz¹tkowy, gdy nie ma przy nas Emborgi-tarash b¹dŸ Krulla Ska³y.
+
+Marbus:
+A wiêc to jest miejsce, w którym ukryty jest Róg Gjallarhorn. Czas zdecydowanie go nie oszczêdza³: w wielu miejscach grunt jest podmok³y i niestabilny. Przypomina to bardziej jak¹œ elfi¹ œwi¹tyniê, ni¿ katakumby, które zwiedza³em.
+
+Aidala:
+Trzeba nam pamiêtaæ, i¿ te tereny od wieków by³y zamieszkiwane przez drzewoluby. Ta Osoba nie zdziwi³aby siê, gdyby jakieœ siê tu jeszcze skrywa³y. Powinniœmy byæ ostro¿ni.
+
+Jêczmieñ:
+*Kuli ogon i wierci siê niespokojnie przy nodze Marbusa.*
+
+2b. Dialog pocz¹tkowy, gdy jest z nami Emborgi-tarash.
+
+Marbus:
+A wiêc to jest miejsce, w którym ukryty jest Róg Gjallarhorn. Czas zdecydowanie go nie oszczêdza³: w wielu miejscach grunt jest podmok³y i niestabilny. Przypomina to bardziej jak¹œ elfi¹ œwi¹tyniê, ni¿ katakumby, które zwiedza³em.
+
+Aidala:
+Trzeba nam pamiêtaæ, i¿ te tereny od wieków by³y zamieszkiwane przez drzewoluby. Ta Osoba nie zdziwi³aby siê, gdyby jakieœ siê tu jeszcze skrywa³y. Powinniœmy byæ ostro¿ni.
+
+Jêczmieñ:
+*Kuli ogon i wierci siê niespokojnie przy nodze Marbusa.*
+
+Emborgi-tarash:
+Wyczuwam tutaj zwodnicz¹, nienawistn¹ aurê. Z pewnoœci¹ na kogoœ siê tutaj natkniemy. Na kogoœ, kto nie ¿yczy nam zbyt dobrze. St¹pajcie ostro¿nie.
+
+Gewold:
+Zapewne to elfy wci¹gnê³y nas w pu³apkê! Nie mamy nawet pewnoœci, ¿e to ta jaskinia. W g³êbi musi kryæ siê jakaœ setka ³uczników!
+
+Marbus:
+Spokój, Gewold. Elfom zale¿y na odzyskaniu rogu tak samo, jak nam. Nie odwróciliby siê od nas w takim momencie. Wszyscy jarlowie z³o¿yli przysiêgê, ¿e nam nie zagro¿¹.
+
+Emborgi-tarash:
+Podzia³ na jarlów panujê tu od niedawna. Choæ elfy zdaj¹ siê wam bardzo u³o¿on¹ ras¹, ja ¿yjê na tym padole ³ez znacznie d³u¿ej i powiadam wam: nie znajdziecie bardziej sk³óconej rodziny, niŸli rodzina elfów. Po prostu uwa¿ajmy, mo¿e obejdzie siê bez zabijania.
+
+
+2c. Dialog pocz¹tkowy, gdy jest z nami Krulla Ska³y.
+
+Marbus:
+A wiêc to jest miejsce, w którym ukryty jest Róg Gjallarhorn. Czas zdecydowanie go nie oszczêdza³: w wielu miejscach grunt jest podmok³y i niestabilny. Przypomina to bardziej jak¹œ elfi¹ œwi¹tyniê, ni¿ katakumby, które zwiedza³em.
+
+Aidala:
+Trzeba nam pamiêtaæ, i¿ te tereny od wieków by³y zamieszkiwane przez drzewoluby. Ta Osoba nie zdziwi³aby siê, gdyby jakieœ siê tu jeszcze skrywa³y. Powinniœmy byæ ostro¿ni.
+
+Jêczmieñ:
+*Kuli ogon i wierci siê niespokojnie przy nodze Marbusa.*
+
+Krull Ska³a:
+Jaskinia mokra, pe³no w niej grzyb... Grzyb dobry dla brzucha, ale z³y do spania. Ta jaskinia z³a dla trolle. Trolle lubiej¹ bardziej suche te... Jamy.
+
+Aidala:
+Ta Osoba tak¿e wyczuwa tutaj sporo wilgoci. Ciekawe, czy zawsze tak by³o...? Mo¿e elfy zala³y te tereny specjalnie, by pozbyæ siê pozosta³oœci po kulturze orków?
+
+Krull Ska³a:
+Kamienie mokre, œciany mokre... Wilgoæ niedobra dla trolle. Wnika w gnaty i boli. Szczególnie kolana.
+
+
+3. Dialog spotkania Czerwonego Kapturka (elfka ³uczniczka w g³ównej sali).
+
+Gewold:
+Co do...?!
+
+Czerwony Kapturek:
+Haha! Wpadliœcie prosto w moj¹ pu³apkê, g³upcy! Nawet nie zabraliœcie ze sob¹ wiêkszego oddzia³u... Naiwni...
+
+Marbus:
+Wasi Jarlowie obiecali nam bezpieczeñstwo! Zdradziliœcie nas! Naprawdê chcecie zaprzepaœciæ jedyn¹ szansê na pokonanie nieumar³ych, byleby siê nas pozbyæ?!
+
+Czerwony Kapturek:
+Nasi Jarlowie? Nasi!? O nie... My nie podlegamy w³adzy jarlów, wró¿ek, ani lordów! Jesteœmy ca³kowicie wolni! Stoisz przed potomkini¹ wielkiego Landara, przed Czerwonym Kapturkiem, w³adczyni¹ Krwawych Elfów!
+
+Emborgi-tarash:
+Czerwonym Kapturkiem...? To¿ to klechda dla dzieci!
+
+Krull Ska³a:
+Czerwony... Kapturek... Bajka!
+
+Aidala:
+Ta Osoba opowiada³a swoim córkom historiê o Czerwonym Kapturku i wilku... Nie s¹dzi³a jednak, ¿e kryje siê w niej ziarnko prawdy. Sk¹d ten przydomek, elfia dziewczyno?
+
+Czerwony Kapturek:
+Pewnej nocy mój by³y Jarl wys³a³ mnie i oddzia³ moich ³uczników na polowanie. G³upcowi zachcia³o siê sarniny, a my jak ma³e pieski musieliœmy pognaæ, by mu j¹ upolowaæ! Nie spodziewaliœmy siê, ¿e zostaniemy zaatakowani przez wilki, a raczej waszych skarla³ych braci na wilkach... Ponoæ jeden z nich doprowadzi³ nawet do tego, ¿e teraz szwendacie siê po naszych lasach, a my nie mo¿emy wy¿ynaæ was jak kaczki!
+
+Czerwony Kapturek:
+Mniejsza jednak o to... Wracaj¹c do opowieœci: nie zamierzaliœmy poddaæ siê bez walki. W ogóle nie myœleliœmy o przegranej... I wygraliœmy. Maj¹c tylko ³uki do polowania i no¿e do skórowania zwierzyny. Pokonaliœmy watahê wargów, a gdy skoñczyliœmy... Nasze kaptury by³y czerwone od krwi. St¹d mój przydomek.
+
+Gewold:
+To bardzo ciekawa opowieœæ, jednak od gadania nikt z nas nie padnie, a mój miecz bardzo chêtnie zasmakowa³by Twojego elfiego cia³ka!
+
+Marbus:
+To nie musi tak siê skoñczyæ, dziewczyno... Jesteœ bardzo m³oda, darujê Ci ten wyskok... WeŸ swoich wojowników i wracajcie do domu.
+
+Czerwony Kapturek:
+Co? Ty mi darujesz!? Od wieków nasze rasy walczy³y ze sob¹, a ja nie mam zamiaru zmieniaæ tej tradycji. Wyr¿niemy was! Strza³y na ciêciwy!
+
+
+4. Dialog œmierci Czerwonego Kapturka (b¹dŸ uwolnienia jej).
+
+Czerwony Kapturek:
+Auu... Psia krew! No dalej, zrób to! Na co mam czekaæ? A mo¿e nie masz odwagi, by zabiæ elfi¹ dziewczynê, co!?
+
+Gewold:
+Rozwalmy jej ³eb, a cia³o wywieœmy przed wejœciem do jaskini! Niech drzewoluby wiedz¹, czym grozi walka z nami!
+
+Aidala:
+Walczy³aœ dzielnie, dziewczyno... Ale Twoje ¿ycie nale¿y teraz do nas. Wielki Suwerenie? 
+
+Marbus:
+Myœlê, ¿e...
+Opcja 1: Powinniœmy zabiæ tê dziewczynê i daæ nauczê elfom!
+Opcja 2: Wypuœæmy j¹ wolno, jako gest dobrej woli.
+
+4a. Dalszy ci¹g dialogu, po wybraniu opcji 1.
+
+Marbus:
+Zaszlachtujcie j¹. Tak, jak i resztê tego elfiego pomiotu! Niech poleje siê krew elfów!
+
+Czerwony Kapturek:
+Moja œmieræ niczego nie zmieni! B¹dŸ przeklêty, Marbusie! Przysiêgam, ¿e nawet zza grobu bêdê Ciê drêczyæ!
+
+*Dziewczyna umiera.*
+
+Gewold:
+Hahaha! I po problemie!
+
+4b. Dalszy ci¹g dialogu, po wybraniu opcji 2.
+
+Marbus:
+Puœæcie dzieciaka. Niech wróci do swoich. Mo¿e, gdy ju¿ opadnie z niej gniew i przemyœli swoje zachowanie, zrozumie to, jak g³upio post¹pi³a... Nie mo¿emy zabijaæ wszystkich, którzy nie s¹ nam przychylni. Naszym wrogiem s¹ nieumarli, nie elfy!
+
+Czerwony Kapturek:
+Ha! Myœlisz, ¿e to cokolwiek zmieni? Bêdê Ciê œcigaæ choæby po kres moich dni, nigdy nie daj¹c Ci wytchnienia! Przysiêgam, ¿e zabijê ka¿dego orka, którego napotkam!
+
+*Dziewczyna ucieka do wyjœcia z jaskini, gdzie znika.*
+
+Gewold:
+G³upota! Gdybym to ja dowodzi³ Wielk¹ Hord¹, taki wyczyn nie mia³by miejsca! Pokazujemy jedynie, ¿e nawet elfie szczeniêta mog¹ przeciwstawiæ siê nam bez konsekwencji!
+
+Aidala:
+Ale nie jesteœ przywódc¹ Wielkiej Hordy, Gewoldzie... I lepiej o tym pamiêtaj.
+
+
+5. Dialog spotkania si³ elfów w sali po prawej.
+
+Krull Ska³a:
+Drzewoluby! Wilgoæ, grzyb, elfy... Zabiæ wszystkie z³e elfy i wynosiæ siê st¹d jak najszybciej!
+
+Emborgi-tarash:
+A wiêc kolejne si³y nieprzyjació³? Kiedy Ci g³upcy zrozumiej¹, ¿e wszystkie rasy powinny zjednoczyæ siê przeciw wspólnemu wrogowi?
+
+Aidala:
+Ta Osoba szykuje siê na walkê...
+
+
+6. Dialog spotkania si³ elfów w sali po lewej.
+
+Gewold:
+Kolejne elfy! Œwietnie, cudownie wrêcz! ChodŸcie do mnie, moi przyjaciele! Tatuœ coœ dla was ma... Wielkie ostrze, którym zamierza wybebeszyæ ka¿dego z was! Waaarrrr!
+
+
+7. Dialog spotkania si³ elfów w sali na górze.
+
+Marbus:
+Sala po³udniowa... Psia koœæ, tutaj tak¿e! Wszyscy, do mnie, musimy oczyœciæ ten rejon! Jestem prawie pewny, ¿e coœ tutaj znajdziemy!
+
+
+8a. Dialog wejœcia do sadzawki, gdy mamy ze sob¹ Krulla Ska³ê.
+
+Krull Ska³a:
+Wilgoæ! St¹d ona jest! Jeziorko! A to oznacza ryby. Trolle lubi¹ ryby. S¹ tam ryby, rybia-kobieto?
+
+Aidala:
+. . .
+
+Aidala:
+Ta Osoba nie jest... Ehh... Ale tak, s¹ tutaj ryby... Kolorowe. Ta Osoba widzia³a takie wiele, wiele lat temu, blisko raf koralowych.
+
+Krull Ska³a:
+Raf... Czego?
+
+Aidala:
+To takie... Ogrody... Pod wod¹, pod wielk¹, s³on¹ wod¹. Ta Osoba myœli, ¿e sadzawka jest magiczna, leczy rany... Przypomina cia³u, jakie powinno byæ: zasklepione.
+
+Marbus:
+Œwietnie! Mo¿emy u¿yæ tego miejsca do leczenia. Zdaje mi siê, ¿e czegoœ lepszego ju¿ tutaj nie znajdziemy.
+
+
+8b. Dialog wejœcia do sadzawki, gdy mamy ze sob¹ Emborgi-tarash.
+
+Emborgi-tarash:
+To Ÿród³o nie jest naturalne... Ktoœ je tu stworzy³... Otworzy³ ziemiê i kaza³ trysn¹æ tu magicznej, leczniczej wodzie... Sama jednak nie jestem w stanie stwierdziæ, czy to robota elfiego maga, czy te¿ orkowego szamana.
+
+Marbus:
+Chcia³bym wierzyæ, ¿e prawdziwa jest druga opcja... Nigdy nie podejrzewa³em, ¿e mój lud ma tak barwn¹ historiê... Potê¿ne fortece orków, kl¹twa Dzikiego Gonu, Róg Gjallarhorn... Nigdy bym nie podejrzewa³, ¿e natknê siê na coœ takiego... ¯e stanê na czele Wielkiej Hordy.
+
+Emborgi-tarash:
+Czasem ¿ycie p³ata nam figle, Marbusie. Musimy nauczyæ siê przyjmowaæ zmiany, jakie by nie by³y, a nastêpnie ¿yæ wedle nowych zasad. Ta sadzawka, to w³aœnie nowa zasada... Od Ciebie zale¿y, jak j¹ wykorzystasz.
+
+Marbus:
+Masz racjê... Stworzona przez orków, czy nie... Pos³u¿y do leczenia naszych wojowników.
+
+
+8c. Dialog wejœcia do sadzawki, gdy nie mamy ze sob¹ ani Emborgi-tarash, ani Krulla Ska³y.
+
+Aidala:
+Ta Osoba wyczuwa dziwn¹ aurê wokó³ tej sadzawki... Zdaje siê, ¿e leczy ona rany.
+
+Marbus:
+Doskonale! Œwietnie nada siê dla naszych rannych wojowników. Zabezpieczcie j¹!
+
+Jêczmieñ:
+*Szczeka radoœnie i merda ogonem.*
+
+
+9. Dialogi zebrania glifów. S¹ cztery dialogi, jeden na ka¿dy z glifów. Nie licz¹c tego, który aktywuje pojawienie siê smoka.
+
+Marbus:
+To jakiœ glif... Lepiej weŸmy go ze sob¹. Za³o¿ê siê, ¿e nam siê przyda.
+
+Gewold:
+Co do...!? Kamieñ! Jakieœ magiczne ustrojstwo... Pewnie bêdzie nam potrzebne.
+
+Aidala:
+Ta Osoba znalaz³a glif. Zapewne przyda siê do odnalezienia Rogu Gjallarhorn.
+
+Marbus:
+Magiczny kamieñ... Czujê, ¿e do czegoœ nam siê przyda.
+
+
+10. Dialog zabrania glifu, który aktywuje wejœcie smoka. Sam smok mo¿e mieæ drugi b¹dŸ trzeci poziom. Najlepiej sprawdziæ, jak poradz¹ sobie z nim gracze na ró¿nym poziomie trudnoœci i z ró¿nymi sk³adami (+/- Jêczmieñ, Emborgi-tarash/Krull Ska³a).
+
+Gewold:
+Co do...?!
+
+Smok Gideon:
+Waaaargh! Zostawcie moj¹ jaskiniê! Co od niej chcecie?!
+
+Marbus:
+Szukamy Rogu Gjallarhorn. Nie zamierzamy zostaæ tu d³ugo.
+
+Smok Gideon:
+Akurat! Najpierw wpad³y tu elfy i udobrucha³y mnie swoim elfim jedzeniem, ale nie odejd¹! Wszêdzie zostawiliœcie ich trupy, a krew zd¹¿y³a ju¿ wsi¹kn¹æ w pod³o¿ê! Zap³acicie mi za zdewastowanie mojego domu!
+
+Gewold:
+Miecze w d³oñ!
+
+
+11. Dialog zabicia smoka.
+
+Smok Gideon:
+Przeklêci... Orkowie! Gdzie was nie spotkaæ... Tam zawsze przybywa œmieræ!
+
+*Smok umiera.*
+
+Marbus:
+Ma sporo racji... Ale pora zrzuciæ z nas ciê¿ar tej kl¹twy. Zabierzmy ten glif i spróbujmy jakoœ go wykorzystaæ.
+
+
+12. Dialog na wejœcie na heks z pos¹giem do glifów, gdy nie ma siê glifów b¹dŸ nie ma siê wszystkich glifów. Pojawia siê raz, gdy wejdziemy na niego po raz pierwszy (zak³adaj¹c, ¿e nie mamy przy sobie wszystkich glifów).
+
+Marbus:
+Ten pos¹g wygl¹da inaczej, ni¿ reszta. Zdaje siê, ¿e jest za nim przejœcie. Mo¿e uda siê go jakoœ przesun¹æ...
+
+Gewold:
+Po co? Skrzyknijmy lepiej kilku pokaŸniejszych wojaków i weŸmy taran. Zaraz ust¹pi.
+
+Marbus:
+To nie jest najlepszy pomys³... Gdy by³em w katakumbach orkowej twierdzy, natkn¹³em siê na zapiski mówi¹ce o podobnych przejœciach. Jeœli spróbujemy wywa¿yæ pos¹g si³¹, jaskinia za nim osunie siê i znalezienie Rogu Gjallarhorn zajmie nam ca³e miesi¹ce. Zak³adaj¹c oczywiœcie, ¿e dalej tam bêdzie.
+
+Gewold:
+Wiêc co mamy robiæ? Wezwaæ elfi¹ wró¿kê, by rzuci³a zaklêcia i odblokowa³a dla nas przejœcie!?
+
+Aidala:
+Ta Osoba myœli, ¿e to nie bêdzie konieczne. Spójrzcie na pos¹g: wygl¹da, jakby mo¿na go by³o czymœ uzupe³niæ... Jakimiœ kryszta³ami b¹dŸ... Glifami. Byæ mo¿e znajdziemy je tutaj i otworz¹ przejœcie.
+
+Marbus:
+Aidala ma racjê. Rozejrzyjmy siê po jaskini i wrócimy tu, gdy coœ znajdziemy!
+
+
+13a. Dialog na wejœcie na heks z pos¹giem do glifów, gdy ma siê glify i wchodzi siê na heks po raz pierwszy.
+
+Marbus:
+Ten pos¹g wygl¹da inaczej, ni¿ reszta. Zdaje siê, ¿e jest za nim przejœcie. Mo¿e uda siê go jakoœ przesun¹æ...
+
+Gewold:
+Po co? Skrzyknijmy lepiej kilku pokaŸniejszych wojaków i weŸmy taran. Zaraz ust¹pi.
+
+Marbus:
+To nie jest najlepszy pomys³... Gdy by³em w katakumbach orkowej twierdzy, natkn¹³em siê na zapiski mówi¹ce o podobnych przejœciach. Jeœli spróbujemy wywa¿yæ pos¹g si³¹, jaskinia za nim osunie siê i znalezienie Rogu Gjallarhorn zajmie nam ca³e miesi¹ce. Zak³adaj¹c oczywiœcie, ¿e dalej tam bêdzie.
+
+Gewold:
+Wiêc co mamy robiæ? Wezwaæ elfi¹ wró¿kê, by rzuci³a zaklêcia i odblokowa³a dla nas przejœcie!?
+
+Aidala:
+Ta Osoba myœli, ¿e to nie bêdzie konieczne. Spójrzcie na pos¹g: wygl¹da, jakby mo¿na go by³o czymœ uzupe³niæ... Jakimiœ kryszta³ami b¹dŸ... Glifami. Spróbujmy w³o¿yæ w te miejsca kamienie, które znaleŸliœmy. Bêdzie trzeba jednak ustaliæ odpowiedni¹ kolejnoœæ.
+
+Marbus:
+Nad wy¿³obieniami s¹ wyryte jakieœ s³owa. To chyba zagadka.
+
+Logo Wesnoth:
+Najwiêkszy znak...
+
+Opcja 1: Wsuñ glif z liter¹ E
+Opcja 2: Wsuñ glif z liter¹ F
+Opcja 3: Wsuñ glif z liter¹ T
+Opcja 4: Wsuñ glif z liter¹ L
+Opcja 5: Wsuñ glif z liter¹ R
+
+*Gdy w³o¿ymy odpowiedni¹ literê, wówczas mo¿emy wybraæ kolejn¹, a¿ do ostatniej. Gdy siê z któr¹œ pomylimy, wyskakuje dialog:*
+
+Marbus:
+Psia krew, to nie tak... Zacznijmy od nowa...
+
+*Po tym zaczynamy od nowa uk³adaæ litery. Gdy u³o¿ymy ju¿ ca³oœæ:*
+
+Marbus:
+Uda³o siê, pos¹g siê przesuwa!
+
+Aidala:
+Ta Osoba zastanawia siê nad has³em... TREFL... No tak, jeœli zerkniemy na kszta³t tej jaskini...
+
+Gewold:
+To bez znaczenia! Bierzmy ten róg i ruszajmy, by za³atwiæ Dziki Gon!
+
+Marbus:
+Obawiam siê, ¿e to nie koniec niebezpieczeñstw... Ale fakt, pora nam ruszyæ w drogê. Za mn¹!
+
+
+13b. Dialog na wejœcie na heks z pos¹giem do glifów, gdy ma siê glify i wchodzi siê na heks po raz kolejny.
+
+Marbus:
+Wreszcie, zdobyliœmy chyba wszystkie glify. Pora przyjrzeæ siê pos¹gowi...
+
+Marbus:
+Nad wy¿³obieniami s¹ wyryte jakieœ s³owa. To chyba zagadka.
+
+Logo Wesnoth:
+Najwiêkszy znak...
+
+Opcja 1: Wsuñ glif z liter¹ E
+Opcja 2: Wsuñ glif z liter¹ F
+Opcja 3: Wsuñ glif z liter¹ T
+Opcja 4: Wsuñ glif z liter¹ L
+Opcja 5: Wsuñ glif z liter¹ R
+
+*Gdy w³o¿ymy odpowiedni¹ literê, wówczas mo¿emy wybraæ kolejn¹, a¿ do ostatniej. Gdy siê z któr¹œ pomylimy, wyskakuje dialog:*
+
+Marbus:
+Psia krew, to nie tak... Zacznijmy od nowa...
+
+*Po tym zaczynamy od nowa uk³adaæ litery. Gdy u³o¿ymy ju¿ ca³oœæ:*
+
+Marbus:
+Uda³o siê, pos¹g siê przesuwa!
+
+Aidala:
+Ta Osoba zastanawia siê nad has³em... TREFL... No tak, jeœli zerkniemy na kszta³t tej jaskini...
+
+Gewold:
+To bez znaczenia! Bierzmy ten róg i ruszajmy, by za³atwiæ Dziki Gon!
+
+Marbus:
+Obawiam siê, ¿e to nie koniec niebezpieczeñstw... Ale fakt, pora nam ruszyæ w drogê. Za mn¹!
+
+
+14a. Dialog ze szczurem., gdy mamy ze sob¹ Krulla Ska³ê.
+
+Krull Ska³a:
+Szurek! Obiadek!
+
+14b. Dialog ze szczurem., gdy mamy ze sob¹ Emborgi-tarash.
+
+Emborgi-tarash:
+Paskudne gryzonie! Niektórzy z nas sma¿¹ je nad ogniem i jedz¹, ale ja nigdy nie by³am w stanie na to patrzeæ. Ohydztwo!
+
+14c. Dialog ze szczurem., gdy nie mamy ze sob¹ ¿adnego z powy¿szych, ale wci¹¿ ¿yje Jêczmieñ.
+
+Aidala:
+Ta Osoba ma pytanie...
+
+Marbus:
+Tak, Aidalo?
+
+Aidala:
+Mo¿emy go zatrzymaæ?
+
+Marbus:
+Co!?
+
+Aidala:
+Szczur. Mo¿emy go zatrzymaæ? Jest taki s³odki i... Kud³aty.
+
+Marbus:
+Ehh... Nie wydaje mi siê, by by³ to dobry pomys³. Mo¿e mieæ wœciekliznê i zaraziæ ni¹ nasze wojsko. Mogê jednak sprowadziæ Ci jakieœ zwierzê, gdy to wszystko ju¿ siê skoñczy.
+
+Aidala:
+Dobrze, Marbusie.
+
+14d. Dialog ze szczurem., gdy nie mamy ze sob¹ ¿adnego z powy¿szych, a Jêczmieñ nie ¿yje.
+
+Aidala:
+Ta Osoba ma pytanie...
+
+Marbus:
+Tak, Aidalo?
+
+Aidala:
+Mo¿emy go zatrzymaæ?
+
+Marbus:
+Co!?
+
+Aidala:
+Szczur. Mo¿emy go zatrzymaæ? Jest taki s³odki i... Kud³aty.
+
+Marbus:
+Jêczmieñ te¿ jest kud³aty. Choæ mo¿e trudno nazwaæ go s³odkim...
+
+Jêczmieñ:
+*Szczeka radoœnie i podskakuje, bij¹c ³apami o pod³o¿e.*
+
+Marbus:
+...albo nie trudno.
+
+Aidala:
+Jednak to Twoje zwierzê. Chcê w³asne.
+
+Marbus:
+Ehh... Nie wydaje mi siê, by by³ to dobry pomys³. Mo¿e mieæ wœciekliznê i zaraziæ ni¹ nasze wojsko. Mogê jednak sprowadziæ Ci jakieœ zwierzê, gdy to wszystko ju¿ siê skoñczy.
+
+
+15. Dialog z nietoperzem.
+
+Gewold:
+Przeklête, lataj¹ce szczury! Nigdy nie mogê w nie trafiæ! Waaargh!
+
+Jêczmieñ:
+*Przechyla pytaj¹co g³owê.*
+
+Aidala:
+Ta Osoba myœli, ¿e powinieneœ stosowaæ jakieœ œrodki na uspokojenie.
+
+
+16. Dialog obudzenia drzewca.
+
+Aidala:
+Ta Osoba s¹dzi, ¿e pora przygotowaæ siê na naprawdê ciê¿ki bój...
+
+Trefl:
+Omomomom... Omomomom...
+
+Marbus:
+Mo¿e nie... On chyba... Œpi?
+
+Gewold:
+Ostrzyæ miecze! Teraz mamy szansê! Wyrwaæ drzewca z korzeniami!
+
+Trefl:
+Omomo... Co... Co...? Co!? Kto œmie wdzieraæ siê to siedziby Trefla!?
+
+Marbus:
+I ca³y plan wzi¹³ w ³eb... Jestem Marbus, Wielki Suweren Hordy. Przyby³em, by zabraæ st¹d Róg Gjallarhorn, dziêki któremu mo¿na zniszczyæ Króla Dzikiego Gonu i zdj¹æ z mojej rasy kl¹twê. Przynajmniej na kolejne tysi¹c lat.
+
+Trefl:
+Dobrze, ju¿ dobrze... Jeœli mówisz prawdê, œpiê tu ju¿ od tysi¹ca lat. Zosta³em stra¿nikiem tego miejsca, a zasadzi³ mnie orkowy szaman, jeden z Twoich poprzedników... Musia³ zebraæ Wielk¹ Hordê i pokonaæ Króla Gonu. Post¹pi³ wtedy jednak... Bardzo nierozwa¿nie...
+
+Marbus:
+Nierozwa¿nie? Co chcesz przez to powiedzieæ, stra¿niku?
+
+Trefl:
+Ów ork s¹dzi³, ¿e zdo³a raz na zawsze z³amaæ kl¹twê Dzikiego Gonu... ¯y³ d³ugo... Bardzo d³ugo... By³ wielkim magiem. Zrozumia³ naturê owej kl¹twy... Czerpa³a ona si³ê z samej orkowej natury, waszej pod³oœci i ¿¹dzy krwi... Mia³a byæ ostateczn¹ broni¹ przeciw waszemu ludowi, któr¹ zgotowa³y wam istoty zza oceanu.
+
+Trefl:
+Jednak ów ork stworzy³ magiczny przedmiot, dziêki któremu mo¿na by³o zawiesiæ ciê¿ar kl¹twy na tysi¹c lat... Tak, mowa tu o Rogu Gjallarhorn. Po wielu latach czarownik doszed³ jednak do wniosku, ¿e to nie wystarczy. Stworzy³ amulet, dziêki któremu mo¿na by³o zwi¹zaæ ze sob¹ kl¹twê, przyj¹æ na siebie jej ciê¿ar. Ciê¿ar grzechów ca³ej rasy orków...
+
+Marbus:
+To wielkie poœwiêcenie... Co sta³o siê póŸniej?
+
+Trefl:
+Ów szaman wykona³ swój amulet w krasnoludzkich kuŸniach, przy u¿yciu najlepszych narzêdzi, jakimi dysponowa³a tamta rasa... Pracowa³ ciê¿ko wiele miesiêcy, a jego wojownicy wytrzymywali oblê¿enie krasnoludów... W koñcu jednak padli, a sam mag zbieg³... Zosta³ zamordowany przez brodaczy w zapomnianym tunelu, gdzie jego duch straszy do dziœ, a amulet czeka na to, by zostaæ znalezionym... Tak przynajmniej mówi legenda.
+
+Trefl:
+No, ale dosyæ gadania... Przybyliœcie po artefakt, wiêc czeka was próba! Stawaæ do walki!
+
+*W tym momencie przejœcie zostaje zablokowane przez dwa skamienia³e drzewce, które nie pozwalaj¹ nam siê dostaæ do Ÿróde³ka lecz¹cego. Po pokonaniu Trefla- znikaj¹.*
+
+
+17. Dialog pokonania drzewca.
+
+Marbus:
+Uch... Nie³atwo by³o. W koñcu jednak mo¿emy zabraæ róg i odejœæ.
+
+Gewold:
+Eee... Tam. Takie drzewce, to dla mnie drobnostka! Ale zabijanie ich nie sprawia przyjemnoœci. Wolê, gdy wróg krwawi!
+
+
+18. Dialog wejœcia na heks z rogiem, gdy drzewiec ¿yje.
+
+Trefl:
+Myœlicie, ¿e to takie proste!? By zabraæ Róg Gjallarhorn, najpierw musicie pokonaæ mnie!
+
+
+19. Dialog koñcowy (zabranie rogu i œmieræ drzewca).
+
+Marbus:
+Wreszcie! Mamy go. Pora teraz odejœæ z tej jaskini. Nic ciekawego ju¿ tu nie znajdziemy, a Dziki Gon z ka¿d¹ chwil¹ roœnie w si³ê!
+
+
+20. Dialogi wejœcia na pos¹gi w ostatniej sali. Ka¿dy z piêciu pos¹gów ma jeden.
+
+Logo Wesnoth:
+Na pos¹gu wyrzeŸbiono tañcz¹ce w krêgu szkielety i wielkie, kamienne bramy, z których zaczynaj¹ wychodziæ wojownicy z du¿ymi mieczami i k³ami. W tle widaæ spanikowane postacie w he³mach i pe³nych zbrojach.
+
+Logo Wesnoth:
+Ktoœ wyrzeŸbi³ tutaj scenê bitwy: postacie w pe³nych zbrojach walcz¹ z tymi, którzy maj¹ wielkie miecze i k³y... Ci pierwsi przegrywaj¹ i cofaj¹ siê w stronê ³odzi.
+
+Logo Wesnoth:
+Scena przedstawia szkielety niszcz¹ce miasta i zabijaj¹ce wieœniaków. W tle widaæ orków buduj¹cych statki i wybieraj¹cych siê na morze.
+
+Logo Wesnoth:
+Ktoœ wyrzeŸbi³ tutaj dwunastkê szkieletów w d³ugich szatach, wszystkie unoszê rêce ku niebu, a nad nimi widaæ coœ, co przypomina zaæmienie ksiê¿yca. Poœrodku krêgu szkieletów majacz¹ kszta³ty ducha b¹dŸ demona.
+
+Logo Wesnoth:
+P³askorzeŸba przedstawia orka, choæ bardzo nietypowego. W rêkach trzyma kostur i medalion. Jest nieco ni¿szy, ni¿ wiêkszoœæ orków i wydaje siê, ¿e ma w sobie spor¹ dawkê gobliñskiej krwi. Ma zmartwion¹ twarz, choæ w jego oczach widaæ determinacjê.
+
+
+21. Dialog wejœcia na heks w pobli¿u skamienia³ych drzewców.
+
+Trefl:
+Myœleliœcie, ¿e tak pójdzie wam tak ³atwo? O nie, najpierw musicie poradziæ sobie ze mn¹!
