@@ -1,30 +1,4 @@
-Poprawiona koñcówka scenariusza pi¹tego:
-
-
-Gewold:
-Uda³o siê, Marbus! ¯yjemy! Zdaje siê, ¿e to dziêki Tobie... Choæ w mojej prywatnej opinii, to raczej ja ratowa³em Ciebie.
-
-Marbus:
-Hahaha... Cieszê siê, ¿e ju¿ po wszystkim... Ale do rzeczy... Pora nam zebraæ Hordê. Nieumarli ruszaj¹ na nas z po³udnia... A z tego, co mówisz, nadchodz¹ tak¿e z pó³nocy... Wyœlijmy kruki do wodzów...
-
-Gewold:
-Kruki polecia³y ju¿ jakiœ czas temu, z proœb¹ o ratunek. Z tego co wiem, tylko kilka pomniejszych klanów da³o radê przetrwaæ.
-
-Kochan:
-To bardzo niepokoj¹ca wiadomoœæ, kuzynie. Zdaje siê, ¿e nie ma co liczyæ na wiêksz¹ iloœæ wojowników, ani schronienie.
-
-Marbus:
-Mamy na razie inne zmartwienia. Musimy wezwaæ starszyznê i odbyæ naradê.
-
-Gewold:
-Spokojnie, wojowniku! Zajmijmy siê najpierw cia³ami, opatrzmy rannych. Niedobitki Sojuszu Pó³nocy uciekaj¹ w pop³ochu. Spl¹drujmy ich obóz i wydajmy ucztê!
-
-Marbus:
-Od wielu dni nie zaznaliœmy odpoczynku... Niech tak bêdzie! Ragh for En Traht! Wygraliœmy bitwê!
-
-
-Poprawiony prolog do scenariusza szóstego:
-
+Prolog do Scenariusza Szóstego:
 
 Si³y krasnoludów i Sojuszu Pó³nocy zosta³y rozgromione, a klan Marbusa po³¹czy³ si³y z mieszkañcami Gelu'Aben. W nied³ugim czasie uda³o siê opatrzyæ rannych, po¿egnaæ umar³ych i nakarmiæ g³odnych. Orkowa starszyzna postanowi³a wyci¹gn¹æ ze spi¿arñ ostatnie zapasy ¿ywnoœci i zorganizowano wielk¹ ucztê, na której goœciem honorowym by³ w³aœnie Marbus. Radoœæ wszystkich trwa³a ca³y dzieñ. Jeden dzieñ, podczas którego uda³o siê zapomnieæ o zimie, hordach nieumar³ych i panosz¹cym siê po pó³nocy Sojuszu.
 Dzieñ po uczcie zorganizowano naradê, która mia³a na celu zaradziæ wszystkim problemom, z którymi styka³y siê ostatnio klany orków. Zjawili siê na niej wszyscy, z którymi starszyzna mia³a jeszcze kontakt. Dumny, wielki niegdyœ naród orków nie móg³ zape³niæ nawet po³owy miasta. Po ulicach b³¹ka³y siê kobiety, starcy i wychudzone dzieci. Tylko gdzieniegdzie mo¿na by³o spotkaæ mê¿czyznê z broni¹ b¹dŸ goblina, który struga³ strza³y na kolejn¹ bitwê. Gelu'Aben zamienia³o siê w grób.
@@ -32,4 +6,4 @@ Na naradzie pojawi³o siê dwanaœcie osób: przedstawicieli klanów i starszyzna. Ka
 I tutaj odezwali siê starsi: istnia³a opuszczona twierdza na wschodzie, za górami. Mieœci³a siê ona na owianych tajemnic¹ Polach Kalindorskich. Mia³y siê tam znajdowaæ staro¿ytne orkowe pisma, które traktowa³y o tym, jak przetrwaæ tak¹ apokalipsê. Ca³oœæ tego planu wydawa³a siê opieraniem swoich dzia³añ na bajkach i mitach, jednak w obecnej sytuacji nikt nie móg³ wymyœliæ lepszego rozwi¹zania. Nikt te¿ nie móg³ wpaœæ na to, jak przedrzeæ siê przez góry.
 Marbus, który ju¿ powzi¹³ decyzjê o dostaniu siê na Pola Kalindorskie, zaproponowa³, by zaprowadziæ orków krasnoludzkimi tunelami. Choæ Gelu'Aben znajdowa³o siê tylko kawa³ek drogi od nich, ¿adne z orków od lat nie przekracza³ progu wykutych przez krasnoludy jaskiñ. Wojownicza niegdyœ rasa zaczê³a baæ siê potêgi, jak¹ sta³¹ siê Knalga.
 Podjêto g³osowanie, które mia³o zadecydowaæ o przysz³oœci wszystkich klanów. Siedem z dwunastu osób zgodzi³o siê na to, by ruszyæ tunelami. Ta sama siódemka podjê³a te¿ decyzjê o tym, by Marbus zosta³ nowym Wielkim Suwerenem. Gewold siedzia³ w ciszy: by³ przeciwny obu tym decyzjom.
-Nastêpnego ranka Wielka, Zjednoczona Horda pochwyci³a pochodnie i poczê³a podpalaæ miasto. Po zaledwie godzinie, wspania³e niegdyœ Gelu'Aben zamieni³o siê w ruinê. Nie by³o ju¿ powrotu: tylko elfowie w lasach i ¿o³nierze Sojuszu ogl¹dali, jak czarny dym unosi³ siê nad miastem. Mia³ siê unosiæ jeszcze d³ugo, zaczadzaj¹c tych, którzy spróbowali w tym czasie zbli¿yæ siê do miasta. Marbus zaœ powzi¹³ sztandar Wielkiego Suwerena i pierwszy wst¹pi³ pod ziemiê, prowadz¹c swoich braci w mroki krasnoludzkich tuneli.
+Nastêpnego ranka Wielka, Zjednoczona Horda ruszy³a w mroki krasnoludzkich jaskiñ.
