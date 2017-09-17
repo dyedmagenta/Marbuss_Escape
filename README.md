@@ -15,8 +15,9 @@ Współtworzą:
 
 -Jarom
 
--Piko (MAŁYM DRUCZKIEM NA SAMYM DOLE)asdasdasaddadwdq
+-Piko (MAŁYM DRUCZKIEM NA SAMYM DOLE)
 
 -pe_em (ZDRAJCA)
 
 -Smok (ZDRAJCA)
+
