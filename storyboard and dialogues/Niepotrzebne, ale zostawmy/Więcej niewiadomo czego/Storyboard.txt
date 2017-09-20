@@ -1,0 +1,258 @@
+Storyboard Ucieczki Marbusa
+
+***
+
+Scenariusz Pierwszy:
+Rozpoczynamy w zamku na górze mapy, nasi przeciwnicy to uchodŸcy z Seledynowego Miasta. Zaczynaj¹ oni w zamku na po³udniu, a powinni mieæ do dyspozycji jednostki ludzi, kawaleriê i wieœniaków. Naszym celem jest pokonanie ich przywódcy. W pewnym momencie kawalerzyœci atakuj¹ nas z dwóch przeciwleg³ych koñców mapy. Sam scenariusz nie powinien byæ specjalnie trudny, gracz winien zebraæ sobie tutaj nieco z³ota i awansowaæ jakieœ jednostki.
+Eventy:
+* Wejœcie na heks ze znakiem rozpoczyna dialog.
+* Wejœcie do zamku na moczarach na po³udniu mapy rozpoczyna dialog.
+* Niektóre heksy na mapie powinny byæ podpisane.
+* W którejœ z pierwszych tur przywódca wroga rozpoczyna dialog, po którym ze wschodu i zachodu mapy pojawiaj¹ siê kawalerzyœci. Ich iloœæ jest zale¿na od poziomu trudnoœci.
+Cele Misji:
+* Pokonaj przywódcê wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Koniec limitu tur.
+
+
+Scenariusz Drugi:
+Ta sama mapa, jednak zim¹. Znaczna czêœæ lasu zosta³a wyciêta przez orki, tak samo jak jeden z mostów. Dostajemy dwójkê orków na drugim poziomie na starcie, którzy strzeg¹ wschodnich fortyfikacji. Nazywaj¹ siê bodaj¿e "Adris" i "Filar". Pierwszym zadaniem gracza jest dotarcie Kochanem do wie¿y obserwacyjnej i rozpoznanie siê w sytuacji. Drugim jest udanie siê Marbusem do znaku na pó³nocy. W scenariuszu mo¿emy te¿ zdobyæ dla siebie wilka, który kilka scenariuszy póŸniej zostanie nazwany Jêczmieniem. Wilk ten powinien byæ jednostk¹ lojaln¹, mieæ w³asne rodzaje awansów (tak jak np. Kochan i Marbus) oraz pojawiaæ siê przy nas na pocz¹tku ka¿dego scenariusza bez koniecznoœci przywo³ywania go.
+Eventy:
+* Wejœcie jak¹œ jednostk¹ na heks ze znakiem przed dotarciem Kochanem do wie¿y obserwacyjnej rozpoczyna dialog.
+* Wejœcie Kochanem do Wie¿y Obserwacyjnej rozpoczyna dialog i zmienia cele misji.
+* Zaatakowanie ghula/Ghul atakuje nas- rozpoczyna dialog.
+* Zaatakowanie wilka/Wilk atakuje nas- rozpoczyna dialog i przy³¹cza do nas wilka, który póŸniej stanie siê Jêczmieniem.
+Cele Misji:
+* Pierwszy: Dostañ siê Kochanem do wie¿y obserwacyjnej.
+* Drugi: Marbus musi uciec do Znaku na pó³nocnym-zachodzie.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Koniec limitu tur.
+
+
+Scenariusz Trzeci:
+Mapa z naprawdê szerok¹ rzek¹. Zaczynamy na pó³nocnym-wschodzie, na zachodzie czekaj¹ jaszczury, zaœ na po³udniowym-zachodzie nieumar³e duchy. Celem g³ównym jest pokonanie przywódcy wroga. Nie mo¿e przy tym zgin¹æ jednak przywódca jaszczurek, który jest zaprogramowany tak, by nie by³ zbyt samobójczy. Po walce gracz ma wybór, który scenariusz wybierze: pomoc jaszczurom b¹dŸ trollom. Gdy wybierze to pierwsze, w zamku jaszczurów, obok ich przywódcy, pojawi siê Emborgi-tarash (nale¿¹ca ju¿ do naszej dru¿yny). Dialog bêdzie prowadzony tak¿e z ni¹, po czym scenariusz siê skoñczy, a w nastêpnym bêdziemy mogli rekrutowaæ ju¿ jaszczurów.
+Eventy:
+* Jaszczury przywódca nie mo¿e byæ zbyt samobójczy.
+* Mo¿liwoœæ wyboru kolejnego scenariusza po pokonaniu przywódcy wroga.
+* Przy wyborze pomocy jaszczurom pojawienie siê Emborgi-tarash.
+* Mo¿liwe, ¿e na zachodniej stronie mapy znajduje siê znak. Pozosta³oœæ po pierwszych wersjach scenariusza, w których nie musieliœmy pokonaæ przywódcy wroga, a tylko dotrzeæ do znaku Marbusem. Wejœcie na niego (jeœli wci¹¿ tam jest) powinno rozpoczynaæ dialog.
+Cele Misji:
+* Pokonaj przywódcê wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ przywódcy jaszczurów.
+* Koniec limitu tur.
+
+
+Scenariusz Czwarty A:
+Czyli ratowanie jaszczurów z r¹k magów. Mamy tutaj dwóch sprzymierzonych przeciwników, którzy s¹ czarodziejami. Walka bêdzie naprawdê trudna i kluczem do zwyciêstwa powinno byæ wykorzystanie bagiennego terenu na nasz¹ korzyœæ (mo¿liwoœæ rekrutacji jaszczurów) oraz uwalnianie jaszczurek z ich klatek na œrodku mapy. Z tego, co pamiêtam, klatki s¹ trzy. Ka¿da mieœci w sobie przynajmniej dwie jednostki. Celem misji jest pokonanie obojgu przywódców wroga.
+Eventy:
+* Wejœcie na heksy z klatkami powoduje uratowanie z nich jaszczurów, a tak¿e dialog.
+* Pokonanie przywódców wroga skutkuje dialogiem.
+* Prawdopodobnie (!) po pokonaniu magów powinniœmy dostaæ nieco z³ota za ka¿dego (b¹dŸ jednego) z ich przywódców. Tego jednak nie jestem pewny.
+Cele Misji:
+* Pokonaj przywódców wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ Emborgi-tarash.
+* Koniec limitu tur.
+
+
+Scenariusz Czwarty B:
+Czyli ratowanie trolli. Ca³oœæ jest zasnuta ca³unem b¹dŸ mg³¹ wojny. B¹dŸ obiema tymi rzeczami. Naszym celem pocz¹tkowym jest rozpoznanie siê w sytuacji, czyli spotkanie jakiejkolwiek jednostki poza naszymi. Gdy to uczynimy, zobaczymy bitwê miêdzy trollami, a dwoma zamkami orków. Od teraz naszym celem bêdzie pokonanie dwóch przywódców wroga, bêdziemy te¿ sprzymierzeni z trollami, którymi dowodzi Krull Ska³a. W scenariuszu wystêpuj¹ te¿ klatki z trzema trollami na drugim poziomie. W tym z jednym szamanem znanym z kampanii PPS. Ca³a ta trójka trolli powinna byæ wzglêdem nas lojalna.
+Eventy:
+* Spotkanie pierwszej jednostki przeciwnika/trolla powoduje rozpoczêcie dialogów z trollami oraz przywódcami wroga, a nastêpnie zmianê celów misji.
+* Zabicie któregokolwiek z przywódców wroga powoduje dialog oraz (tego nie jestem pewny) dodatkowe z³oto.
+* Uwalnianie trolli z klatek skutkuje dialogami.
+* Œmieræ Krulla Ska³y koñczy scenariusz.
+Cele Misji:
+* Pierwszy: SprawdŸ, co sta³o siê w Sunek Dalu.
+* Drugi: Pokonaj przywódców wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ Krulla Ska³y. (pojawia siê dopiero w aktualizacji celu misji)
+* Koniec limitu tur.
+
+
+Scenariusz Pi¹ty:
+Bitwa pod Gelu'Aben. Zaczynamy na po³udniu i widzimy Gewolda broni¹cego siê w swojej twierdzy przed krasnoludami oraz si³ami Sojuszu Pó³nocy. Sojusz Pó³nocy powinien rekrutowaæ zarówno jednostki ludzi, jak i krasnoludów, elfów, gryfów i rzezimieszków. Powinien mieæ naprawdê zró¿nicowane wojsko. Gewold jest zaprogramowany tak, by nie by³ zbyt samobójczy. Naszym celem jest przebiæ siê przez oblê¿enie, a nastêpnie pokonaæ obu przywódców wroga.
+Eventy:
+* Œmieræ Gewolda koñczy scenariusz.
+* Œmieræ przywódcy Sojuszu Pó³nocy i przywódcy krasnoludów wywo³uj¹ dialogi.
+* Nie pamiêtam, jak to jest zaprogramowane, ale wydaje mi siê, ¿e w którymœ momencie gra ustala, ¿e oblê¿enie jest ju¿ zatrzymane i teraz celem jest pokonanie przywódców wroga. Mo¿e tak byæ, nie mówiê, ¿e na pewno tak jest. To chyba skutkowa³o dialogiem i zmian¹ celów misji. Mo¿liwe te¿, ¿e wówczas si³y przeciwnika dostawa³y zastrzyk gotówki. Prawdopodobnie dzia³o siê to, gdy doszliœmy Marbusem do twierdzy Gewolda.
+Cele Misji:
+* Pierwszy: Przebij siê przez oblê¿enie.
+* Drugi: Pokonaj przywódców wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ Gewolda.
+* Œmieræ Krulla Ska³y/Œmieræ Emborgi-tarash.
+* Koniec limitu tur.
+
+
+Scenariusz Szósty:
+Od tego momentu Emborgi-tarash i Krull Ska³a mog¹ zgin¹æ. Trzeba sprawdzaæ teraz dobrze dialogi, gdy¿ brak tej dwójki mo¿e na nie wp³yn¹æ i sprawiæ, ¿e bêd¹ niezrozumia³e. Sam scenariusz zaczynamy w tunelach krasnoludów, wszêdzie jest ca³un. Naszym celem jest dostanie siê Marbusem na wschodni kraniec mapy. Po drodze mijamy rzekê, w której pojawia siê Aidala ze swoimi nagami. Od tego momentu s¹ one z nami, mo¿emy tak¿e rekrutowaæ nagi. Sam scenariusz mo¿na przejœæ na trzy sposoby: udaæ siê do korytarza na pó³nocy i po cichu przedostaæ siê Marbusem do krañca mapy, nie alarmuj¹c przy tym krasnoludów, uderzyæ w któryœ z dwóch (b¹dŸ trzech?) baz krasnoludów i przedostaæ siê na kraniec mapy w ogniu bitwy b¹dŸ pokonaæ wszystkich przywódców wroga, zgarn¹æ premiê w z³ocie za ka¿dego z nich i zakoñczyæ scenariusz bez udawania siê na kraniec mapy. Na zachodzie mamy jeszcze tunele z duchem i magicznym amuletem. Wejœcie do nich skutkuje dialogiem ducha, a brniêcie w g³¹b- walk¹ z nich. Z ducha wypada amulet, który powinniœmy zabraæ wy³¹cznie Marbusem. Jeœli jest inaczej, dobrze bêdê to zmieniæ. Sam amulet daje jakieœ premiê, których nie pamiêtam. Jeœli w naszych szeregach jest Jêczmieñ (od tego scenariusza powinien ju¿ nosiæ to imiê), po zabraniu przez Marbusa amuletu, Jêczmieñ pojawi siê obok niego i tak¿e dostanie dodatkowe perki. W scenariuszu s¹ te¿ cztery krasnoludzkie wioski, na których wejœcie naszymi jednostkami skutkuje dialogiem.
+Eventy:
+* Dotarcie do rzeki powoduje pojawienie siê Aidali i nag. Nie da siê tego unikn¹æ w ¿aden sposób przechodz¹c scenariusz.
+* Spotkanie krasnoluda powoduje zaalarmowanie krasnoludów i rozpoczêcie bitwy, a tak¿e dialog.
+* Wejœcie Marbusem na heks przyleg³y do wschodniego krañca mapy koñczy scenariusz.
+* Pokonanie któregoœ z przywódców wroga skutkuje dialogiem i premi¹ w z³ocie.
+* Pokonanie obu przywódców wroga skutkuje dialogiem, premi¹ w z³ocie i koñcem scenariusza.
+* Wejœcie do tuneli ducha powoduje dialog.
+* Zaatakowanie ducha/Duch atakuje nas powoduje dialog.
+* Zabicie ducha powoduje dialog i pojawienie siê amuletu.
+* Wejœcie na amulet jak¹œ jednostk¹ powoduje dialog.
+* Wejœcie na amulet Marbusem powoduje dialog, wziêcie przez niego amuletu i trwa³e wzmocnienie.
+* Jeœli wziêliœmy amulet Marbusem i mamy w dru¿ynie Jêczmienia, ten pojawi siê obok Marbusa, wyskoczy dialog, a nastêpnie Jêczmieñ dostanie wzmocnienie.
+* Na pocz¹tku scenariusza powinien wyskoczyæ dialog z Logiem Wesnoth i informacj¹, ¿e œmieræ Emborgi-tarash b¹dŸ Krulla Ska³y nie zakoñczy ju¿ scenariusza, ale wp³ynie na epilog kampanii.
+* Scenariusz zaczynamy tak¿e z Gewoldem. Jego œmieræ (i œmieræ Aidali) koñcz¹ scenariusz.
+* Wejœcie na cztery jednostki krasnoludów skutkuje dialogiem.
+Cele Misji:
+* Przedostañ siê Marbusem na wschodni kraniec mapy.
+* Alternatywne: Pokonaj wszystkich przywódców wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ Gewolda.
+* Œmieræ Aidali. (Pojawia siê dopiero po spotkaniu Aidali w jaskiniach)
+* Koniec limitu tur.
+
+
+Scenariusz Siódmy:
+Zaczynamy na wschodzie. Na pó³nocy czekaj¹ krasnoludy w swojej twierdzy. Ca³a wschodnia czêœæ mapy, to jezioro. Naszym zadaniem jest przedarcie siê Marbusem na wschodni kraniec mapy (albo na kraniec, albo do znaku, który tam jest, nie pamiêtam dok³adnie). Niemniej! Na pocz¹tku scenariusza rozpoczyna siê dialog z krasnoludami. Mo¿emy przekonaæ ich do nieagresji, pomocy nam w przedarciu siê na drug¹ stronê jeziora b¹dŸ sprowokowaæ do ataku. W jeziorze ukrytych jest mnóstwo potworów z g³êbin, oœmiornic, macek, nietoperzy. Przejœcie przez nie powinno wymagaæ przywo³ania kilku dobrych wojowników.
+Eventy:
+* Rozmowa z krasnoludem. By przekonaæ ich do nieagresji (czyli stanu, w którym nie zaatakuj¹ nas, póki nie zaatakujemy ich pierwsi/nie staniemy na heksie w pobli¿u krasnoluda) trzeba wybraæ na nasz¹ emisariuszkê Emborgi-tarash.
+* Rozmowa z krasnoludem. Wybranie na emisariusza Jêczmienia spowoduje pojawienie siê w szeregach krasnoludów Mistrza Run, który podejdzie do wilka. Jeœli Jêczmieñ pogryz³ amulet z poprzedniego scenariusza, wówczas krasnoludy bêd¹ naszymi sojusznikami. Jeœli tego nie zrobi³, zaatakuj¹ nas.
+* Rozmowa z krasnoludem. Wybranie na emisariusza Gewolda, Aidali b¹dŸ Krulla Ska³y spowoduje walkê z krasnoludami.
+* Rozmowa z krasnoludem. Wybranie na emisariusza Marbusa spowoduje mo¿liwoœæ wykupienia nieagresji (sojuszu?) z krasnoludami za z³oto.
+* Rozmowa z krasnoludem. Wybranie na emisariusza Kocha spowoduje seriê pytañ od krasnoludów, na które odpowiedzi pojawia³y siê w dialogach, które widzieliœmy w poprzednim scenariuszu, wchodz¹c na heksy z wioskami krasnoludów. Odpowiedzenie na wszystkie w poprawny sposób spowoduje sojusz z krasnoludami. Jedna pomy³ka doprowadzi do agresji.
+* Zaatakowanie potwora z jeziora/potwór z jeziora atakuje nas- wywo³uje dialog.
+* Dojœcie Marbusem do koñca mapy na wschodzie (do znaku na wschodzie?) wywo³uje koniec scenariusza.
+* Zabicie przywódcy krasnoludów wywo³uje dialog oraz premiê w z³ocie.
+Cele Misji:
+* Przedostañ siê Marbusem na wschodni kraniec mapy./Przedostañ siê Marbusem do Znaku na wschodnim krañcu mapy.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+* Koniec limitu tur.
+
+
+Scenariusz Ósmy:
+Zaczynamy scenariusz dwa ruchy/ruch przed dotarciem do twierdzy. Naszym zadaniem pocz¹tkowym jest dotarcie tam Marbusem. Gdy to uczynimy, nasz lider znika, zaœ mo¿liwoœæ rekrutacji otrzymuj¹ Kochan i Gewold. W tym momencie mg³a wojny opada i widzimy armiê Sojuszu Pó³nocy i nieumar³ych walcz¹cych ze sob¹. Oni te¿ widz¹ nas. Od tego momentu musimy wytrwaæ przez 14 tur.
+Eventy:
+* Dialog po wejœciu Marbusem do twierdzy, oddaniu w³adzy Gewoldowi oraz Kochanowi oraz pokazaniu siê armii ludzi i nieumar³ych.
+* Dialogi przy rekrutacji/przywo³aniach jednostek.
+* Dialog w szóstej turze.
+* Dialog w dziesi¹tej turze. W po³owie wszystkie jednostki Sojuszu Pó³nocy znikaj¹ z pola bitwy. Po nim obok Gewolda pojawia siê dwójka lojalnych orków na drugim poziomie.
+* Dialog w czternastej turze. Marbus pojawia siê w twierdzy, Kochan wyrusza na po³udniowy kraniec mapy, gdzie siê zatrzymuje. W twierdzy Marbusa pojawia siê czwórka jeŸdŸców wilka na drugim poziomie, którzy ruszaj¹ za Kochanem. Dialog, po którym scenariusz siê koñczy.
+Cele Misji:
+* Pierwszy: Dostañ siê Marbusem do fortecy orków.
+* Drugi: Wytrzymaj ataki wrogów przez 14 tur.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Kochana.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+
+
+Scenariusz Dziewi¹ty:
+Scenariusz w ca³oœci poœwiêcony Kochanowi. Przypomina jeden ze scenariuszy w kampanii "Ber³o Ognia", gdzie uciekaliœmy kawalerzyst¹ przed elfickimi forysiami. Tutaj musimy uciec przed nieumar³ymi, którzy goni¹ nas z pó³nocy. Po drodze zahaczamy o wsie, zagajniki itp., gdzie spotykamy kilka nieprzyjaznych zarówno dla nas, jak i nieumar³ych, jednostek. Naszym celem jest dostanie siê Kochanem do lasu na po³udniu mapy, gdzie rozmawiamy z Beatrycze. Po rozmowie z ni¹ otaczaj¹ nas elfy na trzecich poziomach, które zabijaj¹ Kochana.
+Eventy:
+* Druga tura- dialog oraz pojawienie siê szkieletów oraz duchów. Powinny one pojawiaæ siê co turê, ¿eby gracz nie mia³ z nimi ¿adnych szans w walce, gdyby siê na tak¹ zdecydowa³. 
+* Dialogi œmierci towarzyszy Kochana.
+* Event wejœcia do wsi. Dialog z wieœniakami.
+* Event wejœcia do zagajnika. Dialog z drzewcem.
+* Event wejœcia do rzeki. Dialog z trytonami.
+* Event zobaczenia linii drzew na po³udniu. Pu³apka! Pojawienie siê dwóch duchów na drugim poziomie i dialog.
+* Event wejœcia do lasu. Rozmowa z Beatrycze, jej odejœcie i przybycie elfich strzelców. Mo¿liwoœæ wyboru opcji dialogowych, po których nastêpuje walka z elfami. Kochan nie mo¿e jej prze¿yæ. Po jego œmierci nastêpuje koniec scenariusza.
+Cele Misji:
+* Pierwszy: Uciekaj!
+* Drugi: Spróbuj prze¿yæ.
+Pora¿ka:
+* Œmieræ Kochana. (Tylko do czasu rozmowy z Beatrycze. PóŸniej znika.)
+* Koniec limitu tur.
+
+
+Scenariusz Dziesi¹ty:
+Bitwa. Du¿a. Na pocz¹tku musimy wytrwaæ przez szeœæ tur w walce z si³ami Sojuszu Pó³nocy i Elfickich Jarlów. Po tym czasie przybywa Beatrycze i mówi, ¿e jesteœmy przyjació³mi i musimy stawiæ czo³a nieumar³ym. Marbus i Beatrycze przenosz¹ siê do twierdzy na pó³nocy, sk¹d teraz mo¿emy rekrutowaæ jednostki. Po dialogu z ni¹ z po³udnia wychylaj¹ siê nieumarli, których musimy pokonaæ. Nie maj¹ lidera, co kilka tur nadci¹ga ich nowa chmara. Scenariusz powinien byæ teraz rodzajem survivalu. W turze dziesi¹tej z gór przybywaj¹ krasnoludy. Nie mog¹ rekrutowaæ jednostek. Trzeba uwa¿aæ, by ich król nie zgin¹³. Po pokonaniu wszystkich nieumar³ych rozpoczyna siê dialog, po którym przybywaj¹ elfy, które zabi³y Kochana. Znów dialog i koniec scenariusza.
+Eventy:
+* Tura Szósta- przybycie Beatrycze, przeniesienie Marbusa i jej do zamku na pó³nocy, przybycie nieumar³ych na po³udniu i pocz¹tek walki z nimi, zmiana stron w ten sposób, byœmy walczyli wszyscy przeciwko nieumar³ym.
+* Tura Dziesi¹ta- przybycie krasnoludów i dialog.
+* Zakoñczenie- przybycie morderców Kochana i dialog z nimi.
+Cele Misji:
+* Pierwszy: Stawiaj opór przeciwnikom.
+* Drugi: Pokonaj wszystkich nieumar³ych.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+* Œmieræ Beatrycze. (od tury 6)
+* Œmieræ Jarla Iricka Wysokiego.
+* Œmieræ Wielkiego Lorda Diracka. 
+* Œmieræ Króla Wilhelma ¯elaznej Rêki.  (od tury 10)
+
+
+Scenariusz Jedenasty:
+Wszystkie eventy zosta³y opisane w pliku tego scenariusza.
+Cele Misji:
+* Zdob¹dŸ Róg Gjallarhorn.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+
+
+Scenariusz Dwunasty:
+Wszystkie eventy zosta³y opisane w pliku tego scenariusza.
+Cele Misji:
+* OdnajdŸ si³y Sojuszu Pó³nocy i Elfickich Jarlów, a nastêpnie przyprowadŸ ich przywódców do pocz¹tkowego obozu Marbusa.
+* Alternatywne: Pokonaj przywódcê wroga.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+* Œmieræ Jarla Oferiu.
+* Œmieræ Kapitana Rylisa.
+* Koniec limitu tur.
+
+
+Scenariusz Trzynasty:
+Wszystkie eventy zosta³y opisane w pliku tego scenariusza.
+Cele Misji:
+* Pokonaj Króla Dzikiego Gonu.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+* Koniec limitu tur.
+
+
+Scenariusz Czternasty A:
+Wszystkie eventy zosta³y opisane w pliku tego scenariusza.
+Cele Misji:
+* Pierwszy: Pokonaj Gewolda.
+* Drugi: Wytrzymaj najd³u¿ej, jak umiesz.
+Pora¿ka:
+* Œmieræ Marbusa. (Tylko w pierwszych celach misji.)
+* Œmieræ Aidali. (Tylko w pierwszych celach misji.)
+
+
+Scenariusz Czternasty B:
+Wszystkie eventy zosta³y opisane w pliku tego scenariusza.
+Cele Misji:
+* Pokonaj Beatrycze.
+Pora¿ka:
+* Œmieræ Marbusa.
+* Œmieræ Gewolda.
+* Œmieræ Aidali.
+* Koniec limitu tur.

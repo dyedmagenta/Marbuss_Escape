@@ -1,0 +1,102 @@
+Endingi
+
+***
+
+Po przejœciu scenariusza 14 A:
+
+1a. Marbus nie zabra³ medalionu ze scenariusza szóstego, wybraliœmy œcie¿kê jaszczurów, Czerwony Kapturek nie ¿yje. (1,2,3,4,5,6,7,8)
+1b. Marbus nie zabra³ medalionu ze scenariusza szóstego, wybraliœmy œcie¿kê jaszczurów, Czerwony Kapturek ¿yje. (1,2,3,4,5,9,7,8)
+1c. Marbus nie zabra³ medalionu ze scenariusza szóstego, wybraliœmy œcie¿kê trolli, Czerwony Kapturek nie ¿yje. (1,2,3,10,11,6,7,8)
+1d. Marbus nie zabra³ medalionu ze scenariusza szóstego, wybraliœmy œcie¿kê trolli, Czerwony Kapturek ¿yje. (1,2,3,10,11,9,7,8)
+1e. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê jaszczurów, Czerwony Kapturek nie ¿yje, Jêczmieñ przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,4,5,6,7,8,13)
+1f. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê jaszczurów, Czerwony Kapturek nie ¿yje, Jêczmieñ nie przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,4,5,6,7,8,12)
+1g. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê jaszczurów, Czerwony Kapturek ¿yje, Jêczmieñ przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,4,5,9,7,8,15)
+1h. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê jaszczurów, Czerwony Kapturek ¿yje, Jêczmieñ nie przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,4,5,9,7,8,14)
+1i. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê trolli, Czerwony Kapturek nie ¿yje, Jêczmieñ przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,10,11,6,7,13)
+1j. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê trolli, Czerwony Kapturek nie ¿yje, Jêczmieñ nie przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,10,11,6,7,12)
+1k. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê trolli, Czerwony Kapturek ¿yje, Jêczmieñ przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,10,11,9,7,15)
+1l. Marbus zabra³ medalion ze scenariusza siódmego, wybraliœmy œcie¿kê trolli Czerwony Kapturek ¿yje, Jêczmieñ nie przetrwa³ do pogromu orków w ostatnim scenariuszu. (1,2,3,10,11,9,7,14)
+
+***
+
+Po przejœciu scenariusza 14 B:
+
+2a. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,19,24,26,27,28,29)
+2b. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,19,24,26,28,29)
+2c. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,19,24,25,27,28,29)
+2d. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,19,24,25,28,29)
+2e. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,19,24,26,27,28,29)
+2f. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,21,24,26,28,29)
+2g. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,21,24,25,27,28,29)
+2h. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,21,24,25,28,29)
+2i. Wybraliœmy œcie¿kê trolli, Krull Ska³a prze¿y³, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,20,26,27,28,29)
+2j. Wybraliœmy œcie¿kê trolli, Krull Ska³a prze¿y³, Czerwony Kapturek jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,20,26,28,29)
+2k. Wybraliœmy œcie¿kê trolli, Krull Ska³a prze¿y³, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,20,25,27,28,29)
+2l. Wybraliœmy œcie¿kê trolli, Krull Ska³a prze¿y³, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,20,25,28,29)
+2m. Wybraliœmy œcie¿kê trolli, Krull Ska³a nie prze¿y³, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,22,26,27,28,29)
+2n. Wybraliœmy œcie¿kê trolli, Krull Ska³a nie prze¿y³, Czerwony Kapturek jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,22,26,28,29)
+2o. Wybraliœmy œcie¿kê trolli, Krull Ska³a nie prze¿y³, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,22,25,27,28,29)
+2p. Wybraliœmy œcie¿kê trolli, Krull Ska³a nie prze¿y³, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,22,25,28,29)
+
+***
+
+1. Œwiat nigdy nie pozna³ prawdy o dniu, w którym nadzieje Wielkiej Hordy zosta³y obrócone w py³. Powszechnie mówi³o siê o zdradzie Gewolda oraz pu³apce, jak¹ przygotowa³ dla Wielkiego Suwerena. Z masakry mia³ nie ostaæ siê ¿aden wojownik, zaœ w³adcy pó³nocy jednog³oœnie uznali, i¿ Marbus zgin¹³ chwalebn¹ œmierci¹, za któr¹ nale¿y mu siê czeœæ i chwa³a. Zosta³ on uznany za wielkiego bohatera, a jego wizerunek pos³u¿y³ do tego, by stopniowo narzucaæ pêta na rasê orków i przejmowaæ coraz to wiêksz¹ nad ni¹ kontrolê.
+
+2. Po œmierci Marbusa i Gewolda Wielka Horda prze¿y³a roz³am. Pomniejsze klany orków nie potrafi³y siê ju¿ zjednoczyæ. Nie znalaz³ siê nikt na tyle charyzmatyczny, by tego dokonaæ. Wkrótce Sojusz Pó³nocy obj¹³ pieczê nad wiêksz¹ czêœci¹ tej rasy, staraj¹c siê utrzymaæ j¹ w ryzach i nigdy wiêcej nie dopuœciæ do tego, by Wielka Horda zebra³a siê ponownie. Wszyscy, którzy stawiali opór owym zmianom, zostali uznani za wrogów ideologi Marbusa i byli szybko eliminowani.
+
+3. Córki Aidali zna³y jednak prawdê. Przysiêg³y zemstê na Elfich Jarlach i przez kolejne lata skutecznie walczy³y z nimi na morzu i w innych zbiornikach wodnych. Zemsta jednak nie op³aci³a im siê- szybko zosta³y uznane za zdrajczynie i wrogów pó³nocy. Bez sojusznika w postaci orków, nagi sta³y siê ³atwym celem dla ³owców g³ów i najemników. Ich rasa zaczê³a karleæ, by w koñcu odejœæ w zapomnienie.
+
+4. Jaszczury mocno zintegrowa³y siê z klanami orków. Ich los splót³ siê z nimi i doprowadzi³ pod jarzmo Sojuszu Pó³nocy, gdzie dotkn¹³ ich rasizm i seria przeœladowañ, g³ównie ze strony magów i uczonych, którzy wyœmiewali prymitywn¹ magiê oraz wierzenia jaszczurzych szamanów. Choæ ich rasa mog³a teraz wêdrowaæ po ca³ej pó³nocy bez przeszkód, ¿aden jej przedstawiciel nie czu³ siê naprawdê wolny.
+
+5. Rasa trolli niemal ca³kowicie odesz³a w zapomnienie. Nie przy³¹czaj¹c siê do Wielkiej Hordy, trolle ci¹gle by³y uwa¿ane za dzikie, wrogo nastawione stworzenia, które trzeba wytêpiæ. Ich plemiona coraz skuteczniej by³y spychane pod ziemiê b¹dŸ na najodleglejsz¹ pó³noc, gdzie klimat wybija³ je równie skutecznie, co krasnoludzkie m³oty. W nied³ugim czasie rasa odesz³a w zapomnienie i tylko stare niañki opowiada³y przy ogniskach niestworzone historie o olbrzymach z kamienia.
+
+6. Z³y los nie min¹³ Krwawych Elfów. Pozbawieni przywódczyni, szybko nastawili siê przeciwko sobie i wzajemnie wybili. Ci, którzy przetrwali, zostali nazwani bandytami oraz zdrajcami elfiej rasy. Czerwony Kapturek, ostatnia potomkini Landara, sta³a siê symbolem zdrady, m³odzieñczej g³upoty i nienawiœci. Wkrótce wszyscy zapomnieli o szacunku, jaki budzi³a, a dzieci zaczê³y bawiæ siê w "Czerwonego Kapturka i wilka". W owej zabawie nie chodzi³o jednak ani o rewolucjê i walkê przeciwko Elfickim Jarlom, ani o idea³y Landara.
+
+7. Sojusz Pó³nocy, Elficcy Jarlowie oraz Knalga prze¿ywa³y rozkwit. Dziki Gon zada³ im olbrzymie straty, jednak znacznie bardziej dotkn¹³ wszystkich tych, z którymi owe pañstwa toczy³y wojny. Wkrótce nawi¹zano nowe sojusze, uk³ady i organizacje, które mia³y umocniæ wiêŸ powsta³¹ pomiêdzy wszystkimi krainami pó³nocy. Pod przewodnictwem Jarlów, Królów i Lordów ca³a pó³noc p³awi³a siê w dostatku. Przynajmniej do czasu, gdy nie pojawi siê nowe zagro¿enie b¹dŸ konflikt zbrojny...
+
+8. Róg Gjallarhorn zosta³ ukryty przez Elfich Jarlów i Najwy¿sz¹ Kap³ankê, Beatrycze. Choæ mia³ przynale¿eæ do rasy orków, ¿aden z nich mia³ go nie zobaczyæ przez nastêpne tysi¹c lat. Dopiero wówczas miano pozwoliæ na to, by wybraæ wœród orków Wielkiego Suwerena. Oczywiœcie tym razem by³aby to osoba odpowiednio wyselekcjonowana przez w³adców pó³nocy, by nie wa¿y³a siê im sprzeciwiæ oraz nak³oniæ swoj¹ rasê do buntu.
+
+9. Krwawe Elfy pod przewodnictwem Czerwonego Kapturka sta³y siê jedn¹ z najwiêkszych si³ militarnych pó³nocy. Przynajmniej do czasu, a¿ rozprawili siê ju¿ ze wszystkimi potencjalnymi zagro¿eniami. Po kilku latach walk na ka¿dym mo¿liwym froncie, potomkini Landara zaczê³a walczyæ o nale¿ne sobie prawa. Jak ³atwo mo¿na siê by³o domyœliæ- bezskutecznie. Szybko zyska³a sobie przydomek "buntowniczki bez powodu" i po kilku próbach wzniecenia buntu wœród elfów, zosta³a w koñcu skazana na wygnanie. 
+
+10. Jaszczury nie zintegrowa³y siê z klanami orków, przez co nie zosta³y wcielone w szeregi Wielkiej Hordy. Przez mo¿now³adców pó³nocy zosta³y uznane za potencjalne zagro¿enie, z którym nale¿a³o siê czym prêdzej rozprawiæ. W skutek dzia³añ Sojuszu Pó³nocy zginê³o znacznie wiêcej przedstawicieli tej rasy, niŸli od miecza wojowników Dzikiego Gonu. Ostatnie klany jaszczurów emigrowa³y na po³udnie, a tak¿e na bardzo daleki wschód- w stronê ska¿onych, ci¹gn¹cych siê kilometrami moczar, gdzie czeka³a ich niepewna przysz³oœæ.
+
+11. Trolle zjednoczy³y siê z Wielk¹ Hord¹ i bez sprzeciwu przyjmowa³y rozkazy od swoich nowych panów. Tymi zaœ byli najczêœciej wysokiej rangi magami Sojuszu Pó³nocy, którzy zapewnili im wikt i opierunek, choæ ¿¹dali za to wysokiej ceny... Stworzony i w³¹czony w ¿ycie zosta³ program edukacyjny, którego celem mia³o byæ ograniczenie intelektu tej rasy i przystosowanie ich do ¿ycia w spo³eczeñstwie przysz³oœci, a zatem takim, w którym trolle sta³yby siê s³ugami ludzi, elfów i krasnoludów. Choæ w koñcu mia³y mnóstwo ¿ywnoœci, trzymano ich na krótkim ³añcuchu, który z czasem mia³ zamieniæ siê w kajdany.
+
+12. Co zaœ tyczy siê Marbusa... Na pó³nocy rozesz³a siê wieœæ o tajemniczym orku, który wêdruje samotnie przez wszystkie krainy i nosi na piersi magiczny, potê¿ny amulet. Œwiadkowie opowiadali, ¿e otacza³a go lodowata, nieprzenikniona aura, a weterani bitwy Pod Gór¹ Przeznaczenia porównywali j¹ do uczucia, które towarzyszy³o im, gdy stan¹³ przed nimi Król Gonu. Snuto ró¿ne teorie na temat tego tajemniczego jegomoœcia... Jedni twierdzili, ¿e to w³aœnie Król Gonu przechadza siê po œwiecie, by zebraæ dusze umar³ych i wskrzesiæ ich za nastêpne tysi¹c lat... Drudzy s¹dzili, i¿ to w³aœnie Marbus nawiedza pó³noc, by odpokutowaæ za dawne grzechy swojej rasy... O tym jednak nie traktuje ju¿ ta opowieœæ...
+
+13. Co zaœ tyczy siê Marbusa... Na pó³nocy rozesz³a siê wieœæ o tajemniczym orku, który wêdruje wraz ze swym wilkiem przez wszystkie krainy i nosi na piersi magiczny, potê¿ny amulet. Œwiadkowie opowiadali, ¿e otacza³a go lodowata, nieprzenikniona aura, a weterani bitwy Pod Gór¹ Przeznaczenia porównywali j¹ do uczucia, które towarzyszy³o im, gdy stan¹³ przed nimi Król Gonu. Snuto ró¿ne teorie na temat tego tajemniczego jegomoœcia... Jedni twierdzili, ¿e to w³aœnie Król Gonu przechadza siê po œwiecie, by zebraæ dusze umar³ych i wskrzesiæ ich za nastêpne tysi¹c lat... Drudzy s¹dzili, i¿ to w³aœnie Marbus nawiedza pó³noc, by odpokutowaæ za dawne grzechy swojej rasy... O tym jednak nie traktuje ju¿ ta opowieœæ...
+
+14.  Co zaœ tyczy siê Marbusa... Na pó³nocy rozesz³a siê wieœæ o tajemniczym orku, który wêdruje samotnie przez wszystkie krainy i nosi na piersi magiczny, potê¿ny amulet. Œwiadkowie opowiadali, ¿e otacza³a go lodowata, nieprzenikniona aura, a weterani bitwy Pod Gór¹ Przeznaczenia porównywali j¹ do uczucia, które towarzyszy³o im, gdy stan¹³ przed nimi Król Gonu. Snuto ró¿ne domys³y na jego temat, jednak w koñcu znalaz³ siê ktoœ, kto podj¹³ siê zadania wytropienia go i poznania prawdy. Czerwony Kapturek ruszy³a jego œladem kilka lat po swoim wygnaniu. Od tego momentu zaczêto rozmawiaæ o bitwach, które toczy³a miêdzy sob¹ ta dwójka, o zmaganiach Potomkini Landara i Tajemniczego Orka. I choæ wiele lat minê³o, odk¹d Czerwony Kapturek poprzysiêg³a zabicie Marbusa, pog³oski o walkach tej dwójki trwaj¹ do dziœ.
+
+15. Co zaœ tyczy siê Marbusa... Na pó³nocy rozesz³a siê wieœæ o tajemniczym orku, który wêdruje wraz ze swym wilkiem przez wszystkie krainy i nosi na piersi magiczny, potê¿ny amulet. Œwiadkowie opowiadali, ¿e otacza³a go lodowata, nieprzenikniona aura, a weterani bitwy Pod Gór¹ Przeznaczenia porównywali j¹ do uczucia, które towarzyszy³o im, gdy stan¹³ przed nimi Król Gonu. Snuto ró¿ne domys³y na jego temat, jednak w koñcu znalaz³ siê ktoœ, kto podj¹³ siê zadania wytropienia go i poznania prawdy. Czerwony Kapturek ruszy³a jego œladem kilka lat po swoim wygnaniu. Od tego momentu zaczêto rozmawiaæ o bitwach, które toczy³a miêdzy sob¹ ta dwójka, o zmaganiach Potomkini Landara i Tajemniczego Orka. I choæ wiele lat minê³o, odk¹d Czerwony Kapturek poprzysiêg³a zabicie Marbusa, pog³oski o walkach tej dwójki trwaj¹ do dziœ.
+
+
+***
+
+16. Pod przewodnictwem Marbusa Wielka Horda szybko sta³a siê najwiêksz¹ potêg¹ pó³nocy, z któr¹ liczyæ siê musia³ ca³y Wielki Kontynent. Takie pañstwa jak Wesnoth b¹dŸ Elensefar próbowa³y wspomóc rozbity ju¿ Sojusz Pó³nocy b¹dŸ Elfickich Jarlów, jednak na pró¿no. Wielki Suweren rz¹dzi³ ¿elazn¹ rêk¹ i jakiekolwiek oznaki buntu by³y szybko i skutecznie t³amszone. Nie by³o szans na pokonanie oprawcy, przynajmniej za ¿ycia Marbusa.
+
+17. Gewold zosta³ dowódc¹ armii Wielkiego Suwerena. Pod jego rozkazami rasa orków wyda³a na œwiat najznamienitszych wojowników i ¿o³nierzy. W historii swojej rasy zapisa³ siê nie tylko jako znakomity przywódca, ale tak¿e odnowiciel: zniewoli³ elfy, krasnoludy i ludzi, a nastêpnie nakaza³ im tworzyæ nowe, potê¿ne fortece, które swoim kszta³tem i rozmiarem przypomina³y, a tak¿e upamiêtnia³y spalone wczeœniej Gelu'Aben.
+
+18. Aidala do koñca ¿ycia towarzyszy³a Wielkiemu Suwerenowi wszêdzie tam, gdzie siê uda³. Nieoficjalnie mówi³o siê o ich zwi¹zku, jednak nikt nie zdoby³by siê na to, by ich za to piêtnowaæ. Wkrótce nagi zala³y ca³¹ pó³noc, a pos¹gi Aidali, matki nag, wype³ni³y podwodne zbiorniki i stawiane by³y u ujœcia rzek. Choæ jej córki wreszcie by³y wolne, ¿adna nie wyrzek³a siê swojej matki. Wrêcz przeciwnie- zdawaæ by siê mog³o, ¿e oddaj¹ jej wrêcz nabo¿n¹ czeœæ.
+
+19. Emborgi-tarash przetrwa³a bra³a udzia³ w najwa¿niejszych bitwach Wielkiej Hordy oraz wielu tych, o których siê nie mówi³o. Choæ przewidzia³a swoj¹ œmieræ na polu walki, nie znalaz³a jej. Przynajmniej nie za panowania Marbusa. Pod jej przewodnictwem jaszczury odnowi³y swoje sabaty i wierzenia, a tak¿e zaludni³y pó³noc. Na zawsze sta³y siê czêœci¹ Wielkiej Hordy i biada by³o temu, kto oœmieli³ siê je dyskryminowaæ. W nied³ugim czasie rasa ta odzyska³a swoj¹ potêgê i sta³a siê równie silna, co orkowie.
+
+20. Krull Ska³a stan¹³ na czele trolli i sta³ siê pierwszym przedstawicielem tej rasy, który zab³ysn¹³ jako emisariusz i dyplomata. Rozmawia³ jednak g³ównie z innymi trollami, które zosta³y wygnane tak daleko na pó³noc, ¿e niemal¿e nie wiedzia³y o Dzikim Gonie i zmianach, jakie nasta³y po wojnie. Wkrótce Krull Ska³a zyska³ sobie miano Króla Trolli i osiad³ ze swoj¹ ras¹ w dawnej Knaldze, choæ wci¹¿ by³ suwerenem Marbusa. Dwójka ta darzy³a siê wzajemn¹ przyjaŸni¹ i szacunkiem, a¿ po kres ich dni.
+
+21. Emborgi-tarash odnalaz³a swoj¹ œmieræ na polu bitwy, tak jak przepowiedzia³a wiele wieków temu. Jej rasa wznosi³a mod³y, odprawia³a rytua³y i œpiewy, a w koñcu podnios³a siê z ¿a³oby. Pod przewodnictwem Marbusa jaszczury odzyska³y dawn¹ chwa³ê, odnowi³y swoje sabaty i wierzenia, a tak¿e zaludni³y pó³noc. Na zawsze sta³y siê czêœci¹ Wielkiej Hordy i biada by³o temu, kto oœmieli³ siê je dyskryminowaæ. W nied³ugim czasie rasa ta odzyska³a swoj¹ potêgê i sta³a siê równie silna, co orkowie.
+
+22. Krull Ska³a zgin¹³ u boku Marbusa podczas wojny. Zostawi³ po sobie jednak liczne potomstwo, a tak¿e ideologiê, która jasno mówi³a, i¿ trolle powinny zjednoczyæ siê z Wielk¹ Hord¹. Tak w³aœnie siê sta³o. Wielki Suweren rozkaza³ wys³aæ emisariuszy do najdalszych krañców pó³nocy i odszukaæ wszystkie odes³ane na wygnanie klany trolli, by sprowadziæ je do siebie i zjednoczyæ. Choæ proces ten trwa³ latami, w koñcu trolle osiad³y w dawnej Knaldze i zaludni³y j¹, wiernie s³u¿¹c przy tym Marbusowi.
+
+23. Jaszczury, choæ nie przynale¿a³y do Wielkiej Hordy, gdy Marbus toczy³ swoje wojny, sta³y siê jej czêœci¹ w trakcie pokoju. Powrócono do przyjaŸni, która ³¹czy³a ich rasê z orkami. W nied³ugim czasie wierzenia jaszczurów sta³y siê g³ówn¹ religi¹ Wielkiej Hordy, zaœ sabaty ich szamanów odbywa³y siê co miesi¹c. Wspólnie osi¹gnêli znacznie wiêcej, ni¿ uda³oby im siê zdobyæ osobno.
+
+24. Gdy Wielka Horda podbi³a ju¿ znaczn¹ czêœæ pó³nocy, orkowie coraz czêœciej napotykali na swojej drodze trolli. Pierwsze próby nawi¹zania z nimi dobrych stosunków spe³z³y na niczym, jednak Marbus nie poddawa³ siê i ostatecznie doprowadzi³ do tego, ¿e trolle sta³y siê czêœci¹ Wielkiej Hordy, wspó³pracowa³y z orkami i jaszczurami, a tak¿e zaludni³y spor¹ czêœæ dawnej Knalgi.
+
+25. Bez swojej liderki, Krwawe Elfy rozpierzch³y siê i niemal ca³kowicie o nich zapomniano. Imiê Czerwonego Kapturka nie przesz³o do historii, nie zapisa³a siê nawet jedna wzmianka o potomkini Landara oraz jej idea³ach. Po latach nikt nie wspomina³ ju¿ ani jej, ani Elfich Jarlów. Rasa elfów sta³a siê jednolit¹, szar¹ mas¹ niewolników, którzy przestali nawet marzyæ o odmianie swego losu.
+
+26. Czerwony Kapturek przesz³a do historii jako potomkini Landara, pani Krwawych Elfów i op³ywaj¹ca w bogactwa wojowniczka. Marbus dotrzyma³ s³owa i wysypa³ przed jej stopami praktycznie ca³e z³oto elfów. Wystarczy³oby go do op³acenia wojska z po³udnia i wzniecenia buntu przeciwko Wielkiej Hordzie, jednak tak siê nie sta³o. Zamiast tego Czerwony Kapturek obwieœci³a siê królow¹ elfów pó³nocy, podleg³¹ jedynie w³adzy Wielkiego Suwerena. W nied³ugim czasie okaza³o siê, ¿e jest jeszcze okrutniejsza ni¿ orkowie. Sta³a siê katem dla w³asnej rasy.
+
+27. Jêczmieñ do koñca swych dni zosta³ u boku Marbusa. Przypomina³ mu o Kochanie i by³ podpor¹ w trudnych chwilach. Sta³ siê ojcem dla kilkudziesiêciu wilcz¹t, z których ka¿de sta³o siê w przysz³oœci wierzchowcem dla najlepszych gobliñskich jeŸdŸców.
+
+28. Róg Gjallarhorn zosta³ ukryty w jednej z twierdz, które zbudowa³ Gewold. Strzeg³a go potê¿na magia orków, trolli i jaszczurów. Choæ zabezpieczono go najlepiej, jak mo¿na by³o, a wiadomoœci o nim zapisano w tysi¹cach ksi¹g i zwojów, Marbus nadal obawia³ siê dnia, w którym Król Gonu pojawi siê znowu. 
+
+29. Co zaœ tyczy siê samego Marbusa... Do koñca swojego d³ugiego ¿ycia piastowa³ on miejsce Wielkiego Suwerena. Nie mia³ potomstwa, nie zostawi³ wiêc nikogo na miejsce swojego nastêpcy. W³adcy klanów orków zebrali siê, by spieraæ siê o stanowisko wodza, jednak ostatecznie miejsce to zajê³a Aidala. Jako naga, istota d³ugowieczna i kochanka Marbusa, przejê³a po nim w³adze, t³umi¹c szybko wszelki opór. Wszystko to nale¿y ju¿ jednak do ca³kiem innej historii...
