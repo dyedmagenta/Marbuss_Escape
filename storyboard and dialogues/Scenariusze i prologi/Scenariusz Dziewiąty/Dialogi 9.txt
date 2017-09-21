@@ -9,6 +9,7 @@ Dialogi scenariusza dziewi¹tego.
 7. Zasadzka przed lasem.
 8. Wkroczenie Kochana do lasu.
 9. Œmieræ Kochana- ostatni dialog.
+10. Dialogi pojawienia siê duchów.
 
 
 1. Dialog pocz¹tkowy
@@ -224,3 +225,18 @@ Nie! Proszê!
 
 £ucznik:
 Kwicz! Kwicz jak œwinka! A teraz... Zabiæ go!
+
+
+10. Dialogi pojawienia siê duchów. Jeden na ka¿de nastêpne pojawienie siê duchów.
+
+Duch:
+Czujemy uciekaj¹cego goblina... Czujemy jego sp³oszonego wilka... Czujemy krew p³yn¹c¹ w ich ¿y³ach... I pragniemy j¹ przelaæ...
+
+Duch:
+Czujemy strach wype³niaj¹cy powietrze... Czujemy pot na skórze naszej ofiary... Czujemy przyspieszony oddech... I pragniemy go jej pozbawiæ...
+
+Duch:
+Czujemy desperacjê i determinacjê... Czujemy instynkt nakazuj¹cy ucieczki... Czujemy bij¹ce szaleñczo serce... I pragniemy wyrwaæ je z piersi...
+
+Duch:
+Czujemy têsknotê za czasami bez walki... Czujemy ¿al za wyrz¹dzone krzywdy... Czujemy pasjê kogoœ, kto zaraz umrze... I pragniemy zadaæ mu œmieræ...
