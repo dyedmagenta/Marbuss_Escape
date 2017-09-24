@@ -1,0 +1,6 @@
+border_size=0
+usage=mask
+
+_f, Co, _f
+Co, Gd^Ecf, Co
+Co, Co, Co

@@ -1,0 +1,4545 @@
+PL
+UchodŸcy
+EN
+Refugees
+
+PL
+Nasza historia rozpoczyna siê w roku 883 e.W, a ma miejsce na dalekiej 
+pó³nocy, gdzie wszystkie te daty przesta³y mieæ znaczenie. Si³a, krew i 
+potêpienie. Zawody zapaœnicze i hulanki alkoholowe, miêdzy jedn¹ grabie¿¹, a 
+drug¹. Gdzie kobiety rozk³adaj¹ nogi przy ognisku, a ich partnerzy kryj¹ je 
+jak suki. Tak, mowa tu o orkach.
+EN
+Our story begins in 883 YW. It takes place in far north, where all the dates 
+stopped to mean anything to anybody. Violence, blood and damnation. 
+Wrestling competitions and drinking sprees between raids. Women get their 
+legs over bonfires and let their partners go bird's-nesting. Yes, I am 
+talking about orcs.
+
+PL
+Wiele lat minê³o, odk¹d orkowie budzili postrach w sercach elfów, ludzi i 
+krasnoludów. Wiele, odk¹d odwa¿yli siê postawiæ stopê na ziemiach Wesnoth. 
+Wiele, odk¹d op³ywali w bogactwa. 
+EN
+Many years have passed since the time orcs intimidated elves, humans and 
+dwarves. Many years have passed since they ventured to walk in the Wesnoth 
+land. Many years have passed since the time they were filthy rich.
+
+PL
+Gdy bitwa za bitw¹, orkowie to raz zdobywali nowe ziemie, to wracali do 
+swych chat z kolejnymi ranami, równie silne krainy zaczê³y ostrzyæ swoje 
+miecze. Gdy po kolejnym, nieudanym ataku ¿¹dnej krwi armii, orkowie wycofali 
+siê wg³¹b swych ziem, pod¹¿yli za nimi elfy.
+EN
+Plenty of battles were fought, one time orcs conquered new lands, the other 
+time they gained new wounds. Other realms, as strong as orcs, started to 
+whet their swords. After a next, unsuccessful attack of the bloodthirsty 
+army, orcs retreated deep into their lands, elves followed them.
+
+PL
+Ludzie, tak jak i krasnoludy ochoczo do³¹czyli do odwetu. Rok za rokiem, 
+orkowie stawali siê tylko rozdzielanymi przez szlaki handlowe obozami 
+uchodŸców i kobiet. Niektóre plemienia przy³¹czy³y siê do Sojuszu Pó³nocy, 
+gdzie przez dziesiêciolecia zmuszani byli do akceptowania ludzkich norm. 
+Inni walczyli i po kilku wiêkszych bitwach zostawali wyniszczeni przez 
+krasnoludów b¹dŸ elfy.
+EN
+Humans, as well as dwarves willingly joined the revenge. Year after year, 
+orcs became separated by trade routes camps of refugees. A few tribes joined 
+the Northern Alliance, where though many years were forced to accept human 
+rules. The other were fighting and were destroyed after several battles 
+against dwarves or elves.
+
+PL
+W miejscach starych orkowych hut ¿elaza wyros³y siedliska handlowe ludzi. 
+Tylko najbardziej oddalone na pó³noc klany przetrwa³y najazd innych nacji. 
+Wœród nich zosta³ te¿ ma³y klan Marbusa, klan zbyt ma³y, by mieæ nazwê, 
+historiê b¹dŸ przysz³oœæ.
+EN
+Human tradeposts took place of orcish smelters. Only the clans that lived 
+deep in the north have survived the forages of other nations. Amongst them, 
+there lived a small Marbus's clan. Even too small to have a name, history, 
+or a future.
+
+PL
+Gracz
+EN
+Player
+
+PL
+Marbus
+EN
+Marbus
+
+PL
+Kochan
+EN
+Kochan
+
+PL
+Przeciwnicy
+EN
+Opponents
+
+PL
+Porucznik Wincent
+EN
+Lieutenant Vincent
+
+PL
+Kawalerzysta Wincenta
+EN
+Vincent's Rider
+
+PL
+Forteca Bag'not
+EN
+Bag'not Fortress
+
+PL
+Stary fort Elbor
+EN
+Old Elbor Fortress
+
+PL
+Most Kazary
+EN
+Bridge of Kazara
+
+PL
+Obóz bia³oskórych
+EN
+Camp of the white-skinned
+
+PL
+Most Thota Czteropalczastego
+EN
+Bridge of Thot the Four Fingered
+
+PL
+Ja³owe Pole
+EN
+the Barren Fields
+
+PL
+Prze³êcz Tut'anor
+EN
+Tut'anor Pass
+
+PL
+Pokonaj Porucznika Wincenta
+EN
+Defeat Lieutenant Vincent
+
+PL
+Lato trwa³o tylko miesi¹c, nasze plony nie zd¹¿y³y nawet wzrosn¹æ, a z 
+po³udnia dobiega nas mroŸny wiatr. Bojê siê, ¿e mo¿emy mieæ powa¿ne problemy 
+z ¿ywnoœci¹ tej zimy. Ahh... Gdyby tylko Gewold przysta³ na propozycjê 
+Sojuszu...
+EN
+Only one month of summer has passed. Our crops have not even sprouted, and 
+we are getting gloomy winds from the south. I fear we may experience serious 
+problems with food this winter. Ah... If only Gewold had accepted the 
+Alliance's offer.
+
+PL
+Marbus! Bia³oskórzy pojawili siê po drugiej stronie rzeki. S¹ zakuci w stal.
+EN
+Marbus! White-skinned have appeared on the other side of the river. They are 
+chained.
+
+PL
+Co? Czy to wys³annicy Sojuszu? Mo¿e chc¹ wyci¹gn¹æ do nas pomocn¹ d³oñ i 
+przys³ali nam jakieœ zapasy.
+EN
+What? Are they Alliance's emissaries? Maybe they want to give us a hand and 
+they are sending some supplies.
+
+PL
+Jako porucznik garnizonu w Seledynowym Mieœcie, nakazujê wam, orkom, opuœciæ 
+to miejsce i oddaæ nam w posiadanie Bag'not. Jeœli odmówicie, czeka was 
+œmieræ.
+EN
+As a lieutenant of the garrison in Celadon City, I command you, orcs, to 
+leave this place and leave Bag'not to our rule. Should you decline, you will 
+die.
+
+PL
+Co? Seledynowe Miasto mieœci siê tylko kilka mil na po³udnie i nigdy nie 
+mieliœmy z ich strony ¿adnego aktu agresji. To placówka handlowa miêdzy 
+Sojuszem Pó³nocy, a Wesnoth. A nawet jeœli chc¹ siê nas st¹d pozbyæ, 
+dlaczego nie wys³ali kogoœ wiêkszego rang¹!?
+EN
+What? Celadon City is placed only a few miles to the south and we have never 
+experienced any aggression from them. It is a trading post dealing between 
+Northern Alliance and Wesnoth. And even if they want to get rid of us, why 
+did they not send somebody of higher rank than you?
+
+PL
+Seledynowe Miasto nie jest ju¿ wolnym miastem. I nie ma genera³a, który 
+móg³by poprowadziæ armiê. Ale doœæ s³ów, odmieñcze! Wynoœ siê z ziem, które 
+nigdy nie powinny zostaæ wam dane albo giñ!
+EN
+Celadon City is not a free city anymore and it does not have a general that 
+can lead its army
+
+PL
+Nie podoba mi siê to, kuzynie. Jeœli ten cz³owiek mówi prawdê, coœ musia³o 
+wykurzyæ ich z miasta. Tam w oddali widzê ich kobiety i dzieci. To nie 
+wojsko, Marbus, to uchodŸcy!
+EN
+I do not like it, my cousin. If that human is telling the truth, something 
+must have flushed the city's dwellers out. Way of in the distance I can see 
+their women and children. Marbus, they are not an army, they are refugees.
+
+PL
+UchodŸcy, czy wojsko... Nie mo¿emy oddaæ im Bag'not. To nasz dom. I jako 
+jego mieszkañcy musimy go broniæ! Arke netu Karash! Chwyæcie za swe miecze!
+EN
+Refugees or army... we can not surrender Bag'not to them, either way. It is 
+our homeland. And as its soldiers we must defend it! Arke netu Karash!
+
+PL
+Ta droga prowadzi przez prze³êcz Tut'anor. Przechodz¹ przez ni¹ tylko 
+najbardziej wytrwali wojownicy, gdy chc¹ dostaæ siê do stolicy naszych 
+klanów, Gelu'Aben. Od dwudziestu lat nikt tamtêdy nie chodzi³. Ciarki 
+przechodz¹ mi po plecach, gdy pomyœlê o potwornoœciach, jakie siê tam czaj¹.
+EN
+This path leads to Tut'anor Pass. Only the most persistent warriors can 
+cross it, only when they need to get into the capital of our clans, 
+Gelu'Aben. Nobody has walked through it for 20 years. I am thrilled when I 
+think about atrocities that lurk there.
+
+PL
+To zamek Elbor, jedna z orkowych twierdz, wybudowana w pierwszym wieku, gdy 
+orki po³o¿y³y stopy na tych ziemiach... Teraz zosta³a z niej tylko ruina. I 
+bagno, które j¹ wch³onê³o.
+EN
+This is the Castle of Elbor, one of the orcish fortresses built in the first 
+age, when orc set their foot on these lands... Now, only ruins remained of 
+it. And the swamp it sunk into.
+
+PL
+Niech was piek³o poch³onie... Wy psie syny! Niech wyr¿n¹ was te widma, które 
+wyr¿nê³y naszych ludzi...
+EN
+Go to the devil, bastards! I hope you will be slain by the spectres that 
+slaughtered our people...
+
+PL
+Zamknij usta, cz³owieku. I niech otworz¹ siê pyski naszych wilków. Dziœ 
+czeka ich krwawa uczta.
+EN
+Shut your mouth up, human. And let our wolves open theirs. They are going to 
+have a bloody feat.
+
+PL
+Nie podoba mi siê to, Marbus. Wszystko wskazuje na to, ¿e coœ przygna³o tu 
+tych ludzi. I to coœ mo¿e zaatakowaæ i nas. 
+EN
+I have got a bad feeling about this, Marbus. Everything implicates that 
+something pushed these people here. And we may get attacked by that 
+something, too.
+
+PL
+Wiem to, kuzynie. Jednak nie mo¿emy przejmowaæ siê przypuszczeniami, gdy 
+nasze spi¿arnie œwiec¹ pustkami. Przeszukajcie wszystkie trupy. Bierzcie 
+jedzenie, ubrania, wszystko co siê nada. Jeœli to rzeczywiœcie ocaleni, 
+powinni przynieœæ ze sob¹ wiele bogactw. Trupy rzuæcie do owczarni.
+EN
+I know that, my cousin. Yet, we can not worry about guesswork when our 
+pantries are empty. Excavate all corpses. Loot food, clothes and   
+everything that may come handy. If they were really the survivors, they 
+should carry tons of wealth. Throw the corpses to the sheepfold.
+
+PL
+Jak zwykle zwracasz uwagê tylko na najbli¿sz¹ przysz³oœæ. Kiedyœ przyniesie 
+nam to zgubê, kuzynie.
+EN
+As usual, you only take the nearest future into account. You will get baned 
+because of that, my cousin.
+
+PL
+Od lat mi to powtarzasz, jednak jak dot¹d doskonale chroniê Twoich 
+pobratymców.
+EN
+You have been telling me that for ages. However, until now, I have been 
+defending your kinsmen very well, Kochan.
+
+PL
+I mam nadziejê, ¿e bêdzie tak dalej. Mam nadziejê...
+EN
+And I hope it will continue to be that way, I hope...
+
+PL
+Kawalerzysta Wincenta
+EN
+Vincent's Cavalryman
+
+PL
+Orkowie s¹ silniejsi, ni¿ s¹dzi³em. Dobrze, ¿e przygotowa³em siê na takie 
+rozwiniêcie sytuacji...
+EN
+The orcs are stronger than I supposed. Luckily, I am prepared for such drift 
+of events
+
+PL
+Obie grupy s¹ ju¿ gotowe do ataku, sier¿ancie!
+EN
+I report that both groups are ready to strike, sergeant!
+
+PL
+Zasadzka! Poka¿cie tym ludzkim pomiotom, jak s³abe s¹ ich koniki! Dosi¹dŸcie 
+swych wilków, moi bracia!
+EN
+It is an ambush! Show that human scum how fragile their horses are! Mount 
+your wolves, my brothers!
+
+PL
+Do broni, gobliny!
+EN
+Take your weapons, goblins!
+
+PL
+Nawa³nica Koœci
+EN
+Bone Tempest
+
+PL
+Trudno okreœliæ, jak d³ugo klan Marbusa zajmowa³ fortecê Bag'not. Starsi 
+snuli czasem opowieœci o potê¿nym Elborze, ludzkiej fortecy, któr¹ pewien 
+czarnoksiê¿nik zamieni³ w ruinê. Nied³ugo potem sam czarnoksiê¿nik poszed³ 
+do piachu, a kilkanaœcie lat po tym wydarzeniu mia³a miejsce inwazja elfów 
+na krainy pó³nocy. Wtedy w³aœnie orkowie postanowili wznieœæ wzd³u¿ swoich 
+najwa¿niejszych miast pomniejsze fortece. Bag'not by³o w³aœnie jedn¹ z tych 
+fortec, mia³o broniæ Gelu'Aben, Ojczyzny Mieczy.
+EN
+It's hard to assess how long Marbus' clan occupied the Bag'not Fortress. The 
+elders sometimes weaved stories about mighty Elbor, a human fortress turned 
+to ruin by a sorcerer. Not much time have passed until the wizard kicked the 
+bucket himself. A dozen years or so after that happened, elves invaded 
+northern lands. That is when the orcs set out to erect minor fortresses 
+along the most important cities. Bag'not was one of these, it's aim was to 
+defend Gelu'Aben. the motherland of swords
+
+PL
+Gelu'Aben by³o miastem zajmuj¹cym siê g³ównie metalem. Huty, zbrojownie, 
+handlarze sprzedaj¹cy metalowe przedmioty zarówno orków, jak i elfów, 
+krasnoludów i ludzi. Po³o¿one daleko na pó³nocy, by³o prawie niedostêpne dla 
+elfickich armii. Droga do miasta prowadzi³a przez prze³êcz Tut'anor, która 
+nawet elfom obi³a siê o uszy. Owiana z³¹ s³aw¹, z w¹skimi przejœciami i 
+pu³apkami. NajeŸdŸcy zrezygnowali z ataku na miasto. Oczywiœcie by³a i inna 
+droga, przez krasnoludzkie tunele. Wówczas jednak krasnoludy nie przy³¹czy³y 
+siê jeszcze do armii elfickiej, a gdy to uczyniono, o Gelu'Aben dawno 
+zapomniano.
+EN
+Gelu'Aben was a city dealing mainly with metals. Smelters, armouries, 
+traders selling metal articles made by orcs, elves, dwarves and humans. 
+Being placed far in the north, it was almost unreachable for elvish armies. 
+Road to the city led through Tut'anor pass. Even the elves heard about it. 
+It was infamous, having thin passes and numerous traps. Raiders abandoned 
+plans of an assault on the city. Obviously, there was another path, going 
+through dwarven caverns. By that time, dwarves hadn't joined the elvish army 
+yet. When they did that, had long been forgotten.
+
+PL
+Kilkanaœcie lat po najeŸdzie, gdy orkowie znów zaczêli zapuszczaæ siê na 
+po³udnie, wódz Gelu'Aben, Suweren Gewold, nakaza³ zasiedliæ dawn¹ fortecê 
+Bag'not. Wys³a³ tam najmniej tolerowane w mieœcie istoty, gobliny. Wraz z 
+nimi wys³a³ na po³udnie tak¿e ma³y oddzia³ innych orków, g³ównie tych, 
+którzy mieli w rodzinie jakiegoœ goblina. W³adzê nad nimi mia³ sprawowaæ 
+Marbus.
+EN
+A dozen years after the raid, when orcs started coming to the south again, 
+Gelu'Aben's chieftain, Sovereign Gewold commanded to settle Bag'not again. 
+He sent there the least accepted creatures in the city, goblins. Together 
+with them, he also sent to the south a small orcish division. It consisted 
+mainly of individuals who had any goblin in his family.
+
+PL
+Œcie¿ka przez prze³êcz Tut'anor by³a straszna i niebezpieczna. Ogromne wê¿e 
+i paj¹ki oraz przeczucie, ¿e jest siê obserwowanym. Z³o w tym miejscu by³o 
+wrêcz namacalne, jednak Marbusowi uda³o siê przejœæ ze swoim oddzia³em 
+niemal bez ofiar. Zasiedlanie Bag'not by³o przy tym jak bu³ka z mas³em. 
+Gobliny stanowi³y trzy czwarte populacji klanu Marbusa i by³a traktowane na 
+równi z orkami. Sam Marbus mia³ za kuzyna goblina, Kochana, który przej¹³ 
+dowodzenie nad jeŸdŸcami wilków. ¯y³o siê tu dobrze, a przynajmniej nie 
+gorzej, ni¿ w Gelu'Aben. A¿ do teraz...
+EN
+Path through the Tut'anor pass was fearsome and perilous. Immense snakes and 
+spiders and feeling of being watched. Evil in this place was indeed sensate. 
+Yet, Marbus managed to pass it with his legions almost without any 
+casualties. Settling Bag'not was a piece of cake in comparison to that. 
+Goblins represented three quarters of Marbus's clan's population and were 
+treated equally with orcs. Even Marbus had a goblin cousin, Kochan, who took 
+charge of wolf raiders. Life here was good, or at least not worse than in 
+Gelu'Aben. Until now...
+
+PL
+Zima okaza³a siê byæ jeszcze gorsz¹, ni¿ wszyscy siê obawiali. Na domiar 
+z³ego, wszystkiemu towarzyszy³a dziwna, niepokoj¹ca mg³a. Strach budzi³ siê 
+w sercach orków i wkracza³ do ich snów. Nied³ugo potem rozesz³a siê nowina, 
+¿e w lasach nie jest ju¿ bezpiecznie. Wielu z tych, którzy w nie wkraczali, 
+ginê³o bezpowrotnie. Mieszkañcy zaczêli wiêc pozyskiwaæ drewno tylko w 
+pobli¿u wiosek. A gdy nawet tego zabrak³o, wkrótce rozebrany zosta³ 
+drewniany most. Nied³ugo potem nasta³ dzieñ, w którym strach nareszcie 
+pokaza³ swoje oblicze.
+EN
+Winter turned out to be even worse than expected. What is more, everything 
+was surrounded by outer, worrying fog. Fear aroused in orcish hearts and was 
+creeping into their dreams. Not so long after that, there appeared a rumour 
+that the forests are not safe anymore. Numbers of those who didn't come 
+back, perished for ever. Thus, the dwellers started to get wood from the 
+purlieus of the villages. Soon after they had run out of it, the wooden 
+bridge got disassembled. One of these days, the fear showed it's face at 
+last.
+
+PL
+Wróg
+EN
+Enemy
+
+PL
+Widmowy Rycerz
+EN
+Spectral Knight
+
+PL
+Natura
+EN
+Nature
+
+PL
+Obroñ Bag'not przed atakiem nieumar³ych
+EN
+Defend Bag'not from undead attack
+
+PL
+Dokonaj zwiadu okolicy (Kochan musi dotrzeæ do wie¿y obserwacyjnej na 
+po³udniu)
+EN
+Scout the surrounding area (Kochan must reach the watchtower in the south)
+
+PL
+Nieumarli wchodz¹ do fortecy Bag'not
+EN
+Undead break into Bag'not Fortress
+
+PL
+Marbus nie wie co dzieje siê na po³udniu po wyczerpaniu limitu tur
+EN
+Marbus doesn't know what happens in the south when turns run out
+
+PL
+Filar, Potê¿ny Topór Bojowy
+EN
+Filar, the Mighty Battleaxe
+
+PL
+Adris, Têpy Miecz
+EN
+Adris, the Blunt Sword
+
+PL
+Nie podoba mi siê to, kuzynie. Odk¹d spad³ œnieg, ci¹gle unosi siê w 
+powietrzu ta potworna mg³a... Nie pamiêtam takiej od czasu... Odk¹d 
+kroczyliœmy przez prze³êcz Tut'anor. Nawet wilki s¹ niespokojne.
+EN
+I have a bad feeling about this, cousin. Since the snow fell, we have been 
+having that dreadful fog... I don't remember such since... Since we crossed 
+the Tut'anor pass. Even the wolves are uneasy.
+
+PL
+Ashen'tir, Kochan. Nie mo¿emy pozwoliæ, by ogarn¹³ nas strach i psychoza. To 
+dopiero pierwszy miesi¹c zimy, a w naszych magazynach zaczyna powoli 
+brakowaæ ¿ywnoœci. Martwiê siê o przysz³oœæ...
+EN
+Ashen'tir, Kochan. We can not let the fear and psychosis overcome us. It is 
+only the first month of winter. We are running out of food in our granaries. 
+I am worried about the future.
+
+PL
+Wtem zawia³ wiatr przeszywaj¹cy cia³o jak strza³a, a przez Bag'not potoczy³ 
+siê g³os równie zimny i ostry, jak lodowate sople zwisaj¹ce z dachów.
+EN
+Suddenly, there blew a wind piercing a body like an arrow. In Bag'not, there 
+was heard a voice, as cold and biting as icicles dangling on roofs.
+
+PL
+Nieumar³y wojownik
+EN
+Undead Warrior
+
+PL
+Dr¿yjcie. Dr¿yjcie i rozpaczajcie. Przez wasze ziemiê pogna zaprzêg umar³ych 
+koni. Stratuje wasze domy i wyr¿nie dzieci. Wasza krew bêdzie przelewaæ siê 
+w naszych pucharach, które wzniesiemy na chwa³ê Umar³ego Króla!
+EN
+Shudder! Shudder and despair! The chariot of dead horses will race through 
+your lands. It will trample your homes and children. Your blood will slop in 
+our goblets, raised by us for the glory of the Dead King!
+
+PL
+A wiêc to Oni... Oni zniszczyli Seledynowe Miasto. Nieumarli.
+EN
+So they... they have destroyed Celadon City. Undead.
+
+PL
+Wstawaæ! WychodŸcie ze swoich chat! WeŸcie do r¹k swoje miecze! Umarli!
+EN
+Stand up! Get out of your houses! Take up your arms! Undead!
+
+PL
+Kuzynie! Najlepiej bêdzie je¿eli pójdê na zwiad. Mój wilk ucieknie 
+szkieletom nawet na œniegu. Je¿eli nieumarli naprawdê podbili Seledynowe 
+Miasto, bêdziemy mieli z nimi prawdziwy problem.
+EN
+Cousin! It will be the best if I go for a reconnaissance. My wolf will 
+escape skeletons even on snow. If the undead conquered the Celadon City 
+indeed, we are going to have a serious problem with them.
+
+PL
+Masz racjê. Ustawiê orków wzd³u¿ murów. Nie chcê, by moi orkowie spotkali 
+siê z tymi stworzeniami na otwartym terenie. Na œniegu nie mamy z nimi 
+¿adnych szans.
+EN
+You are right. I will command the orcs to guard the walls. I do not want my 
+orcs to encounter these creatures on open ground. We stand no chance on snow.
+
+PL
+Co widzisz, Kochan? Ile ich tam jeszcze zosta³o!?
+EN
+Kochan, what can you see there? How many of them are left?
+
+PL
+...
+EN
+...
+
+PL
+Kuzynie!
+EN
+Cousin!
+
+PL
+Nie mamy z nimi szans, Marbus. S¹ ich tysi¹ce.
+EN
+We stand no chance against them, Marbus! There are thousands of them.
+
+PL
+Co!? To niemo¿liwe... Dlaczego ich nie zauwa¿yliœmy? Przemarsz takiej armii 
+nie móg³ pozostaæ niezauwa¿ony!
+EN
+What!? That is impossible... Why have we not noticed them? March of such a 
+big army can not stay unnoticed!
+
+PL
+Mg³a. To pewnie oni j¹ zes³ali. Kuzynie... Umrzemy tutaj.
+EN
+The fog. It must be them who have brought it... We will die here, cousin...
+
+PL
+Nie! Nadal mo¿emy uciekaæ. Niech orkowie spakuj¹ wszystko, co najwa¿niejsze. 
+Najpierw jedzenie, ubrania i broñ. Potem resztê. Spieszcie siê. Nie mamy 
+wiele czasu.
+EN
+No! We can still escape. Let the orcs pack the most important things. Food 
+goes first, then clothes and weapons. Then the rest. Hurry! We do not have 
+much time.
+
+PL
+Gdzie chcesz uciekaæ!? Gdziekolwiek siê nie udamy, te trupy nas dopadn¹. Nie 
+mamy szans, by... Ty... Chcesz przeprowadziæ nas przez prze³êcz Tut'anor?
+EN
+Were do you want to escape!? Wherever we go, these corpses will hunt us 
+down. We stand no chance to... Do... you want to lead us through Tut'anor 
+pass?
+
+PL
+Nie mamy wiele czasu. Prze³êcz ju¿ raz okaza³a siê dla nas ³askawa. Miejmy 
+nadziejê, ¿e zrobi to po raz drugi.
+EN
+We do not have much time left. The Pass has already turned out to be 
+gracious once. I hope it will be this way again.
+
+PL
+Przetrwaj do momentu, w którym przygotowania do ucieczki zakoñcz¹ siê
+EN
+Survive until preparation for escape ends
+
+PL
+Œmieræ Marbusa
+EN
+Death of Marbus
+
+PL
+Œmieræ Kochana
+EN
+Death of Kochan
+
+PL
+Nieumarli wdzieraj¹ siê do twierdzy Bag'not
+EN
+Undead break into the Bag-not fortress
+
+PL
+Uda³o siê! Wszyscy s¹ gotowi do wyruszenia w drogê.
+EN
+We did it! Everyone is ready to set out.
+
+PL
+Dobra robota. Zejœæ z posterunków. Wszyscy w kierunku Prze³êczy.
+EN
+Very well. Abandon the posts. To the Pass, everyone!
+
+PL
+Wy, orki, jesteœcie zbyt s³abi ¿eby nawet posmakowaæ naszej potêgi. Zabiæ 
+ich wszystkich.
+EN
+You, orcs, are too weak to even taste our power. Kill them all.
+
+PL
+O nie! Naprawdê powinniœmy wiedzieæ do czego s¹ zdolni. Teraz jest za póŸno 
+dla wiêkszoœci z nas. Uciekaj, mój kuzynie!
+EN
+Oh, no! We really should knew what they're capable for. Now it's too late 
+for most of us. Flee, my cousin!
+
+PL
+Myœlisz, ¿e zdo³asz uciec œmierci? Dok¹dkolwiek nie pójdziesz... 
+Gdziekolwiek siê nie schowasz... Nigdy nam nie uciekniesz. Nied³ugo wszystko 
+ulegnie naszej potêdze.
+EN
+Do you think you will hide from death? Wherever you go... wherever you 
+hide... you will never escape from us
+
+PL
+Wszyscy s¹ ju¿ prawie spakowani, kuzynie. Zaraz zaczniemy pakowaæ wszystko 
+na wilki, a potem mo¿emy ruszaæ.
+EN
+Almost everyone is packed. We are starting to load the wolves soon. Then we 
+can set out.
+
+PL
+To dobrze. Nasza obrona ju¿ siê chwieje. 
+EN
+Very well. Our defences are starting to break.
+
+PL
+Hau! Hau!
+EN
+Woof woof!
+
+PL
+Hej! ZejdŸ ze mnie! Przestañ lizaæ moj¹ twarz! Argghh~!
+EN
+Hey! Get out of me! Stop licking my face! Argghh~!
+
+PL
+Wygl¹da na to, ¿e ten wilk jest przyjazny! Mo¿e nam pomóc w walce z 
+nieumar³ymi.
+EN
+I think this wolf might actually be friendly! He can help us fight these 
+undead back.
+
+PL
+Posiekam twoje gnij¹ce cia³o na kawa³ki!
+EN
+I will cut your rotting body into pieces!
+
+PL
+Precz, ohydna istoto!
+EN
+Begone, filthy being!
+
+PL
+Po³ammy im koœci!
+EN
+Let's crush their bones!
+
+PL
+Pozwól mi posmakowaæ twojego ciaaa³a...
+EN
+Let me taste your fleeesh...
+
+PL
+Dobry piesek, ³ap koœæ!
+EN
+Good puppy, catch a bone!
+
+PL
+Aaargh!
+EN
+Aaargh!
+
+PL
+S³abo siê czujê... Zaraz zwymiotujê.
+EN
+I'm feeling sick... I will vomit
+
+PL
+Ten wstrêtny stwór musia³ go zaraziæ! WeŸcie go do wioski i zajmijcie siê 
+nim.
+EN
+This lousy creature must have infected him! Send this man to the village and 
+take care of him.
+
+PL
+Marbusie, ich szpony musz¹ byæ pokryte trucizn¹! Powiedz wszystkim, ¿eby 
+unikaæ walki wrêcz i pozwoliæ ³ucznikom ich ustrzeliæ.
+EN
+Marbus, their claws must be covered with poison. Tell your man to avoid 
+fighting them hand-to-hand and let archers shoot them down from distance.
+
+PL
+Ich szpony... musz¹ byæ pokryte trucizn¹!
+EN
+Their claws... They must be covered with poison!
+
+PL
+Musimy unikaæ walki wrêcz i pozwoliæ ³ucznikom ostrzeliwywaæ ich z dystansu, 
+w innym wypadku wszyscy siê zarazimy!
+EN
+We must avoid fighting them hand-to-hand and let archers shoot them down 
+from distance, or else we will all get infected!
+
+PL
+Nie pozwólcie im podejœæ ani kroku bli¿ej! Nasze ¿ony i dzieci nie skoñczy³y 
+siê jeszcze pakowaæ. Je¿eli te przeklête trupy siê przedostan¹, zamorduj¹ je 
+wszystkie!
+EN
+Don't let them get any closer! Our wives and children haven't finished 
+packing yet. If these damned undead get in, they will murder them all!
+
+PL
+Nie pozwólcie im podejœæ ani kroku bli¿ej! Nasze ¿ony i dzieci tam s¹. 
+Je¿eli te przeklête trupy siê przedostan¹, zamorduj¹ je wszystkie!
+EN
+Don't let them get any closer! Our wives and children are there. If these 
+damned undead get in, they will murder them all!
+
+PL
+Nie! Nie uda³o nam siê ich ochroniæ!
+EN
+No! We failed to protect them!
+
+PL
+Rzeka Trupów
+EN
+The Dead River
+
+PL
+W orkowych opowieœciach co jakiœ czas us³yszeæ mo¿na stare porzekad³o: \
+bój siê niczego, co krwawi\
+przeciwnika, który nie ma w sobie ni krwi, ni uczuæ, ni ¿ycia. Przywódca 
+klanu musia³ wiêc podj¹æ decyzjê o ucieczce...
+EN
+In orcish stories you may often hear an old saying: 'Do not feel fear of 
+anything that bleeds'. However Marbus's clan had to face an enemy that had 
+neither blood, nor feeling. Nor life. Thus, the clan's leader had no choice, 
+but to escape.
+
+PL
+Jedyn¹ nadziej¹ na przetrwanie by³o powtórne przekroczenie przeklêtej od 
+wieków prze³êczy i dotarcie do by³ego domu Klanu Marbusa, Gelu'Aben. Choæ 
+starcy, kobiety i dzieci lêkali siê wyruszenia w drogê, Marbus poprowadzi³ 
+wszystkich ¿elaznym rêk¹ i nieugiêt¹ wol¹. Wkrótce ca³y klan zag³êbi³ siê w 
+prze³êcz.
+EN
+The only hope for survivors was passing the long cursed Pass and reaching 
+the old home of the clan, Gelu'Aben. Even though the elder, women and 
+children dreaded the journey, Marbus guided them with iron fist and 
+relentlessness. Soon, the whole clan walked into the Pass.
+
+PL
+I jak w niemal ka¿dej opowieœci, tak i w tej, gdy bohaterowie s¹ ju¿ niemal 
+u szczytu swojej wytrzyma³oœci, wówczas los zsy³a im nadziejê i odpoczynek. 
+I takim balsamem okaza³a siê dla orków Prze³êcz Tut'anor. O ile poprzednio 
+niechêtnie goœci³a ich w swoich progach, tym razem nikt nie poczu³ z³ych 
+si³, ani dreszczy na plecach. Jakby ktoœ wyssa³ z tego miejsca ca³e z³o i 
+uczyni³ je przeciêtn¹ prze³êcz¹. Jakich tysi¹ce.
+EN
+And, as in almost every story, when our protagonists are almost completely 
+wrecked, the fate sends them hope and rest. Their balm turned out to be 
+Tut'anor. So far it had not been very hospitable to them. Yet, nobody felt 
+neither bad energy nor thrills this time. Totally as if someone sucked all 
+the evil from this place and made this pas perfectly average looking like a 
+thousand of others.
+
+PL
+Nieumarli nie wyruszyli w poœcig za orkami, którzy po jakimœ czasie 
+wynurzyli siê z prze³êczy. Teraz Klan Marbusa czeka³a kolejna przeszkoda. 
+Drogê do Gelu'Aben blokowa³a rw¹ca rzeka, nad któr¹ mo¿na by³o przejœæ 
+jedynie mostem... Orków czeka³a jednak przykra niespodzianka...
+EN
+Undead had not been chasing the orcs, who eventually walked out from the 
+pass. A new adventure was waiting for the clan. Their way to Gelu'Aben was 
+cut by a torrent, that could be crossed only through a bridge. A nasty 
+surprise was awaiting the orcs...
+
+PL
+Aszuran-san
+EN
+Ashuran-san
+
+PL
+Nieumarli
+EN
+Undead
+
+PL
+Pokonaj Widmowego Rycerza
+EN
+Defeat Spectral Knight
+
+PL
+Œmieræ Aszuran-Sana
+EN
+Death of Ashuran-San
+
+PL
+Uda³o nam siê przejœæ przez tê cholern¹ prze³êcz. Teraz droga bêdzie ju¿ o 
+wiele prostsza. Wystarczy przejœæ przez mos.. Co tu siê sta³o!?
+EN
+We've managed to cross this darn pass. Now the path should be way more 
+straight-forward. We only need to pass the brid... What happened here?
+
+PL
+Niech to szlag! Domy w okolicy s¹ opuszczone. Ktoœ dawno spl¹drowa³ tê osadê.
+EN
+Bugger! The houses nearby are deserted. Somebody must have plundered this 
+hamlet long time ago.
+
+PL
+Sssstójcie, orkowie! Te tereny nale¿¹ teraz do nas, jaszczurów.
+EN
+Wait, orcsss! Now this territory belongs to us - saurians!
+
+PL
+Przeklête p³azy! Trzeba by³o was wytêpiæ dawno temu! Gewold dobrze zrobi³, 
+odmawiaj¹c wam sojuszu z naszymi klanami. Ta osada przez dziesiêciolecia 
+czuwa³a nad mostem. Nastêpny taki jest kilka dni drogi na pó³noc. 
+Odciêliœcie nam drogê do Gelu'Aben!
+EN
+Cursed reptiles! We should have destroyed them long time ago. Gewold did 
+right by rejecting your alliance proposal. This settlement has guarded the 
+bridge for decades. The next one like that is placed a couple of days of 
+march to the north. You have cut our way to Gelu'Aben!
+
+PL
+Uspokój siê, kuzynie. Nie widzê tutaj œladów grabie¿y. Jedzenie dalej jest w 
+spichlerzach. Nie wspominaj¹c ju¿ o kosztownoœciach. W¹tpiê, by jaszczury 
+napad³y na domy naszych braci.
+EN
+Calm down, cousin. I can not see any evidence of pillage. The food is still 
+in the granaries. Not to mention the treasures. I doubt the reptiles have 
+raided the homes of our brothers.
+
+PL
+JeŸdziec wilka ma racjê, wodzu orków... Nieca³y rok temu ja i moi bracia 
+zostaliœmy przepêdzeni przez ludzkich magów z bagien na zachodzie. 
+Zatrzymaliœmy siê tu, a z orkami z osady mieliœmy ca³kiem dobre stosunki. 
+Nied³ugo potem zakwit³ miêdzy nami handel. My dawaliœmy im leki, oni nam 
+metal... Wszystko zmieni³o siê przed miesi¹cem.
+EN
+The wolf raider is correct, orcish lord. Almost a year ago, me and my 
+brothers were banished by human mages from the swamps in the west. We stayed 
+here. We had good relationship with orcs from the settlement. Soon, trade 
+between us started to flourish. We gave them medications, they gave us 
+metals... Everything changed a month ago.
+
+PL
+Noc by³a zimna i mglista. Jak wszystkie tej zimy. Nasze szamanki od dawna 
+wró¿y³y nadejœcie z³ych mocy, jednak to, co zobaczyliœmy, by³o ponad wszelk¹ 
+miarê... Duchy niemal bezg³oœnie wychyli³y siê z lasów. Zd¹¿y³y wyr¿n¹æ 
+kilkunastu wojowników, zanim orkowie spostrzegli siê, ¿e s¹ atakowani. 
+Rozpêta³ siê chaos. Razem z moimi najlepszymi wojownikami ruszyliœmy w górê 
+rzeki, by pomóc waszym braciom, jednak gdy doszliœmy do mostu...
+EN
+It was a cold an foggy night, like during all the winters. Our shamanesses 
+had been foreseeing coming of evil forces for a long time. Yet, what we saw 
+was unspeakable... Ghosts got out of forests almost noiselessly. They had 
+managed to murder a dozen of our warriors before the orcs realised they were 
+being attacked. Chaos blew up. Together with my best warriors I rushed up 
+the river to help your brothers, but when we reached the bridge...
+
+PL
+Mów dalej, jaszczurzy przywódco...
+EN
+Continue, saurian leader
+
+PL
+Jeden z duchów opêta³ cia³o dowódcy orków. Ten chwyci³ oliwê i pochodnie. Na 
+w³asne oczy widzia³em, jak z szaleñczym uœmiechem staje na œrodku mostu, 
+wylewa na siebie ³atwopaln¹ ciecz i podpala... Zaraz po nim sp³on¹³ te¿ 
+most... Przez dym niewiele widzieliœmy, jednak krzyki umieraj¹cych s³ychaæ 
+by³o do samego rana. Kilku moich weteranów próbowa³o przep³yn¹æ rzekê... 
+¯aden z nich nie powróci³.
+EN
+One of the ghosts possessed the body of the orcish leader. He grabbed olive 
+oil and torches. I saw him pour and emblaze the oil on himself with maniacal 
+laughter... The bridge burned shortly after him... We couldn't see much 
+through the smoke. The of the dying could be heard until morning. A few of 
+my veterans tried to swim across the river... None has returned.
+
+PL
+Kuzynie, zdaje siê, ¿e jaszczur mówi prawdê. Kilku moich zwiadowców znalaz³o 
+w domach œlady ich leków. Nie mo¿emy sobie pozwoliæ na bezsensown¹ bitwê...
+EN
+Cousin, I've got a feeling the saurian is saying truth. A few of my scouts 
+found tracks of their medications. We can not let a pointless battle happen.
+
+PL
+Tak... Masz racjê, Kochan. Jaszczurze! Ja i moi wojownicy musimy przejœæ na 
+drug¹ stronê rzeki!
+EN
+Yes, you are right, Kochan. Saurian! Me and my warriors want to cross the 
+river!
+
+PL
+Obawiam siê, ¿e bêdzie to trudne, orku... Nasza wró¿bitka wyczu³a zbli¿aj¹ce 
+siê z po³udnia z³o. Mo¿e jednak uda siê nam odeprzeæ nieumar³ych wspólnymi 
+si³ami.
+EN
+I fear it will be utterly hard, orc... Our oracle sensed evil coming from 
+the south. Maybe we will manage to counter the undead together, though.
+
+PL
+Niech tak bêdzie. Te bezduszne stwory zap³ac¹ nam za naszych braci. Niech 
+kobiety i dzieci zabior¹ ze spichlerzy ca³¹ ¿ywnoœæ, gdy my rozprawimy siê z 
+nieumar³ymi.
+EN
+So be it. Those soulless creatures will pay a big price for killing our 
+brothers. Let the women and children take all the food from the granaries 
+while we kill the undead off.
+
+PL
+Mrok nadchodzi... Porzuæcie nadziejê!
+EN
+Darkness is coming... Give up your hope!
+
+PL
+Mroczne Widmo
+EN
+Dark Spectre
+
+PL
+Nie masz gdzie uciec... PogódŸ siê ze swoim losem
+EN
+Nowhere can you escape... Be reconciled with your fate!
+
+PL
+Wzywam wass... Dzieci... Dzieci nocy... ChodŸcie... Wyr¿nijcie tych 
+g³upców...
+EN
+I summon you... Children... Children of the night... Come! Slaughter these 
+fools!
+
+PL
+Woda zmêtnia³a... Powietrze sta³o siê gêstsze... Uwa¿ajcie... Coœ 
+nadchodzi...
+EN
+The water is murky... The air is dense. Watch out... Something is coming...
+
+PL
+On ma racjê, Marbus.
+EN
+He is right, Marbus. We must be cautious...
+
+PL
+Przeklête dusze! Uwolnijcie wasz gniew!
+EN
+Sacred souls! Free your anger!
+
+PL
+Œmieræ tym, którzy oœmielaj¹ siê zak³ócaæ nasz spokój...
+EN
+Death for those who dare disturb our rest!
+
+PL
+Powstañcie, ci, których ¿ycie poch³onê³a mroczne g³êbina rzeki!
+EN
+Rise up, whose lives have been swallowed by the dark deep of the river!
+
+PL
+Topielec
+EN
+Kelpie
+
+PL
+On o¿ywi³ zw³oki z dna rzeki!
+EN
+He resurrected corpses from the bottom of the river!
+
+PL
+Mam nadziejê ¿e ten most siê nie zawali.
+EN
+I hope this bridge will not collapse.
+
+PL
+W³aœciwie to dziwi mnie, ze nie rozlecia³ siê do tej pory.
+EN
+To be honest, I'm surprised it hasn't done it already.
+
+PL
+Rzeka jest zdradliwa... Nie pamiêtam ¿adnej zimy, podczas której taka jej 
+czêœæ by³aby zlodowacona.
+EN
+This river is treacherous... I do not remember such a large part covered 
+with ice during any winter.
+
+PL
+To prawda. Pierwszy raz siê zdarza, by mróz by³ a¿ tak silny. My, jaszczury, 
+potrafimy zdobyæ ¿ywnoœæ nawet w takich warunkach, jednak dla waszej rasy 
+bêdzie to naprawdê trudny rok.
+EN
+It is true. This is the first time the frost is so biting. We, saurians can 
+get food even in such conditions. This year will be utterly hard for your 
+race, though.
+
+PL
+Krasnoludy wiecznie maj¹ krypty pe³ne ¿ywnoœci i gorza³ki. Ludzie dostan¹ 
+zaopatrzenie z Wesnoth. Elfy maj¹ w lasach tyle ¿ywnoœci, ¿e nawet nie 
+czyni¹ zapasów... Grabie¿ to zaprawdê jedyna droga przetrwania dla orków.
+EN
+Dwarves always have vaults full of food and booze. Humans will get supplies 
+from Wesnoth. Elves have so much food in their forests that they don't even 
+need to stockpile... Pillage is the only opportunity for us to survive.
+
+PL
+Wreszcie siê uda³o. Bitwa by³a naprawdê ciê¿ka. Niech wszyscy przejd¹ na 
+zachodni¹ stronê rzeki. Rozpalicie ogniska i za³ó¿cie suche ubrania. 
+EN
+Finally, we did it! The battle was really hard. Everyone has to cross the 
+river now. Set campfires and put on dry clothes.
+
+PL
+Tak. Napijmy siê te¿ wódki. Dobrze nam zrobi. Daæ mi zaraz miêso dla psów!
+EN
+Yes, let us drink some booze, too. It will serve us well. Give me meat for 
+the dogs!
+
+PL
+Wiêc jednak siê uda³o. W¹tpi³em, byœmy wyszli z tej bitwy ca³o. Odpocznijmy 
+zatem i pomówmy o twojej drodze, wodzu orków...
+EN
+So it came off. I doubted we would get away scot-free. Let us rest and talk 
+about your way, orcish lord...
+
+PL
+Hmm... Co masz na myœli, jaszczurze?
+EN
+What do you mean, saurian?
+
+PL
+Pod¹¿asz do Gelu'Aben, jednak droga do twierdzy mo¿e byæ zwodnicza... Kto 
+wie, czy nieumarli nie zaatakowali ju¿ waszych braci?
+EN
+You are heading to Gelu'Aben, but the road to the fortress may be 
+deceptive... Who knows whether your brothers have not been attacked by the 
+undead already.
+
+PL
+Tak... By dojœæ do Gelu'Aben bêdziemy musieli przejœæ przez tereny Elgerusa. 
+Ten zawszony ork od lat nazywany jest szalonym. Za³o¿ê siê, ¿e sytuacja w 
+jego twierdzy, Sunek Dal, jest jeszcze gorsza, ni¿ nasza. Mo¿e próbowaæ nas 
+ograbiæ...
+EN
+Yes... We will need to cross the lands of Elgerus to reach Gelu'Aben. This 
+lousy orc is called mad for ages. I bet that the situation in his fortress, 
+Sunek Dal is a lot worse than ours. He may try to loot us.
+
+PL
+Prócz Elgerusa na tych ziemiach w³adaj¹ te¿ trollê. Od lat by³y pod batem 
+Elgerusa i jego klanu. Jeœli czeka nas bitwa, na pewno nam pomog¹.
+EN
+Apart from Elgerus, trolls are the second rulers of that land. They have 
+been under the yoke of Elgerus and his clan. If a battle is awaiting us, 
+they will certainly help.
+
+PL
+Jest jednak inna droga... Przez bagna... Znacznie szybsza...
+EN
+There is one other way, though... through bogs... a lot faster
+
+PL
+A gdzie jest haczyk, jaszczurze?
+EN
+Where is the catch, reptile?
+
+PL
+Mowa tu o bagnach, z których wyrzucili nas ludzcy magowie. Mo¿ecie przez nie 
+przejœæ. Niechybnie czeka was wówczas bitwa, ale pomog¹ wam w niej moje 
+jaszczury. Mogê daæ wam do dyspozycji najlepszych ¿o³nierzy i wró¿bitów, a 
+ca³kiem sporo znajdziecie ich te¿ ukrytych na bagnach... Nie wspominam ju¿ o 
+zasobach ¿ywnoœci, które odbilibyœcie z r¹k magów.
+EN
+I am speaking of bogs we were banished from by the mages. You can go through 
+them. Obviously, you will have to fight a battle there, but my saurians will 
+help. You can have best of my warriors and shamans at your disposal. You 
+will also find dozens of them hidden in the bogs... not to mention the 
+amounts of food you could take back from the mages.
+
+PL
+Zastanów siê dobrze, kuzynie... I tak czeka nas walka. Któr¹ drog¹ 
+pójdziemy...
+EN
+Think about that thoroughly, cousin... We are going to fight anyway. What 
+way will we choose...
+
+PL
+Wiêc ja...
+EN
+I want to...
+
+PL
+Chcê mieæ jaszczurki przy swoim boku. Maszerujemy na bagna!
+EN
+I want to keep the saurians nearby. We are heading to the bogs!
+
+PL
+Emborgi'tarasz
+EN
+Emborgi-tarash
+
+PL
+S³uszny wybór, m³ody wodzu. Wiedzia³am, ¿e nam pomo¿esz.
+EN
+Wise choice, young ruler! I knew you would help us.
+
+PL
+Co? Sk¹d siê wziê³a ta stara jaszczurka?
+EN
+What? Where has that saurian come from?
+
+PL
+To jest Emborgi-tarash. Nasza duchowa przewodniczka i najlepsza wró¿bitka w 
+naszym klanie.
+EN
+This is Emborgi-tarash. Our spiritual leader and the best oracle in our clan.
+
+PL
+Zdaje siê, ¿e wró¿bita czym starszy, tym lepszy...
+EN
+Seems the older are the oracles, the better they are...
+
+PL
+S³ysza³am to, jeŸdŸcze wilka... Przewidzia³am to, ¿e siê tu pojawiasz. 
+Przepowiedzia³am te¿, ¿e pokonasz ludzkich kuglarzy na bagnach. Sama Ciê tam 
+poprowadzê i bêdê Ci towarzyszyæ przez ca³¹ twoj¹ podró¿. Wraz z moim ludem.
+EN
+I have heard that, wolf rider. I foresaw you would come here. I also 
+forecast that you will these human jesters on the bogs. I will lead you 
+there myself and I will assist you through your whole journey. Together with 
+my folk.
+
+PL
+Hmm... To wielkie s³owa, Emborgi-tarash. Zaszczytem bêdzie dla mnie mieæ Ciê 
+wœród swojego klanu.
+EN
+These are great words, Emborgi-tarash. It will be a pleasure to have you 
+between my people.
+
+PL
+To wielka strata dla nas, ¿e nas opuszczasz, wró¿bitko. Nie mam jednak prawa 
+Ci tego zabroniæ. Niech m¹droœæ twego s³owa przemawia do twych nowych braci, 
+jak przemawia³a do nas, starsza.
+EN
+Your leaving is indeed a great loss for us, oracle. Yet, I can not forbid 
+you to do this. May the wisdom of your words speak to your new brothers, as 
+it used to spoke to us, elder.
+
+PL
+Niech tak bêdzie. ¯egnaj, mój synu. Przepowiadam Ci, ¿e nied³ugo wrócisz z 
+naszymi braæmi na bagna, które odbijemy.
+EN
+So be it. Farewell, my son. I augur you and our brothers will soon return to 
+our bogs, reclaimed by us.
+
+PL
+Wypijmy zdrowie naszych nowych braci i sióstr. Odpocznijmy i bawmy siê. 
+Spalmy cia³a naszych zmar³ych, a nazajutrz ruszymy drog¹ na bagna.
+EN
+Let us drink a toast to our brothers' and sisters' health! Rest and feast! 
+Burn dead bodies, tomorrow we are setting out to the bogs.
+
+PL
+Wsparcie trolli bêdzie najlepszym wyborem. Ruszamy do Sunek Dal!
+EN
+Helping the trolls is the best way. we are going to Sunek Dal.
+
+PL
+Sss...! Niech tak bêdzie. Rozumiemy to, ¿e wolicie zar¿n¹æ waszych w³asnych 
+braci, ni¿ nam pomóc. IdŸcie zatem.
+EN
+Sssss! So be it. We understand you would rather slay your own brothers than 
+help us. Go then.
+
+PL
+Odszczekaj to, nêdzny p³azie!
+EN
+Retract that, lousy reptile!
+
+PL
+Marbus! Spokojnie... Nie chcemy walki. Mo¿e siê tak¿e okazaæ, ¿e bêdziemy 
+musieli tu wróciæ.
+EN
+Calm down, Marbus... We may have to return here soon. Let us rest for a 
+while, and then set out...
+
+PL
+Tak... Masz racjê. Wypijmy jeszcze trochê wódki, a potem ruszajmy. Pora 
+wesprzeæ trolle.
+EN
+Yes, you are right. We shall drink some booze and then set out. It is high 
+time we helped trolls.
+
+PL
+Nie! Bez pomocy jaszczurów nie pokonamy nieumar³ych.
+EN
+No! Without help of the saurians we won't beat the undead.
+
+PL
+Niedawne zagro¿enie, wielki nieumar³y wróg, którego lêka³y siê dzieci, ba³y 
+siê kobiety, przed którym padali orkowie... Zosta³ pokonany. Nie bez wahania 
+i nie bez ofiary, ale jednak w silnie bij¹cych sercach orków znów zap³on¹³ 
+ogieñ walki i ¿¹dza przetrwania. Wojownicy przekonali siê, ¿e nawet 
+najstraszliwsze demony mog¹ zostaæ pokonane...
+EN
+The recent danger, the mighty undead, feared by children and women, in front 
+of whom orcs had been falling. Has been defeated. Even though it happened 
+neither without doubts, nor without sacrifice, in the beating hearts of orcs 
+the warfare and the lust of survival have inflamed. The warriors saw that 
+even the most dreadful demons may be defeated.
+
+PL
+Uda³o siê to tylko dziêki pomocy jaszczurów. Gdy lata temu suweren Gewold 
+odmówi³ im pomocy i schronienia, wszyscy oczekiwali wojny. Na dalekiej 
+pó³nocy mia³a rozpêtaæ siê bitwa pomiêdzy klanami orków, a jaszczurami. Dwa 
+rodzaje krwi mia³y skropiæ suche wzgórza i bagienne moczary. Do bitwy jednak 
+nigdy nie dosz³o.
+EN
+They managed to do it only thanks to the help of Saurians. When years ago, 
+sovereign Gewold refused them help and shelter, everyone was expecting the 
+war. In the far north the great battle between the orcish clans and Saurians 
+was supposed to fire. Two kinds of blood would flood the dry hills and the 
+swampy marches. However, this battle never happened.
+
+PL
+Okaza³o siê jednak, ¿e te dwie odmienne rasy mog¹ ¿yæ w zgodzie. W obliczu o 
+wiele bardziej powa¿nego zagro¿enia byli zdolni zapomnieæ o dziel¹cych ich 
+ró¿nicach i ramiê w ramiê stanêli do boju, który niechybnie przegraliby 
+dzia³aj¹c osobno.
+EN
+It even turned out that these two races could live in harmony. In face of 
+much more serious danger they were able to forget separating them 
+differences and stood together the combat, which would they certainly lose 
+divided.
+
+PL
+Zahartowane w bojach i zdyscyplinowane oddzia³y jaszczurów do³¹czy³y do si³ 
+Marbusa. Dowodzi³a nimi stara jaszczurka-wyrocznia, Emborgi-tarash. 
+Tajemnicza i ma³omówna, z niemal œlepym spojrzeniem. Przepowiada³a i 
+wró¿y³a. Marbus nie zna³ wielu osób, wzglêdem których odczuwa³ szacunek, 
+jednak ona zaczê³a do nich nale¿eæ niemal natychmiast, gdy siê pojawi³a.
+EN
+Solted in battles and disciplined Saurian units joined Marbus' forces. They 
+were commanded by an old Saurian Oracle, Emborgi'tarash. Mysterious and 
+taciturn, with a nearly blind gaze. She was predicting and auguring. Marbus 
+didn't know many people whom he respected, but she has been counted in them 
+as soon as she appeared.
+
+PL
+Po dwóch dniach marszu, wojska Marbusa dotar³y na miejsce, gdzie mia³y 
+zmierzyæ siê z przeciwnikiem o wiele mniej przera¿aj¹cym. Szko³a magów na 
+pó³nocy. Wiecznie pe³ne magazyny, bogate skarbce, dobre jedzenie... Orkowie 
+znów byli w swoim ¿ywiole. Tak w³aœnie myœleli o bitwach. Pokonaæ 
+przeciwnika, a jego cia³o rzuciæ wilkom. Zabraæ wszystko, co mia³. Piæ, jeœæ 
+i spaæ. ¯yæ z tego, co siê zrabowa³o. Póki z³oto siê nie skoñczy. Wtedy 
+naostrzyæ miecz. Orkowie nie mieli grobów. Nie odwiedzali zmar³ych. 
+Wiedzieli, ¿e po œmierci ich cia³a zostan¹ rzucone psom. Ale co wówczas, gdy 
+wrogiem jest nieumar³y oprawca? Który nie krwawi, nie pragnie twoich 
+skarbów? Wiêc czego...? Duszy...?
+EN
+After a two-days march, Marbus' army reached the place where they were to 
+face way less terrifying opponent. It was a school of magi in the north. 
+Always full warehouses, rich treasuries, good food... Orcs were in their 
+power once again. That's how they thought about the battles - beat the enemy 
+and leave their body to be devoured by wolves. Take everything they had. 
+Drink, eat and sleep. Live with what has been robbed. Until the gold runs 
+out. Then sharpen the sword. Orcs had no tombs. They did not visit their 
+dead. They knew their bodies would be thrown for dogs after death. But what 
+if your enemy is an undead torturer? Who neither bleeds nor greeds your 
+treasure? What does it want, then?... Your soul?
+
+PL
+Magia i Stal
+EN
+Steel and Magic
+
+PL
+Wielmo¿ny Umberg
+EN
+Honorable Umberg
+
+PL
+Skryba Tambaros
+EN
+Scribe Tambaros
+
+PL
+Obóz orków
+EN
+Orcish Camp
+
+PL
+Forteca Kryszta³owego Zakonu
+EN
+Fortress of the Crystal Order
+
+PL
+Drogowskaz Zakonu
+EN
+Order's Signpost
+
+PL
+Nieprzyjemnie tutaj. Bagna i trzêsawiska. Przynajmniej jest tu cieplej, ni¿ 
+przy rzece.
+EN
+Unpleasant place. Swamps and quags. At least it's warmer than next to river.
+
+PL
+Niekiedy mia³em wra¿enie, ¿e ta szamanka specjalnie prowadzi nas w takie 
+tereny. Gdyby by³a to zasadzka jaszczurów, nie mielibyœmy szans siê broniæ. 
+Na tak trudnym terenie ciê¿ko jest walczyæ nawet naszym wilkom, natomiast 
+zimnokrwiœci zdaj¹ siê byæ w swoim ¿ywiole.
+EN
+Sometimes I have a feeling that this shaman leads us into such terrain on 
+purpose. If it was a Saurian ambush, we wouldn't be able to defend here. On 
+such a difficult terrain it would be hard for our wolves to fight, and the 
+cold-blooded are in their power.
+
+PL
+Nie bojê siê konfrontacji z jaszczurkami. Jest ich zbyt ma³o, by nam 
+zagroziæ. Nie ma te¿ ¿adnego powodu, by im nie ufaæ. Teraz cisza, idzie 
+tutaj ich przywódczyni.
+EN
+I don't fear a confrontation with lizards. There are too few of them to 
+threaten us. Also, there is no reason not to trust them. Now silence, their 
+leader is coming.
+
+PL
+Wodzu orków, oto przybyliœmy do naszej ojczyzny. Wyczuwam tu smród ludzkiego 
+pomiotu. Smród ich farbowanych tkanin, ich eliksirów, ich czarów! Musz¹ 
+zostaæ przepêdzeni.
+EN
+Lord of orcs, we have arrived to our homeland. I can smell a human-scum 
+odour. Odour of their coloured clothes, their elixirs, their magic! They 
+must be driven away!
+
+PL
+Dotrzymamy obietnicy, szamanko. Powiedz mi jednak, na jak¹ pomoc mogê liczyæ 
+z waszej strony?
+EN
+We will keep our promise, shaman. But please tell me, what help shall I 
+expect from you?
+
+PL
+Mo¿esz rekrutowaæ naszych najlepszych wojowników i szamanów. S¹ oni szybcy i 
+zwinni, z ³atwoœci¹ zabij¹ ka¿dego, kto postawi stopê na bagnach.
+EN
+You will be able to recruit our best fighters and shamans. They are fast and 
+dexterous, so they will easily kill anyone who comes to swamp.
+
+PL
+Prócz tego na terenie tych przeklêtych ludzi osta³o siê kilka osad z naszymi 
+braæmi. Wœród nich znajdziesz starych, dobrych wojowników. Ich pomoc mo¿e 
+byæ dla Ciebie nieopisanym wsparciem w tej bitwie, przes¹dzaj¹c nawet o jej 
+wyniku.
+EN
+Also, on these cursed humans' territories, there are some settlements of our 
+brothers left. Throughout them, you'll find good old warriors. They would be 
+an indescribable help in this battle, and even decide its result.
+
+PL
+Nasze wilki powinny szybko dotrzeæ do buntowników i powiadomiæ ich o bitwie. 
+Powinniœmy...
+EN
+Our wolves will quickly join the rebels and inform them about the battle. We 
+should...
+
+PL
+Có¿ to!? Kto œmie przychodziæ w moje progi nieproszony!?
+EN
+What is this?! Who dare come to my home without an invitation?
+
+PL
+To orki, Mistrzu. Wœród nich widzê tak¿e jaszczury. Pewnie maj¹ nadziejê na 
+odzyskanie tych ziem. Wydaj¹ siê zziêbniêci i przemêczeni, nie bêd¹ stawiaæ 
+oporu zbyt d³ugo.
+EN
+These are orcs, Master. I can also find some Saurians among them. For sure, 
+they hope to regain these lands. They seem cold and exhausted though, 
+they'll not withstand us long.
+
+PL
+Tak jak s¹dzi³em... Ka¿dy ork powinien zgin¹æ od miecza. A ka¿da jaszczurka 
+powinna zwijaæ siê pod naszymi butami. Wezwij naszych adeptów i zbrojnych, 
+niech wybij¹ ich, co do nogi! A gdy zaczn¹ ju¿ uciekaæ, przygotujemy sanie i 
+ruszymy za nimi w poœcig.
+EN
+As I thought... Every orc should die from a sword and every lizard should 
+crawl under our feet. Call our adepts and soldiers, kill them all! When they 
+start running away, we'll prepare sledges and chase them.
+
+PL
+Tak, jak za ¯ubrami? Szkoda tylko, ¿e z tej zwierzyny nie trafi siê nam 
+¿adne cenne trofeum. No có¿, przynajmniej nasi adepci poæwicz¹ zaklêcia.
+EN
+Like aurochs? Unfortunately, these animals won't provide us so expensive 
+trophies... At least our adepts will train their spells.
+
+PL
+Ludzka pycha nigdy nie zna³a granic. Ten lud zawsze by³ ni¹ nasss¹czony. 
+Duma i arogancja przela³a siê na nich, gdy Haldric I pierwszy raz dotkn¹³ 
+Rubinu Ognia. Wówczas to spisa³ swój lud na wieczny g³ód. G³ód w³adzy, 
+wiedzy i si³y. A jest to g³ód potê¿ny, którego nic nie ugasi.
+EN
+Humans' pride has no borders. These people always were filled with it. Pride 
+and arrogance poured into them when Haldric I touched the Ruby of Fire the 
+first time. Then he allocated his people for the eternal hunger. Hunger of 
+power, knowledge and authority. It is a strong hunger, which none shall 
+extinguish.
+
+PL
+Hê? Sk¹d wiesz takie rzeczy?
+EN
+Hum? How can you know such things?
+
+PL
+Plemiona przemijaj¹, królowie zastêpuj¹ królów. A jednak trwamy i pamiêtamy. 
+I przekazujemy nasz¹ wiedzê dalej. Choæ moje oczy ju¿ dawno wyblak³y, 
+pamiêtam jeszcze wspania³e miasto Saurgath...
+EN
+Tribes pass away, kings replace kings. Yet we stay and remember. And we get 
+our knowledge across. Although my eyes turned pale many years ago, I still 
+remember our mighty city of Saurgath...
+
+PL
+Nie chcê wam przerywaæ, jednak zbli¿a siê bitwa. Wasza wiedza jest 
+zadziwiaj¹ca, ale jak jest z orê¿em? Jest coœ wart?
+EN
+I don't mean to break your conversation, but the battle is coming. Your 
+knowledge is amazing, but how about your arms? Are they worth anything?
+
+PL
+Ssssynowie! Do boju! Poka¿my im si³ê drzemi¹c¹ w naszej wrz¹cej krwi! 
+Odbijmy nasz¹ ojczyznê!
+EN
+Sssonsss! To armsss! Show them the power sleeping in our boiling blood! 
+Let's reclaim our homeland!
+
+PL
+Pokonaj Umberga i Tambarosa
+EN
+Defeat Umberg
+
+PL
+Zawadiaka Ashenvol
+EN
+Swashbuckling Ashenvol
+
+PL
+Eshanvel, Syn Ashenvola
+EN
+Eshanvel, Son of Ashenvol
+
+PL
+Wojownicy! Chwyæcie za swoje w³ócznie, pora odzyskaæ nasze ziemie.
+EN
+Warriors! Grab your spears, it's time to get our lands back!
+
+PL
+Meldujê, ¿e kolejne jaszczurki do³¹czy³y do naszych si³!
+EN
+I report that another Saurians joined our forces!
+
+PL
+Szybkostopy Kira-Suki
+EN
+Kira-Suki the Fastfeet
+
+PL
+Elgradesz
+EN
+Elgradesh
+
+PL
+Ondriagaszi
+EN
+Ondriagashi
+
+PL
+Œlepy Nenuki
+EN
+Nenuki the Blind
+
+PL
+Oto g³ówne si³y naszych buntowników. Do mnie, do mnie, dzieci! Wyr¿nijmy 
+ludzkie œcierwo!
+EN
+These are the main forces of our rebels. Come on, come to me, children! Bump 
+human-scum!
+
+PL
+Rzeczywiœcie... Ich si³y wygl¹daj¹ imponuj¹co.
+EN
+Really... Their forces look impressive.
+
+PL
+Bêdziemy zachwycaæ siê nimi póŸniej, teraz skupmy siê na przeciwniku.
+EN
+We'll admire them later, now let's focus on our enemy.
+
+PL
+Brat Eriskuri
+EN
+Brother Eriskuri
+
+PL
+Brat Obensziru
+EN
+Brother Obenshiru
+
+PL
+Na wielki Saurgrath! Wyczuwam tutaj pradawn¹...
+EN
+For the great Saurgath! I can feel here the ancient...
+
+PL
+Dobrze wyczuwasz, moje dziecko. A teraz przywdziej swe szaty bitewne, 
+zepchnijmy ludzkie œœœœcierwo w bagna!
+EN
+You feel well, my child. Now dress your battle clothes, let's push human-
+ssscum into swamps!
+
+PL
+Có¿ to...? Czy krwawiê? Mistrzu... Mistrzu, umieram! Ratuj mnie, Mistrzu!
+EN
+What is it...? Do I bleed? Master... Master, I'm dying! Save me, master!
+
+PL
+Mistrzu! Czy ty...?!
+EN
+Master! Would you...?!
+
+PL
+Skoro nie uda³o Ci siê pokonaæ kilku orków, nie jesteœ wart mojej pomocy, 
+Tambarosie. Przykro mi.
+EN
+As you didn't manage to beat few orcs, you aren't worth my help, Tambaros. I 
+am sorry.
+
+PL
+To koniec...
+EN
+This is the end...
+
+PL
+Argh! Nie mogê w to uwierzyæ!
+EN
+Argh! I can't believe this!
+
+PL
+Kto... Ekhe... Kto by³ w stanie mnie pokonaæ? Mnie... Wielmo¿nego... 
+Umberga... Umberga Œmia³ego z rodu... Œwiat³ych? Zreszt¹... To niewa¿ne. Nie 
+umrê tutaj... Wzywam potê¿ne duchy... Niech ulecz¹ moje rany.
+EN
+Who... ekhh... Who managed to beat me? Me... the mighty... Umberg...  Umberg 
+the Brave from the house of... Enlightened? Anyway... I don't care. I won't 
+die here... I summon the powerful spirits... May they heal my wounds.
+
+PL
+S³ysza³em ju¿ o czymœ takim. Choæ ponoæ tylko nekromanci mog¹ to uczyniæ. 
+Zmartwychwstaæ. To potê¿na sztuka, jeœli ten mag znów siê odrodzi, bêdziemy 
+w niez³ych opa³ach. Nie uda nam siê wygraæ takiej bitwy poraz drugi.
+EN
+I've already heard about it. However, only necromancers are able to do it. 
+Ressurect. This is a great art. If this mage resurrected again, we would be 
+out on a limb. We can't win this battle once again.
+
+PL
+Sss... Oto wzywam duchy tego miejsca. Duchy moczar, które przez wieki 
+prowadzi³y nas i naszych przodków. Przyb¹dŸcie, pradawni mêdrcy! Niech si³y 
+waszych g³osów zepchn¹ tego cz³owieka w czeluœci nicoœci!
+EN
+Sss... I summon the spirits of this place. The spirits of marshes, who led 
+us and our ancestors through ages. Come forth, ancient wisemen! May the 
+power of your voices push this human into the abysses of nonentity!
+
+PL
+Niech si³y waszych g³osów zepchn¹ tego cz³owieka w czeluœci nicoœci!
+EN
+May the power of your voices push this human into the abysses of nonentity!
+
+PL
+Argh! Niee... Nieeeeeee!
+EN
+Argh! Nooo... Nooooooo!
+
+PL
+To naprawdê potê¿ne zaklêcia. Nie spodziewa³em siê, ¿e ujrzê coœ podobnego. 
+Jesteœ niesamowit¹ wró¿bitk¹, Emborgi-tarash.
+EN
+These are very powerful spells. I didn't expect to see something like that. 
+You are an amazing augur, Emborgi-Tarash.
+
+PL
+Wiele si³ kosztowa³o mnie to zaklêcie. Mury i fortyfikacje ludzi przez wiele 
+wieków bêd¹ zalegaæ w bagniskach. Minie przynajmniej sto lat, nim œlady ich 
+czarów ca³kowicie opuszcz¹ to miejsce. Nad tym jednak... Bêd¹ czuwaæ inni 
+wró¿bici.
+EN
+This spell costed me much energy. The walls and fortifications of humans 
+will remain in the swamps for ages. At least one hundred years need to pass 
+before the signs of their magic will have completely left this place. 
+However... other augurs will take care of it.
+
+PL
+Inni wró¿bici? Co masz na myœli, wró¿bitko?
+EN
+Other augurs? What do you mean?
+
+PL
+W wizjach zobaczy³am przebieg nici losu, m³ody wodzu. Moim przeznaczeniem 
+jest ruszyæ za Tob¹, prowadz¹c swoje siostry i braci. Tak przepowiedzia³ mi 
+nasz praojciec i tak te¿ uczyniê.
+EN
+In my visions, I have seen the chronology of the fate's threads, young 
+ruler. My destiny is to follow you, leading my brothers and sisters. So 
+predicted our forefather, and so will do I.
+
+PL
+Dobrze, wró¿bitko. Z pomoc¹ Twoj¹ i Twoich jaszczurów szybko powinniœmy 
+dotrzeæ do Gelu'Aben.
+EN
+Fine, augur. With the help of you and your Saurians we'll quickly reach 
+Gelu'Aben.
+
+PL
+Niedobitki magów ju¿ uciekaj¹ przez moczary. S¹dzê, ¿e nie uciekn¹ przed 
+wilkami. Ludzie mieli tutaj ca³kiem du¿o zapasów.
+EN
+The survivor mages are running away through the marches. I don't expect them 
+to escape our wolves. Also, the humans had many supplies here.
+
+PL
+Rozka¿ naszym orkom i jaszczurom zabraæ ca³y prowiant i wszystko, co 
+najpotrzebniejsze. Zaopatrzymy siê i wypoczniemy. Przeczekamy tutaj dwa dni.
+EN
+Command our orcs and Saurians to take all the supplies and the most useful 
+things. We'll stock up and rest. We are going to leave this place in two 
+days.
+
+PL
+Szaleñstwo G³odu
+EN
+The Madness of Hunger
+
+PL
+Marbus jednak nie okaza³ dobrodusznoœci i nie sprzymierzy³ siê z 
+jaszczurami. Powiód³ swoje oddzia³y dalej, przez zamarzniête stepy, wprost 
+do Sunek Dalu. Gdy odchodzi³, nie spojrza³ za siebie. Nie móg³ wiêc zobaczyæ 
+stoj¹cych niepewnie jaszczurek, które ¿egna³y orków wzrokiem pe³nym 
+niepewnoœci i zw¹tpienia. Nastêpnym razem ¿aden sojusznik nie przybêdzie im 
+na ratunek.
+EN
+However, Marbus didn't show generosity and didn't ally with the Saurians. He 
+led his units further, through the frozen steppes, into Sunek Dal. He didn't 
+look behind when he was leaving. So that he couldn't see standing unsure 
+reptiles, full of insecurity and doubt. Next time no ally would come to 
+rescue them.
+
+PL
+Droga do Sunek Dalu by³a mêcz¹ca i uci¹¿liwa, uszczupli³a gromadê Marbusa z 
+wielu kobiet i starców. Zawierucha by³a tak potê¿na, i¿ droga kilka metrów 
+przed orkami by³a ca³kowicie niewidoczna. Trzeba by³o zawierzyæ wargom. Poza 
+tym, co czeka³o ich w Sunek Dalu? Gor¹ca strawa, ciep³e ³ó¿ka i piwo 
+korzenne? Czy te¿ bratobójcza walka o resztki prowiantu? Marbus nie 
+wiedzia³, choæ p³yn¹ca w nim dziko krew dawa³a mu przeczucie nadchodz¹cej 
+bitwy...
+EN
+The way to Sunek Dal was exhausting and burdensome, it decreased the Marbus' 
+crowd by a considerable amount of women and elderly people. The blizzard was 
+so powerful that the road few meters in front of orcs was completely 
+invisible. They had to trust wolves. Apart from this, what did wait for them 
+in Sunek Dal? Hot meal, warm beds and root beer? Or maybe a fratricidal 
+fight for the rest of eatable? Although Marbus didn't know it, his wildly 
+running blood gave him a feeling of incoming battle.
+
+PL
+Trolle
+EN
+Trolls
+
+PL
+Krull Ska³a
+EN
+Krull the Rock
+
+PL
+Przeciwnicy
+EN
+Enemies
+
+PL
+Kunus Martwa Ryba
+EN
+Kunus the Dead Fish
+
+PL
+Elgerus
+EN
+Elgerus
+
+PL
+Dotrzyj do Sunek Dal
+EN
+Enter Sunek Dal
+
+PL
+A wiêc dotarliœmy do Sunek Dalu... Widaæ, ¿e zima nie oszczêdzi³a i tego 
+miejsca. Ale coœ jest nie tak. Nawet przy takiej pogodzie powinniœmy zostaæ 
+zauwa¿eni przez patrole.
+EN
+So finally we reached Sunek Dal... I see that winter hasn't spared this 
+place. But something is wrong. Although the weather is bad, we should have 
+been seen by patrols.
+
+PL
+Kuzynie, coœ jest zdecydowanie na rzeczy. Wargi s¹ niespokojne. Zachowuj¹ 
+siê, jak na bitwie. Miejmy nadziejê, ¿e nie przybyliœmy za póŸno.
+EN
+My cousin, something is on. Our wolves are frantic. They behave as in a 
+battle. I hope we are not late here.
+
+PL
+Elgerus nigdy nie nale¿a³ do opanowanych wodzów. Jeœli rozgorza³a tutaj 
+bitwa, walczy³by do ostatniego orka, nikomu nie pozwalaj¹c uciec z pola 
+walki. Na razie sprawdŸmy, co siê sta³o. Byle ostro¿nie. Nie chcê ryzykowaæ 
+kolejnego spotkania z tymi upiorami.
+EN
+Elgerus never was a calm ruler. If there was a battle, he would have fought 
+till last orc's death. He wouldn't let anyone run away from the battlefield. 
+Now let's see what happened. Be careful, I don't want to meet these wraiths 
+again.
+
+PL
+To orkowie Elgerusa... Ale co oni robi¹!?
+EN
+These are Elgerus' orcs. But what are they doing?!
+
+PL
+Walczcie, nêdzne kundle! Walczcie, jeœli chcecie siê po¿ywiæ siê jedzeniem, 
+które ten nêdzny troll przed nami ukrywa!
+EN
+Fight, poor dogs! Fight if you want to feed yourself with the food this 
+shabby troll is hiding from us!
+
+PL
+Ork szalony. G³ód z³amaæ jego umys³. Krull nie mieæ ani trochê jad³a w 
+spi¿arnie!
+EN
+Orc mad! Hunger break mind. Krull not have even a bit food in garners!
+
+PL
+S³yszeliœcie go, ch³opcy!? Temu staremu capowi wydaje siê, ¿e mo¿e nas od 
+tak ok³amywaæ! Sami wrzucimy go do gara, jeœli bêdzie trzeba! Tak samo, jak 
+jego wojowników, których z³apaliœmy!
+EN
+Did you hear him, boys!? This old goat thinks he can deceive us like that! 
+He will get thrown to the pot himself, if there is a need to do so! Just 
+like his warriors which we caught!
+
+PL
+Wypuœæ trolle. One wam nic nie zrobi³y. Z³amany umys³... Wymaga z³amania 
+kilku koœci... Odbijemy naszych braci...
+EN
+Release trolls. They did nothing to you. Broken mind... Needs breaking few 
+bones... We will get our brothers back.
+
+PL
+Co tu siê dzieje na hordê?!
+EN
+For the horde, what's going on here?!
+
+PL
+Inny ork?
+EN
+New orc?
+
+PL
+Kim ty do diab³a jesteœ!?
+EN
+Who the hell are you?
+
+PL
+Panie, to Marbus. Wódz orków z twierdzy Bag'not. Ponoæ jest mi³oœnikiem 
+goblinów i s³ucha siê kuzyna, który sypia z kundlem.
+EN
+Lord, this is Marbus. He is a ruler from Bag'not Fortress. He's heard to be 
+a friend of goblins and he listens his cousin, who sleeps with his dog.
+
+PL
+Tak. Tak... S³ysza³em o nim. Œmieæ niewart pos³uchu... Wyr¿n¹æ go! Na pewno 
+przyniós³ ze sob¹ wystarczaj¹co jedzenia, by nape³niæ nasze brzuchy!
+EN
+Yes, yes. I have heard about him. Rubbish not worth listening... Kill him! 
+Surely, he brought enough food to fill our maws!
+
+PL
+Ale... Panie... Jest ich niemal¿e tylu, co nas...
+EN
+But... Lord... They're almost as many as we...
+
+PL
+Zamknij siê, Kunus! Ja tutaj dowodzê! Zatem, Marbusie, mam nadziejê, ¿e 
+naostrzy³eœ swój miecz. Pozwolê Ci nim poder¿n¹æ sobie gard³o, gdy moi 
+orkowie Ciê ju¿ dopadn¹.
+EN
+Shut up, Kunus! I am the commander! So, Marbus, I hope you've sharpened your 
+sword. I'll let myself silt your throat, when my orcs catch you.
+
+PL
+To chore... Nie da³ nam nawet dojœæ do s³owa. I ta rzeŸ... Naprawdê chcieli 
+wyr¿n¹æ trolle...
+EN
+It's sick... He didn't even let us get a word. And this slaughter... They 
+really want to butcher these trolls...
+
+PL
+A wiêc tak... Najpierw umarli, potem zawierucha, a teraz przyjdzie nam 
+walczyæ przeciw naszym braciom. Ale czy daj¹ nam wyjœcie?
+EN
+So firstly undead, then chaos, and now we're going to fight our brothers. 
+But... do they propose any solution?
+
+PL
+Inny ork... M¹dry ork? Trolle pomog¹ pokonaæ orka ze z³amanym umys³em.
+EN
+New orc? Wise orc? Trolls help beat broken mind orc.
+
+PL
+Tak... To uczciwa oferta. Pozb¹dŸmy siê ich, a potem zastanowimy siê, co 
+czyniæ dalej.
+EN
+Yes... This is a fair offer. Let's get rid of them, and then we'll think 
+what to do later.
+
+PL
+Zdaje siê, ¿e Elgerus schwyta³ trolle do klatek. Mo¿e uda nam siê je uwolniæ.
+EN
+It seems that Elgerus caged some trolls. Maybe we can free them.
+
+PL
+Wymarsz, dzieci. Pora biæ. Pora bardzo mocno biæ.
+EN
+Forward, children. Time to punch. Time to punch very, very hard.
+
+PL
+Pokonaj wrogich przywódców orków
+EN
+Defeat enemy orcish leaders
+
+PL
+Œmieræ Krulla Ska³y
+EN
+Death of Krull the Rock
+
+PL
+Ahh... Jak mog³eœ... Ty... Ty... Bratobójco!
+EN
+Argh... How could you... You... You... You fratricide!
+
+PL
+Nie my chcieliœmy rozpocz¹æ tê bitwê... ¯egnaj, bracie...
+EN
+It wasn't us who wanted to start this battle. Farewell, brother...
+
+PL
+Grr... Dobry z Ciebie wojownik... Marbus... Ale i tak nie masz szans... 
+Zawierucha, g³ód... Wykoñczy Ciê to, tak jak wykoñczy³o mnie...
+EN
+Grr... You are a good warrior... Marbus... But you don't stand a chance 
+anyway... Turmoil, hunger... It will destroy you, just like it destroyed me.
+
+PL
+Zdaje siê, ¿e chwilê przed œmierci¹ odzyska³ odrobinê rozs¹dku... Ciekawe, 
+co ma do powiedzenia.
+EN
+It seems that a moment before his death, he restored a bit of sanity... I 
+wonder what does he have to say.
+
+PL
+Nie przetrwasz... Ale dziêkujê Ci... Zgin¹³em jako wojownik... A podczas 
+walki uda³o mi siê... Zapomnieæ... O g³odzie... Po prostu zapomnieæ...
+EN
+You won't survive... But thank you... I died as a warrior... And during this 
+fight, I managed to... Forget... The hunger... Just forget...
+
+PL
+¯egnaj... Nie zostaniesz zapomniany.
+EN
+Farewell... You won't be forgotten.
+
+PL
+To by by³o na tyle...
+EN
+And that's it...
+
+PL
+Wyr¿nêliœmy wszystkich wojowników. Zostali tylko orkowie niezdolni do walki. 
+Co z nimi zrobiæ, kuzynie?
+EN
+Only the orcs unable to fight are still alive. What shall we do with them, 
+cousin?
+
+PL
+Nie potrzeba nam wiêcej mord do wykarmienia, jednak nie powyrzynam tych, 
+którzy nie podniêœli na nas rêki. Wcielcie ich do kobiet i dzieci, którzy 
+id¹ razem z nami.
+EN
+No more slaughters we need to do, and I won't kill the ones who didn't fight 
+us. They'll join our women and children, following us. 
+
+PL
+Wódz ork - m¹dry ork. Przewodziæ lepiej, ni¿ poprzedni. Trolle chêtnie 
+przy³¹czyæ siê do wodza orka.
+EN
+Orc ruler - wise orc. Rules better than formers. Trolls willingly join orc 
+ruler.
+
+PL
+Wsparcie ze strony trolli by³oby nieocenione w takim terenie.
+EN
+The help of trolls would be very useful in this terrain.
+
+PL
+Chêtnie przy³¹czê do swojej armii Ciebie i Twoje szczeniêta, trollu.
+EN
+I'm glad to include you and your whelps in my army, troll.
+
+PL
+W takim razie ja i moje dzieci bêdziemy biæ siê dla Ciebie.
+EN
+So I and my children will fight for you.
+
+PL
+Brog Dogg
+EN
+Brog Dogg
+
+PL
+Nasz najlepszy wojownik! Silny, silny... Teraz razem zmia¿d¿ymy wroga!
+EN
+Our best warrior! Strong, strong... Now crush foes together!
+
+PL
+Wypuœæcie mnie, a poka¿ê temu orkowi, kto tutaj rz¹dzi!
+EN
+Release me, and I will show this orc, who is the boss!
+
+PL
+Ug ug!
+EN
+Ugg ugg!
+
+PL
+Jesteœ wolny, bracie!
+EN
+You are free, brother!
+
+PL
+Klatka otwarta!
+EN
+The cage is open!
+
+PL
+Daro Wogum
+EN
+Daro Wogum
+
+PL
+To byæ troll szaman, wielki wojownik i mag! On musieæ do³¹czyæ do walki!
+EN
+He be troll shaman, great fighter and mage! He must join the fight!
+
+PL
+Ktoœ o jego umiejêtnoœciach by³by niebywale u¿yteczny w walce z nieumar³ymi.
+EN
+Someone of his skills would be inexpressibly useful in fighting undead.
+
+PL
+Masz racjê... Natychmiast wypuœcie i nakarmcie tego trolla!
+EN
+You are right... Immediately free and feed this troll!
+
+PL
+Boda Budu
+EN
+Boda Budu
+
+PL
+To byæ nasz mistrz w rzucie g³azem! Nikt nie potrafi miotaæ kamieniem tak 
+daleko jak on!
+EN
+This is our master in boulder throw! None throws stones as far as him!
+
+PL
+Oby by³ w stanie rzucaæ równie celnie, co mocno.
+EN
+Hopefully his aim will be just as good.
+
+PL
+To moja m³ode! Wypuœciæ one z klatek!
+EN
+Those mine young! Let those out cages!
+
+PL
+Troll z tej klatki jest ju¿ wolny!
+EN
+The troll from this cage is free now!
+
+PL
+Cud nad Gelu-Aben 
+EN
+Miracle of Gelu-Aben
+
+PL
+Czarodzieje i ich potê¿na magia upad³a pod naciskiem orkowych mieczy. MroŸna 
+pó³noc okaza³a siê z³ym miejscem na æwiczenia magiczne i ludzk¹ pychê, a 
+uciskana rasa jaszczurów jeszcze raz pokaza³a ile jest warta. W podbitych 
+fortyfikacjach orkowie znaleŸli sporo kosztownoœci, ¿ywnoœci oraz opa³u. 
+Przez okr¹g³y tydzieñ mogli wiêc biesiadowaæ i ogrzewaæ siê przy kominkach. 
+W tym czasie coraz to nowe plemiona gadów przybywa³y do swojego dawnego 
+domu. W koñcu jednak trzeba by³o ruszyæ do Gelu'Aben, pozostawiaj¹c za sob¹ 
+uratowane jaszczury.
+EN
+The wizards and their powerful magic fell under the pressure of orcish 
+swords. Frosty north turned out to be a wrong place for magic exercises and 
+human pride and the oppressed Saurian once more showed how much it is worth. 
+Inside the conquered fortifications orcs found many treasures, much food and 
+fuel. So that they could feast during the round week, warming next to 
+fireplaces. Simultaneously newer and newer reptile tribes were arrriving to 
+their old home. However, finally they had to set off to Gelu'Aben, leaving 
+rescued Saurians behind.
+
+PL
+Bitwa w Sunek Dalu zakoñczy³a siê zwyciêsko, choæ nikt nie œwiêtowa³. Wielu 
+orków z kampanii Marbusa mia³o tutaj krewniaków, którzy teraz p³onêli na 
+stosach pogrzebowych. Okaza³o siê, ¿e tutejsze fortece nie by³y w równie 
+kiepskim stanie, jak te w Bag'not. Brak ¿ywnoœci i opa³u sprawi³, ¿e p³on¹ce 
+cia³a poleg³ych by³y jedynym Ÿród³em ciep³a. Krull Ska³a i jego trolle 
+zebra³y siê jeszcze tego samego dnia, a ca³a gromada ruszy³a w drogê do 
+Gelu'Aben póŸnym wieczorem, nie chc¹c zostawaæ w tym miejscu ani chwili 
+d³u¿ej.
+EN
+The battle of Sunek Dal ended victorious, although noone celebrated it. Here 
+had lived many relatives of orcs from Marbus' campaign, and now those were 
+burning on funeral stakes. It turned out that fortresses weren't in such a 
+bad state as Bag'not ones. The lack of food and fuel made burning bodies of 
+killed the only source of heat. Krull the Rock and his trolls met once again 
+the same day and the whole troop set off to Gelu'Aben in the late evening, 
+not willing to stay at this place any longer.
+
+PL
+Droga do orkowej stolicy usiana by³a trudnoœciami. Wprawdzie zwiadowcy nie 
+donosili ju¿ o pojawiaj¹cych siê upiorach, jednak pojawi³o siê nowe 
+zagro¿enie: patrole ludzi, elfów i krasnoludów. Sojusz Pó³nocy co prawda 
+istnia³, a niektóre orkowe plemiona cieszy³y siê jego szacunkiem, niemniej 
+jednak by³o to zbyt ma³o, by nie zaatakowaæ przemieszczaj¹cego siê, 
+os³abionego klanu Marbusa. Mo¿liwe by³o te¿, ¿e ktoœ skojarzy sam klan ze 
+zniszczeniem Seledynowego Miasta.
+EN
+The way to the orcish capital was full of difficulties. Although the scouts 
+didn't report appearing wraiths anymore, a new danger occured: human, elvish 
+and dwarvish patrols. Northern Alliance did exist and even some orcish 
+tribes were respected by it. However, it was too little not to attack a 
+moving weakened Marbus' clan. Also, someone may have connected the clan with 
+destruction of Celadon City.
+
+PL
+Dobr¹ niespodziank¹ by³ fakt, ¿e czym dalej od nieumar³ych, tym wiêcej 
+zwierzyny mo¿na by³o znaleŸæ w lasach. Ca³a podró¿ okaza³a siê nie byæ tak 
+z³a, jak wszyscy przewidywali. Nadzieja na zakoñczenie tego koszmaru 
+rozwia³a siê jednak podczas ostatniej nocy przed dojœciem do Gelu'Aben. Z 
+miejsca, gdzie mia³a znajdowaæ siê stolica, unosi³ siê bowiem dym. Choæ nikt 
+z orków o tym nie rozmawia³, wszyscy spodziewali siê najgorszego. 
+EN
+A nice surprise was the fact that the further from undead they were, the 
+more animals could they find in the woods. The whole journey turned out to 
+be not so bad as everyone expected. Unfortunately, the hope to end this 
+nightmare dispelled during the last night before reaching Gelu'Aben. From 
+the place where the capital was supposed to lie, smoke was floating. 
+Although no orc talked about it, everyone expected the worst.
+
+PL
+O œwiecie przyby³ Kochan wraz ze swoimi zwiadowcami. Gewold wci¹¿ broni³ siê 
+w fortecy, otoczony przez wojska Sojuszu Pó³nocy i krasnoludzkiego klanu 
+Œnie¿nostopych. Marbus oczywiœcie zebra³ swoje oddzia³y i ruszy³ im na 
+ratunek.
+EN
+At dawn, Kochan and his scouts came. Gewold kept on defending in the 
+fortress, surrounded by army of Northern Alliance and dwarvish clan of 
+Snowfeet. Obviously, Marbus gathered his units and went to rescue them.
+
+PL
+Gewold
+EN
+Gewold
+
+PL
+Genera³ Helias
+EN
+General Helias
+
+PL
+Raslaw Œnie¿nostopy
+EN
+Raslav the Snowfeet
+
+PL
+Forteca Gelu'Aben
+EN
+Gelu'Aben Fortress
+
+PL
+Wielki Suwerenie! Jakieœ oddzia³y pojawi³y siê na po³udniu! To chyba... To 
+orkowie!
+EN
+Great Souvereign! Some units appeared in the south! They seem... They are 
+orcs!
+
+PL
+Przeklêty Sojusz! Teraz ka¿¹ mi jeszcze walczyæ z w³asnymi braæmi? Zdrajcy! 
+Gelu'Aben nie upadnie, nie pozwolê na to! Przyœlijcie wiêcej kuszników!
+EN
+Cursed Alliance! So now they tell me to fight my own brothers? Betrayers! 
+Gelu'Aben shall not fall! I won't let it! Send me more crossbowmen!
+
+PL
+Kusznicy ju¿ siê skoñczyli... Nie mamy nawet ju¿ kusz w zbrojowniach, Wielki 
+Suwerenie.
+EN
+We've already run out of crossbowmen... We even don't have any crossbows in 
+the armories, Great Souvereign.
+
+PL
+Wiêcej kuszników, mówiê!
+EN
+More crossbowmen, I said!
+
+PL
+Zdaje siê, ¿e nic siê nie zmieni³ przez ostatnie lata... Oblê¿enie nie 
+potrwa ju¿ d³ugo, znaczna czêœæ jego wojska ju¿ nie ¿yje.
+EN
+He doesn't seem to have changed for last few years... The siege won't take 
+much time, most of his army is already killed.
+
+PL
+Zapach krwi i dymu jest tutaj bardzo silny... Nied³ugo zwabi upiory. 
+Powinniœmy oddaliæ siê z tego miejsca jak najdalej, gdy tylko pomo¿emy Twoim 
+przyjacio³om.
+EN
+The smell of blood and smoke is very strong here... It will lore wraiths 
+soon. We should go far away, when we have helped your friends.
+
+PL
+Nie wiem, co powinniœmy zrobiæ. Gelu'Aben by³o ostatni¹ desk¹ ratunku. 
+Jesteœmy w patowej sytuacji.
+EN
+I don't know what to do. Gelu'Aben was our last recourse. Our situation is 
+standoff.
+
+PL
+Hau, hau!
+EN
+Warf, warf!
+
+PL
+Gewold-ork jest w tarapatach. D³ugouchy, bia³oskórzy i kar³y nie 
+odpuszczaj¹. Jeœli wygramy, przyjd¹ znowu.
+EN
+Gewold-orc is out on a limb. Longeary, whiteskinny and gnomes don't give up. 
+If we win, they come again.
+
+PL
+Te¿ siê o to martwiê. Sojusz Pó³nocy nigdy nie ustêpuje. W Gelu'Aben nie 
+bêdziemy ju¿ bezpieczni. Niemniej jednak, bêdziemy musieli pomóc Gewoldowi!
+EN
+I'm worried about it too. The Northern Alliance never gives up. In Gelu'Aben 
+we won't be safe anymore. However, we'll have to help Gewold!
+
+PL
+<i>Bawi siê radoœnie z trollim szczeniêciem.</i>
+EN
+<i>is playing joyfully with a troll whelp</i>
+
+PL
+Gewold! Zostaw ju¿ tych kuszników, idziemy Ci z pomoc¹! Szykuj strawê i 
+napitek!
+EN
+Gewold! Leave these crossbowmen, we are going to help you! Prepare meals and 
+drinks!
+
+PL
+Cholera... To Marbus... Nie s¹dzi³em, ¿e go tutaj zobaczê... Marbus! Po 
+cholerê siê tutaj zjawi³eœ? Jak widzisz, œwietnie sobie radzê! Sprowadzi³em 
+tu i Sojusz, i Krasnoludy! Teraz nie muszê siê za nimi uganiaæ, za³atwiê ich 
+obu przed swoj¹ twierdz¹!
+EN
+Gosh... This is Marbus... I didn't expect to see him here... Marbus! Why the 
+hell did you come here? As you can see, I can deal with them easily. I 
+brought here both Alliance and dwarves. I don't have to go after them, I'll 
+kill both of them in front of my stronghold!
+
+PL
+Naprawdê nic siê nie zmieni³...
+EN
+Really... He hasn't changed even a bit.
+
+PL
+Niemniej jednak, zostaw trochê tych ¿ó³todziobów dla mnie! Moje wargi 
+najedz¹ siê ich miêsem!
+EN
+However, leave me some of these greenhorns. My wargs will feed themselves 
+with their meat!
+
+PL
+Widzê, ¿e mamy k³opoty... Moœci Heliasie, zapewnia³eœ mnie, ¿e orkowie nie 
+mog¹ liczyæ na ¿adne wsparcie z zewn¹trz!
+EN
+It seems we are in trouble. Lord Helias, you convinced me that the orcs 
+cannot expect any help from outside!
+
+PL
+To bez znaczenia... Si³y Sojuszu Pó³nocy s¹ w stanie poradziæ sobie z ka¿dym 
+zagro¿eniem.
+EN
+It doesn't matter... The Northern Alliance forces can deal with any danger.
+
+PL
+Doprawdy? W naszych klanach a¿ huczy od plotek na temat pora¿ek Sojuszu. 
+Ostatnie ataki nieumar³ych sprawi³y nawet, ¿e jesteœcie praktycznie odciêci 
+od Wesnoth! ¯aden z oddzia³ów maj¹cych wyruszyæ za Wielk¹ Rzekê nie powróci³.
+EN
+Really? In our clans you can easily hear a lot of rumours about the 
+Alliance's failures. The last undead attacks even made you completely 
+seperated from Wesnoth. No unit supposed to cross the Great River hasn't 
+come back.
+
+PL
+Sojusz Pó³nocy jest odciêty od Wesnoth? Zdaje siê, ¿e Ci nieumarli stali siê 
+plag¹ tych ziem. Sytuacja jest jeszcze gorsza, ni¿ myœleliœmy...
+EN
+The Northern Alliance is separated from Wesnoth? It seems that these undead 
+became the plague of these lands. Situation is even worse than we thought.
+
+PL
+Porozmawiamy o tym póŸniej, póki co trzeba ruszyæ na ratunek Gewoldowi. 
+Ahh'en Theer, dzielni wojownicy! Dziœ przelejemy krew ludzi i krasnoludów!
+EN
+Let's talk about it later, not it's time to go to save Gewold. Ahh'en Theer, 
+brave warriors! Today we'll pour human and dwarvish blood!
+
+PL
+Prze³am oblê¿enie i odbij Gelu-Aben
+EN
+Break the siege and recapture Gelu-Aben
+
+PL
+Wreszcie! Oblê¿enie puœci³o. Mamy teraz szansê odbiæ Gelu-Aben!
+EN
+Finally! The siege is broken. Now we can recapture Gelu-Aben!
+
+PL
+Marbus! Ze wszystkich moich zawszonych krewnych! Nigdy nie pomyœla³bym, ¿e 
+to w³aœnie Ty przyjdziesz mi z odsiecz¹... Hahahaha... Dawno nie czu³em siê 
+taki rozbawiony...
+EN
+Marbus! From all my lousy relatives! I'd never think that you will be the 
+one to rescue me... Hahahaha... I haven't felt so amused for a long time.
+
+PL
+Egh tro Grash, bracie! Zdaje siê, ¿e jesteœ ranny. Jak wiêkszoœæ orków w 
+Twoim zamku. Ale opowiadaj... Co tu siê sta³o, na Hordê?
+EN
+Egh tro Grash, brother! It seems you are wounded. As most orcs in your 
+castle. But tell me... For the horde, what has happened here?
+
+PL
+Tutaj? Chodzi Ci o oblê¿enie, co? Hahaha... To zabawna historia... Zaczê³o 
+siê od plotek na temat nieumar³ych nadci¹gaj¹cych z pó³nocy... Wzi¹³em wiêc 
+swoich najlepszych ch³opców i ruszyliœmy, ¿eby z³upiæ te koœciaki. Zima w 
+tym roku jest ciê¿ka... Potrzebowaliœmy zapasów, nawet z r¹k nieumar³ych...
+EN
+Here? You mean the siege, right? This is a hilarious story... It began with 
+some rumours about undead coming from the north... I took my best boys to 
+loot these scaffolds. Winter is very harsh this year... We needed supplies, 
+even these from undead hands.
+
+PL
+Nie podoba mi siê to... Nieumarli zaatakowali nas od po³udnia... Wygl¹da na 
+to, ¿e jesteœmy zamkniêci.
+EN
+It doesn't please me... Undead attacked us from the south... It looks like 
+we are surrounded.
+
+PL
+...wytropiliœmy ich. I poprowadzi³em szturm... Jednak ich iloœæ, ich si³a... 
+Mia¿d¿yli nas. A moi ch³opcy? Zostawili mnie tam samego! W pierwszej linii! 
+Nie warto by³o, Marbus! Nie warto by³o zrobiæ nic! Ale ju¿ doœæ... Szkoda 
+gadaæ, szkoda strzêpiæ jêzyk...
+EN
+...we tracked them. And I was commanding the assault... However, their 
+number, their power... They were crushing us. And my boys? They left me 
+alone! In the first row! It wasn't worth it, Marbus! It wasn't worth doing 
+anything! But this is enough as for now... There's no point talking, nor 
+wasting one’s breath.
+
+PL
+W ka¿dym razie... Droga powrotna zosta³a odciêta... Ruszyliœmy przez ziemiê 
+Sojuszu Pó³nocy... A za nami ci¹gnêli nieumarli. Z tego co wiem, pó³noc le¿y 
+teraz w ruinie. Ludzie, elfy, krasnoludy... Ka¿dy potrzebuje ¿ywnoœci, stali 
+i kawa³ka ziemi, którego nie zamieszkuj¹ upiory... Ruszyli wiêc na nas.
+EN
+Nevertheless, the way home had been blocked... We were moving through the 
+lands of Northern Alliance... Undead were following us. As far as I know, 
+the north lies in ruins now. Humans, elves, dwarfs... Everyone needs food, 
+steel and a piece of land not inhabited by wraiths... So they went on us.
+
+PL
+Nie pozostaje nam nic innego, jak walczyæ... Chwyæcie za swe miecze jeszcze 
+raz! Poprowadzimy was do zwyciêstwa!
+EN
+We can do nothing except fighting... Grab your swords once again! We will 
+lead you to the victory!
+
+PL
+Zdaje siê, ¿e orkom uda³o siê przebiæ oblê¿enie... To nie wró¿y dobrze. 
+Pos³aæ po wiêcej wojska! Niech ci¹gn¹ tutaj legiony z pó³nocnych posterunków!
+EN
+It seems the orcs managed to break the siege... This is not a good 
+forecast... Call for more military! Approach, legions from the northern 
+posts!
+
+PL
+Ale panie... Jeœli zabierzemy stamt¹d oddzia³y, kto obroni granice przed 
+nieumar³ymi?
+EN
+But lord... It we take the units thence, who will defend the borders from 
+the undead?
+
+PL
+Nie lekcewa¿ moich rozkazów, kmiotku! Wykonaæ! I dawaæ mi tutaj ciê¿kich 
+piechurów! Rozwalimy w drzazgi ich bramy miejskie i fortyfikacje!
+EN
+Do not disregard my commands, yokel! Execute! And give me here heavy 
+infantrymen! We'll blow their city gates and fortifications into shreds!
+
+PL
+Nie podoba mi siê to... Ale jeœli mamy ochroniæ nasz klan przed zagro¿eniem 
+z zewn¹trz, musimy pozbyæ siê orków. Poœlijcie po moich kuzynów, Gilla i 
+Billa! Za³atwi¹ ich!
+EN
+It does not please me... But if we want to defend our clan from the danger 
+of outside, we'll have to get rid of orcs. Go for my cousins Gill and Bill! 
+They will get them!
+
+PL
+Bill Œnie¿nostopy
+EN
+Bill the Snowfeet
+
+PL
+Gill Œnieznostopy
+EN
+Gill the Snowfeet
+
+PL
+Pokonaj przywódców wroga
+EN
+Defeat enemy leaders
+
+PL
+Co? Elfy! Ale sk¹d...
+EN
+What? Elves? But how...
+
+PL
+Co wyœcie robili na tym po³udniu, Marbus? Do Sojuszu Pó³nocy przy³¹czy³y siê 
+ju¿ niemal¿e wszystkie rasy, nawet smoki i... Tfu, niektóre plemiona 
+orków... Tworz¹ teraz najwiêksz¹ si³ê, rywalizuj¹c z Knalg¹ w dziedzinach 
+gospodarki...
+EN
+What have you been doing in the south, Marbus? The Northern Alliance has 
+been joined by almost every race, even drakes and... yuk, some orcish 
+tribes... They stand the greatest force, competing with Knalga in the 
+economy...
+
+PL
+Elfy! D³ugouchy! Moje szczeniêta chcieæ siê z nimi bawiæ!
+EN
+Elves! Long-eared! My whelps want to play with them!
+
+PL
+Nie mo¿na lekcewa¿yæ m¹droœci i potêgi elfów... Ich rasa jest równie 
+pradawna, co nasza... Byli pierwszymi, którzy pojêli potêgê natury... Choæ 
+ich rasa skarla³a... Nie ma ju¿ bohaterów takich, jak Kalenz...
+EN
+You shouldn't disregard the wisdom and power of elves... Their race is as 
+ancient as ours... They were the first to understand the power of nature... 
+However, their race shrunk... There are no longer heroes such as Kalenz...
+
+PL
+Cicho, cicho Jêczmieñ... To wrogowie.
+EN
+Silence, silence Barley... They are enemies.
+
+PL
+Nazwa³eœ tego wilka Jêczmieñ, kuzynie?
+EN
+Did you name this wolf Barley, cousin?
+
+PL
+Jêczmieñ
+EN
+Barley
+
+PL
+To niemo¿liwe... Nie uda³o siê... Nawet z posi³kami z pó³nocy... Ale to 
+nic... I tak zginiecie. Pokonani... Przez Króla Gonu...
+EN
+This is impossible... We failed... Even with the reinforcements from the 
+north... But it doesn't matter... You will die anyway. Defeated... By the 
+King of Gon...
+
+PL
+Król Gonu...? Czy to mo¿liwe...? Musimy st¹d uciekaæ, szybko! Nie jesteœmy w 
+stanie pokonaæ tej istoty!
+EN
+The King of Gon? Is this possible? We have to run away, quickly! We aren't 
+able to beat this being!
+
+PL
+Hm? O czym mówisz, stara wró¿bitko? Dlaczego ta nazwa jest dla Ciebie tak 
+straszna?
+EN
+Hum? What are you talking about, old augur? Why is this name so scary for 
+you?
+
+PL
+Jest on o wiele starszy, ni¿ mo¿ecie sobie wyobraziæ... Pamiêta czasy, gdy 
+orkowie dopiero dop³ywali na Wielki Kontynent na statkach ludzi... Ale 
+dlaczego siê zjawi³? Nie wiem... Ale muszê siê dowiedzieæ...
+EN
+He is much older than you can imagine... He remembers the times when orcs 
+sailed to the Great Continent on human boats... But why did he return? I 
+don't know... But I must find out...
+
+PL
+Nie! Ja... Ekhm... Ekhm... Nie mogê paœæ... Wy tchórze... Wy bêkarty... Wy 
+diab³y wcielone... Wy...
+EN
+No! I... Ekhm... I can't fall... You cowards... You bastards... You devil 
+incarnates... You...
+
+PL
+A zamknij siê wreszcie! Niech ktoœ przyniesie mi jego ³eb na tacy!
+EN
+Shut up, at last! Bring me his head on a tray!
+
+PL
+Uda³o siê, Marbus! ¯yjemy! Zdaje siê, ¿e to dziêki Tobie... Choæ w mojej 
+prywatnej opinii, to raczej ja ratowa³em Ciebie.
+EN
+We made it, Marbus! We're alive! And it seems like it's thanks to you... 
+Though in my personal opinion, it's rather that I saved you.
+
+PL
+Hahaha... Cieszê siê, ¿e ju¿ po wszystkim... Ale do rzeczy... Pora nam 
+zebraæ Hordê. Nieumarli ruszaj¹ na nas z po³udnia... A z tego, co mówisz, 
+nadchodz¹ tak¿e z pó³nocy... Wyœlijmy kruki do wodzów...
+EN
+Hahaha... I'm glad that it's over now... But to the point... It's time we 
+gathered the Horde. Undead are going after us from the south... And from 
+what you said, the are also coming from the north... Let's send ravens to 
+the chieftains...
+
+PL
+Kruki polecia³y ju¿ jakiœ czas temu, z proœb¹ o ratunek. Z tego co wiem, 
+tylko kilka pomniejszych klanów da³o radê przetrwaæ.
+EN
+The ravens fled some time ago, to ask for rescue. From what I know, only few 
+minors clans remain.
+
+PL
+To bardzo niepokoj¹ca wiadomoœæ, kuzynie. Zdaje siê, ¿e nie ma co liczyæ na 
+wiêksz¹ iloœæ wojowników, ani schronienie.
+EN
+These are very worrying news, cousin. It seems like we can't bargain for 
+more warriors, nor for a shelter.
+
+PL
+Mamy na razie inne zmartwienia. Musimy wezwaæ starszyznê i odbyæ naradê.
+EN
+For now, we have other worries. We must call the elders and hold a meeting.
+
+PL
+Spokojnie, wojowniku! Zajmijmy siê najpierw cia³ami, opatrzmy rannych. 
+Niedobitki Sojuszu Pó³nocy uciekaj¹ w pop³ochu. Spl¹drujmy ich obóz i 
+wydajmy ucztê!
+EN
+Calm down, warrior! First let's take care of the bodies, patch up the 
+wounded. The last people from Northern Alliance are scattering in fright. 
+Let's loot their camp and hold a feast!
+
+PL
+Od wielu dni nie zaznaliœmy odpoczynku... Niech tak bêdzie! Ragh for En 
+Traht! Wygraliœmy bitwê!
+EN
+For many days we hadn't had rest... So be it! Ragh for En Traht! We won the 
+battle!
+
+PL
+Ragh for En Traht!
+EN
+Ragh for En Traht!
+
+PL
+Auuuuu!
+EN
+Owooooo!
+
+PL
+Tunelami
+EN
+By the Tunnels
+
+PL
+Si³y krasnoludów i Sojuszu Pó³nocy zosta³y rozgromione, a klan Marbusa 
+po³¹czy³ si³y z mieszkañcami Gelu'Aben. W nied³ugim czasie uda³o siê 
+opatrzyæ rannych, po¿egnaæ umar³ych i nakarmiæ g³odnych. Orkowa starszyzna 
+postanowi³a wyci¹gn¹æ ze spi¿arñ ostatnie zapasy ¿ywnoœci i zorganizowano 
+wielk¹ ucztê, na której goœciem honorowym by³ w³aœnie Marbus. Radoœæ 
+wszystkich trwa³a ca³y dzieñ. Jeden dzieñ, podczas którego uda³o siê 
+zapomnieæ o zimie, hordach nieumar³ych i panosz¹cym siê po pó³nocy Sojuszu.
+EN
+The forces of dwarves and Northern Alliance have been vanquished, and 
+Marbus' clan joined forces with residents of Gelu'Aben. Soon after that, 
+they managed to dress their wounds, say goodbye to the dead and feed the 
+hungry. The orcish elders decided to bring out the last supplies out of the 
+granaries and a great feast was hold, with Marbus as a honoured guest. 
+Everybody's happiness lasted the whole day. One day, in which they managed 
+to forget about the winter, the hordes of undead and about the Northern 
+Alliance running rampant.
+
+PL
+Dzieñ po uczcie zorganizowano naradê, która mia³a na celu zaradziæ wszystkim 
+problemom, z którymi styka³y siê ostatnio klany orków. Zjawili siê na niej 
+wszyscy, z którymi starszyzna mia³a jeszcze kontakt. Dumny, wielki niegdyœ 
+naród orków nie móg³ zape³niæ nawet po³owy miasta. Po ulicach b³¹ka³y siê 
+kobiety, starcy i wychudzone dzieci. Tylko gdzieniegdzie mo¿na by³o spotkaæ 
+mê¿czyznê z broni¹ b¹dŸ goblina, który struga³ strza³y na kolejn¹ bitwê. 
+Gelu'Aben zamienia³o siê w grób.
+EN
+One day after the feast, there was a meeting arranged, which's reason was to 
+solve all problems, which afflicted the orcish clans. Everybody with who the 
+elders were still in touch with, came along. A proud, once great nation of 
+orcs wasn't even able to fill half of the city. On the streets, women, 
+oldsters and attenuated children were wandering around. Only here and there 
+you could find a man with weapon, or a goblin, whittling arrows for another 
+battle. Gelu'Aben was becoming a grave.
+
+PL
+Na naradzie pojawi³o siê dwanaœcie osób: przedstawicieli klanów i 
+starszyzna. Ka¿dy próbowa³ narzuciæ innym swój punkt widzenia, a wszystkie 
+opiera³y siê na jasnych za³o¿eniach: zostaæ w twierdzy i przeczekaæ. Tylko 
+Marbus s¹dzi³, ¿e w ten sposób nie uda im siê przetrwaæ. Uderzaj¹c w stó³ i 
+nawo³uj¹c orków do porz¹dku, uda³o mu siê przekonaæ ich, ¿e tutaj nie czeka 
+na nich nic, tylko œmieræ. Gewold pierwszy sprzeciwi³ siê Marbusowi: 
+ucieczka nie wchodzi³a w grê, bo dok¹d mieliby uciekaæ?
+EN
+On the meeting, twelve people came along: clans' representatives and the 
+elders. Everybody tried to enforce his standpoint, and all of them based on 
+one clear concept: to stay in the fortress and wait out. Only Marbus though, 
+that this way the won't survive. After slamming his hand on the table and 
+putting orcs in order, he managed to convince them, that all what awaits 
+them here is death. Gewold was the first person to object Marbus: escape 
+isn't an option, because where are they supposed to go?
+
+PL
+I tutaj odezwali siê starsi: istnia³a opuszczona twierdza na wschodzie, za 
+górami. Mieœci³a siê ona na owianych tajemnic¹ Polach Kalindorskich. Mia³y 
+siê tam znajdowaæ staro¿ytne orkowe pisma, które traktowa³y o tym, jak 
+przetrwaæ tak¹ apokalipsê. Ca³oœæ tego planu wydawa³a siê opieraniem swoich 
+dzia³añ na bajkach i mitach, jednak w obecnej sytuacji nikt nie móg³ 
+wymyœliæ lepszego rozwi¹zania. Nikt te¿ nie móg³ wpaœæ na to, jak przedrzeæ 
+siê przez góry.
+EN
+And then the elders spoke up: there was an abandoned fortress in the east, 
+over the mountains. It was situated on mysterious Kalindoran Fields. There 
+are supposed to be ancient orcish writings over there, which contain 
+knowledge about how to survive such apocalypse. The whole plan seemed to be 
+based on tales and myths, but in current situation no one could come up with 
+a better solution. Also, nobody could figure out how to get through the 
+mountains.
+
+PL
+Marbus, który ju¿ powzi¹³ decyzjê o dostaniu siê na Pola Kalindorskie, 
+zaproponowa³, by zaprowadziæ orków krasnoludzkimi tunelami. Choæ Gelu'Aben 
+znajdowa³o siê tylko kawa³ek drogi od nich, ¿adne z orków od lat nie 
+przekracza³ progu wykutych przez krasnoludy jaskiñ. Wojownicza niegdyœ rasa 
+zaczê³a baæ siê potêgi, jak¹ sta³¹ siê Knalga.
+EN
+Marbus, who already decided to get on the Kalindor Fields, proposed to lead 
+orcs through the dwarven tunnels. Although Gelu'Aben was within a stone's 
+throw from them, no orc has crossed the enterance of dwarvish caverns for 
+years. Once a warlike race, started to fear the power which Knalga has 
+became.
+
+PL
+Podjêto g³osowanie, które mia³o zadecydowaæ o przysz³oœci wszystkich klanów. 
+Siedem z dwunastu osób zgodzi³o siê na to, by ruszyæ tunelami. Ta sama 
+siódemka podjê³a te¿ decyzjê o tym, by Marbus zosta³ nowym Wielkim 
+Suwerenem. Gewold siedzia³ w ciszy: by³ przeciwny obu tym decyzjom.
+EN
+A voting was started to decide about the future of all clans. Seven out of 
+twelve agreed to go through the tunnels. The same seven has also agreed, 
+that Marbus will become the new Great Suverein. Gewold was sitting in 
+silence: he was oppose to both these decisions.
+
+PL
+Nastêpnego ranka Wielka, Zjednoczona Horda pochwyci³a pochodnie i poczê³a 
+podpalaæ miasto. Po zaledwie godzinie, wspania³e niegdyœ Gelu'Aben zamieni³o 
+siê w ruinê. Nie by³o ju¿ powrotu: tylko elfowie w lasach i ¿o³nierze 
+Sojuszu ogl¹dali, jak czarny dym unosi³ siê nad miastem. Mia³ siê unosiæ 
+jeszcze d³ugo, zaczadzaj¹c tych, którzy spróbowali w tym czasie zbli¿yæ siê 
+do miasta. Marbus zaœ powzi¹³ sztandar Wielkiego Suwerena i pierwszy wst¹pi³ 
+pod ziemiê, prowadz¹c swoich braci w mroki krasnoludzkich tuneli.
+EN
+The next morning, the Great United Horde grabbed their torches and emblazed 
+the city. After just one hour, once a great Gelu'Aben became a ruin. There 
+was no return: only elves in the forests and soldiers of Northern Aliance 
+watched, how black smoke furled upwards the city. It was to do so for a long 
+time, asphyxiating these, who would approach the fortress. Meanwhile, Marbus 
+took the Great Suvereign's banner and as the first descended beneath the 
+ground, leading his brothers into the darkness of dwarven tunnels.
+
+PL
+Orkowie
+EN
+Orcs
+
+PL
+Krasnoludy
+EN
+Dwarves
+
+PL
+Dzikie stworzenia
+EN
+Hostile creatures
+
+PL
+Przedostañ siê przez jaskinie
+EN
+Get through the caverns
+
+PL
+Horda Marbusa wkroczy³a w koñcu w ciemne i wilgotne korytarze krasnoludów. 
+Ostatni z orków: starcy i kobiety, które wlok³y za sob¹ niewielkie wózki z 
+dobytkiem i po¿ywieniem, a tak¿e nieliczne zwierzêta hodowlane, takie jak 
+kozy i kurczaki, zostawili za sob¹ blade œwiat³o poranka. Od teraz ich drogê 
+mia³y rozœwietlaæ jedynie pochodnie oraz fosforyzuj¹ce grzyby, które ros³y 
+tu i ówdzie, roztaczaj¹c brzydki, kwaskowaty zapach. Tak zaczê³a siê ich 
+droga przez g³êbiny.
+EN
+At last, Marbus's horde strided into the dark and dump dwarven corridors. 
+Last of the orcs: oldsters and women, who dragged little carts with 
+belongings and food, as well as a small livestock, such as goats and 
+chickens, left behind the pale light of dawn. Now, their path would only be 
+brighted by torches and phosphorescing fungi, which grow here and there, 
+effusing a nasty, acrid smell. That's how their journey through the deeps 
+begins.
+
+PL
+Fuj! Te grzyby œmierdz¹ tak strasznie, ¿e nawet nasze wargi zaczynaj¹ 
+skomleæ. Zaczynam w¹tpiæ w sens tej wyprawy, Marbus. Idziemy ju¿ od kilku 
+godzin, a tunele staj¹ siê coraz ciaœniejsze.
+EN
+Yuk! These mushrooms stink so terrible, that even our wargs start to yelp. I 
+start to doubt in the point of our journey, Marbus. We are already going for 
+few hours, and the tunnels are becoming narrower.
+
+PL
+Grzyby œmierdz¹ i bol¹. Bol¹ w brzuch. Ja zjeœæ ich du¿o i teraz wymiotowaæ.
+EN
+Shrooms stink and hurt. Hurt in belly. I eaten too much and now vomit.
+
+PL
+Ta odmiana grzybów nie powinna cuchn¹æ... Zdaje siê, ¿e nawet tutaj, pod 
+ziemi¹, natura zaczyna odczuwaæ skutki tego, co dzieje siê na powierzchni. 
+Patrzcie wiêc dobrze, orkowi wojownicy! To najlepszy dowód na to, jak silny 
+jest upiór, który panoszy siê po tych ziemiach.
+EN
+This type of mushrooms shouldn't stink... It looks like even here, beneath 
+the ground, nature starts to feel the results of what is happening on the 
+surface. Thus take a good look, orcish warriors! This is the best evidence 
+of how strong is the ghost, who runs rampant on these lands.
+
+PL
+Uspokój siê, Gewoldzie, albo uznam, ¿e na staroœæ zaczynasz robiæ siê 
+zrzêdliwy. Nie ma ju¿ dla nas drogi powrotnej- musimy iœæ naprzód.
+EN
+Calm down, Gewold, or I will deem that you are becoming crusty due to the 
+old age. There is no way back for us - we must move forward.
+
+PL
+Przyznam jednak, ¿e i ja czujê niepokój, kuzynie. Nie chodzi tylko o same 
+tunele, ale te¿ brak jakichkolwiek oznak krasnoludów. S¹dzi³em, ¿e na drug¹ 
+stronê gór bêdziemy musieli przedrzeæ siê po trupach, maj¹c przy tym 
+dok³adnie wytoczon¹ œcie¿kê. Jeœli siê tutaj zgubimy, ani gwiazdy, ani 
+wiatr, ani wilki... Nic nie poka¿e nam drogi.
+EN
+I must admit, however, that I feel unease as well, cousin. And it's not just 
+about the tunnels, but about the lack of any traces of dwarves. I believed 
+that we will force our way to the other side over their corpses, having a 
+precisely determined path. If we get lost here, then neither starts, nor 
+winds, nor wolves... Nothing will show us the way.
+
+PL
+Trolle lata i wieki ¿y³y w takich miejscach. Ja i moi synowie wiemy, jak iœæ 
+w ciemnoœæ, by znaleŸæ drogê. Gdy siê zgubicie, poprowadzimy.
+EN
+Trolls been living here for years and ages. I and my sons know, how to walk 
+in gloom, to find way. When you get lost, we will lead.
+
+PL
+Czy¿by moje œlepe oczy widzia³y wiêcej, ni¿ wasze? Widz¹ce? Wiedzcie, ¿e mój 
+lud nie obawia siê ciemnoœci tego miejsca. Znajdziemy drogê, choæbyœmy mieli 
+wezwaæ naszych przodków na pomoc! I przodków naszych przodków! I przodków 
+przodków naszych przodków równie¿!
+EN
+Can it be, that my blind eyes saw more, than yours? Seeing? You see, my kin 
+isn't afraid of the darkness of this place. We will find a way, even if we 
+will have to call our ancestors for assistance! And the ancestors of ours 
+ancestors! And the ancestors of our ancestors' ancestors as well!
+
+PL
+Widzicie wiêc? Nie mamy siê czego obawiaæ. Odk¹d Ci nieumarli pojawili siê 
+na pó³nocy, czujê, jakby jakaœ tajemnicza si³a prowadzi³a nas za rêkê. Choæ 
+mo¿e jest to zabobon starych orczyc, wierzê w przeznaczenie. A naszym 
+przeznaczeniem nie jest œmieræ w tym miejscu.
+EN
+You see, then? We have nothing to be afraid of. Since when these undead 
+appeared in the north, I feel like if an arcane force leadead us by the 
+hand. Although it might be old' orcsess' superstition, I believe in the 
+destiny. And death at this place isn't our destiny.
+
+PL
+Cisza! Uspokójcie zaraz te wargi! S³yszycie? To szumi rzeka.
+EN
+Silence! Calm down these wargs right now! Can you hear that? It's a sough of 
+a river.
+
+PL
+Dziêki przodkom! Uzupe³nimy manierki i napijemy siê do syta, jeœli oka¿e siê 
+zdatna do picia. Mo¿liwe te¿, ¿e przy rzece znajdzie siê jakaœ krasnoludzka 
+osada, wiêc trzymajcie miecze w pogotowiu.
+EN
+Thank forefathers! We will replenish our canteens and drink to our's fill, 
+provided the waters is drinkable. It's also possible, that by the river will 
+be found a dwarven settlement, so have yours swords ready.
+
+PL
+Naprzód, moi wojownicy! Poruszajcie siê sprawnie i cicho. Nie rozdzielajcie 
+siê jednak: nie wiadomo, jakie niebezpieczeñstwa czekaj¹ nas w tych tunelach.
+EN
+Onward, my warriors! Move defty and quietly! Don't split up, however - we 
+don't know, what dangers will await us in these tunnels.
+
+PL
+Zastanawia mnie, jakie prymitywy ¿yj¹ w tych podziemiach... Ta kamienna 
+wioska wcale nie przypomina krasnoludzkiej...
+EN
+I wonder what primitives are living beneath the grounds... This stone 
+village doesn't look dwarven at all...
+
+PL
+To nie jest robota kar³ów! To robota silnych trolli! Nasza architektura byæ 
+gustowna i wyszukana, prawda?
+EN
+This not dwarf work! This strong trolls' work! Our architecture is stylish 
+and sophisticated, is it not?
+
+PL
+Trudno zaprzeczyæ. Wygl¹da uroczo.
+EN
+Hard to deny. It is charming.
+
+PL
+Aidala
+EN
+Aidala
+
+PL
+A có¿ to, na przodków!? Chwyæcie za miecze!
+EN
+What's that, for the ancestors!? Grab yours swords!
+
+PL
+Trolle znaj¹ ten wygl¹d. Pod naszymi mostami, sk¹d bierzemy myto, tam czêsto 
+one s¹. To nagi. Kobiety-wê¿e.
+EN
+Trolls know the look. Under our bridges, where we take toll, there they 
+often are. They are nagas. Snake-women.
+
+PL
+Czy¿ nie myl¹ mnie zmys³y? Jak¿e to mo¿liwe, ¿e dumna niegdyœ rasa nag 
+osiad³a pod ziemiê? Pamiêtam czasy, gdy nasze ludy tworzy³y jednoœæ, 
+w³adaj¹c bagnami i rzekami na ca³ym kontynencie.
+EN
+Are the senses failing me? How is it possible, that once a proud race of 
+nagas settled under the ground? I remember times, when our kins made one, 
+ruling the swamps and rivers on the whole continent.
+
+PL
+B¹dŸcie pozdrowieni, synowie zachodu... A mo¿e powinnam rzec: synowie 
+pó³nocy? Imiê Tej Osoby jest Aidala. To s¹ zaœ moje córy. Jestem ich matron¹.
+EN
+Greetings, sons of the west... Or should I say: sons of the north? This 
+Person's name is Aidala. And these are my daughters. I'm their matriarch.
+
+PL
+Tfu... Od lat nikt z nas nie zobaczy³ ¿adnej z nag! Od³¹czy³yœcie siê od 
+Hordy! Niektóre z was do³¹czy³y nawet do Sojuszu Pó³nocy, mieszaj¹c siê z 
+trytonami! Nie próbuj zaprzeczaæ, wê¿u!
+EN
+Yuk... For years, nobody has seen any naga! You split off from the Horde! 
+Some of you even tried to join the Northen Alliance, mating with tritons! 
+Don't try to contradict, snake!
+
+PL
+Gewold, do diab³a! Przypominam Ci, ¿e to ja jestem teraz Wielkim Suwerenem! 
+Milcz, gdy przychodzi do rozmowy z kimœ, kto stan¹³ na naszej drodze!
+EN
+Gewold, go to hell! I reminder You, that it's me who is the Great Sovereign 
+now! Be silent, when it comes to talking with someone, who got on our way!
+
+PL
+Spostrze¿enie Twojego kompana by³o trafne, synu pó³nocy. Wiêkszoœæ mojej 
+rasy odwróci³a siê od tradycji i wierzeñ starszyzny. Ta Osoba jednak nigdy 
+nie wyzby³a siê swej dumy, nigdy nie zagasi³a ¿alu i nienawiœci, która 
+obfituje w jej sercu... A jednak... Ta Osoba nie mog³a walczyæ.
+EN
+Your companion's remark was spot-on, son of the north. The majority of my 
+race would turn their backs on our tradition and the elders' beliefs. This 
+Person, however, never got rid of her pride, never quenched the sorrow and 
+hatred, that abound in her heart... And yet... This Person couldn't fight.
+
+PL
+Opowiedz mi, co siê sta³o, pani.
+EN
+Tell me, what has happened, lady.
+
+PL
+Nieca³y wiek temu starszyzna mego ludu zwo³a³a Wielki Wiec, na którym 
+mieliœmy radziæ, jak uchroniæ rasê Tej Osoby od klêski... Jednak na Wiecu 
+dopad³y nas sid³a zdrady. M³ode, ¿yj¹ce w najp³ytszych wodach nagi 
+postanowi³y zjednoczyæ siê z Sojuszem Pó³nocy i wyr¿n¹æ zdecydowan¹ 
+wiêkszoœæ rasy Tej Osoby. Ta Osoba walczy³a zaciekle, zabijaj¹c wiele swoich 
+córek i sióstr, jednak nie uda³o siê uratowaæ starszyzny.
+EN
+Less than one century ago, elders of my kin called a great meeting, on which 
+we were supposed to debate, how to save This Person's race from defeat... 
+But on the meeting we faced a betrayal. Young nagas, living in the most 
+shallow waters, decided to join forces with the Nortern Alliance and 
+murdered the vast majority of This Person's race. This person fought 
+fiercely, killing many of her daughters and sisters, but she couldn't save 
+the elders.
+
+PL
+Zosta³yœmy odciête z moimi najbardziej zaufanymi córami... Droga do morza 
+by³a zamkniêta. Na l¹dzie zaœ czekali na nas kusznicy. Ta Osoba mog³a zgin¹æ 
+wielk¹, s³uszn¹ œmierci¹. To jednak sprawi³oby, ¿e nie by³oby ju¿ nienawiœci 
+wœród nag i Sojuszu Pó³nocy. Krasnoludowie, elfowie, a nawet Wielkie 
+Królestwo Wesnoth... Wszyscy zaczêliby uto¿samiaæ rasê Tej Osoby z czymœ 
+dobrym. Z czymœ, co wyzby³o siê mroku i do³¹czy³o do nich, by ³owiæ per³y, 
+pomagaæ ¿eglarzom i p³yn¹æ z delfinami.
+EN
+I got sealed off with my most trusted daughters... The road to the sea was 
+closed. And on land, crossbowmen were waiting for us. This Person could die 
+a great, rightful death... However, it would cause that there wouldn't be 
+any hatred between nagas and Northern Alliance anymore. Dwarves, elves and 
+even The Great Kingdom of Wesnoth... Everyone would start equating This 
+Person's race with something good. With something, that got rid of its 
+darkness and joined them, to hunt pearls, help sailors and swim with 
+dolphins.
+
+PL
+Ta Osoba nie mog³a tego znieœæ! Ta Osoba musia³a ¿yæ, by nienawidziæ. By daæ 
+œwiadectwo mroku i zepsucia, Œwiadectwo Wê¿a. Ta Osoba zebra³a wszystkie 
+swoje córy i ruszy³a w jedynym kierunku, gdzie mog³a przetrwaæ: do jaskiñ. 
+Tutaj wiêc, w mroku i ciemnoœciach, zaczê³yœmy sk³adaæ skrzek, rosn¹æ w si³ê 
+i czekaj¹c chwili, w której mog³ybyœmy zadaæ œmiertelny cios naszym wrogom. 
+Ta Osoba s¹dzi, ¿e ta chwila nadesz³a.
+EN
+This Person couldn't stand that! This Person had to live, to hate. To give 
+testimony of the darkness and decay, Testimony of the Snake. This Person had 
+gathered its daughters and set off in the only dirrection where it could 
+survive - to the caves. So here, in the darkness and gloom we've started to 
+lay spawn, to grew stronger and wait for the moment when we could inflict 
+deadly blow to our enemies. This Person presumes this moment have approached 
+now.
+
+PL
+Twoja opowieœæ jest pe³na pasji i mroku, pani... Wróg, który nas œciga, jest 
+jednak jeszcze mroczniejszy. Z radoœci¹ powitam Ciebie i Twoje córki w 
+szeregach mojej armii.
+EN
+Your story is full of passion and darkness, my lady... The enemy that is 
+pursuing us is even darker yet. I will welcome You and Your daughters in my 
+ranks with joy.
+
+PL
+Przemyœl to jeszcze... Nie ka¿dy, kto nie chce nas zaatakowaæ, jest naszym 
+przyjacielem. Mog¹ k³amaæ. Mog¹ te¿ wydaæ nasz przy pierwszej mo¿liwej 
+okazji, do³¹czaj¹c do tych nag, które s¹ ju¿ po stronie Sojuszu Pó³nocy.
+EN
+You should reconsider this... Not wanting to attack us does not make them 
+our friends. They may betray us in the first suitable opportunity, joining 
+that nagas, wchich are on the Northern Alliance side already.
+
+PL
+Sss... Zamilcz, orku... Zamilcz, albo sprawiê, ¿e zamilkniesz na wieki... 
+Jeœli trzeba, Ta Osoba z³o¿y œluby. Ta Osoba przyrzeka na gwiazdy i wê¿e, na 
+truciznê i miecze, na czarn¹ i czerwon¹ krew, ¿e s³u¿yæ bêdzie waszemu 
+Wielkiemu Suwerenowi i odda siê mu ca³a!
+EN
+Sss... Quiet, ork... Be quiet or I will make you silent for ages... If it is 
+needed this Person will make an oath. This Person swears on the stars and 
+snakes, on the poison and swords, on the blood of black and red that it will 
+serve your Great Sovereign and will give the whole of itself to him.
+
+PL
+Nawet w obliczu ostatnich wydarzeñ muszê przyznaæ, kuzynie, ¿e brzmi to 
+ca³kiem nieŸle.
+EN
+Even in the face of the last events I must admit, my cousin, that it sounds 
+pretty nice.
+
+PL
+Cieszê siê, ¿e znów dopisa³ Ci humor, Kochan. Co zaœ do nag... Niech wiêc 
+tak bêdzie. Od dzisiaj i wy jesteœcie moim ludem. Razem musimy wydostaæ siê 
+z tych tuneli.
+EN
+I am glad that your humour is back, Kochan. As for the nagas... So be it. 
+From now on you are my people as well. Together we must work our way out of 
+this tunnels.
+
+PL
+Moje serce raduje siê na wieœæ, ¿e walczyæ bêdziemy ramiê w ramiê z wodnymi 
+wê¿ami. Ten kontynent nie wyda³ na œwiat istot równie zaciêtych, 
+przepe³nionych pasj¹ i nienawiœci¹, które nie pozwoli³y im odejœæ w ramiona 
+œmierci. 
+EN
+My hearth is full of joy knowing, that we will be fighting together with the 
+water snakes. There are no creatures that are more stubborn, full of passion 
+and hate born by this continent. Those features caused them not to leave 
+this world into the cold hands of the death.
+
+PL
+Trolle lubi¹ wê¿e. Niech jest miêdzy nami przyjaŸñ.
+EN
+Trolls likes snakes. Let there is friendship between us.
+
+PL
+Wodzu mój... Pozwól mi udzieliæ Ci rady... Podziemne kar³y równie¿ odczu³y 
+wp³yw Z³ego Ducha, który pustoszy tê krainê. S¹ s³abi... Mo¿emy razem stawiæ 
+im czo³o, pokonuj¹c ich. Jest jednak inne rozwi¹zani. Ich stra¿nicy s¹ 
+nieliczni, a na wiêkszoœci korytarzy brakuje im wartowników. Mo¿emy 
+niepostrze¿enie dotrzeæ na wschód, jeœli bêdziemy iœæ ostro¿nie.
+EN
+My Chieftain... Let me give you an advice... Underground midgets were also 
+influenced by the Evil Spirit that devastates this lands. They are weak... 
+Together we can face them and defeat them. But there is another way. Their 
+guards are few, there are none on most of the corridors. We can reach east 
+without being noticed if we will move carefully.
+
+PL
+To dobra rada. Osobiœcie wola³bym nie braæ udzia³u w walkach: warunki 
+terenowe zdecydowanie im sprzyjaj¹.
+EN
+That's a good advice. Personally I would rather not participate in the fight 
+- terrain is not suitable for that.
+
+PL
+Gadanie, Kochan! Potrzebujemy z³ota i zapasów, a w ich fortyfikacjach na 
+pewno znajdziemy tego wystarczaj¹co! Nie zabijemy ich teraz, a oni wkrótce 
+wyjd¹ z jaskiñ i zaatakuj¹ nas w najmniej odpowiednim dla nas momencie. ¯eby 
+nie by³o wojny, musimy zaatakowaæ ich pierwsi!
+EN
+Quit babbling, Kochan! We require gold and supplies and there should be 
+plenty in their fortifications! If we will not kill them now, they will 
+emerge from the caves and attack us in the least expected moment. To avoid 
+open war we must attack first!
+
+PL
+Wodzu mój, to nie wszystko. Ta Osoba wie coœ wiêcej... Na pó³nocy, w 
+opuszczonych przez kar³y tunelach... Czuæ stamt¹d magiczne wibracje... Ja i 
+moje córy s¹dzimy, ¿e mo¿e tam byæ ukryte coœ, co mog³oby siê okazaæ pomocne 
+w przysz³oœci. A mo¿e nawet mieæ decyduj¹ce znaczenie w ostatecznym 
+rozrachunku.
+EN
+My chieftain, this is not everything. This Person knows more... In the 
+north, in the tunnels abbandoned by the midgets... I can feel magic 
+vibrations from there... Me and my daughters think, that there can be hidden 
+something that could prove useful in the future. It can even have the 
+deciding touch in the final encounter.
+
+PL
+Skarb! Trolle chc¹ ten skarb! My nie zapomnieæ, ¿e trollom wtedy by³o 
+dobrze, gdy mieæ skarb!
+EN
+Treasure! Trolls want that treasure! We not forgot, that trolls were good, 
+when trolls had treasure!
+
+PL
+Równie¿ czujê coœ magicznego... Jest tam tajemna, potê¿na si³a... Ale inna 
+ni¿ krasnoludzka. Wydaje mi siê, ¿e mo¿e mieæ to coœ wspólnego ze z³em, 
+które ogarnia pó³noc. Powinniœmy mieæ tê rzecz.
+EN
+I also feel something magical... There is some arcane, powerful power... But 
+different, not dwarvish. I think it may have something in common with the 
+evil, that embraces the north. We should aquire this thing.
+
+PL
+Dziêkujê wam wszystkim za rady. Aidalo... Cokolwiek post¹piê, chcê mieæ Ciê 
+u swego boku. Bardzo cieszê siê z tego spotkania. A teraz: w drogê!
+EN
+Thank you all for your advices. Aidala... Whatever I decide, I want you to 
+be at my side. I am really glad that we've met. And now - onward!
+
+PL
+Dotrzyj Marbusem do pó³nocnego krañca mapy
+EN
+Move Marbus to the northern edge of the map
+
+PL
+Giñ, krasnoludzka poczwaro! To za wszystkich naszych wojowników, którzy 
+umarli z waszych r¹k!
+EN
+Die, you dwarven monster! This is for all our warriors slain by your brethen!
+
+PL
+Ograbcie ich twierdzê, ¿o³nierze! Jestem pewny, ¿e maj¹ tam mnóstwo z³ota i 
+zapasów!
+EN
+Loot their strongholds, soldiers! I am sure they have tons of gold and 
+supplies in there!
+
+PL
+Pad³! Krasnoludy pierzchaj¹ do swoich nor! Odnieœliœmy tu cudowne zwyciêstwo!
+EN
+He's fallen! Dwarves run to their holes! We've aquired this glorious victory!
+
+PL
+Mój miecz krzyczy z ekscytacji! Dobiæ pozosta³ych! Nie pozwólcie nikomu 
+prze¿yæ!
+EN
+My sword shouts of excitation! Slain the rest! Kill everyone, take no 
+prisoners!
+
+PL
+Ta Osoba cieszy siê, ¿e kolejna zemsta zosta³a dope³niona... Za z³oto z ich 
+skarbców uroœniemy w si³ê...
+EN
+This Person is glad, that the revenge is complete... With the gold from 
+their treasuries we will grow stronger...
+
+PL
+Szybko, moja Hordo, do tych tuneli!
+EN
+Quickly, my Horde, to these tunnels!
+
+PL
+Co!? Mamy uciekaæ teraz, gdy ju¿ rozgorza³a walka!?
+EN
+What!? We are fleeing now, after the battle has started!?
+
+PL
+Ta Osoba wreszcie mog³a zanurzyæ swoje ostrze w cia³ach tych, których 
+nienawidzi! Czemu¿ wiêc mamy przerywaæ tê s³odk¹ dla Tej Osoby chwilê?
+EN
+This Person could dip her blade in the bodies of these, whom she hates! Why 
+do we have to interrupt such a sweet for This Person moment?
+
+PL
+Nie k³óæcie siê ze mn¹! Ruszamy, wg³¹b jaskiñ! Pamiêtajcie, ¿e naszym celem 
+nie jest walka z krasnoludami, a przedostanie siê na drug¹ stronê gór!
+EN
+Stop arguing with me! Move on, deeper into the cavern! Remember, that our 
+goal isn't a fight with dwarves, but getting into the other side of the 
+mountains!
+
+PL
+Nasi wrogowie ju¿ nie ¿yj¹. Odnieœliœmy tutaj piêkne zwyciêstwo. Martwi mnie 
+tylko fakt, ¿e nied³ugo wszystkie okoliczne klany krasnoludów dowiedz¹ siê o 
+tej masakrze. Zechc¹ zemsty.
+EN
+Our opponents are dead. We achieved a great victory over here. But I'm 
+worried that soon, all nearby dwarven clans will find out about this 
+massacre. They will seek revenge.
+
+PL
+To rzeczywiœcie mo¿e byæ wielkim problemem. Niemniej, nie jesteœmy w stanie 
+ju¿ temu zaradziæ. Pozostaje nam jedynie zdaæ siê na los i pod¹¿aæ dalej 
+nasz¹ œcie¿k¹, tak jak do tej pory.
+EN
+This indeed might become a big problem. Still, we aren't able to prevent it 
+anymore. All what's left for us is to count of the destiny and follow the 
+path, like we did so far.
+
+PL
+O czym wy mówicie!? Cieszê siê, ¿e rozgromiliœmy naszych przeciwników! 
+Powinniœmy otworzyæ beczu³ki z piwem i œwiêtowaæ!
+EN
+What are you talking about!? I rejoice, that we vanquished our opponents! We 
+should open barrels of beer and feast!
+
+PL
+Ta Osoba s¹dzi, ¿e nierozwa¿nie by³oby zostawaæ tu d³u¿ej. Powinniœmy raczej 
+ruszaæ jak najszybciej, by wydostaæ siê z tych jaskiñ.
+EN
+This Person thinks, that staying here would be irresonable. We should rather 
+move as soon as possible, to leave these caves.
+
+PL
+Zgadzam siê z Twoimi s³owami, Aidalo. Szykowaæ siê do wymarszu! Opuszczamy 
+to miejsce!
+EN
+I agree with Your words, Aidala. Get ready to march off! We are leaving this 
+place!
+
+PL
+Uda³o siê. ¯aden z krasnoludów nie zauwa¿y³ naszego przejœcia. Dobra robota, 
+towarzysze! Dalej, wg³¹b jaskiñ!
+EN
+We made it. None of the dwarves noticed out pass. Well done, companions! 
+Onward, into these caves!
+
+PL
+Cieszê siê, ¿e uda³o nam siê unikn¹æ niepotrzebnej walki. Musimy oszczêdzaæ 
+si³y na wa¿niejsze starcia.
+EN
+I'm glad that we managed to avoid unneccessary fight. We must save our 
+forces for more important battles.
+
+PL
+Sss... Ta Osoba wola³aby ukróciæ o g³owê wszystkie kar³y, ni¿ pozwoliæ im 
+¿yæ. Nienawiœæ do nich p³onie w naszej krwi. Zrobimy jednak to, co konieczne.
+EN
+Sss... This Person would prefer to behead all of these dwarves, rather than 
+let them live. Hatred to them is burning in our blood. But we will do what 
+is neccesary.
+
+PL
+Na tysi¹c beczek piwa i tonê wieprzowiny! To orkowie! Zad¹æ w rogi! Orkowie 
+atakuj¹ nasze ziemiê!
+EN
+For one thousand barrels of bear and a ton of pork! These are orcs! Blow 
+into the horns! Orcs are attacking our lands!
+
+PL
+W rogi?! Natychmiast niech ktoœ zacznie biæ w bêbny! Do ataku!
+EN
+Into the horns?! Somebody immediately start beating in drums! To the attack!
+
+PL
+Milcz, Gewoldzie! A teraz, moja Hordo, zacz¹æ biæ w bêbny! Wyr¿n¹æ ich!
+EN
+Silence, Gewold! And now, my Horde, start beating in drums! Slaughter them!
+
+PL
+Ta Osoba widzi, ¿e rasa orków nie zmieni³a siê przez ten czas, w którym 
+widzia³a j¹ ostatnim razem.
+EN
+This Person sees, that orcish race hasn't changed since the last time she 
+saw them.
+
+PL
+Czujê jak¹œ dziwn¹ energiê w tym miejscu... Nie lêkajcie siê, jednak 
+st¹pajcie ostro¿nie! Kto wie, co czai siê w ciemnoœciach?
+EN
+I feel some weird energy in this place... Do not be affraid but make your 
+steps carefully! Who knows what lurks in the darkness.
+
+PL
+OdejdŸcie... Póki macie jeszcze tak¹ mo¿liwoœæ...
+EN
+Be gone... Now, that you still have the chance...
+
+PL
+Ta Osoba czuje dreszcz. Tak wiêc demon, który zamieszka³ te pieczary, wci¹¿ 
+potrafi mówiæ!
+EN
+This person feels shivers. So the demon that lives in these caves can still 
+speak!
+
+PL
+Czemu¿ mnie nie s³uchacie? OdejdŸcie...
+EN
+Why are you not listening to me? Be gone...
+
+PL
+Tam... W³aœnie tam Ta Osoba wyczuwa dziwn¹, star¹ magiê.
+EN
+There... This is the place from where this Person feels the strange, old 
+magic.
+
+PL
+Na orkowe miecze i sto tysiêcy gobliñskich bêkartów! Nieumarli!
+EN
+For the love of the orcish blades and the hatred of thousands of goblin 
+bastards! Undead!
+
+PL
+Nie... Ten duch nie nale¿y do tych, które nêkaj¹ pó³noc, prawda? Kim¿e wiêc 
+jesteœ?
+EN
+No... This ghost does not belong to those that harass the north, right? Who 
+are you then?
+
+PL
+Me imiê jest... Nie... Nie jest ono istotne w opowieœci, w której bierzecie 
+teraz udzia³... Wiedzcie tyle, ¿e jestem duchem tego, który by³ przed wami, 
+wielkiego wodza orków, który ¿y³ w dawnych czasach... OdejdŸcie...
+EN
+My name is... No... It is not important for the story, you are the part 
+of... All you must know is that I am the ghost of the one that was before 
+you - the great orcish chieftain that lived his life in the times of the 
+past... Be gone...
+
+PL
+Moi podw³adni wykryli dziwn¹ magiê wokó³ Ciebie. A jesteœmy teraz w 
+sytuacji, w której przyda siê nam ka¿da magia. Uciekamy przed nieumar³ymi, 
+którzy zaczêli panoszyæ siê na pó³nocy. Pomó¿ nam, jeœli mo¿esz, duchu.
+EN
+My subordinates have detected strange magic aroud you. We are in the 
+situation in which we can use any magic to help us. We are running from the 
+undead that had started to harass the north. Help us, if you are able to, 
+ghost.
+
+PL
+Uciekacie...? Wiêc dumna rasa orków ucieka przed nieumar³ymi duszami...? 
+Znów...
+EN
+Running...? So the pride orcish race runs from the undead souls...? Again...
+
+PL
+Znów? Ta Osoba myœli, ¿e wiesz wiêcej, ni¿ siê zdaje. Czy to, co dzieje siê 
+teraz na pó³nocy, dzia³o siê ju¿ wczeœniej?
+EN
+Again? This Person thinks, that you know more than you seem to. Everything 
+that is happening now in the north - Had this happened earlier?
+
+PL
+. . .
+EN
+. . .
+
+PL
+Zaklinam Ciê, duchu! Wiedz, ¿e teraz to ja jestem Wielkim Suwerenem Hordy... 
+W mojej mocy jest Ci rozkazaæ. Odpowiedz nam!
+EN
+I beg you, ghost! Know, that I am the Great Souverein of the Horde now... I 
+have the power to command you! Answer us!
+
+PL
+Tak... To ju¿ mia³o miejsce... Ale nie tutaj, a na dalekim, dalekim 
+zachodzie... Gdy mroczny lud Wesfolk stan¹³ przed nami, wyrywaj¹c nas z 
+krain bitewnych... Naszego pierwotnego œwiata, z którego zostaliœmy 
+przyzwani przez liczów...
+EN
+Yes... It had happened already... But not here. In the far, far west... When 
+the dark Wesfolk people stood in front of us tearing us out from our battle-
+realm... Our primal world from which we were summoned by the liches.
+
+PL
+Zosta³y otwarte portale, którymi dostaliœmy siê do tego œwiata... To jednak 
+nie koniec opowieœci... Bowiem zostaliœmy zdradzeni... W³adcy Liczów 
+zorientowali siê, jak wielk¹ potêgê stanowiliœmy... Nie mogli trzymaæ nas w 
+garœci, póki istnia³y ich portale... By je zamkn¹æ, u¿yli ca³ej swojej 
+wiedzy i magii, jak¹ posiadali. Straszne i potê¿ne by³y to czary, jakich nie 
+ma ju¿ na œwiecie i nie bêdzie, póki drugie s³oñce nie zaœwieci nad 
+kontynentem.
+EN
+The old portals were opened, we used them to enter this world... This is not 
+the end of the story... We were betrayed... Lich Lords found out how 
+powerfull we are... They could not kept us in their grasp as long as their 
+portals were opened... They used all of their power and knowledge to close 
+them. Terrible and mighty were the spells that are on this world no more and 
+never will be again unless the second sun shines over the continent.
+
+PL
+Portale zosta³y zamkniête, a droga do naszej ojczyzny zosta³a nam odebrana. 
+Nim jednak to siê sta³o, z naszego pierwotnego œwiata przyby³o tu coœ 
+jeszcze... Coœ, czego imienia nie pamiêtamy, a co sprawia, ¿e ani sen, ani 
+jad³o, ani kobieta... Nic nie jest w stanie zaspokoiæ pragnienia krwi, które 
+czujemy. To coœ nawiedza teraz pó³noc.
+EN
+Portals were closed and the way to our home was lost. Before it happened 
+there was something more that managed to get here from our wolrd... The name 
+of that thing is now forgotten but it makes the sleep, the food and even the 
+females unable to satisfy the lust for blood that we feel. This thing haunts 
+the north now.
+
+PL
+Pradawna jest twoja historia, duchu... Ta Osoba oœmiela siê spytaæ... Jak 
+powstrzymaæ to, co siê teraz dzieje?
+EN
+Ancient is the story of yours, ghost... This Person dares to ask... How can 
+we stop that what is happening now?
+
+PL
+Próbowaliœmy wielu rzeczy, by zawróciæ niepowstrzyman¹ rzekê 
+przeznaczenia... Nic nie jest w stanie odmieniæ losu... IdŸcie, precz! 
+Wystarczaj¹co du¿o ju¿ wam powiedzia³em... OdejdŸcie st¹d i zgiñcie wedle 
+w³asnego uznania!
+EN
+We've tried many things to turn the unstoppable river of the destiny 
+around... Nothing can change the faith... Go away! I've told you enough 
+already... Be gone and die as you like!
+
+PL
+Wynoœcie siê st¹d... Zostawcie przesz³oœæ w spokoju...
+EN
+Get out of here... Leave the past alone...
+
+PL
+Moje ataki nie robi¹ na nim wiêkszego wra¿enia!
+EN
+My attacks do not impress him!
+
+PL
+Nie mo¿ecie mnie pokonaæ, ¿ywotne istoty... Ja jestem bytem duchowym...
+EN
+You can't beat me, living beings... I'm a spiritual entity...
+
+PL
+Ja... Przegra³em...
+EN
+I... Lost...
+
+PL
+Mo¿e i jesteœ duchem wielkiego wojownika i wodza, ale mimo wszystko, nadal 
+jesteœ tylko duchem! A teraz powiedz nam, jak rozprawiæ siê z nieumar³ymi, 
+którzy panosz¹ siê po pó³nocy?
+EN
+Maybe you are a ghost of a great warrior and chief, but in spite of all, you 
+still are but a ghost! And now tell us, how to deal with these undead, who 
+run rampart in the north?
+
+PL
+Skoro uwa¿asz, ¿e tobie siê uda... WeŸ wiêc mój amulet... Mo¿e z nim 
+odmienisz... Losy... Swego ludu... Naszego ludu...
+EN
+If you think, that you will manage to do it... Then take my necklace... 
+Maybe with it you will change... The destiny... Of your people... Our 
+people...
+
+PL
+Spójrzcie! Sekretny tunel!
+EN
+Look! A secret passage has opened!
+
+PL
+To dziwny przedmiot... Pierwszy raz czujê coœ takiego, gdy go zak³adam... 
+Taki... Mistycyzm.
+EN
+This is a weird thing... When I put it on, it's the first time I feel 
+something like this... Such a... Mysticism...
+
+PL
+Mam tylko nadziejê, ¿e nie bêdziesz mówiæ tak jak tamten duch. Urywane 
+zdania nie s¹ w twoim stylu, kuzynie. Powinniœmy ju¿ ruszaæ dalej.
+EN
+I only hope that you won't talk like this ghost did. Broken sentences aren't 
+in your style, cousin. We should already move forward.
+
+PL
+Ta Osoba myœli, ¿e Wielki Suweren powinien zatrzymaæ tê rzecz. Mo¿e okazaæ 
+siê naprawdê wartoœciowa.
+EN
+This person thinks that the Great Suverein should keep this thing. It might 
+turn out to be really valuable.
+
+PL
+Naszyjnik z k³ów
+EN
+Bonetooth necklace
+
+PL
+Naszyjnik zawiera inskrypcjê w nieznanym jêzyku. Zapewnia posiadaczowi +20% 
+odpornoœci na ka¿dy rodzaj obra¿eñ.
+EN
+This necklace contains an inscription in unknown language. It grants the 
+wearer +20% resistance to all sources of damage.
+
+PL
+Zawo³ajcie tu Wielkiego Suwerena! Powinien to wzi¹æ...
+EN
+Call the Great Suverein over here! He should take it...
+
+PL
+Jêczmieñ, zostaw!
+EN
+Barley! Leave it!
+
+PL
+Auu!
+EN
+Owww!
+
+PL
+Hau, hau!
+EN
+Warf warf!
+
+PL
+Zostaw... O nie, pogryz³ go!
+EN
+Leave it... Oh no, he has bitten it!
+
+PL
+Zdaje mi siê, ¿e amuletowi nic siê nie sta³o. Patrzcie! Futro Jêczmienia 
+œwieci nowym blaskiem!
+EN
+It looks like nothing has happened to the medalion. Hey, take a look! 
+Barley's fur is shining!
+
+PL
+Gryz amuletu z k³ów
+EN
+Bite of a bonetooth necklace
+
+PL
+Twój wilk zyska³ w³aœnie +10% odpornoœci na ka¿dy rodzaj obra¿eñ!
+EN
+Your wolf just gained +10% resistance to all sources of damage!
+
+PL
+Ta Osoba zwie siê Aidala... Chcesz z³o¿yæ ze mn¹ skrzek?
+EN
+This Person's name is Aidala... Do you want to spawn with me?
+
+PL
+Ten dialog zosta³ tu umieszczony przez twórców. Tak naprawdê nagi nie 
+sk³adaj¹ skrzeku.
+EN
+This dialogue was placed here by the autors. Actually, nagas do not spawn.
+
+PL
+Czujê od tego dziwn¹ magiê... Niech Wielki Ork zajmie siê tym przedmiotem.
+EN
+I feel a weird magic in this thing... May the Great Orc take care of it.
+
+PL
+Ta rzecz nie dla trollów. My zawo³aæ m¹drego orka.
+EN
+This thing not for trolls. We call smart orc.
+
+PL
+Amulet magiczny... Dziwna to rzecz... Niech przywódca Hordy j¹ zabierze.
+EN
+Magical necklace... A weird thing it is... Shall the leader of the Horde 
+take it.
+
+PL
+Sio! Wynoœ siê! Ehh... Czego jak czego, ale nietoperzy siê tutaj naprawdê 
+nie spodziewa³em.
+EN
+Eww! Get out! Of all the things, I really didn't expected bats to be here.
+
+PL
+Jezioro Krwi
+EN
+Lake of Blood
+
+PL
+Wielka Horda nie zosta³a przyjêta ciep³o przez si³y krasnoludów, jednak 
+razem z pomoc¹ nag, uda³o im siê odeprzeæ ataki wroga i przedrzeæ siê do 
+centralnej czêœci jaskiñ. Wê¿owe kobiety okaza³y siê nieocenione, gdy 
+przychodzi³o przedzieraæ siê przez zalane podziemne przejœcia b¹dŸ szukaæ 
+alternatywnej drogi przez podmok³e tereny. Kobiety te by³y tajemnicze, 
+zabójcze, a w ich ruchach i sposobie bycia mo¿na by³o dostrzec coœ 
+mistycznego, co fascynowa³o poszczególnych orków, a innych nape³nia³o lêkiem.
+EN
+The Great Horde did not receive a warm welcome from the dwarven forces. 
+Still, with the help of the nagas, they were able to repulse enemy attacks 
+and force their way to the central part of the caves. Snake women proved to 
+be irreplaceable when there was a need to wade through the flooded 
+underground passes or to look for an alternative way through the marshy 
+grounds. Those women were mysterious, deadly, their every movement and their 
+way of being was filled with something mistical, which fascinated some orcs 
+and put fear in hearts of others.
+
+PL
+Sam Marbus spêdza³ coraz mniej czasu wœród swoich towarzyszy, skupiaj¹c 
+wokó³ siebie niewielk¹ grupkê doradców i najznamienitszych wojowników, a 
+tak¿e tych nielicznych, którzy zapoznali siê z kultur¹ i filozofi¹ 
+krasnoludów. Mieli oni za zadanie wybieraæ takie drogi, by unikaæ spotkañ z 
+o wiele bardziej licznymi si³ami nieprzyjaciela.
+EN
+Marbus himself had been spending less nad less time with his companions, 
+instead he had gathered around himself a small group of advisors, greatest 
+warriors and those, who familiarized themselves with the culture and 
+philosophy of dwarves. Their task was to choose safe ways, to evade 
+encouters with the much stronger enemy forces.
+
+PL
+Mroki tych miejsc nie wp³ywa³y dobrze na relacje miêdzyklanowe. Kilka razy 
+zdarzy³y siê powa¿niejsze bójki, zginêli orkowie. Prowodyrów szybko 
+wytropiono i postawiono przed Wielkim Suwerenem, który za rad¹ Gewolda 
+skorzysta³ z praw wojennych i nakaza³ ich powiesiæ. Nastêpnie nagi 
+poci¹gnê³y cia³a wg³¹b podziemnych rzek, gdzie przykryto je kamieniami. Taka 
+œmieræ by³a najwiêksz¹ hañb¹ dla orka i jego rodziny. Po tym incydencie 
+Horda nie walczy³a ju¿ miedzy sob¹.
+EN
+Gloom of this place was having a grim impact on the clan relations. Few 
+serious fights took place, some orcs died. Culprits were quickly tracked and 
+judged by the Great Souvereign, who adviced by Gewold, decided to benefit 
+from the laws of war and hanged them. After that, nagas dragged the bodies 
+into underground rivers, then covered them by rocks. Such death was the 
+biggest possible dishonor for an orc and his family. Knowing the price of 
+disloyality. the Horde did not have any more internal struggles from then on.
+
+PL
+Os³od¹ tych ponurych dni sta³a siê dla Marbusa Aidala, zawsze wiernie 
+s³u¿¹ca mu rad¹ i rozmow¹. Wcale nie cieszy³o to jego doradców, którzy wci¹¿ 
+nie darzyli nag sympati¹ i bali siê ich stylu ¿ycia. Coraz mniej osób mia³o 
+jednak wp³yw na decyzje Wielkiego Suwerena, który z dnia na dzieñ wydawa³ 
+siê starszy i surowszy. Wêdrówka przez podziemia wp³ywa³a w ten sposób na 
+wiêkszoœæ orków.
+EN
+In these grim days Aidala proved to be a real solace for Marbus. She was 
+always ready to give him an advice or lend an ear when he just needed to 
+talk. It was unacceptable for some of the advisors who still didn't trust 
+the nagas and were affraid of their way of being. Hower, with the days 
+passing, less and less people had an influence on the Great Souvereign's 
+decisions, who in their eyes was becoming older and more rigorous every day. 
+The journey through the undergrounds had such influence on most of the orcs.
+
+PL
+Wreszcie nadszed³ dzieñ, w którym wêdrowcy poczuli na twarzach powiew 
+œwie¿ego powietrza. Dotarli do podziemnego jeziora, które oddziela³o ich od 
+wyjœcia z jaskiñ. Wszyscy wiedzieli jednak, ¿e to w³aœnie w takich miejscach 
+najchêtniej osiedlaj¹ siê krasnoludy. Choæ zagro¿enie nie by³o jeszcze 
+widoczne, Marbus rozkaza³ chwyciæ za broñ.
+EN
+Finally, the day has came in which the wanderers could feel the fresh breeze 
+on their faces. They have reached an underground lake that was the last 
+thing separating them from the caves' exit. However, everyone knew that in 
+places like these dwarves very often set their settlements. Even without any 
+proof of the danger ahead, Marbus ordered to prepare weapons.
+
+PL
+Potwory
+EN
+Monsters
+
+PL
+Postrach z jeziora
+EN
+Monster from the Lake
+
+PL
+Nietoperze
+EN
+Bats
+
+PL
+Ta Osoba czuje zapach s³oñca... Zapach s³oñca i traw... I ciep³ych wód, 
+które wp³ywaj¹ do mórz i oceanów... Ju¿ niedaleko jest wyjœcie.
+EN
+This Person feels the smell of the sun... The smell of the sun and of the 
+grass... and warm waters, which run down to seas and oceans... Our way out 
+is nearby.
+
+PL
+Nareszcie wyjdziemy z tych przeklêtych jaskiñ! Rozpalimy ognisko, upieczemy 
+zwierzynê i wyprawimy huczn¹ biesiadê!
+EN
+Finally we will be able to leave these damned caves! We will light the fire, 
+roast some animals and arrange a noisy feast!
+
+PL
+Obawiam siê, ¿e biesiada bêdzie musia³a zaczekaæ. Wci¹¿ znajdujemy siê na 
+terenach krasnoludów. Musimy uwa¿aæ na to, co robimy. Aidalo, mog³abyœ 
+sprawdziæ dla nas to jezioro? Nie chcia³bym, ¿ebyœmy wpadli w pu³apkê tu¿ 
+przed wyjœciem z tego miejsca.
+EN
+I am afraid that the feast will have to wait. We are still on the dwarven 
+grounds. We must be careful about what we do. Aidala, could you scout the 
+lake for us? I would prefer not to walk into an ambush right before leaving 
+this place.
+
+PL
+To z³e wody... Czai siê w nich œmieræ. Œmieræ w skórze bestii. Ta Osoba 
+radzi, by nie zapuszczaæ siê w g³êbiny.
+EN
+These waters are evil... Death lurks in them. Death in the form of a beast. 
+This Person advices not to venture into the deeps.
+
+PL
+Muszê przyznaæ, ¿e choæ by³em sceptycznie nastawiony do tych stworzeñ, w 
+gruncie rzeczy okaza³y siê nieocenione. Bardzo trudno by³oby przejœæ przez 
+te jaskinie bez nich.
+EN
+I must admit that although I was sceptic at first, now I see that these 
+creatures proved to be invaluable. It would be really hard to pass these 
+caverns without their help.
+
+PL
+Masz racjê, kuzynie. Wiele Ci zawdziêczamy, Aidalo. Tobie i Twoim córkom. Co 
+zaœ tyczy siê jeziora, nie wchodŸmy do wody, póki nie zostaniemy do tego 
+zmuszeni. Ominiemy je, a póŸniej raz na zawsze wydostaniemy siê z jaskiñ!
+EN
+You are right, cousin. We are in your debt, Aidala. In yours, and your 
+daughters’. As for the lake, do not enter the waters unless you have no 
+other choice. We will bypass it and then be on our way out of the caves!
+
+PL
+Do jasnej... Orkowie! Ca³a armia orków! Zawiadomiæ przywódcê!
+EN
+In the name of... Orcs! A whole army of orcs! Send word to the commander!
+
+PL
+Tyle by by³o z naszego unikania walki. Dobrze siê sta³o, na pewno maj¹ sporo 
+miêsa na ucztê. Nie wspominaj¹c o piwie.
+EN
+There goes our avoiding of a battle. It is good though, they must have a lot 
+of meat for our feast. Not mentioning the beer.
+
+PL
+Nie s¹dŸmy pochopnie... Pamiêtajmy o tym, ¿e Sojusz Pó³nocy ma w swojej 
+armii orków. Mo¿emy siê za nich podaæ, by przejœæ na drug¹ stronê jaskiñ.
+EN
+Do not make haste opinion... Remember that the Northern Alliance recruits 
+orcs into their army. We can pass off them, to get to the other side of the 
+caves.
+
+PL
+Kogo niesie pod mury mojej fortecy? Czego szukacie w podziemiach, orkowie?
+EN
+Whose feet make such noise under the doorsteps of my fortress? What are you 
+looking for in the undergrounds, orcs?
+
+PL
+Co powinienem zrobiæ?
+EN
+What should I do?
+
+PL
+Powiedzieæ, ¿e nale¿ysz do Sojuszu Pó³nocy i musisz przedostaæ siê przez te 
+tunele
+EN
+Tell them that you belong to the Northern Alliance and need to pass through 
+these tunnels
+
+PL
+Pokój wam! Jesteœmy cz³onkami Sojuszu Pó³nocy. Musimy przedostaæ siê na 
+drug¹ stronê tych gór. Pomo¿ecie nam?
+EN
+Peace upon you! We are members of the Northern Alliance. We need to get to 
+the other side of the mountains. Can you help us?
+
+PL
+Pokój! Nie uwierzê wam jednak od razu... Zazwyczaj zdarza³o siê tak, ¿e 
+Sojusz Pó³nocy wysy³a³ jednego z ludzkich emisariuszy razem z orkami, ¿eby 
+nikt nie mia³ w¹tpliwoœci, po której stronie jesteœcie. Gdzie wasz 
+emisariusz?
+EN
+Peace on you! Yet I must be assured that you are telling the truth... 
+Usually the Northern Alliance would send a human emissary with orcs, so 
+there is no doubt about their allignment. Where is your emissary?
+
+PL
+Koniec tej maskarady! Do ataku, moi orkowie!
+EN
+Enough of this mascarade! To arms, my orcs!
+
+PL
+Nasz emisariusz zgin¹³ podczas misji.
+EN
+Unfortunately our emissary perished during our mission.
+
+PL
+Bardzo ciekawa wymówka... Ale skoro mieliœcie emisariusza, musieliœcie te¿ 
+wiedzieæ, przez ziemie jakich klanów bêdziecie przechodziæ. Zadam wam teraz 
+kilka pytañ. Sprawdzimy, czyœcie z Sojuszu Pó³nocy!
+EN
+Pretty handy excuse... However, if you say you were traveling with the 
+emissary, you must know which clan this grounds belong to. Now I will ask 
+you few questions. Let us see if you really are from the Northern Alliance!
+
+PL
+Jak nazywa siê najwiêkszy bohater naszego klanu?
+EN
+What is the name of the greatest hero of our clan?
+
+PL
+Torlof Gromow³adny
+EN
+Thundering Thorlof
+
+PL
+Jaki jest najznamienitszy taniec naszego klanu?
+EN
+What is the most known dance of my people?
+
+PL
+Dzikie Pogo Œmierci
+EN
+Wild Death Pogo
+
+PL
+Balet Jeziora Krasnoludzicy
+EN
+Lake of the Dwarven Lady Ballet
+
+PL
+S³ynna Polka Wyrwinó¿ka
+EN
+Famous Leg Tearer Polka
+
+PL
+Tango Czerwonej Brody
+EN
+Red Beard Tango
+
+PL
+Jak nazywa siê nasz rodzimy trunek?
+EN
+What is the name of our national drink?
+
+PL
+Krwista nalewka z pajêczych jagód
+EN
+Bloody Tincture from the spider berries
+
+PL
+Ostatnie pytanie! Kiedy, wed³ug naszych mêdrców, ma nast¹piæ koniec œwiata?
+EN
+Last question! When, according to our wise, will come the end of the world?
+
+PL
+W 2013 roku, jak przepowiedzia³ Klan Majów.
+EN
+2013 as the Maya clan predicted.
+
+PL
+Podczas bitwy Rags nars Krasnals na koñcu czasów.
+EN
+During the Rags nars Dwarves battle at the end of the time.
+
+PL
+Z nadejœciem Czterech JeŸdŸców Gryfa.
+EN
+With the coming of the Four Griphon Riders.
+
+PL
+Wspaniale, zatem jesteœcie z Sojuszu Pó³nocy!
+EN
+Indeed you are a part of the Alliance!
+
+PL
+Chwa³a niech bêdzie Sojuszowi Pó³nocy! Pomogê wam, a jak¿e. Wyjœcie st¹d nie 
+bêdzie jednak proste, gdy¿ tutejsze jezioro jest oblê¿one przez g³êbinowe 
+potwory, zaœ w rozga³êzieniach tuneli drzemie wiele nietoperzy i innych 
+bestii. Razem na pewno damy im radê.
+EN
+Praised be the Northern Alliance! I will help you. Walking out of here will 
+not be so easy, because of monsters of the deep, dwelling in this lake. Not 
+to mention the giant bats and other beasts. However, together we will 
+definitely manage it.
+
+PL
+Marbus, sk¹d Ty...?
+EN
+Marbus, how did you...?
+
+PL
+Metoda prób i b³êdów, kuzynie.
+EN
+Trial and error, my cousin.
+
+PL
+Po wybuchu Krasnoludzkiej KuŸni Runicznej.
+EN
+After the explosion of the Dwarven Rune Smithy.
+
+PL
+¯elazna pó³nocnica
+EN
+Iron Maden with the Beard
+
+PL
+Piwo \
+EN
+'Dwarf in Love' Beer
+
+PL
+Spirytus na zakwasie
+EN
+Sourdough Spirit
+
+PL
+Tales Ogniorêki
+EN
+Tales the Flaming Hand
+
+PL
+Torlof Wisiworek
+EN
+Torlof the Hanging Sack
+
+PL
+Tales Miêkkie Jajo
+EN
+Tales the Soft Ball
+
+PL
+Aidala jest nasz¹ emisariuszk¹.
+EN
+Aidala is our emissary.
+
+PL
+Ta Osoba bêdzie mówiæ w imieniu chwalebnego Sojuszu Pó³nocy! Pozdrawiamy 
+was, zacne krasnoludy i prosimy o pomoc w przebyciu tej¿e drogi...
+EN
+This Person will speak in the name of glorious Northern Alliance! We salut 
+you, noble dwarves, and ask for your assisstance in crossing this way...
+
+PL
+Jesteœ nag¹... Dziwiê siê, ¿e wybrano na emisariuszkê w³aœnie Ciebie... 
+Jednak od dawien dawna nie widziano was walcz¹cych u boku Hordy. Co siê 
+sta³o, ¿e teraz nale¿ycie do Sojuszu Pó³nocy?
+EN
+You are a... naga. Wicked weird is the fact that you were chosen as the 
+emissary... But it is been a damn long time since you were fighting along 
+the Horde. What happened that made you join the Northern Alliance?
+
+PL
+Moja rasa wreszcie zrozumia³a swoje b³êdy... Chc¹c je odkupiæ, wybraliœmy 
+œcie¿kê prawoœci. Od niedawna jesteœmy praworz¹dn¹ nacj¹, tak jak orkowie. 
+Nasze rasy od wielu lat dzia³a³y razem. Sojusz, chc¹c odnowiæ dawne taktyki 
+Hordy i poznaæ nasz¹ wspóln¹ kulturê, scali³ nasze szeregi w jedno. Twoi 
+bracia pomogli nam dojœæ a¿ tutaj. Co uczynisz Ty?
+EN
+My race finally understood the mistakes of the past... To redeam ourselves 
+we've chosen the path of the righteousness. For a time now we have been a 
+lawful nation, like the orcs. Our races cooperated for many years. The 
+Alliance wanted to renew the old Horde tactics and learn our common culture, 
+so it merged our ranks together. Your brethen assisted us on our way here. 
+What will you do?
+
+PL
+Chwa³a niech bêdzie Sojuszowi Pó³nocy! Pomogê wam, a jak¿e. Wyjœcie st¹d nie 
+bêdzie jednak proste, gdy¿ tutejsze jezioro jest oblê¿one przez g³êbinowe 
+potwory, zaœ w rozga³êzieniach tuneli drzemie wiele nietoperzy i innych 
+bestii. Razem na pewno damy im radê.
+EN
+Praise the Northern Alliance! I will help you! Walking out of here will not 
+be easy thou, because of the damn monsters hiding in the deep. Not to 
+mention the giant bats and other beasts. Yet, we should be able to have some 
+fun sharpening our blades on their backs. We will show you the way.
+
+PL
+I ja tak myœlê, przyjacielu. Aidalo... Dziêkujê Ci. Znowu.
+EN
+My thoughts are the same, my friend. Aidala... Thank you. Again.
+
+PL
+Krull Ska³a jest naszym emisariuszem.
+EN
+Krull the Rock is our emissary.
+
+PL
+Ja byæ wielka emisariusz! Ja byæ polityk! S³uchaæ siê trolli!
+EN
+Me is the giant emissary! Me be diplomat! You listen to trolls!
+
+PL
+Trolle od lat s¹ naszymi najwiêkszymi wrogami w tych tunelach! Nie uwierzê, 
+¿e ktoœ taki móg³ zostaæ emisariuszem Sojuszu Pó³nocy!
+EN
+Trolls are our biggest enemies in these caves! I refuse to believe someone 
+like that could be chosen to be an emissary of the Northern Alliance!
+
+PL
+G³upi karle! Karze³ uwierzy, gdy otworzymy mu g³owê!
+EN
+Stupid midget! He will believe, when we open his head!
+
+PL
+Emborgi'tarasz jest nasz¹ emisariuszk¹.
+EN
+Emborgi-tarash is our emissary.
+
+PL
+Witajcie krasnoludowie! Chylê g³owê przed wspania³oœci¹ i d³ugowiecznoœci¹ 
+waszego rodu. Rada jestem, ¿e znów przysz³o mi ogl¹daæ wspania³oœci waszych 
+miast, korytarzy i kopalñ.
+EN
+Hail, dwarves! I bow before the greatness and longevity of your people. I am 
+glad to be able to see the greatness of your cities, corridors and mines 
+again.
+
+PL
+Ja tak¿e jestem rad, ¿e was widzê. Orkowie, jaszczury i nagi... Wygl¹dacie 
+razem tak, jakby zebra³a siê sama Wielka Horda.
+EN
+Then I am also glad to see you. Orcs, lizards, nagas... Together, you look 
+almost like the Great Horde is assembled again.
+
+PL
+Bo w istocie tak siê sta³o... Horda zrozumia³a swoje b³êdy... W obliczu 
+zagro¿enia, które pojawi³o siê na pó³nocy, wszyscy jesteœmy równi, moje 
+dziecko... Nie ma sensu dalej ze sob¹ walczyæ. Pozwólcie nam przejœæ.
+EN
+Because it is indeed... The Horde understood it's mistakes... In the face of 
+the danger that emerged from the north we are all equal, my child... There 
+is no wisdom in fighting anymore with each other. Let us pass.
+
+PL
+Ja... I tak mam za ma³o wojowników, by was powstrzymaæ... Nie wiem, jak 
+uda³o wam siê przedostaæ a¿ tutaj... Niech tak bêdzie. Mo¿ecie iœæ dalej, 
+jednak jeœli podejdziecie do granic naszych w³oœci b¹dŸ zaatakujecie nas, 
+odpowiemy orê¿em.
+EN
+I... I don't have enough warriors to stop you anyway... I have no idea how 
+did you manage to find your way here... So be it. You may pass, but mark my 
+words - If you attack us or even get close to my fortress, we will fight.
+
+PL
+Cieszê siê, ¿e pomimo ró¿nic, które nas dziel¹, wci¹¿ mo¿emy odnaleŸæ 
+wspólny jêzyk wewn¹trz naszych serc. To wa¿na lekcja dla naszych ludów.
+EN
+I am glad that despite of our differences we are still able to find a common 
+tongue inside of our hearts. It is an important lesson for our peoples.
+
+PL
+Jêczmieñ jest naszym emisariuszem, to magiczny wilk.
+EN
+Barley is our emissary, it is a magical wolf.
+
+PL
+Magiczny wilk? Zobaczmy...
+EN
+Magical wolf? Let us see...
+
+PL
+Stwierdzam, ¿e ten wilk jest bardzo magiczny. Powinniœmy ich przepuœciæ.
+EN
+I find this wolf to be very magical. We should let them pass.
+
+PL
+Jeœli nasz nadworny Runmistrz tak uwa¿a, nie mam zamiaru siê z nim spieraæ!
+EN
+If my own Runemaster says so, there is no need to argue!
+
+PL
+Jêczmieñ... Dobry z Ciebie piesek.
+EN
+Barley... you are a good puppy.
+
+PL
+Stwierdzam, ¿e ten wilk nie jest ani troszkê magiczny! To oszustwo maj¹ce na 
+celu wywabienie mnie i zamordowanie, gdy jestem tutaj sam!
+EN
+I find that there is no magic in this animal! It was all a plot to lure me 
+out and kill me! Help me brothers!
+
+PL
+Powiedzieæ, ¿e jesteœ przywódc¹ Wielkiej Hordy i przedostaniesz siê przez te 
+tunele si³¹
+EN
+Tell them that you are the leader of the Great Horde and will force your 
+pass through these tunnels
+
+PL
+Moje imiê to Marbus. Jestem Wielkim Suwerenem swojego ludu i zamierzam 
+przejœæ przez te podziemia.
+EN
+The name is Marbus. I am the Great Souvereign of my people and I will pass 
+through this underground.
+
+PL
+A wiêc Horda znów siê zebra³a? Choæ mam niewielu ¿o³nierzy, stawimy wam 
+opór! Dalej, bracia! Niech nasze korytarze sp³yn¹ krwi¹ orkowych psów!
+EN
+So the Horde has gathered again? I may have few soldiers but mark my words - 
+your journey ends here! Come, brothers! Make this corridors flood with the 
+blood of orcish dogs!
+
+PL
+Oszustwo! Do broni, moi bracia! Niech poleje siê krew orków.
+EN
+Imposture! To arms, my brothers! May the orcish blood flow.
+
+PL
+PLACEHOLDER - SCENARIUSZ 08
+EN
+Scenario 08 - placeholder name
+
+PL
+PLACEHOLDER - SCENARIUSZ 09
+EN
+PLACEHOLDER - SCENARIO 09
+
+PL
+Elfy
+EN
+Elves
+
+PL
+Elf
+EN
+Elf
+
+PL
+Uciekaj!
+EN
+Flee
+
+PL
+SprawdŸmy to.
+EN
+Let's check that out.
+
+PL
+!!!
+EN
+!!!
+
+PL
+PLACEHOLDER - SCENARIUSZ 10
+EN
+PLACEHOLDER - SCENARIO 10
+
+PL
+Krasnoludy
+EN
+Dwarf
+
+PL
+Pokonaj przywódców wroga
+EN
+Defeat all enemy leaders.
+
+PL
+PLACEHOLDER - SCENARIUSZ 11
+EN
+PLACEHOLDER - SCENARIO 11
+
+PL
+Auuuuu!
+EN
+Owoooooo!
+
+PL
+Wybieram...
+EN
+I choose to...
+
+PL
+PLACEHOLDER - SCENARIUSZ 12A
+EN
+PLACEHOLDER - SCENARIO 12A
+
+PL
+Pokonaj przywódców wroga
+EN
+Defeat all enemy leaders
+
+PL
+PLACEHOLDER - SCENARIUSZ 012B
+EN
+PLACEHOLDER - SCENARIO 12B
+
+PL
+Nieumar³y Dowódca
+EN
+Undead Leader
+
+PL
+Orkowa Witalnoœæ: +8 Punktów ¿ycia
+EN
+Orcish Vitality: +8 Health
+
+PL
+Witalnoœæ Niszczyciela: +14 Punktów ¿ycia
+EN
+Juggernaut's Vitality: +14 Health
+
+PL
+Wzmocniona Zbroja: +10% Odpornoœci na obra¿enia sieczne, k³uj¹ce i obuchowe
+EN
+Reinforced Armor: +10% Blade, pierce and impact resistance
+
+PL
+Orkowa Brutalnoœæ: +3 Punkty ¿ycia, +2 Obra¿enia wrêcz
+EN
+Orcish Brutality: +3 Health, +2 Melee damage
+
+PL
+Dziki i Bezlitosny: +3 Punkty ¯ycia, +1 Cios wrêcz
+EN
+Savage and Ruthless: +3 Health, +1 Melee strikes
+
+PL
+Bezwzglêdny Strzelec: +4 Punkty ¿ycia, +2 Obra¿enia z dystansu
+EN
+Merciless Aim: +4 Health, +2 Ranged damage
+
+PL
+Niewybaczaj¹cy: +4 Punkty ¿ycia, +2 Obra¿enia z dystansu, Strzelec wyborowy
+EN
+Unforgiving: +4 Health, +2 Ranged damage, Marksman
+
+PL
+Trenowany w £owach: -6 Punktów ¿ycia, +1 Punkt ruchu
+EN
+Trained in Hunting: -6 Health, +1 Movement point
+
+PL
+Najlepszy £owca w Klanie: +1 Punkt ruchu
+EN
+Best Hunter in the Clan: +1 Movement point
+
+PL
+Zdrowy Wierzchowiec: +7 Punktów ¿ycia
+EN
+Healthy Mount: +7 Health
+
+PL
+Potê¿na bestia: +13 Punktów ¿ycia
+EN
+Mighty Beast: +13 Health
+
+PL
+Ostre Zêby: +2 Obra¿enia k³ami
+EN
+Sharp Teeth: +2 Fangs damage
+
+PL
+Szaleñczy G³ód: +1 Cios k³ami
+EN
+Mad Hunger: +1 Fangs strikes
+
+PL
+Zabójcze Szpony: +3 Punkty ¿ycia, +1 Cios szponami
+EN
+Deadly Claws: +3 Health, +1 Claws strike
+
+PL
+Parali¿uj¹ca Trucizna: +3 Punkty ¿ycia, +1 Cios k³ami, spowalnia
+EN
+Paralyzing Poison: +3 Health, +1 Claws strike, slows
+
+PL
+Szybka Bestia: +1 Punkt ruchu
+EN
+Swift Beast: +1 Movement point
+
+PL
+¯ywi¹cy siê miêsem: +7 Punktów ¿ycia
+EN
+Nourished with Meat: +7 Health
+
+PL
+Karmiony Krasnoludzkimi Koœæmi: +13 Punktów ¿ycia
+EN
+Fed with Dwarven Bones: +13 Health
+
+PL
+Twarda Skóra: +10% Odpornoœci na obra¿enia sieczne, k³uj¹ce i obuchowe
+EN
+Tough skin: +10% Blade, pierce and impact resistance
+
+PL
+Mordercza bestia: +2 Obra¿enia wrêcz
+EN
+Murderous Beast: +2 Melee damage
+
+PL
+Wilk alfa: +3 Obra¿enia wrêcz
+EN
+Direwolf Alpha: +3 Melee damage
+
+PL
+Drapie¿nik: Harcownik
+EN
+Predator: Skirmisher
+
+PL
+£owca: Koszt przemieszczania siê po lesie zmniejszony o 1
+EN
+Hunter: Movement cost in forest reduced to 1
+
+PL
+Czychanie na Ofiarê: +10% obrony w lesie, zasadzka
+EN
+Waiting for Prey: +10% defense in forest, ambush
+
+PL
+Wzmacniaj¹ce Zio³a: +6 Punktów ¿ycia
+EN
+Strengthening Herbs: +6 Health
+
+PL
+Wywar z pio³unu: +11 Punktów ¿ycia
+EN
+Wormwood Brew: +11 Health
+
+PL
+Rozruszanie Starych Miêœni: +4 Punkty ¿ycia, +2 Obra¿enia wrêcz
+EN
+Enlive Old Muscles: +4 Health, +2 Melee damage
+
+PL
+Przywrócenie M³odzieñczych Si³: +4 Punkty ¿ycia, +2 Obra¿enia wrêcz
+EN
+Restore Young Strengh: +4 Health, +2 Melee damage
+
+PL
+Kl¹twa Bagieñ: +2 Obra¿enia z dystansu
+EN
+Curse of the Bogs: +2 Ranged damage
+
+PL
+Gniew Pradawnej: +3 Obra¿enia z dystansu
+EN
+Wrath of the Ancient: +3 Ranged damage
+
+PL
+Chy¿a starowinka: +1 Punkt ruchu, harcownik
+EN
+Swift Granny: +1 Movement point, skirmish
+
+PL
+Wielka Klata: +10 Punktów ¿ycia
+EN
+Big Chest: +10 Health
+
+PL
+Górski Olbrzym: +16 Punktów ¿ycia
+EN
+Mountain Giant: +16 Health
+
+PL
+Kamienna Skóra: +10% Odpornoœci na obra¿enia sieczne, k³uj¹ce i obuchowe
+EN
+Stone Skin: +10% Blade, pierce and impact resistance
+
+PL
+Skalna Zbroja: +10% Odpornoœci na obra¿enia sieczne, k³uj¹ce i obuchowe
+EN
+Stone Armor: +10% Blade, pierce and impact resistance, steadfast
+
+PL
+Olbrzymi Bark: +5 Punktów ¿ycia, +4 Obra¿enia wrêcz
+EN
+Boulder Shoulder: +5 Health, +4 Melee damage
+
+PL
+¯elazy Biceps: +5 Punktów ¿ycia, +6 Obra¿eñ wrêcz
+EN
+Iron Bicep: +5 health, +6 Melee damage
+
+PL
+Wielka Stopa: +1 Punkt ruchu
+EN
+Big Feet: +1 Movement point
+
+PL
+Orkowa Witalnoœæ: +9 Punktów ¿ycia
+EN
+Orcish Vitality: +9 Health
+
+PL
+Witalnoœæ Niszczyciela: +15 Punktów ¿ycia
+EN
+Juggernaut's Vitality: +15 Health
+
+PL
+Orkowa Brutalnoœæ: +5 Punktów ¿ycia, +2 Obra¿enia wrêcz
+EN
+Orcish Brutality: +5 Health, +2 Melee damage
+
+PL
+Dziki i Bezlitosny: +5 Punktów ¯ycia, +3 Obra¿enia wrêcz
+EN
+Savage and Ruthless: +5 Health, +3 Melee damage
+
+PL
+Walka Dystansowa: +4 Punkty ¿ycia, +1 Cios na dystans
+EN
+Ranged Combat: +4 Health, +1 Ranged strikes
+
+PL
+Gdy Twój Miecz Nie Jest Wystarczaj¹co D³ugi: +4 Punkty ¿ycia, +1 Obra¿enia 
+na dystans, +1 Cios na dystans
+EN
+When Your Sword Isn't Long Enough: +4 Health, +1 Ranged damage, +1 Ranged 
+strikes
+
+PL
+Wódz Ze Spalonego Miasta: dowodzenie
+EN
+Chieftain From a Burned City: leadership
+
+PL
+Przeszkolony w £owach: -4 Punkty ¿ycia, +1 Punkt ruchu
+EN
+Endurance Training: -4 Health, +1 Movement point
+
+PL
+Gruba Skóra: +5 Punktów ¿ycia
+EN
+Thick Skin: +5 Health
+
+PL
+Sa³atka z Wodorostów: +11 Punktów ¿ycia
+EN
+Seaweed Salad: +11 Health
+
+PL
+Mithrilowa Kolczuga: +10% Odpornoœci na obra¿enia sieczne, k³uj¹ce i obuchowe
+EN
+Mithril Chainmail: +10% Blade, pierce and impact resistance
+
+PL
+Ciê¿ka Zbroja: +20% Odpornoœci na obra¿enia sieczne, k³uj¹ce i obuchowe, -1 
+Punkt ruchu
+EN
+Heavy Armor: +20% Blade, pierce and impact resistance, -1 Movement point
+
+PL
+Odbijaj¹ce £uski: +20% Odpornoœci na ogieñ i ch³ód
+EN
+Reflective Scales: +20% Fire and cold resistance
+
+PL
+Szermiercza Gracja: Strzelec wyborowy
+EN
+Swordfish's Grace: Marksman
+
+PL
+Jadowite Ostrze: Trucizna
+EN
+Venomous Blade: Poison
+
+PL
+Mistrzyni Miecznictwa: +3 Obra¿enia wrêcz
+EN
+Master of Swordsart: +3 Melee damage
+
+PL
+¯wawy P³ywak: +1 Punkt ruchu
+EN
+Swift Swimmer: +1 Movement point
+
+PL
+Taniec w Wodzie: +10% obrony na p³ytkiej i g³êbokiej wodzie
+EN
+Dancing in the Water: +10% defense on shallow and deep water
+
+PL
+Um... Umieram
+EN
+Um... I am dying
+
+PL
+Nie! Bez Kochana nie uda mi siê poprowadziæ klanu!
+EN
+No! I will not be able to lead the clan without Kochan!
+
+PL
+Trolle nie poradz¹... Sobie... Samiuœkie...
+EN
+Trolls not survive... by themselves...
+
+PL
+Bez tego trolla nie damy rady poprowadziæ ich stada do ataku, to koniec...
+EN
+Without this troll we won't manage to lead his herd to fight! It's over...
+
+PL
+Umieram... Mój wzrok zmêtnia³, moja krew stanê³a w ¿y³ach... Czas na mnie... 
+Czas... Odchodzê...
+EN
+I'm dying... My vision is blurred, my blood stopped flowing in my veins. 
+It's time for me... The time... I'm leaving...
+
+PL
+Bez niej nie uda nam siê odzyskaæ ojczyzny jaszczurów! Wszystko stracone!
+EN
+Without her we won't reclaim the motherland of saurians! Everything is lost!
+
+PL
+Sss... Ta Osoba pop³ynie teraz rzek¹ umar³ych nag...
+EN
+Sss... This Person will now swim in the river of dead nagas...
+
+PL
+Sss... Nasza matrona umiera...
+EN
+Sss... Our matron is dying...
+
+PL
+Co... Na Hordê...? Nie mogê umrzeæ... Orkowie... Nie poradz¹ sobie... Beze 
+mnie...
+EN
+What... For the Horde...? I can't die... Orcs... won't survive... without me!
+
+PL
+O nie! Zabili biednego futrzaka! Pomœcijmy go!
+EN
+Oh no! They killed my dear pet! We must avenge him!
+
+PL
+Spoczywaj w pokoju, Kochan. Nie dotar³bym tak daleko, gdyby nie ty.
+EN
+Rest in peace, Kochan. I wouldn't have went this far, if not for you.
+
+PL
+Ughm... Moja serce... Moja w¹troba... Moja jelita... Ju¿ koniec... Ale m¹dry-
+ork niech prowadzi... Niech prowadzi szczeniêta... One musz¹ ¿yæ.
+EN
+Ugh... Mine heart... Mine liver... Mine intestines... It be my end... But 
+wise orc shall lead... Shall he lead the whelps... They must to live.
+
+PL
+¯egnaj, Krullu Ska³o. Twoje poœwiêcenie nie pójdzie na marne... A teraz, do 
+boju, orkowie! Uczcijmy jego pamiêæ w boju!
+EN
+Farewell, Krull the Rock. Your sacrifice won't come in vain... And now, to 
+the battle, orcs! May we honour his memory in fight!
+
+PL
+Hau! Hau!
+EN
+Warf! Warf!
+
+PL
+By³ mê¿nym wojownikiem na l¹dzie... Niech jego dusza p³ynie z pr¹dem rzek 
+trolli.
+EN
+He was a mighty warrior on the land... Let his soul drift with the flow of 
+troll rivers.
+
+PL
+Umieram... Mój wzrok... S³abnie... Widzê w przysz³oœci ju¿ tylko... Œmieræ...
+EN
+I'm dying... My sight is weakening... The only thing I can see in the 
+future... Is death...
+
+PL
+¯egnaj, wyrocznio. Twoje poœwiêcenie nie pójdzie na marne. Poprowadzê Twoje 
+jaszczury ku lepszemu, nowemu ¿yciu.
+EN
+Farewell, augur. Your sacrifice won't come in vain. I will lead your 
+saurians to a new, better life.
+
+PL
+Jej m¹droœæ i wiekowoœæ by³a godna podziwu... Cieszê siê, ¿e mia³yœmy okazjê 
+jednoczyæ orê¿ we wspólnych walkach.
+EN
+Her wisdom and venerablity were admirable... I am glad that we had the 
+opportunity to fight at her side.
+
+PL
+Nieee... Teraz nie uda siê nam ju¿ ocaliæ naszego klanu!
+EN
+Nooo... Now we will not save our clan!
+
+PL
+Œmieræ Emborgi-Tarasz
+EN
+Death of Emborgi-Tarash
+
+PL
+Œmieræ Aidali
+EN
+Death of Aidala
+
+PL
+Œmieræ Gewolda
+EN
+Death of Gewold
+
+PL
+Ucieczka Marbusa
+EN
+Marbus' Escape
+
+PL
+Wiele lat minê³o, odk¹d orkowie budzili postrach w sercach elfów, ludzi i 
+krasnoludów. Wiele, odk¹d odwa¿yli siê postawiæ stopê na ziemiach Wesnoth. 
+Wiele, odk¹d op³ywali w bogactwa. Wœród przetrwa³ych klanów orków, by³ 
+równie¿ pewien klan Marbusa, klan zbyt ma³y, by mieæ nazwê, historiê b¹dŸ 
+przysz³oœæ. Czy uda mu siê przeprowadziæ orków przez dzik¹ pó³noc, opanowan¹ 
+przez krwio¿ercze, mroczne moce?\n
+(Wersja 0.5.3, 13 scenariuszy, 5 grywalnych, Poziom trudnoœci: 
+Œredniozaawansowany)
+EN
+Many years have passed since the time orcs intimidated elves, humans and 
+dwarves. Many years have passed since they ventured to walk in the Wesnoth 
+land. Many years have passed since the time they were filthy rich. Amongst 
+the survived orcish clans, there was a small Marbus's clan. Even too small 
+to have a name. Will the orcs endure the destruction that is covering bigger 
+and bigger part of the north? (Version 0.5.3, 13 scenarios, 5 playable)
+
+PL
+(³atwy)
+EN
+(easy)
+
+PL
+Obywatel
+EN
+Civilian
+
+PL
+(normalny)
+EN
+(normal)
+
+PL
+¯o³nierz
+EN
+Soldier
+
+PL
+Weteran
+EN
+Veteran
+
+PL
+(trudny)
+EN
+(hard)
+
