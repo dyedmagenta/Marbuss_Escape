@@ -1,10 +1,20 @@
 Scenariusz Pierwszy:
 
----
+Prze³êcz Tut'anor- 8 ; 4
+Forteca Bag'not- 11 ; 9
+Ja³owe Pole- 22 ; 5
+Stary fort Elbor- 24 ; 5
+Most Kazary- 32 ; 24
+Obóz uchodŸców- 37 ; 24 (ZMIANA, obecnie jest "Obóz bia³oskórych")
+Most Thota Czteropalczastego- 37 ; 19
 
 Scenariusz Drugi:
 
----
+Prze³êcz Tut'anor- 8 ; 4
+Forteca Bag'not- 11 ; 9
+Stary fort Elbor- 24 ; 5
+Most Kazary- 32 ; 24
+37 ; 19 (Tutaj by³ przedtem drewniany most. Trzeba go usun¹æ, jeœli dalej stoi.)
 
 Scenariusz Trzeci:
 
