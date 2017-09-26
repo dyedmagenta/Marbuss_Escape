@@ -1,0 +1,99 @@
+Scenariusz Pierwszy:
+
+Prze³êcz Tut'anor- 8 ; 4
+Forteca Bag'not- 11 ; 9
+Ja³owe Pole- 22 ; 5
+Stary fort Elbor- 24 ; 5
+Most Kazary- 32 ; 24
+Obóz uchodŸców- 37 ; 24 (ZMIANA, obecnie jest "Obóz bia³oskórych")
+Most Thota Czteropalczastego- 37 ; 19
+
+Scenariusz Drugi:
+
+Prze³êcz Tut'anor- 8 ; 4
+Forteca Bag'not- 11 ; 9
+Stary fort Elbor- 24 ; 5
+Most Kazary- 32 ; 24
+37 ; 19 (Tutaj by³ przedtem drewniany most. Trzeba go usun¹æ, jeœli dalej stoi.)
+
+Scenariusz Trzeci:
+
+Obóz Marbusa- 23 ; 8
+Zniszczona Twierdza- 21 ; 29
+Zrujnowany Zamek Jaszczurów- 8 ; 12
+Stary Mosty- 12 ; 25
+
+Scenariusz Czwarty A:
+
+Twierdza Magów- 32 ; 12
+Uniwersytet- 21 ; 26
+Obóz Marbusa- 9 ; 3
+Stra¿nica Po³udniowa- 36 ; 29
+Stra¿nica Pó³nocna- 40 ; 3
+Stra¿nica Zachodnia- 5 ; 20
+Jaszczurze Ruiny- 12 ; 13
+
+Scenariusz Czwarty B:
+
+Sunek Dal- 12 ; 24
+Stra¿nica- 31 ; 22
+Obóz Trolli- 39 ; 7
+Obóz Marbusa- 7 ; 3
+
+Scenariusz Pi¹ty:
+
+Gelu'Aben- 19 ; 17
+Obóz Marbusa- 35 ; 32
+Zamtuz "Pod Gór¹"- 37 ; 16
+Twierdza Klanu Œnie¿nostopych- 38 ; 2
+Zamek Sojuszu Pó³nocy- 4 ; 3
+
+Scenariusz Szósty:
+
+Arena Rozpaczy- 7 ; 3
+Dom Klanu Œnie¿nostopych- 44 ; 28
+Obóz Marbusa- 18 ; 49
+Krasnoludzka Huta ¯elaza- 34 ; 13
+
+Scenariusz Siódmy:
+
+Bagienna Twierdza- 11 ; 39
+Krasnoludzki kasztel- 5 ; 35
+Chata runmistrza- 11 ; 44
+Wielka Grzybnia- 27 ; 26 - 21 ; 10
+
+Scenariusz Ósmy:
+
+Prastara Twierdza Orków- 29 ; 22
+Mosty Kalindorskie- 22 ; 30 - 45 ; 29
+Zniszczona Twierdza Kalindorska- 13 ; 38 - 35 ; 42 - 53 ; 37
+Obóz Sojuszu Pó³nocy- 10 ; 8 - 32 ; 5 - 51 ; 11
+Jezioro Kalindorskie- 52 ; 19
+
+Scenariusz Dziewi¹ty:
+
+Zniszczona droga na Po³udnie- 36 ; 1
+Wieœ Stary Ramdark- 39 ; 35
+Zamarzniêta Wioska Trytonów- 37 ; 54
+Bród na rzece Cylies- 18 ; 49
+Elfia Brama- 24 ; 86
+
+Scenariusz Dziesi¹ty:
+
+Obóz Marbusa- 25 ; 37
+Krasnoludzkie Drzwi- 2 ; 19
+Twierdza Jarla Iricka- 42 ; 4
+Twierdza Lorda Diracka- 9 ; 5
+Wielkie Bagno- 26 ; 27
+Droga Tallina- 23 ; 8
+Wie¿a Beatrycze- 11 ; 4
+
+Scenariusz Jedenasty:
+
+Scenariusz Dwunasty:
+
+Scenariusz Trzynasty:
+
+Scenariusz Czternasty A:
+
+Scenariusz Czternasty B:
