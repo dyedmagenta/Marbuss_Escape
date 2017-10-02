@@ -25,6 +25,7 @@ Rozpiska Dialogów:
 9. Zabicie wszystkich "Cieni Suwerena".
 10. Dialog koñcowy, ostateczne zabicie Króla Gonu przez Marbusa. Pierwsza czêœæ.
 11. Dialog koñcowy, czêœæ druga. Podzieli³em ten dialog na dwie czêœci, poniewa¿ mamy tu a¿ dwie zale¿noœci: s³owa, które wypowiedzia³ Kochan przed œmierci¹ oraz wybór zakoñczenia kampanii. W grze powinno to iœæ jednym ci¹giem, bez koñczenia tury, ani nic.
+12. Dialogi œmierci genera³ów Dzikiego Gonu. S¹ trzy.
 
 ***
 
@@ -507,3 +508,34 @@ Gewold:
 Cieszê siê, ¿e tak mówisz, Wielki Suwerenie. Muszê przyznaæ... Nie s¹dzi³em, ¿e tak post¹pisz. Sta³eœ siê cichy, zamkniêty w sobie, milcz¹cy i powa¿ny. A jednak wci¹¿ jesteœ orkiem. Wci¹¿ jesteœ jednym z nas! Za takim wodzem ruszê w bój ja i ka¿dy z moich ¿o³nierzy! Ostrzyæ miecze, ju¿!
 
 *Koniec scenariusza.*
+
+
+12a. Dialogi œmierci genera³ów Dzikiego Gonu. Œmieræ Morrigan (£uczniczka Szkielet na 3 lvl).
+
+*Morrigan umiera.*
+
+Król Gonu:
+Zniszczy³eœ jedn¹ z moich najdzielniejszych wojowniczek... Nikt nie w³ada³ ³ukiem i strza³¹ tak, jak Morrigan... Za ¿ycia by³a potê¿n¹, elfi¹ ³owczyni¹...
+
+Król Gonu:
+W Twojej historii pojawia siê ktoœ podobny... Kobieta w czerwonym p³aszczu, pa³aj¹ca ¿¹dz¹ zemsty... Jej los zale¿ny jest od Twoich wyborów...
+
+12b. Dialogi œmierci genera³ów Dzikiego Gonu. Œmieræ Govannona (Ghul na 3 lvl).
+
+*Govannon umiera.*
+
+Król Gonu:
+Govannon by³ niegdyœ najlepszym z krasnoludzkich kowali... Potrafi³ wykuwaæ magiczn¹, runiczn¹ broñ, zdoln¹ raniæ orków dotkliwiej, niŸli stal rani elfy b¹dŸ nagi. Gdy pad³ w mojej rêki, jego cia³o zamieni³o siê w szlam... Z jego ust trysnê³y kwaœne wody, które zatru³y studnie i podziemne, kiedyœ czyste rzeki krasnoludów... S³u¿y³ mi wiernie...
+
+Król Gonu:
+Orkowie wyrz¹dzili krasnoludom znacznie wiêcej krzywd, ni¿ choæby setka Govannonów zdo³a³aby wyrz¹dziæ w ci¹gu setki lat! Widzê, ¿e Ty te¿ pod¹¿asz w tym kierunku... Klan Œnie¿nostopych, przez których podziemia musia³eœ uciekaæ... Jak wiele wyrz¹dzi³eœ im krzywd?
+
+12c. Dialogi œmierci genera³ów Dzikiego Gonu. Œmieræ Dagdy (Licz na 3 lvl).
+
+*Dagda umiera.*
+
+Król Gonu:
+Jeden z moich najpotê¿niejszych magów... Niegdyœ cz³owiek, który posiada³ ogromn¹ wiedzê... Pragn¹³ jednak mocy. Da³em mu j¹... W zamian za jego duszê...
+
+Król Gonu:
+Magowie Sojuszu Pó³nocy... S¹ ca³kiem inni... Pragn¹ jedynie spokojnego ¿ycia i koñca koszmaru, który ich dotkn¹³... Dotkn¹³ z mojej rêki, jednak wy³¹cznie z Twojego powodu. To Twojej zguby pragnê. Ty œci¹gasz na nich to wszystko. Ludzie, którzy mogliby zmieniæ œwiat na lepsze... Padaj¹ jak muchy pod stopami moich wojowników.
