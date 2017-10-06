@@ -1,0 +1,22 @@
+Dialogi œmierci dla poszczególnych postaci.
+
+Marbus:
+Nie... Teraz nie uda mi siê... Poprowadziæ moich wojowników...
+
+Kochan:
+Ugh... Umieram... To koniec...
+
+Gewold:
+Psia krew! Zdaje siê, ¿e tu koñczy siê... Moja historia...
+
+Aidala:
+Argh! Ta Osoba... Nie mo¿e Ci ju¿ pomóc...
+
+Emborgi-tarash:
+Ugh... Moje oczy widz¹ ju¿ tylko ciemnoœæ...
+
+Krull Ska³a:
+Ugh... Trolle... PoprowadŸ trolle...
+
+Jêczmieñ:
+*Wyje z bólu.*
