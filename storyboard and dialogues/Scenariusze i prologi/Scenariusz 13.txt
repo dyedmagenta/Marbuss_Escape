@@ -26,6 +26,7 @@ Rozpiska Dialogów:
 10. Dialog koñcowy, ostateczne zabicie Króla Gonu przez Marbusa. Pierwsza czêœæ.
 11. Dialog koñcowy, czêœæ druga. Podzieli³em ten dialog na dwie czêœci, poniewa¿ mamy tu a¿ dwie zale¿noœci: s³owa, które wypowiedzia³ Kochan przed œmierci¹ oraz wybór zakoñczenia kampanii. W grze powinno to iœæ jednym ci¹giem, bez koñczenia tury, ani nic.
 12. Dialogi œmierci genera³ów Dzikiego Gonu. S¹ trzy.
+13. Przywo³anie Nieumar³ego Smoka w turze czwartej.
 
 ***
 
@@ -76,7 +77,7 @@ Jêczmieñ:
 Marbus:
 Patrzcie, chyba go widzê, przybywa!
 
-*Tutaj dwa warianty: Król Gonu albo materializuje siê w zamku w sposób taki, w jaki dzia³a rekrutacja, albo przybywa z któregoœ koñca mapy. Lepsze bêdzie chyba to pierwsze rozwi¹zanie.*
+*B³ysk, po którym wszystkie roœliny umieraj¹, krajobraz siê zmienia, a Król Gonu pojawia siê w zamku.*
 
 Król Gonu:
 Witaj, Marbusie... Zastanawia³em siê, kiedy mnie wezwiesz...
@@ -138,7 +139,7 @@ Jêczmieñ:
 Marbus:
 Patrzcie, chyba go widzê, przybywa!
 
-*Tutaj dwa warianty: Król Gonu albo materializuje siê w zamku w sposób taki, w jaki dzia³a rekrutacja, albo przybywa z któregoœ koñca mapy. Lepsze bêdzie chyba to pierwsze rozwi¹zanie.*
+*B³ysk, po którym wszystkie roœliny umieraj¹, krajobraz siê zmienia, a Król Gonu pojawia siê w zamku.*
 
 Król Gonu:
 Witaj, Marbusie... Zastanawia³em siê, kiedy mnie wezwiesz...
@@ -539,3 +540,17 @@ Jeden z moich najpotê¿niejszych magów... Niegdyœ cz³owiek, który posiada³ ogromn
 
 Król Gonu:
 Magowie Sojuszu Pó³nocy... S¹ ca³kiem inni... Pragn¹ jedynie spokojnego ¿ycia i koñca koszmaru, który ich dotkn¹³... Dotkn¹³ z mojej rêki, jednak wy³¹cznie z Twojego powodu. To Twojej zguby pragnê. Ty œci¹gasz na nich to wszystko. Ludzie, którzy mogliby zmieniæ œwiat na lepsze... Padaj¹ jak muchy pod stopami moich wojowników.
+
+
+13. Przywo³anie Nieumar³ego Smoka w turze czwartej. Sam smok jest przywo³any/rekrutowany przez Króla Gonu po odpowiedniej liczbie tur. Jest to zabieg jednorazowy.
+
+Król Gonu:
+S¹dzê, ¿e powinniœmy nieco urozmaiciæ tê walkê, Marbusie... Poka¿ê Ci, jak potê¿nymi istotami w³ada³a kiedyœ Wielka Horda.
+
+*Nieumar³y Smok zostaje przywo³any.*
+
+Gewold:
+Na spalone Gelu'Aben... Co to jest do cholery!?
+
+Marbus:
+Psia krew! Ta bitwa mo¿e okazaæ siê znacznie trudniejsza, ni¿ przewidywaliœmy.
