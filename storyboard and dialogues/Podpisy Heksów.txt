@@ -1,92 +1,92 @@
 Scenariusz Pierwszy:
 
-Prze≥Ícz Tut'anor- 8 ; 4
+Prze≈Çƒôcz Tut'anor- 8 ; 4
 Forteca Bag'not- 11 ; 9
-Ja≥owe Pole- 22 ; 5
-Stary fort Elbor- 24 ; 5
+Ja≈Çowe Pole- 22 ; 5
+Stary fort Elbor- 24 ; 26
 Most Kazary- 32 ; 24
-ObÛz uchodücÛw- 37 ; 24 (ZMIANA, obecnie jest "ObÛz bia≥oskÛrych")
+Ob√≥z uchod≈∫c√≥w- 37 ; 24 (ZMIANA, obecnie jest "Ob√≥z bia≈Çosk√≥rych")
 Most Thota Czteropalczastego- 37 ; 19
 
 Scenariusz Drugi:
 
-Prze≥Ícz Tut'anor- 8 ; 4
+Prze≈Çƒôcz Tut'anor- 8 ; 4
 Forteca Bag'not- 11 ; 9
-Stary fort Elbor- 24 ; 5
+Stary fort Elbor- 24 ; 26
 Most Kazary- 32 ; 24
-37 ; 19 (Tutaj by≥ przedtem drewniany most. Trzeba go usunπÊ, jeúli dalej stoi.)
+37 ; 19 (Tutaj by≈Ç przedtem drewniany most. Trzeba go usunƒÖƒá, je≈õli dalej stoi.)
 
 Scenariusz Trzeci:
 
-ObÛz Marbusa- 23 ; 8
+Ob√≥z Marbusa- 23 ; 8
 Zniszczona Twierdza- 21 ; 29
-Zrujnowany Zamek JaszczurÛw- 8 ; 12
+Zrujnowany Zamek Jaszczur√≥w- 8 ; 12
 Stary Mosty- 12 ; 25
 
 Scenariusz Czwarty A:
 
-Twierdza MagÛw- 32 ; 12
+Twierdza Mag√≥w- 32 ; 12
 Uniwersytet- 21 ; 26
-ObÛz Marbusa- 9 ; 3
-Straønica Po≥udniowa- 36 ; 29
-Straønica PÛ≥nocna- 40 ; 3
-Straønica Zachodnia- 5 ; 20
+Ob√≥z Marbusa- 9 ; 3
+Stra≈ºnica Po≈Çudniowa- 36 ; 29
+Stra≈ºnica P√≥≈Çnocna- 40 ; 3
+Stra≈ºnica Zachodnia- 5 ; 20
 Jaszczurze Ruiny- 12 ; 13
 
 Scenariusz Czwarty B:
 
 Sunek Dal- 12 ; 24
-Straønica- 31 ; 22
-ObÛz Trolli- 39 ; 7
-ObÛz Marbusa- 7 ; 3
+Stra≈ºnica- 31 ; 22
+Ob√≥z Trolli- 39 ; 7
+Ob√≥z Marbusa- 7 ; 3
 
-Scenariusz Piπty:
+Scenariusz PiƒÖty:
 
 Gelu'Aben- 19 ; 17
-ObÛz Marbusa- 35 ; 32
-Zamtuz "Pod GÛrπ"- 37 ; 16
-Twierdza Klanu ånieønostopych- 38 ; 2
-Zamek Sojuszu PÛ≥nocy- 4 ; 3
+Ob√≥z Marbusa- 35 ; 32
+Zamtuz "Pod G√≥rƒÖ"- 37 ; 16
+Twierdza Klanu ≈önie≈ºnostopych- 38 ; 2
+Zamek Sojuszu P√≥≈Çnocy- 4 ; 3
 
-Scenariusz SzÛsty:
+Scenariusz Sz√≥sty:
 
 Arena Rozpaczy- 7 ; 3
-Dom Klanu ånieønostopych- 44 ; 28
-ObÛz Marbusa- 18 ; 49
-Krasnoludzka Huta Øelaza- 34 ; 13
+Dom Klanu ≈önie≈ºnostopych- 44 ; 28
+Ob√≥z Marbusa- 18 ; 49
+Krasnoludzka Huta ≈ªelaza- 34 ; 13
 
-Scenariusz SiÛdmy:
+Scenariusz Si√≥dmy:
 
 Bagienna Twierdza- 11 ; 39
 Krasnoludzki kasztel- 5 ; 35
 Chata runmistrza- 11 ; 44
 Wielka Grzybnia- 27 ; 26 - 21 ; 10
 
-Scenariusz ”smy:
+Scenariusz √ìsmy:
 
-Prastara Twierdza OrkÛw- 29 ; 22
+Prastara Twierdza Ork√≥w- 29 ; 22
 Mosty Kalindorskie- 22 ; 30 - 45 ; 29
 Zniszczona Twierdza Kalindorska- 13 ; 38 - 35 ; 42 - 53 ; 37
-ObÛz Sojuszu PÛ≥nocy- 10 ; 8 - 32 ; 5 - 51 ; 11
+Ob√≥z Sojuszu P√≥≈Çnocy- 10 ; 8 - 32 ; 5 - 51 ; 11
 Jezioro Kalindorskie- 52 ; 19
 
-Scenariusz Dziewiπty:
+Scenariusz DziewiƒÖty:
 
-Zniszczona droga na Po≥udnie- 36 ; 1
-Wieú Stary Ramdark- 39 ; 35
-ZamarzniÍta Wioska TrytonÛw- 37 ; 54
-BrÛd na rzece Cylies- 18 ; 49
+Zniszczona droga na Po≈Çudnie- 36 ; 1
+Wie≈õ Stary Ramdark- 39 ; 35
+Zamarzniƒôta Wioska Tryton√≥w- 37 ; 54
+Br√≥d na rzece Cylies- 18 ; 49
 Elfia Brama- 24 ; 86
 
-Scenariusz Dziesiπty:
+Scenariusz DziesiƒÖty:
 
-ObÛz Marbusa- 25 ; 37
+Ob√≥z Marbusa- 25 ; 37
 Krasnoludzkie Drzwi- 2 ; 19
 Twierdza Jarla Iricka- 42 ; 4
 Twierdza Lorda Diracka- 9 ; 5
 Wielkie Bagno- 26 ; 27
 Droga Tallina- 23 ; 8
-Wieøa Beatrycze- 11 ; 4
+Wie≈ºa Beatrycze- 11 ; 4
 
 Scenariusz Jedenasty:
 
