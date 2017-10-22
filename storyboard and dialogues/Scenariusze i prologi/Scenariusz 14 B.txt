@@ -65,7 +65,7 @@ Gewold:
 Zdaje siê, ¿e wreszcie mo¿emy przekroczyæ liniê drzew. Obawiam siê jednak, ¿e wszystko zasnuwa mg³a... Przeklête elfie czary! Nic im nie dadz¹! Nasze wilki wyczuj¹ zapach elfów, ludzi b¹dŸ krasnoludów na kilometr! Nikt nie ucieknie z tego pogromu, nikt nie prze¿yje!
 
 Jarl Sarif (pierwszy z jarlów do zabicia):
-A wiêc jesteœcie... Spodziewaliœmy siê, ¿e w koñcu oprzecie siê naszym czarom... Nie mog¹c ju¿ na nie liczyæ, u¿yjemy stali, by prze¿yæ. Cokolwiek siê stanie- jedna potêga pó³nocy zostanie w tej bitwie zniszczona.
+A wiêc jesteœcie... Spodziewaliœmy siê, ¿e w koñcu oprzecie siê naszym czarom... Nie mog¹c ju¿ na nie liczyæ, u¿yjemy stali, by prze¿yæ. Cokolwiek siê stanie - jedna potêga pó³nocy zostanie w tej bitwie zniszczona.
 
 Marbus:
 Chcia³bym przyznaæ Ci racjê, jednak nie mogê. Nawet, jeœli jakimœ cudem uda wam siê stawiæ nam opór. Jeœli z nieba spadn¹ na nas smoki, z po³udnia zaatakuje Królestwo Wesnoth, a z najg³êbszych podziemnych korytarzy wynurz¹ siê nieumarli... Nawet wówczas, Wielka Horda wci¹¿ bêdzie niezrównan¹ potêg¹. Myœlisz, ¿e zaatakowa³em was ca³oœci¹ swoich si³? Panujê nad ca³¹ pó³noc¹! To zaledwie u³amek mojej armii.
@@ -74,7 +74,7 @@ Jarl Sarif:
 Najwy¿sza z naszych kap³anek Ciê pokona! Nie uda Ci siê zatrzymaæ jej magii, stawiæ jej oporu... Ten las bêdzie waszym grobem!
 
 Aidala:
-Ta Osoba wyczuwa desperacjê w Twoim g³osie, drzewolubie... Zrobiê coœ dla Ciebie... Ka¿ê swoim córk¹ por¹baæ Ciê na kawa³ki, a ka¿dy z kawa³ków zakopaæ pod jednym z waszych œwiêtych drzew... A gdy dope³ni siê ju¿ ten pogrzeb, podpalê je! Na pó³nocy nie ostanie siê ani jeden z waszych gajów!
+Ta Osoba wyczuwa desperacjê w Twoim g³osie, drzewolubie... Zrobiê coœ dla Ciebie... Ka¿ê swoim córkom por¹baæ Ciê na kawa³ki, a ka¿dy z kawa³ków zakopaæ pod jednym z waszych œwiêtych drzew... A gdy dope³ni siê ju¿ ten pogrzeb, podpalê je! Na pó³nocy nie ostanie siê ani jeden z waszych gajów!
 
 Jarl Sarif:
 Zobaczymy, morska wiedŸmo... Zobaczymy...
