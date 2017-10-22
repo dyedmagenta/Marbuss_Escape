@@ -2,6 +2,10 @@
 <ol>
   <li>
     Opis
+    <p>
+      Jest to kampania do gry <a href="https://www.wesnoth.org/">Battle for Wesnoth</a>.
+      <br>Premiera zaplanowana jest na grudzień 2017 roku. Po czym dodatek umieścimy na oficjalnej liście dodatków wbudowanej w grę.
+    </p>
   </li>
   <li>
     Instalacja
