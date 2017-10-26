@@ -29,11 +29,22 @@ czerwony kapturek-9,14,15 ending_RedHood alive
 
 Po przejœciu scenariusza 14 B:
 
+wspólne-16,17,18,28,29 ending_scenario elves
+jêczmieñ-27 ending_petwolf alive
+ending_race saurians - 19,21,24
+ending_Emborgi alive - 19 dead - 21
+ending_race trolls - 20,22,23
+ending_Krull alive - 20 dead - 22
+ending_RedHood alive - 26
+ending_RedHood dead - 25
+
+
+
 2a. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,19,24,26,27,28,29)
 2b. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,19,24,26,28,29)
 2c. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,19,24,25,27,28,29)
 2d. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,19,24,25,28,29)
-2e. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,19,24,26,27,28,29)
+2e. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,24,26,27,28,29)
 2f. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,21,24,26,28,29)
 2g. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ prze¿y³. (16,17,18,21,24,25,27,28,29)
 2h. Wybraliœmy œcie¿kê jaszczurów, Emborgi-tarash nie prze¿y³a, Czerwony Kapturek nie jest po naszej stronie, Jêczmieñ nie prze¿y³. (16,17,18,21,24,25,28,29)
@@ -78,7 +89,6 @@ Po przejœciu scenariusza 14 B:
 
 15. Co zaœ tyczy siê Marbusa... Na pó³nocy rozesz³a siê wieœæ o tajemniczym orku, który wêdruje wraz ze swym wilkiem przez wszystkie krainy i nosi na piersi magiczny, potê¿ny amulet. Œwiadkowie opowiadali, ¿e otacza³a go lodowata, nieprzenikniona aura, a weterani bitwy Pod Gór¹ Przeznaczenia porównywali j¹ do uczucia, które towarzyszy³o im, gdy stan¹³ przed nimi Król Gonu. Snuto ró¿ne domys³y na jego temat, jednak w koñcu znalaz³ siê ktoœ, kto podj¹³ siê zadania wytropienia go i poznania prawdy. Czerwony Kapturek ruszy³a jego œladem kilka lat po swoim wygnaniu. Od tego momentu zaczêto rozmawiaæ o bitwach, które toczy³a miêdzy sob¹ ta dwójka, o zmaganiach Potomkini Landara i Tajemniczego Orka. I choæ wiele lat minê³o, odk¹d Czerwony Kapturek poprzysiêg³a zabicie Marbusa, pog³oski o walkach tej dwójki trwaj¹ do dziœ.
 
-
 ***
 
 16. Pod przewodnictwem Marbusa Wielka Horda szybko sta³a siê najwiêksz¹ potêg¹ pó³nocy, z któr¹ liczyæ siê musia³ ca³y Wielki Kontynent. Takie pañstwa jak Wesnoth b¹dŸ Elensefar próbowa³y wspomóc rozbity ju¿ Sojusz Pó³nocy b¹dŸ Elfickich Jarlów, jednak na pró¿no. Wielki Suweren rz¹dzi³ ¿elazn¹ rêk¹ i jakiekolwiek oznaki buntu by³y szybko i skutecznie t³amszone. Nie by³o szans na pokonanie oprawcy, przynajmniej za ¿ycia Marbusa.
@@ -87,7 +97,7 @@ Po przejœciu scenariusza 14 B:
 
 18. Aidala do koñca ¿ycia towarzyszy³a Wielkiemu Suwerenowi wszêdzie tam, gdzie siê uda³. Nieoficjalnie mówi³o siê o ich zwi¹zku, jednak nikt nie zdoby³by siê na to, by ich za to piêtnowaæ. Wkrótce nagi zala³y ca³¹ pó³noc, a pos¹gi Aidali, matki nag, wype³ni³y podwodne zbiorniki i stawiane by³y u ujœcia rzek. Choæ jej córki wreszcie by³y wolne, ¿adna nie wyrzek³a siê swojej matki. Wrêcz przeciwnie- zdawaæ by siê mog³o, ¿e oddaj¹ jej wrêcz nabo¿n¹ czeœæ.
 
-19. Emborgi-tarash przetrwa³a bra³a udzia³ w najwa¿niejszych bitwach Wielkiej Hordy oraz wielu tych, o których siê nie mówi³o. Choæ przewidzia³a swoj¹ œmieræ na polu walki, nie znalaz³a jej. Przynajmniej nie za panowania Marbusa. Pod jej przewodnictwem jaszczury odnowi³y swoje sabaty i wierzenia, a tak¿e zaludni³y pó³noc. Na zawsze sta³y siê czêœci¹ Wielkiej Hordy i biada by³o temu, kto oœmieli³ siê je dyskryminowaæ. W nied³ugim czasie rasa ta odzyska³a swoj¹ potêgê i sta³a siê równie silna, co orkowie.
+19. Emborgi-tarash bra³a udzia³ w najwa¿niejszych bitwach Wielkiej Hordy oraz wielu tych, o których siê nie mówi³o. Choæ przewidzia³a swoj¹ œmieræ na polu walki, nie znalaz³a jej. Przynajmniej nie za panowania Marbusa. Pod jej przewodnictwem jaszczury odnowi³y swoje sabaty i wierzenia, a tak¿e zaludni³y pó³noc. Na zawsze sta³y siê czêœci¹ Wielkiej Hordy i biada by³o temu, kto oœmieli³ siê je dyskryminowaæ. W nied³ugim czasie rasa ta odzyska³a swoj¹ potêgê i sta³a siê równie silna, co orkowie.
 
 20. Krull Ska³a stan¹³ na czele trolli i sta³ siê pierwszym przedstawicielem tej rasy, który zab³ysn¹³ jako emisariusz i dyplomata. Rozmawia³ jednak g³ównie z innymi trollami, które zosta³y wygnane tak daleko na pó³noc, ¿e niemal¿e nie wiedzia³y o Dzikim Gonie i zmianach, jakie nasta³y po wojnie. Wkrótce Krull Ska³a zyska³ sobie miano Króla Trolli i osiad³ ze swoj¹ ras¹ w dawnej Knaldze, choæ wci¹¿ by³ suwerenem Marbusa. Dwójka ta darzy³a siê wzajemn¹ przyjaŸni¹ i szacunkiem, a¿ po kres ich dni.
 
