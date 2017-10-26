@@ -1,6 +1,7 @@
 Lista portretów dla dodatkowych postaci w Ucieczce Marbusa. Jeœli kogoœ brakujê, proszê dopisaæ go do listy b¹dŸ zg³osiæ to do mnie.
 
 * Porucznik ze scen. 1 (!)
+* Kawalerzysta ze scen. 1
 * Duch ze scen. 2
 * Ghul ze scen. 2
 * Jaszczurka ze scen. 3 (!)
@@ -27,10 +28,10 @@ Lista portretów dla dodatkowych postaci w Ucieczce Marbusa. Jeœli kogoœ brakujê,
 * Smok ze scen. 11
 * Jarl ze scen. 12 (!)
 * Lord ze scen. 12 (!)
-* Jarl ze scen 13A
-* Jarl ze scen 13B
-* Drugi Jarl ze scen 13B
-* Trzeci Jarl ze scen 13B
-* Krasnolud ze scen 13B
+* Jarl ze scen 14A
+* Jarl ze scen 14B
+* Drugi Jarl ze scen 14B
+* Trzeci Jarl ze scen 14B
+* Krasnolud ze scen 14B
 
-* Lord ze scen 13B
+* Lord ze scen 14B
