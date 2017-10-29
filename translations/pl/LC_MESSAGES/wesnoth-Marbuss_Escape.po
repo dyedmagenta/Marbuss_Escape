@@ -1557,7 +1557,7 @@ msgstr "Chcę mieć jaszczurki przy swoim boku. Maszerujemy na bagna!"
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.6\userdata\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:336
 msgid "Emborgi-tarash"
-msgstr "Emborgi'tarasz"
+msgstr "Emborgi'tarash"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -5266,7 +5266,7 @@ msgstr "Głupi karle! Karzeł uwierzy, gdy otworzymy mu głowę!"
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.6\userdata\data\add-ons\Marbuss_Escapee/scenarios/07_.cfg:489
 msgid "Emborgi-tarash is our emissary."
-msgstr "Emborgi'tarasz jest naszą emisariuszką."
+msgstr "Emborgi'tarash jest naszą emisariuszką."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
