@@ -27,14 +27,21 @@
     Współtworzą:
     <p>
       <ul>
-        <li>Deidara</li>
-        <li>dyedMagenta</li>
-        <li>Jarom</li>
-        <li>Piko</li>
-        <li>pe_em</li>
-        <li>Smok</li>
+        <li><i>Deidara</i></li>
+        <li><i>dyedMagenta</i></li>
+        <li><i>Jarom</i></li>
+        <li><i>Piko</i></li>
+        <li><i>pe_em</i></li>
+        <li><i>Smok</i></li>
         <li>Społeczność <a href="http://www.wesnoth.com.pl">wesnoth.com.pl</a></li>
       </ul>
     </p>
+  </li>
+  <li>
+  Testy i Bugi:
+  <p>
+    Bugi można zgłaszać na <a href="http://www.wesnoth.com.pl/forum/viewforum.php?forum_id=53">forum</a>, bądź na <a href="https://discord.gg/Kn873sj">kanale discord</a> lub jako issue w repozytorium.
+    <br>Tabela z podsumowaniem testów i odnośniki do tabel poszczególnych scenariuszy znajduje się <a href="https://docs.google.com/spreadsheets/d/1S7ordFl6-PrmFBxtIlxBFb1guKSDBiK2TNvMjFr1Ss0">tutaj</a>
+  </p>
   </li>
 </ol>
