@@ -1,51 +1,27 @@
-Kochan:
-1) Elfy s¹ takie same, jak orkowie!
+{MESSAGE Kochan () () _"1) Elfy s¹ takie same, jak orkowie!
 2) Spróbujcie mnie zabiæ, a wyr¿nê was jak szczeniêta!
 3) Nie, proszê, nie zabijajcie mnie!
 
 
 9a. Œmieræ Kochana po wybraniu opcji 1.
 
-Kochan:
-Mo¿e i wygracie... Mo¿e i pokonacie mój lud... Ale wcale nie jesteœcie od nas lepsi! Tyle w was okrucieñstwa, ile w nas!
-
-£ucznik:
-Mo¿e... Czy¿byœ nigdy nie s³ysza³, ¿e historiê pisz¹ zwyciêscy? Nawet jeœli dojdzie do sojuszu miêdzy naszymi rasami, powiemy wszystkim, ¿e to nieumarli napadli na nas wœród leœnych œcie¿ek... A Ty, nieznaj¹cy terenu i oszo³omiony po d³ugiej ucieczce, rzuci³eœ siê wprost w ich sid³a. Tak, jak wpad³eœ w nasze...
-
-Kochan:
-Marbus... Nas nie zawiedzie... On jest inny, ni¿ reszta... Zjednoczy³ wszystkie klany... Nie upadniemy...
-
-£ucznik:
-Zginiecie, bo takie jest wasze przeznaczenie... Ale nu¿y mnie ta rozmowa... Zdychaj. Zdychaj pod moim butem! I niech ostatnim, co zobaczysz przed œmierci¹, bêd¹ nasze oczy. Oczy elfów- rasy panów!
+{MESSAGE Kochan () () _"Mo¿e i wygracie... Mo¿e i pokonacie mój lud... Ale wcale nie jesteœcie od nas lepsi! Tyle w was okrucieñstwa, ile w nas!"}
+{MESSAGE s9_archer () () _"Mo¿e... Czy¿byœ nigdy nie s³ysza³, ¿e historiê pisz¹ zwyciêscy? Nawet jeœli dojdzie do sojuszu miêdzy naszymi rasami, powiemy wszystkim, ¿e to nieumarli napadli na nas wœród leœnych œcie¿ek... A Ty, nieznaj¹cy terenu i oszo³omiony po d³ugiej ucieczce, rzuci³eœ siê wprost w ich sid³a. Tak, jak wpad³eœ w nasze..."}
+{MESSAGE Kochan () () _"Marbus... Nas nie zawiedzie... On jest inny, ni¿ reszta... Zjednoczy³ wszystkie klany... Nie upadniemy..."}
+{MESSAGE s9_archer () () _"Zginiecie, bo takie jest wasze przeznaczenie... Ale nu¿y mnie ta rozmowa... Zdychaj. Zdychaj pod moim butem! I niech ostatnim, co zobaczysz przed œmierci¹, bêd¹ nasze oczy. Oczy elfów- rasy panów!"}
 
 
 9b. Œmieræ Kochana po wybraniu opcji 2.
 
-Kochan:
-Hahahaha... Myœlicie, ¿e mo¿ecie mnie zabiæ? A to dobre!
-
-£ucznik:
-Co...? Co Ciê tak bawi?!
-
-Kochan:
-Od urodzenia ¿y³em w warunkach, o których wy nawet nie potrafilibyœcie sobie wyobraziæ. Prze¿y³em atak nieumar³ych, odbi³em z r¹k Sojuszu Pó³nocy nasz¹ stolicê, by nastêpnie j¹ spaliæ i wkroczyæ w sam œrodek kopalñ krasnoludów, z których siê wydosta³em! Na koñcu zdo³a³em uciec tysi¹com goni¹cych mnie upiorów, a Ty twierdzisz, ¿e jesteœ w stanie mnie zabiæ!?
-
-£ucznik:
-£ucznicy! Za³o¿yæ ciêciwy! Mamy tu szaleñca!
-
-Kochan:
-Nie poddam siê ³atwo!
+{MESSAGE Kochan () () _"Hahahaha... Myœlicie, ¿e mo¿ecie mnie zabiæ? A to dobre!"}
+{MESSAGE s9_archer () () _"Co...? Co Ciê tak bawi?!"}
+{MESSAGE Kochan () () _"Od urodzenia ¿y³em w warunkach, o których wy nawet nie potrafilibyœcie sobie wyobraziæ. Prze¿y³em atak nieumar³ych, odbi³em z r¹k Sojuszu Pó³nocy nasz¹ stolicê, by nastêpnie j¹ spaliæ i wkroczyæ w sam œrodek kopalñ krasnoludów, z których siê wydosta³em! Na koñcu zdo³a³em uciec tysi¹com goni¹cych mnie upiorów, a Ty twierdzisz, ¿e jesteœ w stanie mnie zabiæ!?"}
+{MESSAGE s9_archer () () _"£ucznicy! Za³o¿yæ ciêciwy! Mamy tu szaleñca!"}
+{MESSAGE Kochan () () _"Nie poddam siê ³atwo!"}
 
 9c. Œmieræ Kochana po wybraniu opcji 3.
 
-Kochan:
-Ale... Ja nie jestem dla was zagro¿eniem! Ledwo trzymam siê na nogach. Zosta³em sam, na obcej ziemi, œcigany przez nieumar³ych. Nie musicie mnie tu zabijaæ.
-
-£ucznik:
-To prawda... Twoja œmieræ jest nieunikniona. W gruncie rzeczy nie musimy marnowaæ na Ciebie strza³, jednak... Jednak cieszy nas Twoje cierpienie.
-
-Kochan:
-Nie! Proszê!
-
-£ucznik:
-Kwicz! Kwicz jak œwinka! A teraz... Zabiæ go!
+{MESSAGE Kochan () () _"Ale... Ja nie jestem dla was zagro¿eniem! Ledwo trzymam siê na nogach. Zosta³em sam, na obcej ziemi, œcigany przez nieumar³ych. Nie musicie mnie tu zabijaæ."}
+{MESSAGE s9_archer () () _"To prawda... Twoja œmieræ jest nieunikniona. W gruncie rzeczy nie musimy marnowaæ na Ciebie strza³, jednak... Jednak cieszy nas Twoje cierpienie."}
+{MESSAGE Kochan () () _"Nie! Proszê!"}
+{MESSAGE s9_archer () () _"Kwicz! Kwicz jak œwinka! A teraz... Zabiæ go!"}

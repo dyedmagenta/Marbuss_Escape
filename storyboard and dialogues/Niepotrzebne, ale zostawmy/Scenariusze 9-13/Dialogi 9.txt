@@ -13,14 +13,12 @@ Dialogi scenariusza dziewi¹tego.
 
 1. Dialog pocz¹tkowy
 
-Kochan:
-Jedziemy nieprzerwanie od kilku dobrych godzin, ale Ci nieumarli s¹ niezmordowani. Nie wiem, jak d³ugo bêdziemy jeszcze w stanie utrzymaæ takie tempo.
+{MESSAGE Kochan () () _"Jedziemy nieprzerwanie od kilku dobrych godzin, ale Ci nieumarli s¹ niezmordowani. Nie wiem, jak d³ugo bêdziemy jeszcze w stanie utrzymaæ takie tempo.
 
 JeŸdziec Wilka:
 Zdaje mi siê, ¿e wkraczamy na bardziej zamieszkane tereny. Jest szansa, ¿e tutejsi mieszkañcy zatrzymaj¹ nieumar³ych na tyle d³ugo, byœmy zd¹¿yli uciec. Zaczynam wierzyæ, ¿e uda nam siê wyjœæ z tego ca³o.
 
-Kochan:
-Nie mo¿emy byæ tego tacy pewni. To wci¹¿ ziemie Sojuszu Pó³nocy. Nie mamy tu ¿adnych przyjació³. Zreszt¹... Koniec pró¿nej gadaniny, popêdŸmy wilki!
+{MESSAGE Kochan () () _"Nie mo¿emy byæ tego tacy pewni. To wci¹¿ ziemie Sojuszu Pó³nocy. Nie mamy tu ¿adnych przyjació³. Zreszt¹... Koniec pró¿nej gadaniny, popêdŸmy wilki!
 
 
 2. Druga tura, za Kochanem zaczynaj¹ pojawiaæ siê duchy i szkielety. Gracz je dostrzega. Ogólnie, przez ca³y scenariusz nieumarli powinni pojawiaæ siê po bokach mapy i za Kochanem. Tak, ¿e jedna tura zw³oki b¹dŸ pójœcia w ty³ koñczy³aby siê otoczeniem przez nieumar³ych.
@@ -28,8 +26,7 @@ Nie mo¿emy byæ tego tacy pewni. To wci¹¿ ziemie Sojuszu Pó³nocy. Nie mamy tu ¿ad
 JeŸdziec Wilka:
 Zaczynaj¹ nas doganiaæ. Obawiam siê, ¿e te tereny tak¿e zosta³y zdominowane przez nieumar³ych. Jeœli tak jest, biegniemy prosto w pu³apkê.
 
-Kochan:
-Nie mam innego wyjœcia, ni¿ tylko pêdziæ przed siebie. Walka z nimi nie wchodzi w grê. Nie narzekajcie, musimy kupiæ trochê czasu dla Hordy!
+{MESSAGE Kochan () () _"Nie mam innego wyjœcia, ni¿ tylko pêdziæ przed siebie. Walka z nimi nie wchodzi w grê. Nie narzekajcie, musimy kupiæ trochê czasu dla Hordy!
 
 
 3. Wkraczamy do wsi. Kwestie ze wsi¹, zagajnikiem i rzek¹ mo¿esz zamieœciæ w rozgrywce w dowolnej kolejnoœci. W ka¿dym razie: pola, wiatraki, wieœniaki z wid³ami.
@@ -37,8 +34,7 @@ Nie mam innego wyjœcia, ni¿ tylko pêdziæ przed siebie. Walka z nimi nie wchodzi 
 Wieœniak:
 Ludzie! Ludzie! BudŸcie so³tysa, orkowie nadchodz¹! Nieumarli za nimi! Ludzie!
 
-Kochan:
-To nasza szansa! Szybko, nie wdawajcie siê z nimi w walkê i nie dajcie otoczyæ. Wymiñmy ich i miejmy nadziejê, ¿e powstrzymaj¹ nieumar³ych na tyle d³ugo, byœmy mogli odetchn¹æ.
+{MESSAGE Kochan () () _"To nasza szansa! Szybko, nie wdawajcie siê z nimi w walkê i nie dajcie otoczyæ. Wymiñmy ich i miejmy nadziejê, ¿e powstrzymaj¹ nieumar³ych na tyle d³ugo, byœmy mogli odetchn¹æ.
 
 
 4. Przeje¿d¿amy przez zagajnik/przejmujemy elfick¹ wioskê/robimy cokolwiek, co spowodowa³oby obudzenie siê drzewców.
@@ -46,8 +42,7 @@ To nasza szansa! Szybko, nie wdawajcie siê z nimi w walkê i nie dajcie otoczyæ. 
 Drzewiec:
 Shan li-tut ren! ZbudŸcie siê, moi bracia... Wyczuwam z³o pragn¹ce przekroczyæ liniê drzew... My, stra¿nicy œwiêtych ziem elfów, staniemy do walki...
 
-Kochan:
-Zdaje siê, ¿e wybudziliœmy te drzewce ze snu. Wymiñmy je czym prêdzej i uciekajmy- mo¿e rzeczywiœcie ochroni¹ te lasy przed nieumar³ymi.
+{MESSAGE Kochan () () _"Zdaje siê, ¿e wybudziliœmy te drzewce ze snu. Wymiñmy je czym prêdzej i uciekajmy- mo¿e rzeczywiœcie ochroni¹ te lasy przed nieumar³ymi.
 
 JeŸdziec Wilka:
 To drzewo mówi³o coœ o elfach... Mam nadziejê, ¿e nie bêd¹ do nas szyæ z ³uków spomiêdzy krzaków!
@@ -73,8 +68,7 @@ Ugh! Horda zwyciê¿y!
 
 6. Przejazd przez rzekê. Dialog pojawia siê, gdy wkroczymy Kochanem do rzeki. Z obu jej stron pojawiaj¹ siê trytoni na pierwszych poziomach.
 
-Kochan:
-Do diaska, trzeba bêdzie pokonaæ tê rzekê! Zdaje mi siê te¿, ¿e p³ywaj¹ w niej Ci przeklêci rybo-ludzie z dzidami!
+{MESSAGE Kochan () () _"Do diaska, trzeba bêdzie pokonaæ tê rzekê! Zdaje mi siê te¿, ¿e p³ywaj¹ w niej Ci przeklêci rybo-ludzie z dzidami!
 
 Tryton:
 Patrzcie, co do nas podp³ywa, bracia! Nadziejmy to orkowe szczenie na w³óczniê i wype³nijmy swój obowi¹zek wobec Sojuszu Pó³nocy!
@@ -82,93 +76,69 @@ Patrzcie, co do nas podp³ywa, bracia! Nadziejmy to orkowe szczenie na w³óczniê i
 
 7. Zasadzka przed lasem. Gdy dostrzegamy ju¿ liniê drzew, któr¹ musimy przekroczyæ, by wygraæ, naprzeciw nas materializuj¹ siê dwa duchy na drugim poziomie.
 
-Kochan:
-A niech to! Jestem pewny, ¿e jeœli wbiegnê w ten gêsty las, zgubiê nieumar³ych. Elficka magia zatrzyma ich na wystarczaj¹co d³ugo, zaœ same elfy... Có¿, mo¿e wszystkie ruszy³y na wojnê i nikt nie pilnuje leœnych œcie¿ek? To bez znaczenia, wolê ju¿ elfickie ³uki, ni¿ martwe szpony tych stworzeñ!
+{MESSAGE Kochan () () _"A niech to! Jestem pewny, ¿e jeœli wbiegnê w ten gêsty las, zgubiê nieumar³ych. Elficka magia zatrzyma ich na wystarczaj¹co d³ugo, zaœ same elfy... Có¿, mo¿e wszystkie ruszy³y na wojnê i nikt nie pilnuje leœnych œcie¿ek? To bez znaczenia, wolê ju¿ elfickie ³uki, ni¿ martwe szpony tych stworzeñ!"}
 
 
 8. Kochan wkracza do lasu. On i jego oddzia³ (jeœli ma jakiœ oddzia³) ustawiaj¹ siê w jakimœ miejscu, dosyæ blisko siebie, ¿eby nie zdo³ali uciec, gdy póŸniej pojawi¹ siê elficcy ³owcy.
 
-Kochan:
-Chyba jestem bezpieczny... Nieumarli przerwali poœcig, ale... Co do...?!
+{MESSAGE Kochan () () _"Chyba jestem bezpieczny... Nieumarli przerwali poœcig, ale... Co do...?!"}
 
 *Pojawia siê wró¿ka.*
 
-Beatrycze:
-Pokój Ci, jeŸdŸcze wilka. Dostrzeg³am Twoje zmagania w walce z nieumar³ymi. Uda³o Ci siê schroniæ w leœnym zaciszu. Nasz¹ barierê magiczn¹ mo¿e przekroczyæ tylko ktoœ, komu mój lud pozwoli przez ni¹ przejœæ b¹dŸ... B¹dŸ ktoœ o czystym, niesplamionym nienawiœci¹ sercu. Do tej pory ¿adnemu orkowi siê to nie uda³o. Ty jesteœ pierwszy.
+{MESSAGE Beatrice () () _"Pokój Ci, jeŸdŸcze wilka. Dostrzeg³am Twoje zmagania w walce z nieumar³ymi. Uda³o Ci siê schroniæ w leœnym zaciszu. Nasz¹ barierê magiczn¹ mo¿e przekroczyæ tylko ktoœ, komu mój lud pozwoli przez ni¹ przejœæ b¹dŸ... B¹dŸ ktoœ o czystym, niesplamionym nienawiœci¹ sercu. Do tej pory ¿adnemu orkowi siê to nie uda³o. Ty jesteœ pierwszy."}
 
-Kochan:
-Ja? Ale... W ka¿dym razie... Nie musimy walczyæ: nie jestem dla was zagro¿eniem. Pozwól mi odejœæ.
+{MESSAGE Kochan () () _"Ja? Ale... W ka¿dym razie... Nie musimy walczyæ: nie jestem dla was zagro¿eniem. Pozwól mi odejœæ."}
 
-Beatrycze:
-Pozwolê... Jak ju¿ mówi³am, masz czyste serce. Choæ wiêkszoœæ mojego ludu pa³a do was nienawiœci¹, ja nie mogê i nie chcê skrzywdziæ nikogo, kto zdo³a³ przedostaæ siê przez magiczn¹ bramê. Od dawna jednak nie widzieliœmy tu ¿adnego orka. Zdaje siê, ¿e ta fala z³a i mroku, która pojawi³a siê na pó³nocy, jest skierowana w³aœnie na wasz lud.
+{MESSAGE Beatrice () () _"Pozwolê... Jak ju¿ mówi³am, masz czyste serce. Choæ wiêkszoœæ mojego ludu pa³a do was nienawiœci¹, ja nie mogê i nie chcê skrzywdziæ nikogo, kto zdo³a³ przedostaæ siê przez magiczn¹ bramê. Od dawna jednak nie widzieliœmy tu ¿adnego orka. Zdaje siê, ¿e ta fala z³a i mroku, która pojawi³a siê na pó³nocy, jest skierowana w³aœnie na wasz lud."}
 
-Kochan:
-Na Hordê? To by wiele wyjaœnia³o... Odk¹d pojawili siê nieumarli, wszystko sz³o nie tak, jak powinno. Uciekamy ju¿ od d³ugiego czasu, staraj¹c siê przetrwaæ... Marbus odnalaz³ jakieœ stare zapiski w opuszczonej twierdzy na Polach Kalindoru, mo¿e to w czymœ pomo¿e...
+{MESSAGE Kochan () () _"Na Hordê? To by wiele wyjaœnia³o... Odk¹d pojawili siê nieumarli, wszystko sz³o nie tak, jak powinno. Uciekamy ju¿ od d³ugiego czasu, staraj¹c siê przetrwaæ... Marbus odnalaz³ jakieœ stare zapiski w opuszczonej twierdzy na Polach Kalindoru, mo¿e to w czymœ pomo¿e..."}
 
 ***Dopisek: sprawdziæ, czy te pola naprawdê nazywa³y siê Polami Kalindoru, czy pomyli³em nazwy.***
 
-Beatrycze:
-Twierdza na Polach Kalindoru? To stare, pradawne miejsce... Zainteresowa³eœ mnie... Opowiedz mi wszystko. Od samego pocz¹tku.
+{MESSAGE Beatrice () () _"Twierdza na Polach Kalindoru? To stare, pradawne miejsce... Zainteresowa³eœ mnie... Opowiedz mi wszystko. Od samego pocz¹tku."}
 
 Logo Wesnoth:
 Dwie godziny póŸniej...
 
-Kochan:
-...i tak w³aœnie znalaz³em siê tutaj.
+{MESSAGE Kochan () () _"...i tak w³aœnie znalaz³em siê tutaj."}
 
-Beatrycze:
-Rozumiem... Teraz wszystko zaczyna uk³adaæ siê w logiczn¹ ca³oœæ... Ale jeœli Twoi przyjaciele ruszyli na pó³noc, wpadn¹ prosto na g³ówn¹ liniê obronn¹ Sojuszu Pó³nocy! Trzeba siê tam udaæ i powiadomiæ wszystkich, ¿e nie ma sensu ze sob¹ walczyæ. Pora siê zjednoczyæ i zwyciê¿yæ nieumar³ego wroga.
+{MESSAGE Beatrice () () _"Rozumiem... Teraz wszystko zaczyna uk³adaæ siê w logiczn¹ ca³oœæ... Ale jeœli Twoi przyjaciele ruszyli na pó³noc, wpadn¹ prosto na g³ówn¹ liniê obronn¹ Sojuszu Pó³nocy! Trzeba siê tam udaæ i powiadomiæ wszystkich, ¿e nie ma sensu ze sob¹ walczyæ. Pora siê zjednoczyæ i zwyciê¿yæ nieumar³ego wroga."}
 
-Kochan:
-Czyli... Czyli pomo¿esz nam, Pani? Nie wiem, co mam powiedzieæ. Nigdy nie liczy³em na to, ¿e w tej walce mo¿emy znaleŸæ sojusznika w ludzie, z którym od lat toczyliœmy wojny.
+{MESSAGE Kochan () () _"Czyli... Czyli pomo¿esz nam, Pani? Nie wiem, co mam powiedzieæ. Nigdy nie liczy³em na to, ¿e w tej walce mo¿emy znaleŸæ sojusznika w ludzie, z którym od lat toczyliœmy wojny."}
 
-Beatrycze:
-Wszystko siê zmienia. Sojusz Pó³nocy traci swoje si³y, elfickie bramy s¹ przekraczane przez orków, a jedyn¹ nadziej¹ na zwyciê¿enie w wojnie o pó³noc staje siê Wielki Suweren Hordy... Ale dosyæ o tym: muszê czym prêdzej udaæ siê na liniê frontu. Mo¿e nie jest jeszcze za póŸno...
+{MESSAGE Beatrice () () _"Wszystko siê zmienia. Sojusz Pó³nocy traci swoje si³y, elfickie bramy s¹ przekraczane przez orków, a jedyn¹ nadziej¹ na zwyciê¿enie w wojnie o pó³noc staje siê Wielki Suweren Hordy... Ale dosyæ o tym: muszê czym prêdzej udaæ siê na liniê frontu. Mo¿e nie jest jeszcze za póŸno..."}
 
-Kochan:
-A co ze mn¹, Pani?
+{MESSAGE Kochan () () _"A co ze mn¹, Pani?"}
 
 *Pojawiaj¹ siê elficcy strzelcy na trzecich i drugich poziomach, którzy otaczaj¹ Kochana i jego ludzi.*
 
-Beatrycze:
-Zostawiam Ciê pod opiek¹ moich najlepszych strzelców. Gdy dojdziesz do siebie, mo¿esz do³¹czyæ do swoich pobratymców. Moi ¿o³nierze poprowadz¹ Ciê œcie¿kami przez lasy, gdzie zagro¿enie ze strony nieumar³ych bêdzie niewielkie.
+{MESSAGE Beatrice () () _"Zostawiam Ciê pod opiek¹ moich najlepszych strzelców. Gdy dojdziesz do siebie, mo¿esz do³¹czyæ do swoich pobratymców. Moi ¿o³nierze poprowadz¹ Ciê œcie¿kami przez lasy, gdzie zagro¿enie ze strony nieumar³ych bêdzie niewielkie."}
 
-Kochan:
-Dziêkujê Ci, Pani. Na usta ciœnie mi siê tyle s³ów... Ale nie mogê Ciê zatrzymywaæ. Bezpiecznej podró¿y!
+{MESSAGE Kochan () () _"Dziêkujê Ci, Pani. Na usta ciœnie mi siê tyle s³ów... Ale nie mogê Ciê zatrzymywaæ. Bezpiecznej podró¿y!"}
 
 *Wró¿ka znika wœród drzew.*
 
-Kochan:
-Nigdy nie s¹dzi³em, ¿e przyjdzie mi podró¿owaæ z elfami w inny sposób, ni¿ bêd¹c zamkniêty w ³añcuchach.
+{MESSAGE Kochan () () _"Nigdy nie s¹dzi³em, ¿e przyjdzie mi podró¿owaæ z elfami w inny sposób, ni¿ bêd¹c zamkniêty w ³añcuchach."}
 
-£ucznik:
-I dobrze s¹dzi³eœ... Nie przyjdzie Ci z nami podró¿owaæ...
+{MESSAGE s9_archer () () _"I dobrze s¹dzi³eœ... Nie przyjdzie Ci z nami podró¿owaæ..."}
 
-Kochan:
-Co?!
+{MESSAGE Kochan () () _"Co?!"}
 
-£ucznik:
-Nasza Pani jest szlachetna, jednak naiwna... Nie wierzymy, ¿e nasze rasy s¹ w stanie ¿yæ w pokoju... Poza tym... Wielu naszych braci zginê³o z waszych r¹k. Pora ich pomœciæ... 
+{MESSAGE s9_archer () () _"Nasza Pani jest szlachetna, jednak naiwna... Nie wierzymy, ¿e nasze rasy s¹ w stanie ¿yæ w pokoju... Poza tym... Wielu naszych braci zginê³o z waszych r¹k. Pora ich pomœciæ..."} 
 
-Kochan:
-Ale... Nie mo¿esz... Dosta³eœ rozkazy!
+{MESSAGE Kochan () () _"Ale... Nie mo¿esz... Dosta³eœ rozkazy!"}
 
-£ucznik:
-Nie mogê...? To patrz!
+{MESSAGE s9_archer () () _"Nie mogê...? To patrz!"}
 
 *Zaczyna siê walka z ³ucznikami. Wa¿na rzecz: ¿aden z jeŸdŸców wilka nie mo¿e mieæ szansy ucieczki, a nieumarli nie mog¹ dostaæ siê do lasu- trzeba ich jakoœ usun¹æ z gry, gdy Kochan wkroczy miêdzy drzewa.*
 
 
 9. Œmieræ Kochana zadana przez ³uczników. Gracz nie mo¿e mieæ szansy zwyciêstwa.
 
-Kochan:
-Mo¿e i wygracie... Mo¿e i pokonacie mój lud... Ale wcale nie jesteœcie od nas lepsi! Tyle w was okrucieñstwa, ile w nas!
+{MESSAGE Kochan () () _"Mo¿e i wygracie... Mo¿e i pokonacie mój lud... Ale wcale nie jesteœcie od nas lepsi! Tyle w was okrucieñstwa, ile w nas!"}
 
-£ucznik:
-Mo¿e... Czy¿byœ nigdy nie s³ysza³, ¿e historiê pisz¹ zwyciêscy? Nawet jeœli dojdzie do sojuszu miêdzy naszymi rasami, powiemy wszystkim, ¿e to nieumarli napadli na nas wœród leœnych œcie¿ek... A Ty, nieznaj¹cy terenu i oszo³omiony po d³ugiej ucieczce, rzuci³eœ siê wprost w ich sid³a. Tak, jak wpad³eœ w nasze...
+{MESSAGE s9_archer () () _"Mo¿e... Czy¿byœ nigdy nie s³ysza³, ¿e historiê pisz¹ zwyciêscy? Nawet jeœli dojdzie do sojuszu miêdzy naszymi rasami, powiemy wszystkim, ¿e to nieumarli napadli na nas wœród leœnych œcie¿ek... A Ty, nieznaj¹cy terenu i oszo³omiony po d³ugiej ucieczce, rzuci³eœ siê wprost w ich sid³a. Tak, jak wpad³eœ w nasze..."}
 
-Kochan:
-Marbus... Nas nie zawiedzie... On jest inny, ni¿ reszta... Zjednoczy³ wszystkie klany... Nie upadniemy...
+{MESSAGE Kochan () () _"Marbus... Nas nie zawiedzie... On jest inny, ni¿ reszta... Zjednoczy³ wszystkie klany... Nie upadniemy..."}
 
-£ucznik:
-Zginiecie, bo takie jest wasze przeznaczenie... Ale nu¿y mnie ta rozmowa... Zdychaj. Zdychaj pod moim butem! I niech ostatnim, co zobaczysz przed œmierci¹, bêd¹ nasze oczy. Oczy elfów- rasy panów!
+{MESSAGE s9_archer () () _"Zginiecie, bo takie jest wasze przeznaczenie... Ale nu¿y mnie ta rozmowa... Zdychaj. Zdychaj pod moim butem! I niech ostatnim, co zobaczysz przed œmierci¹, bêd¹ nasze oczy. Oczy elfów - rasy panów!"}

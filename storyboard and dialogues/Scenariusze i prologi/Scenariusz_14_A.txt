@@ -37,44 +37,31 @@ Pierwsze pog³oski o buncie w szeregach orkowych klanów zosta³y zignorowane przez
 
 1. Dialog pocz¹tkowy.
 
-Aidala:
-Orkowie Gewolda s¹ ju¿ gotowi do bitwy. Jeœli zaœ chodzi o naszego emisariusza, przys³ano nam przed chwil¹ jego g³owê oraz dwa nagie miecze z dedykacj¹ dla Ciebie. Ta Osoba s¹dzi, ¿e pokojowe rozwi¹zanie jest ju¿ niemo¿liwe.
+{MESSAGE Aidala () () _"Orkowie Gewolda s¹ ju¿ gotowi do bitwy. Jeœli zaœ chodzi o naszego emisariusza, przys³ano nam przed chwil¹ jego g³owê oraz dwa nagie miecze z dedykacj¹ dla Ciebie. Ta Osoba s¹dzi, ¿e pokojowe rozwi¹zanie jest ju¿ niemo¿liwe.
 
-Marbus:
-Przeklêty Gewold! Co on sobie myœla³... ¯e siê o tym nie dowiem? ¯e nie zareagujê? Jego wybryki zniwecz¹ wszystko, co osi¹gnêliœmy przez ostatnie piêæ lat! Znów sprawi, ¿e pomiêdzy nami, a wszystkimi innymi rasami zapanuje wrogoœæ. Trzeba to zakoñczyæ... Dzisiaj.
+{MESSAGE Marbus () () _"Przeklêty Gewold! Co on sobie myœla³... ¯e siê o tym nie dowiem? ¯e nie zareagujê? Jego wybryki zniwecz¹ wszystko, co osi¹gnêliœmy przez ostatnie piêæ lat! Znów sprawi, ¿e pomiêdzy nami, a wszystkimi innymi rasami zapanuje wrogoœæ. Trzeba to zakoñczyæ... Dzisiaj.
 
-Gewold:
-Marbus! Jesteœ nareszcie! Uwierzysz, ¿e nie mogliœmy siê tu Ciebie doczekaæ? Wielki Suweren przyby³! Ch³opcy, stañcie na bacznoœæ, zaraz zrobi t¹ swoj¹ obra¿on¹ minê i zacznie mówiæ o tym, jak wspania³e s¹ elfy! Ktoœ chce pos³uchaæ o wdziêkach tej elfiej wiedŸmy? A mo¿e tej wodnej czarownicy, która nie odstêpuje go na krok? O której dzisiaj bêdziesz nam mówi³, Wielki Suwerenie?
+{MESSAGE Gewold () () _"Marbus! Jesteœ nareszcie! Uwierzysz, ¿e nie mogliœmy siê tu Ciebie doczekaæ? Wielki Suweren przyby³! Ch³opcy, stañcie na bacznoœæ, zaraz zrobi t¹ swoj¹ obra¿on¹ minê i zacznie mówiæ o tym, jak wspania³e s¹ elfy! Ktoœ chce pos³uchaæ o wdziêkach tej elfiej wiedŸmy? A mo¿e tej wodnej czarownicy, która nie odstêpuje go na krok? O której dzisiaj bêdziesz nam mówi³, Wielki Suwerenie?
 
-Marbus:
-Gewold, do diab³a! Zaatakowa³eœ ziemiê Elfich Jarlów, namówi³eœ po³owê klanów do buntu, a nastêpnie jawnie sprzeciwi³eœ siê wszystkiemu, co próbowaliœmy stworzyæ. Co w Ciebie wst¹pi³o? Tak Ÿle by³o Ci ¿yæ w pokoju? Zapewni³em Ci strawê, dom, bezpieczeñstwo! Gardzisz tym wszystkim? Byleby kogoœ zar¿n¹æ, o to Ci chodzi, prawda? O g³ód krwi!
+{MESSAGE Marbus () () _"Gewold, do diab³a! Zaatakowa³eœ ziemiê Elfich Jarlów, namówi³eœ po³owê klanów do buntu, a nastêpnie jawnie sprzeciwi³eœ siê wszystkiemu, co próbowaliœmy stworzyæ. Co w Ciebie wst¹pi³o? Tak Ÿle by³o Ci ¿yæ w pokoju? Zapewni³em Ci strawê, dom, bezpieczeñstwo! Gardzisz tym wszystkim? Byleby kogoœ zar¿n¹æ, o to Ci chodzi, prawda? O g³ód krwi!
 
-Gewold:
-Krwi... Tak, chcê krwi! I powiem Ci coœ lepszego: moi wojownicy tak¿e chc¹ krwi. Ka¿dy ork chce krwi! Tylko nie Ty! Nikt prócz Ciebie nie wierzy, ¿e ten sojusz przetrwa, ¿e uda nam siê ¿yæ wspólnie. Nawet Aidala, ta Twoja kochanica... Pod¹¿a za Tob¹, choæ wie, ¿e to siê nie powiedzie! Mam racjê?
+{MESSAGE Gewold () () _"Krwi... Tak, chcê krwi! I powiem Ci coœ lepszego: moi wojownicy tak¿e chc¹ krwi. Ka¿dy ork chce krwi! Tylko nie Ty! Nikt prócz Ciebie nie wierzy, ¿e ten sojusz przetrwa, ¿e uda nam siê ¿yæ wspólnie. Nawet Aidala, ta Twoja kochanica... Pod¹¿a za Tob¹, choæ wie, ¿e to siê nie powiedzie! Mam racjê?
 
-Marbus:
-Gewold, co do diab³a.. Uch... Aidala...?
+{MESSAGE Marbus () () _"Gewold, co do diab³a.. Uch... Aidala...?
 
-Aidala:
-. . .
+{MESSAGE Aidala () () _". . .
 
-Aidala:
-Ta Osoba nie chce o tym mówiæ.
+{MESSAGE Aidala () () _"Ta Osoba nie chce o tym mówiæ.
 
-Marbus:
-To... To nieistotne! Nawet, jeœli wszyscy s¹dz¹, ¿e to siê nie uda, ja dalej w to wierzê! Do tej pory wszystko sz³o po mojej myœli. Dlaczego mia³oby siê to skoñczyæ. Z powodu Twojego buntu? 
+{MESSAGE Marbus () () _"To... To nieistotne! Nawet, jeœli wszyscy s¹dz¹, ¿e to siê nie uda, ja dalej w to wierzê! Do tej pory wszystko sz³o po mojej myœli. Dlaczego mia³oby siê to skoñczyæ. Z powodu Twojego buntu? 
 
-Gewold:
-Mój bunt jest konieczny, Marbus. Przywiod³eœ nas tutaj i jestem Ci wdziêczny. Ale pope³ni³eœ b³¹d. Gdy pokonaliœmy Króla Gonu, powinieneœ poprowadziæ nad do zwyciêstwa, a teraz... A teraz ju¿ za póŸno: krasnoludy, elfy, ludzie... Znów s¹ potê¿ni, znów s¹ zjednoczeni. Nie jesteœmy w stanie ich pokonaæ. Nawet, jeœli nie uderz¹ na nas zbrojnie, ci¹gle bêdziemy ich popychad³ami, nie widzisz tego?
+{MESSAGE Gewold () () _"Mój bunt jest konieczny, Marbus. Przywiod³eœ nas tutaj i jestem Ci wdziêczny. Ale pope³ni³eœ b³¹d. Gdy pokonaliœmy Króla Gonu, powinieneœ poprowadziæ nad do zwyciêstwa, a teraz... A teraz ju¿ za póŸno: krasnoludy, elfy, ludzie... Znów s¹ potê¿ni, znów s¹ zjednoczeni. Nie jesteœmy w stanie ich pokonaæ. Nawet, jeœli nie uderz¹ na nas zbrojnie, ci¹gle bêdziemy ich popychad³ami, nie widzisz tego?
 
-Marbus:
-Nie, nie widzê! Nie wierzê w to, by Beatrycze nas zdradzi³a. By na to pozwoli³a. Ja im ufam. I proszê Ciê, byœ Ty zaufa³ mi. Rzuæ miecz na ziemiê i pozwól, bym dalej prowadzi³ was t¹ œcie¿k¹.
+{MESSAGE Marbus () () _"Nie, nie widzê! Nie wierzê w to, by Beatrycze nas zdradzi³a. By na to pozwoli³a. Ja im ufam. I proszê Ciê, byœ Ty zaufa³ mi. Rzuæ miecz na ziemiê i pozwól, bym dalej prowadzi³ was t¹ œcie¿k¹.
 
-Gewold:
-Nie mogê, Marbusie... Nie chodzi o Beatrycze. S¹ jeszcze inni... Tacy, jak Ci, którzy zabili Kochana. Jest ich pe³no. Nie widzisz tego, bo obracasz siê w krêgach, gdzie nikt nie pozwala sobie na jawn¹ wrogoœæ, ale my... My widzimy prawdê, Marbusie. A prawda jest taka, ¿e pora, byœmy wybrali dla siebie lepszego Wielkiego Suwerena.
+{MESSAGE Gewold () () _"Nie mogê, Marbusie... Nie chodzi o Beatrycze. S¹ jeszcze inni... Tacy, jak Ci, którzy zabili Kochana. Jest ich pe³no. Nie widzisz tego, bo obracasz siê w krêgach, gdzie nikt nie pozwala sobie na jawn¹ wrogoœæ, ale my... My widzimy prawdê, Marbusie. A prawda jest taka, ¿e pora, byœmy wybrali dla siebie lepszego Wielkiego Suwerena.
 
-Marbus:
-Nie dajesz mi wyboru... Muszê st³amsiæ ten bunt. 
+{MESSAGE Marbus () () _"Nie dajesz mi wyboru... Muszê st³amsiæ ten bunt. 
 
 
 2. Dialog œmierci Marbusa i Aidali.
@@ -84,204 +71,147 @@ Nie dajesz mi wyboru... Muszê st³amsiæ ten bunt.
 
 3a. Dialog œmierci Gewolda i pojawienie siê elfów, gdy Czerwony Kapturek prze¿y³a.
 
-Gewold:
-Ugh... Psia krew... Okazuje siê, ¿e ci¹gle jesteœ w dobrej formie, Marbus... Nie s¹dzi³em, ¿e uda Ci siê... Mnie pokonaæ.
+{MESSAGE Gewold () () _"Ugh... Psia krew... Okazuje siê, ¿e ci¹gle jesteœ w dobrej formie, Marbus... Nie s¹dzi³em, ¿e uda Ci siê... Mnie pokonaæ.
 
-Marbus:
-Nie s¹dzi³eœ te¿, ¿e sojusz z pó³nocnymi nacjami jest mo¿liwa. Mo¿e i w tej sprawie siê myli³eœ? ¯a³ujê, ¿e tak to siê skoñczy³o... 
+{MESSAGE Marbus () () _"Nie s¹dzi³eœ te¿, ¿e sojusz z pó³nocnymi nacjami jest mo¿liwa. Mo¿e i w tej sprawie siê myli³eœ? ¯a³ujê, ¿e tak to siê skoñczy³o... 
 
-Gewold:
-Ja tak¿e... Ja tak¿e... ¯egnaj, Marbus... Niech Ci siê... Szczêœci... By³eœ dobrym Wielkim Suwerenem... I... Oddanym przyjacielem.
+{MESSAGE Gewold () () _"Ja tak¿e... Ja tak¿e... ¯egnaj, Marbus... Niech Ci siê... Szczêœci... By³eœ dobrym Wielkim Suwerenem... I... Oddanym przyjacielem.
 
 *Gewold umiera.*
 
-Marbus:
-¯egnaj, Gewoldzie... Bêdê têskni³ za Twoim ciêtym jêzykiem.
+{MESSAGE Marbus () () _"¯egnaj, Gewoldzie... Bêdê têskni³ za Twoim ciêtym jêzykiem.
 
-Aidala:
-Marbus!
+{MESSAGE Aidala () () _"Marbus!
 
-Marbus:
-Tak, Aidalo?
+{MESSAGE Marbus () () _"Tak, Aidalo?
 
-Aidala:
-Ta Osoba czujê zapach elfów, zbli¿aj¹ siê z ka¿dej strony... Coœ jest nie tak...
+{MESSAGE Aidala () () _"Ta Osoba czujê zapach elfów, zbli¿aj¹ siê z ka¿dej strony... Coœ jest nie tak...
 
-Marbus:
-To pewnie oddzia³y Elfich Jarlów pod dowództwem Beatrycze przyby³y zobaczyæ, czy ju¿ poradziliœmy sobie z tym problemem... I zaoferowaæ pomoc, gdyby by³o inaczej. No có¿, spóŸnili siê...
+{MESSAGE Marbus () () _"To pewnie oddzia³y Elfich Jarlów pod dowództwem Beatrycze przyby³y zobaczyæ, czy ju¿ poradziliœmy sobie z tym problemem... I zaoferowaæ pomoc, gdyby by³o inaczej. No có¿, spóŸnili siê...
 
 *Z ka¿dej strony pojawiaj¹ siê elfy na drugich i trzecich poziomach.*
 
-Czerwony Kapturek:
-Obawiam siê, ¿e daleko mi od tej wypudrowanej czarodziejki œpiewaj¹cej ballady do ksiê¿yca. Ja wolê po prostu zabijaæ, a nie bawiæ siê w polityczne gierki z wrogami.
+{MESSAGE RedHood () () _"Obawiam siê, ¿e daleko mi od tej wypudrowanej czarodziejki œpiewaj¹cej ballady do ksiê¿yca. Ja wolê po prostu zabijaæ, a nie bawiæ siê w polityczne gierki z wrogami.
 
-Jarl Tybir (jakiœ elf 3 lvl):
-Trzymaj jêzyk na wodzy, dziewczyno! Choæ Krwawe Elfy nie s¹ czêœci¹ naszej spo³ecznoœci, ci¹gle powinniœcie pamiêtaæ o szacunku wobec najwy¿szej z naszych kap³anek. Poza tym... To ona wam p³aci.
+{MESSAGE Tybir () () _"Trzymaj jêzyk na wodzy, dziewczyno! Choæ Krwawe Elfy nie s¹ czêœci¹ naszej spo³ecznoœci, ci¹gle powinniœcie pamiêtaæ o szacunku wobec najwy¿szej z naszych kap³anek. Poza tym... To ona wam p³aci.
 
-Marbus:
-Co?! Co tu siê dzieje do diab³a?!
+{MESSAGE Marbus () () _"Co?! Co tu siê dzieje do diab³a?!
 
-Czerwony Kapturek:
-A na co Ci to wygl¹da? Jesteœcie okr¹¿eni, Marbus. Czekaliœmy nieopodal a¿ wyr¿niecie siê nawzajem, by nastêpnie zaj¹æ siê niedobitkami. Szczerze mówi¹c, mia³am nadziejê, ¿e to Gewold zwyciê¿y. Wiesz... Walczy³by z zapa³em, przeklina³by mnie i za wszelk¹ cenê chcia³ zabiæ... Natomiast Ty... Twoje glêdzenie o pokoju i przyjaŸni miêdzy naszymi rasami jest naprawdê nudne. I bardzo, bardzo g³upie.
+{MESSAGE RedHood () () _"A na co Ci to wygl¹da? Jesteœcie okr¹¿eni, Marbus. Czekaliœmy nieopodal a¿ wyr¿niecie siê nawzajem, by nastêpnie zaj¹æ siê niedobitkami. Szczerze mówi¹c, mia³am nadziejê, ¿e to Gewold zwyciê¿y. Wiesz... Walczy³by z zapa³em, przeklina³by mnie i za wszelk¹ cenê chcia³ zabiæ... Natomiast Ty... Twoje glêdzenie o pokoju i przyjaŸni miêdzy naszymi rasami jest naprawdê nudne. I bardzo, bardzo g³upie.
 
-Marbus:
-To Krwawe Elfy! Ci, którzy nie s¹ sprzymierzeni z Jarlami. Bracia, chwyæcie za miecze, pora stan¹æ do walki. Przeklinam dzieñ, w którym pozwoli³em Ci ¿yæ, dziewczyno!
+{MESSAGE Marbus () () _"To Krwawe Elfy! Ci, którzy nie s¹ sprzymierzeni z Jarlami. Bracia, chwyæcie za miecze, pora stan¹æ do walki. Przeklinam dzieñ, w którym pozwoli³em Ci ¿yæ, dziewczyno!
 
-Czerwony Kapturek:
-Te¿ go przeklinam. Wyœmiano mnie. Mówili o mnie, ¿e dopuœci³am siê... Wielu nieprzyjemnych rzeczy z Tob¹, by wyjœæ z tego wszystkiego ca³o. Ale ponownie stanê³am na czele Krwawych Elfów. Tym razem uda mi siê Ciebie zabiæ, przysiêgam Ci to.
+{MESSAGE RedHood () () _"Te¿ go przeklinam. Wyœmiano mnie. Mówili o mnie, ¿e dopuœci³am siê... Wielu nieprzyjemnych rzeczy z Tob¹, by wyjœæ z tego wszystkiego ca³o. Ale ponownie stanê³am na czele Krwawych Elfów. Tym razem uda mi siê Ciebie zabiæ, przysiêgam Ci to.
 
-Jarl Tybir:
-Lepiej, by tak by³o, potomkini Landara. Beatrycze nie ¿yczy sobie ¿adnego ocala³ego orka. ¯aden z nich nie ma prawa przetrwaæ tej rzezi. A gdy ju¿ siê ona skoñczy, dostaniecie swoje z³oto i udacie siê na po³udnie, daleko poza Wielk¹ Rzekê.
+{MESSAGE Tybir () () _"Lepiej, by tak by³o, potomkini Landara. Beatrycze nie ¿yczy sobie ¿adnego ocala³ego orka. ¯aden z nich nie ma prawa przetrwaæ tej rzezi. A gdy ju¿ siê ona skoñczy, dostaniecie swoje z³oto i udacie siê na po³udnie, daleko poza Wielk¹ Rzekê.
 
-Marbus:
-O czym Ty mówisz?! Zaraz... Ja Ciê znam! Jesteœ Jarl Tybir! Jeden z wodzów Beatrycze! Dlaczego... Dlaczego tu jesteœ?
+{MESSAGE Marbus () () _"O czym Ty mówisz?! Zaraz... Ja Ciê znam! Jesteœ Jarl Tybir! Jeden z wodzów Beatrycze! Dlaczego... Dlaczego tu jesteœ?
 
-Jarl Tybir:
-Ehh... Nie chce mi siê tego t³umaczyæ. Naprawdê jesteœ tak têpy? Sta³eœ siê niewygodny. Orkowie... Wy nie pasujecie. Do nas, do innych ras. Jesteœcie plugawi, œmierdzicie, istne potwory do zabijania i straszenia wami dzieci. Nawet mi was trochê ¿al...
+{MESSAGE Tybir () () _"Ehh... Nie chce mi siê tego t³umaczyæ. Naprawdê jesteœ tak têpy? Sta³eœ siê niewygodny. Orkowie... Wy nie pasujecie. Do nas, do innych ras. Jesteœcie plugawi, œmierdzicie, istne potwory do zabijania i straszenia wami dzieci. Nawet mi was trochê ¿al...
 
-Marbus:
-Ale Beatrycze... Ona nie mog³a nas zdradziæ! Przecie¿ pomog³a nam zabiæ Króla Gonu! Mamy takie same idea³y! Wierzy w to, ¿e mo¿emy siê zmieniæ!
+{MESSAGE Marbus () () _"Ale Beatrycze... Ona nie mog³a nas zdradziæ! Przecie¿ pomog³a nam zabiæ Króla Gonu! Mamy takie same idea³y! Wierzy w to, ¿e mo¿emy siê zmieniæ!
 
-Jarl Tybir:
-Wierzy... Nie wierzy... Wa¿ne jest to, w co wierz¹ inni. A inni was nie chc¹. My was nie chcemy. Œwiat was nie chce. To przez was Król Gonu dziesi¹tkowa³ pó³noc. Ale jestem mu nawet za to wdziêczny. Zosta³a was garstka, a my znów jesteœmy silni. Pokonamy was, a wówczas nastan¹ czasy prawdziwego pokoju. Œwiat bêdzie lepszym miejscem bez was.
+{MESSAGE Tybir () () _"Wierzy... Nie wierzy... Wa¿ne jest to, w co wierz¹ inni. A inni was nie chc¹. My was nie chcemy. Œwiat was nie chce. To przez was Król Gonu dziesi¹tkowa³ pó³noc. Ale jestem mu nawet za to wdziêczny. Zosta³a was garstka, a my znów jesteœmy silni. Pokonamy was, a wówczas nastan¹ czasy prawdziwego pokoju. Œwiat bêdzie lepszym miejscem bez was.
 
-Aidala:
-Marbusie, zbli¿aj¹ siê... Co mamy robiæ? Po walce z Gewoldem zosta³o nas zbyt ma³o, by choæby prze³amaæ to oblê¿enie i uciec! Musisz przej¹æ dowództwo nad swoimi wojownikami!
+{MESSAGE Aidala () () _"Marbusie, zbli¿aj¹ siê... Co mamy robiæ? Po walce z Gewoldem zosta³o nas zbyt ma³o, by choæby prze³amaæ to oblê¿enie i uciec! Musisz przej¹æ dowództwo nad swoimi wojownikami!
 
-Marbus:
-Ja... Nie wiem, co robiæ... Zdaje mi siê, ¿e to koniec, Aidalo. Dzisiaj naprawdê zakoñczy siê nasza historia...
+{MESSAGE Marbus () () _"Ja... Nie wiem, co robiæ... Zdaje mi siê, ¿e to koniec, Aidalo. Dzisiaj naprawdê zakoñczy siê nasza historia...
 
-Aidala:
-Ta Osoba... Przeczuwa³a to... Cieszê siê jednak, ¿e mog³am spêdziæ tyle czasu z Tob¹. 
+{MESSAGE Aidala () () _"Ta Osoba... Przeczuwa³a to... Cieszê siê jednak, ¿e mog³am spêdziæ tyle czasu z Tob¹. 
 
 
 3b. Dialog œmierci Gewolda i pojawienie siê elfów, gdy Czerwony Kapturek zginê³a.
 
-Gewold:
-Ugh... Psia krew... Okazuje siê, ¿e ci¹gle jesteœ w dobrej formie, Marbus... Nie s¹dzi³em, ¿e uda Ci siê... Mnie pokonaæ.
+{MESSAGE Gewold () () _"Ugh... Psia krew... Okazuje siê, ¿e ci¹gle jesteœ w dobrej formie, Marbus... Nie s¹dzi³em, ¿e uda Ci siê... Mnie pokonaæ.
 
-Marbus:
-Nie s¹dzi³eœ te¿, ¿e sojusz z pó³nocnymi nacjami jest mo¿liwa. Mo¿e i w tej sprawie siê myli³eœ? ¯a³ujê, ¿e tak to siê skoñczy³o... 
+{MESSAGE Marbus () () _"Nie s¹dzi³eœ te¿, ¿e sojusz z pó³nocnymi nacjami jest mo¿liwa. Mo¿e i w tej sprawie siê myli³eœ? ¯a³ujê, ¿e tak to siê skoñczy³o... 
 
-Gewold:
-Ja tak¿e... Ja tak¿e... ¯egnaj, Marbus... Niech Ci siê... Szczêœci... By³eœ dobrym Wielkim Suwerenem... I... Oddanym przyjacielem.
+{MESSAGE Gewold () () _"Ja tak¿e... Ja tak¿e... ¯egnaj, Marbus... Niech Ci siê... Szczêœci... By³eœ dobrym Wielkim Suwerenem... I... Oddanym przyjacielem.
 
 *Gewold umiera.*
 
-Marbus:
-¯egnaj, Gewoldzie... Bêdê têskni³ za Twoim ciêtym jêzykiem.
+{MESSAGE Marbus () () _"¯egnaj, Gewoldzie... Bêdê têskni³ za Twoim ciêtym jêzykiem.
 
-Aidala:
-Marbus!
+{MESSAGE Aidala () () _"Marbus!
 
-Marbus:
-Tak, Aidalo?
+{MESSAGE Marbus () () _"Tak, Aidalo?
 
-Aidala:
-Ta Osoba czujê zapach elfów, zbli¿aj¹ siê z ka¿dej strony... Coœ jest nie tak...
+{MESSAGE Aidala () () _"Ta Osoba czujê zapach elfów, zbli¿aj¹ siê z ka¿dej strony... Coœ jest nie tak...
 
-Marbus:
-To pewnie oddzia³y Elfich Jarlów pod dowództwem Beatrycze przyby³y zobaczyæ, czy ju¿ poradziliœmy sobie z tym problemem... I zaoferowaæ pomoc, gdyby by³o inaczej. No có¿, spóŸnili siê...
+{MESSAGE Marbus () () _"To pewnie oddzia³y Elfich Jarlów pod dowództwem Beatrycze przyby³y zobaczyæ, czy ju¿ poradziliœmy sobie z tym problemem... I zaoferowaæ pomoc, gdyby by³o inaczej. No có¿, spóŸnili siê...
 
 *Z ka¿dej strony pojawiaj¹ siê elfy na drugich i trzecich poziomach.*
 
-Jarl Tybir (jakiœ elf 3 lvl):
-Rzuæcie broñ i ustawcie siê w szeregu... Plecami do ³uczników. Obiecujemy za³atwiæ to szybko, bez zbêdnych s³ów i spoufalania siê. Miejmy ju¿ to wszystko za sob¹...
+{MESSAGE Tybir () () _"Rzuæcie broñ i ustawcie siê w szeregu... Plecami do ³uczników. Obiecujemy za³atwiæ to szybko, bez zbêdnych s³ów i spoufalania siê. Miejmy ju¿ to wszystko za sob¹...
 
-Marbus:
-Co?! Co tu siê dzieje do diab³a?!
+{MESSAGE Marbus () () _"Co?! Co tu siê dzieje do diab³a?!
 
-Jarl Tybir:
-Na to, na co to wygl¹da, Marbusie... Jesteœcie otoczeni, zdziesi¹tkowani niedawn¹, bratobójcz¹ bitw¹. Nie dacie nam rady. Mo¿emy z wami zrobiæ to, co zechcemy. A zechcemy was zabiæ. Bo tak bêdzie dla wszystkich lepiej... 
+{MESSAGE Tybir () () _"Na to, na co to wygl¹da, Marbusie... Jesteœcie otoczeni, zdziesi¹tkowani niedawn¹, bratobójcz¹ bitw¹. Nie dacie nam rady. Mo¿emy z wami zrobiæ to, co zechcemy. A zechcemy was zabiæ. Bo tak bêdzie dla wszystkich lepiej... 
 
-Marbus:
-O czym Ty mówisz?! Zaraz... Ja Ciê znam! Jesteœ Jarl Tybir! Jeden z wodzów Beatrycze! Dlaczego... Dlaczego tu jesteœ?
+{MESSAGE Marbus () () _"O czym Ty mówisz?! Zaraz... Ja Ciê znam! Jesteœ Jarl Tybir! Jeden z wodzów Beatrycze! Dlaczego... Dlaczego tu jesteœ?
 
-Jarl Tybir:
-Ehh... Nie chce mi siê tego t³umaczyæ. Naprawdê jesteœ tak têpy? Sta³eœ siê niewygodny. Orkowie... Wy nie pasujecie. Do nas, do innych ras. Jesteœcie plugawi, œmierdzicie, istne potwory do zabijania i straszenia wami dzieci. Nawet mi was trochê ¿al...
+{MESSAGE Tybir () () _"Ehh... Nie chce mi siê tego t³umaczyæ. Naprawdê jesteœ tak têpy? Sta³eœ siê niewygodny. Orkowie... Wy nie pasujecie. Do nas, do innych ras. Jesteœcie plugawi, œmierdzicie, istne potwory do zabijania i straszenia wami dzieci. Nawet mi was trochê ¿al...
 
-Marbus:
-Ale Beatrycze... Ona nie mog³a nas zdradziæ! Przecie¿ pomog³a nam zabiæ Króla Gonu! Mamy takie same idea³y! Wierzy w to, ¿e mo¿emy siê zmieniæ!
+{MESSAGE Marbus () () _"Ale Beatrycze... Ona nie mog³a nas zdradziæ! Przecie¿ pomog³a nam zabiæ Króla Gonu! Mamy takie same idea³y! Wierzy w to, ¿e mo¿emy siê zmieniæ!
 
-Jarl Tybir:
-Wierzy... Nie wierzy... Wa¿ne jest to, w co wierz¹ inni. A inni was nie chc¹. My was nie chcemy. Œwiat was nie chce. To przez was Król Gonu dziesi¹tkowa³ pó³noc. Ale jestem mu nawet za to wdziêczny. Zosta³a was garstka, a my znów jesteœmy silni. Pokonamy was, a wówczas nastan¹ czasy prawdziwego pokoju. Œwiat bêdzie lepszym miejscem bez orków.
+{MESSAGE Tybir () () _"Wierzy... Nie wierzy... Wa¿ne jest to, w co wierz¹ inni. A inni was nie chc¹. My was nie chcemy. Œwiat was nie chce. To przez was Król Gonu dziesi¹tkowa³ pó³noc. Ale jestem mu nawet za to wdziêczny. Zosta³a was garstka, a my znów jesteœmy silni. Pokonamy was, a wówczas nastan¹ czasy prawdziwego pokoju. Œwiat bêdzie lepszym miejscem bez orków.
 
-Aidala:
-Marbusie, zbli¿aj¹ siê... Co mamy robiæ? Po walce z Gewoldem zosta³o nas zbyt ma³o, by choæby prze³amaæ to oblê¿enie i uciec! Musisz przej¹æ dowództwo nad swoimi wojownikami!
+{MESSAGE Aidala () () _"Marbusie, zbli¿aj¹ siê... Co mamy robiæ? Po walce z Gewoldem zosta³o nas zbyt ma³o, by choæby prze³amaæ to oblê¿enie i uciec! Musisz przej¹æ dowództwo nad swoimi wojownikami!
 
-Marbus:
-Ja... Nie wiem, co robiæ... Zdaje mi siê, ¿e to koniec, Aidalo. Dzisiaj naprawdê zakoñczy siê nasza historia...
+{MESSAGE Marbus () () _"Ja... Nie wiem, co robiæ... Zdaje mi siê, ¿e to koniec, Aidalo. Dzisiaj naprawdê zakoñczy siê nasza historia...
 
-Aidala:
-Ta Osoba... Przeczuwa³a to... Cieszê siê jednak, ¿e mog³am spêdziæ tyle czasu z Tob¹. 
+{MESSAGE Aidala () () _"Ta Osoba... Przeczuwa³a to... Cieszê siê jednak, ¿e mog³am spêdziæ tyle czasu z Tob¹. 
 
 
 4a. Dialog œmierci Krulla Ska³y po œmierci Gewolda.
 
-Krull Ska³a:
-Ugh... Troll byæ ranny... Szczeniêta... Same... Ork niech... Opiekuje siê... Nimi.
+{MESSAGE Krull () () _"Ugh... Troll byæ ranny... Szczeniêta... Same... Ork niech... Opiekuje siê... Nimi.
 
-Marbus:
-Psia krew! Krull! Obiecujê Ci, ¿e jeœli wyjdê z tego ca³o, zajmê siê Twoim potomstwem!
+{MESSAGE Marbus () () _"Psia krew! Krull! Obiecujê Ci, ¿e jeœli wyjdê z tego ca³o, zajmê siê Twoim potomstwem!
 
 
 4b. 4. Dialog œmierci Emborgi-tarash po œmierci Gewolda.
 
-Emborgi-tarash:
-Tak odchodzê do domu przodków... D³ugo wyczekiwa³am tej podró¿y... Obawiam siê, ¿e nie dane Ci bêdzie przetrwaæ tej bitwy, Marbusie... Mimo wszystko... Dziêkujê za to, co dla nas zrobi³eœ...
+{MESSAGE Emborgi () () _"Tak odchodzê do domu przodków... D³ugo wyczekiwa³am tej podró¿y... Obawiam siê, ¿e nie dane Ci bêdzie przetrwaæ tej bitwy, Marbusie... Mimo wszystko... Dziêkujê za to, co dla nas zrobi³eœ...
 
-Marbus:
-Wieszczko... Bêdzie mi brakowaæ Twoich rad oraz towarzystwa... Oczywiœcie, jeœli jakimœ cudem to przetrwam... Pomoc Twojemu ludowi by³a jedn¹ z tych decyzji, których nigdy nie bêdê ¿a³owaæ.
+{MESSAGE Marbus () () _"Wieszczko... Bêdzie mi brakowaæ Twoich rad oraz towarzystwa... Oczywiœcie, jeœli jakimœ cudem to przetrwam... Pomoc Twojemu ludowi by³a jedn¹ z tych decyzji, których nigdy nie bêdê ¿a³owaæ.
 
 
 5. Dialog œmierci Aidali po œmierci Gewolda.
 
-Aidala:
-Ta Osoba... Umiera?
+{MESSAGE Aidala () () _"Ta Osoba... Umiera?
 
-Aidala:
-Ha...
+{MESSAGE Aidala () () _"Ha...
 
-Aidala:
-Ha ha ha...
+{MESSAGE Aidala () () _"Ha ha ha...
 
-Aidala:
-Ta Osoba... Ja... Inaczej to sobie wyobra¿a³am... Zgin¹æ w obronie swoich córek, powalaj¹c setki wrogów, zmieniaj¹c w ten sposób przysz³oœæ, poœwiêcaj¹c siê... Myœla³am te¿... ¯e bêdzie bardziej bola³o... A teraz czujê jedynie ciep³o.
+{MESSAGE Aidala () () _"Ta Osoba... Ja... Inaczej to sobie wyobra¿a³am... Zgin¹æ w obronie swoich córek, powalaj¹c setki wrogów, zmieniaj¹c w ten sposób przysz³oœæ, poœwiêcaj¹c siê... Myœla³am te¿... ¯e bêdzie bardziej bola³o... A teraz czujê jedynie ciep³o.
 
-Marbus:
-Aidala! Nie, tylko nie Ty! B¹dŸ silna, proszê... Uda nam siê, gdzieœ tutaj musz¹ byæ jakieœ katakumby, jakaœ droga ucieczki pod ziemiê b¹dŸ w niebo... Zdaje mi siê, ¿e krasnoludy hodowa³y gdzieœ na tych terenach gryfy i...
+{MESSAGE Marbus () () _"Aidala! Nie, tylko nie Ty! B¹dŸ silna, proszê... Uda nam siê, gdzieœ tutaj musz¹ byæ jakieœ katakumby, jakaœ droga ucieczki pod ziemiê b¹dŸ w niebo... Zdaje mi siê, ¿e krasnoludy hodowa³y gdzieœ na tych terenach gryfy i...
 
-Aidala:
-Marbus... Ju¿ dobrze... Ja wiem... ¯e chcia³byœ to wszystko naprawiæ. Wszystko odwróciæ... Ale przesz³oœci ju¿ nie zmienimy. Pop³ynê³am za Tob¹ i nie zamierzam ¿a³owaæ tej decyzji... Nie obwiniaj siê... Zdaje siê, ¿e nied³ugo do³¹czysz do mnie... Zjednamy siê w zaœwiatach...
+{MESSAGE Aidala () () _"Marbus... Ju¿ dobrze... Ja wiem... ¯e chcia³byœ to wszystko naprawiæ. Wszystko odwróciæ... Ale przesz³oœci ju¿ nie zmienimy. Pop³ynê³am za Tob¹ i nie zamierzam ¿a³owaæ tej decyzji... Nie obwiniaj siê... Zdaje siê, ¿e nied³ugo do³¹czysz do mnie... Zjednamy siê w zaœwiatach...
 
-Aidala:
-¯egnaj, ukochany...
+{MESSAGE Aidala () () _"¯egnaj, ukochany...
 
 
 6. Dialog œmierci Jêczmienia po œmierci Gewolda.
 
-Jêczmieñ:
-*Wyje z bólu i upada na bok. Jego klatka piersiowa przestaje siê poruszaæ.*
+{MESSAGE Barley () () _"*Wyje z bólu i upada na bok. Jego klatka piersiowa przestaje siê poruszaæ.*
 
-Marbus:
-Nie! Jêczmieñ, mój wierny kompanie...
+{MESSAGE Marbus () () _"Nie! Jêczmieñ, mój wierny kompanie...
 
 
 7. Dialog œmierci Czerwonego Kapturka (jeœli jest).
 
-Czerwony Kapturek:
-Argh... Do diab³a! Nawet, gdy Twoja rasa wymiera, ci¹gle musisz gryŸæ, co?
+{MESSAGE RedHood () () _"Argh... Do diab³a! Nawet, gdy Twoja rasa wymiera, ci¹gle musisz gryŸæ, co?
 
-Marbus:
-Zas³u¿y³aœ na to, ogarniêta sza³em dziewczyno! ¯a³ujê, ¿e pozwoli³em Ci ¿yæ ostatnim razem. Teraz nie znajdê dla Ciebie litoœci!
+{MESSAGE Marbus () () _"Zas³u¿y³aœ na to, ogarniêta sza³em dziewczyno! ¯a³ujê, ¿e pozwoli³em Ci ¿yæ ostatnim razem. Teraz nie znajdê dla Ciebie litoœci!
 
-Czerwony Kapturek:
-Mo¿e to i lepiej? Dokoñcz to, co zaczêliœmy w jaskini. Przynajmniej tyle mo¿esz zrobiæ przed swoj¹ œmierci¹.
+{MESSAGE RedHood () () _"Mo¿e to i lepiej? Dokoñcz to, co zaczêliœmy w jaskini. Przynajmniej tyle mo¿esz zrobiæ przed swoj¹ œmierci¹.
 
 
 8. Dialog koñcowy, œmieræ Marbusa.
 
-Marbus:
-Ugh... To... Koniec...
+{MESSAGE Marbus () () _"Ugh... To... Koniec...
 
 *Koñczy scenariusz i rozpoczyna jeden z endingów, po którym nastêpuj¹ napisy koñcowe.*

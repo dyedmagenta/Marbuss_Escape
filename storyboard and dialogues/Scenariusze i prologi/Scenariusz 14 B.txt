@@ -25,11 +25,11 @@ Dzieñ ten w³aœnie nadszed³...
 Dialogi:
 
 1. Dialog pocz¹tkowy.
-2. Dialog zabicia pierwszego Jarla i pojawienie siê kawalerzystów.
+2. Dialog zabicia pierwszego Jarla i pojawienie siê kawalerzystów.  x,y=8,1; 41,1; 46,31;
 3. Dialog œmierci kapitana kawalerzystów.
 4. Dialog spotkania drugiego Jarla/Jarla Oferiu/Czerwonego Kapturka.
 5. Dialog zabicia drugiego Jarla/Jarla Oferiu/Czerwonego Kapturka.
-6. Dialog spotkania trzeciego Jarla i pojawienie siê krasnoludów.
+6. Dialog spotkania trzeciego Jarla i pojawienie siê krasnoludów. x,y=10,54
 7. Dialog zabicia trzeciego Jarla.
 8. Dialog œmierci kapitana krasnoludów.
 9. Dialogi œmierci Aidali/Marbusa/Gewolda.
@@ -40,76 +40,55 @@ Dialogi:
 
 1. Dialog pocz¹tkowy.
 
-Gewold:
-Na wszystkie krasnoludzkie skarby, które z³upiliœmy! Czujê, ¿e ta magiczna bariera wreszcie pêka! Zaraz siê oka¿ê, ilu tak naprawdê trzymaj¹ tam ¿o³nierzy... Spodziewam siê prawdziwej bitwy, jak przed dwudziestoma laty, jeszcze przed tym ca³ym zamieszaniem z Dzikim Gonem.
+{MESSAGE Gewold () () _"Na wszystkie krasnoludzkie skarby, które z³upiliœmy! Czujê, ¿e ta magiczna bariera wreszcie pêka! Zaraz siê oka¿ê, ilu tak naprawdê trzymaj¹ tam ¿o³nierzy... Spodziewam siê prawdziwej bitwy, jak przed dwudziestoma laty, jeszcze przed tym ca³ym zamieszaniem z Dzikim Gonem.
 
-Aidala:
-Ta Osoba ju¿ dawno nie czu³a siê tak dobrze... Nurt rzeki niesie ze sob¹ zapach strachu... Zaraz wszyscy nasi przeciwnicy klêkn¹ przed nami, by b³agaæ o litoœæ... A litoœci¹ mo¿na nazwaæ jedynie miecze Tej Osoby.
+{MESSAGE Aidala () () _"Ta Osoba ju¿ dawno nie czu³a siê tak dobrze... Nurt rzeki niesie ze sob¹ zapach strachu... Zaraz wszyscy nasi przeciwnicy klêkn¹ przed nami, by b³agaæ o litoœæ... A litoœci¹ mo¿na nazwaæ jedynie miecze Tej Osoby.
 
-Jêczmieñ:
-*Macha ogonem i szczeka radoœnie przy nodze Marbusa.*
+{MESSAGE petwolf () () _"*Macha ogonem i szczeka radoœnie przy nodze Marbusa.*
 
-Marbus:
-Cieszê siê, ¿e wszystkim dopisuj¹ dobre nastroje. Od dawna nie czu³em takiego podniecenia na myœl o nadchodz¹cej bitwie... Ostatnio nawet krasnoludy przesta³y stawiaæ nam opór.
+{MESSAGE Marbus () () _"Cieszê siê, ¿e wszystkim dopisuj¹ dobre nastroje. Od dawna nie czu³em takiego podniecenia na myœl o nadchodz¹cej bitwie... Ostatnio nawet krasnoludy przesta³y stawiaæ nam opór.
 
-Krull Ska³a:
-Prawda to! Trolle znów wielka potêga w podziemiach.
+{MESSAGE Krull () () _"Prawda to! Trolle znów wielka potêga w podziemiach.
 
-Marbus:
-Nie mówi¹c ju¿ o magach i innych odga³êzieniach Sojuszu Pó³nocy... Porzucaj¹ swoje twierdze i uciekaj¹ na po³udnie, gdzie Królestwo Wesnoth udziela im schronienia... Có¿, mo¿e nied³ugo sami nas zaatakuj¹? No, ale tym zajmiemy siê póŸniej... Póki co, pora nam zniszczyæ ostatni¹ twierdzê elfów!
+{MESSAGE Marbus () () _"Nie mówi¹c ju¿ o magach i innych odga³êzieniach Sojuszu Pó³nocy... Porzucaj¹ swoje twierdze i uciekaj¹ na po³udnie, gdzie Królestwo Wesnoth udziela im schronienia... Có¿, mo¿e nied³ugo sami nas zaatakuj¹? No, ale tym zajmiemy siê póŸniej... Póki co, pora nam zniszczyæ ostatni¹ twierdzê elfów!
 
-Emborgi-tarash:
-Odk¹d Wielka Horda niepodzielnie panuje nad pó³noc¹, mój lud urós³ w si³ê... Jaszczurze wieszczki znów mog¹ zbieraæ siê co pe³niê na swoje sabaty, a nasi myœliwi poluj¹ na terenach, które od wieków uwa¿aliœmy za niedostêpne, opanowane przez elfy... Pamiêta³am ju¿ kiedyœ czasy takiej w³adzy, a jednak jej smak wydaje mi siê ca³kiem nowy... I podoba mi siê.
+{MESSAGE Emborgi () () _"Odk¹d Wielka Horda niepodzielnie panuje nad pó³noc¹, mój lud urós³ w si³ê... Jaszczurze wieszczki znów mog¹ zbieraæ siê co pe³niê na swoje sabaty, a nasi myœliwi poluj¹ na terenach, które od wieków uwa¿aliœmy za niedostêpne, opanowane przez elfy... Pamiêta³am ju¿ kiedyœ czasy takiej w³adzy, a jednak jej smak wydaje mi siê ca³kiem nowy... I podoba mi siê.
 
-Gewold:
-Zdaje siê, ¿e wreszcie mo¿emy przekroczyæ liniê drzew. Obawiam siê jednak, ¿e wszystko zasnuwa mg³a... Przeklête elfie czary! Nic im nie dadz¹! Nasze wilki wyczuj¹ zapach elfów, ludzi b¹dŸ krasnoludów na kilometr! Nikt nie ucieknie z tego pogromu, nikt nie prze¿yje!
+{MESSAGE Gewold () () _"Zdaje siê, ¿e wreszcie mo¿emy przekroczyæ liniê drzew. Obawiam siê jednak, ¿e wszystko zasnuwa mg³a... Przeklête elfie czary! Nic im nie dadz¹! Nasze wilki wyczuj¹ zapach elfów, ludzi b¹dŸ krasnoludów na kilometr! Nikt nie ucieknie z tego pogromu, nikt nie prze¿yje!
 
-Jarl Sarif (pierwszy z jarlów do zabicia):
-A wiêc jesteœcie... Spodziewaliœmy siê, ¿e w koñcu oprzecie siê naszym czarom... Nie mog¹c ju¿ na nie liczyæ, u¿yjemy stali, by prze¿yæ. Cokolwiek siê stanie - jedna potêga pó³nocy zostanie w tej bitwie zniszczona.
+{MESSAGE Sarif () () _"A wiêc jesteœcie... Spodziewaliœmy siê, ¿e w koñcu oprzecie siê naszym czarom... Nie mog¹c ju¿ na nie liczyæ, u¿yjemy stali, by prze¿yæ. Cokolwiek siê stanie - jedna potêga pó³nocy zostanie w tej bitwie zniszczona.
 
-Marbus:
-Chcia³bym przyznaæ Ci racjê, jednak nie mogê. Nawet, jeœli jakimœ cudem uda wam siê stawiæ nam opór. Jeœli z nieba spadn¹ na nas smoki, z po³udnia zaatakuje Królestwo Wesnoth, a z najg³êbszych podziemnych korytarzy wynurz¹ siê nieumarli... Nawet wówczas, Wielka Horda wci¹¿ bêdzie niezrównan¹ potêg¹. Myœlisz, ¿e zaatakowa³em was ca³oœci¹ swoich si³? Panujê nad ca³¹ pó³noc¹! To zaledwie u³amek mojej armii.
+{MESSAGE Marbus () () _"Chcia³bym przyznaæ Ci racjê, jednak nie mogê. Nawet, jeœli jakimœ cudem uda wam siê stawiæ nam opór. Jeœli z nieba spadn¹ na nas smoki, z po³udnia zaatakuje Królestwo Wesnoth, a z najg³êbszych podziemnych korytarzy wynurz¹ siê nieumarli... Nawet wówczas, Wielka Horda wci¹¿ bêdzie niezrównan¹ potêg¹. Myœlisz, ¿e zaatakowa³em was ca³oœci¹ swoich si³? Panujê nad ca³¹ pó³noc¹! To zaledwie u³amek mojej armii.
 
-Jarl Sarif:
-Najwy¿sza z naszych kap³anek Ciê pokona! Nie uda Ci siê zatrzymaæ jej magii, stawiæ jej oporu... Ten las bêdzie waszym grobem!
+{MESSAGE Sarif () () _"Najwy¿sza z naszych kap³anek Ciê pokona! Nie uda Ci siê zatrzymaæ jej magii, stawiæ jej oporu... Ten las bêdzie waszym grobem!
 
-Aidala:
-Ta Osoba wyczuwa desperacjê w Twoim g³osie, drzewolubie... Zrobiê coœ dla Ciebie... Ka¿ê swoim córkom por¹baæ Ciê na kawa³ki, a ka¿dy z kawa³ków zakopaæ pod jednym z waszych œwiêtych drzew... A gdy dope³ni siê ju¿ ten pogrzeb, podpalê je! Na pó³nocy nie ostanie siê ani jeden z waszych gajów!
+{MESSAGE Aidala () () _"Ta Osoba wyczuwa desperacjê w Twoim g³osie, drzewolubie... Zrobiê coœ dla Ciebie... Ka¿ê swoim córkom por¹baæ Ciê na kawa³ki, a ka¿dy z kawa³ków zakopaæ pod jednym z waszych œwiêtych drzew... A gdy dope³ni siê ju¿ ten pogrzeb, podpalê je! Na pó³nocy nie ostanie siê ani jeden z waszych gajów!
 
-Jarl Sarif:
-Zobaczymy, morska wiedŸmo... Zobaczymy...
+{MESSAGE Sarif () () _"Zobaczymy, morska wiedŸmo... Zobaczymy...
 
-Marbus:
-Mêczy mnie ju¿ wymiana s³ów z tymi, którzy nied³ugo nie wypowiedz¹ ju¿ ¿adnego zdania. Dosyæ przekomarzañ przed bitw¹. Zabiæ ich!
+{MESSAGE Marbus () () _"Mêczy mnie ju¿ wymiana s³ów z tymi, którzy nied³ugo nie wypowiedz¹ ju¿ ¿adnego zdania. Dosyæ przekomarzañ przed bitw¹. Zabiæ ich!
 
 
 2. Dialog zabicia pierwszego Jarla i pojawienie siê kawalerzystów.
 
-Jarl Sarif:
-Ugh... Przeklête... Orki... Beatrycze tyle dla was zrobi³a, a wy... Nie dotrzymaliœcie... S³owa...
+{MESSAGE Sarif () () _"Ugh... Przeklête... Orki... Beatrycze tyle dla was zrobi³a, a wy... Nie dotrzymaliœcie... S³owa...
 
-Aidala:
-Nie martw siê, Jarlu. Ja go dotrzymam. Obiecujê, ¿e nikt nie tknie Twego cia³a... Prócz moich córek, które por¹bi¹ je po bitwie... 
+{MESSAGE Aidala () () _"Nie martw siê, Jarlu. Ja go dotrzymam. Obiecujê, ¿e nikt nie tknie Twego cia³a... Prócz moich córek, które por¹bi¹ je po bitwie... 
 
-Jarl Sarif:
-To nie koniec... Kawalerzyœci... Walczcie za Sojusz Pó³nocy...
+{MESSAGE Sarif () () _"To nie koniec... Kawalerzyœci... Walczcie za Sojusz Pó³nocy...
 
 *Jarl Sarif umiera, pojawiaj¹ siê kawalerzyœci.*
 
 Lord Weriel:
 Nadci¹gamy zgodnie z obietnic¹, któr¹ z³o¿yliœmy Pani Beatrycze! Ostatni lordowie, dowódcy, oficerowie i ¿o³nierze wierni idea³om Sojuszu Pó³nocy! Chwyæcie za swoje lance, szar¿¹ rozgromimy przeciwnika!
 
-Gewold:
-Nie mogê w to uwierzyæ...
+{MESSAGE Gewold () () _"Nie mogê w to uwierzyæ...
 
-Gewold:
-Uchowa³a siê tu jeszcze konina! Ci s¹ moi! Wojownicy, miecze w d³oñ! A koñ, na którym paraduje ten rycerz ma byæ mój!
+{MESSAGE Gewold () () _"Uchowa³a siê tu jeszcze konina! Ci s¹ moi! Wojownicy, miecze w d³oñ! A koñ, na którym paraduje ten rycerz ma byæ mój!
 
-Marbus:
-Niezbyt udana ta wasza zasadzka... Ju¿ nawet ta, któr¹ wykonali na nas wieœniacy w jednej z okolicznych wsi, by³a lepsza. Powiedzieli nam, ¿e kosztownoœci ukryli w stodole... Poszliœmy tam z Gewoldem, a w œrodku czeka³o ju¿ na nas tuzin ch³opów z wid³ami. Krzyczeli jak opêtani, gdy siê na nas rzucili.
+{MESSAGE Marbus () () _"Niezbyt udana ta wasza zasadzka... Ju¿ nawet ta, któr¹ wykonali na nas wieœniacy w jednej z okolicznych wsi, by³a lepsza. Powiedzieli nam, ¿e kosztownoœci ukryli w stodole... Poszliœmy tam z Gewoldem, a w œrodku czeka³o ju¿ na nas tuzin ch³opów z wid³ami. Krzyczeli jak opêtani, gdy siê na nas rzucili.
 
-Marbus:
-Jeszcze bardziej krzyczeli, gdy podpaliliœmy stodo³ê. No, ale dosyæ wspominania. Wyr¿n¹æ mi te koniki!
+{MESSAGE Marbus () () _"Jeszcze bardziej krzyczeli, gdy podpaliliœmy stodo³ê. No, ale dosyæ wspominania. Wyr¿n¹æ mi te koniki!
 
 
 3. Dialog œmierci kapitana kawalerzystów.
@@ -117,266 +96,196 @@ Jeszcze bardziej krzyczeli, gdy podpaliliœmy stodo³ê. No, ale dosyæ wspominania.
 Lord Weriel:
 Nie... Sojusz Pó³nocy... Lordowie... Nie mo¿emy paœæ... To nie mo¿e byæ koniec...
 
-Marbus:
-Mo¿e i jest. Wystarczaj¹co d³ugo sprawowaliœcie w³adze nad tymi ziemiami. Teraz nadszed³ czas na nowy porz¹dek. Porz¹dek Wielkiej Hordy! Tash ash krok narosh! Przynieœcie mi g³owê tego g³upca!
+{MESSAGE Marbus () () _"Mo¿e i jest. Wystarczaj¹co d³ugo sprawowaliœcie w³adze nad tymi ziemiami. Teraz nadszed³ czas na nowy porz¹dek. Porz¹dek Wielkiej Hordy! Tash ash krok narosh! Przynieœcie mi g³owê tego g³upca!
 
-Gewold:
-A mi jego konia! Po tej bitwie mam zamiar skosztowaæ pysznej koniny! WgryŸæ k³y w miêso ostatniego z wierzchowców Sojuszu Pó³nocy!
+{MESSAGE Gewold () () _"A mi jego konia! Po tej bitwie mam zamiar skosztowaæ pysznej koniny! WgryŸæ k³y w miêso ostatniego z wierzchowców Sojuszu Pó³nocy!
 
-Jêczmieñ:
-*Szczeka radoœnie, jakby ten pomys³ bardzo mu siê podoba³.*
+{MESSAGE petwolf () () _"*Szczeka radoœnie, jakby ten pomys³ bardzo mu siê podoba³.*
 
 
 4a. Dialog spotkania drugiego Jarla, Jarla Oferiu, jeœli wybraliœmy go do pomocy w walce z Dzikim Gonem i przetrwa³. Pojawia siê tylko wtedy, gdy Czerwony Kapturek nie ¿yje.
 
-Jarl Oferiu:
-Znów siê spotykamy, Marbusie. Tym razem jednak po przeciwnych stronach barykady.
+{MESSAGE Oferiu () () _"Znów siê spotykamy, Marbusie. Tym razem jednak po przeciwnych stronach barykady.
 
-Gewold:
-Jarl Oferiu! Nie s¹dzi³em, ¿e jeszcze Ciê spotkamy! Wykona³eœ kawa³ dobrej roboty pomagaj¹c nam pokonaæ Dziki Gon. Mo¿na rzec, ¿e bez Ciebie nie by³oby nas tutaj! Na pewno jesteœ z siebie dumny.
+{MESSAGE Gewold () () _"Jarl Oferiu! Nie s¹dzi³em, ¿e jeszcze Ciê spotkamy! Wykona³eœ kawa³ dobrej roboty pomagaj¹c nam pokonaæ Dziki Gon. Mo¿na rzec, ¿e bez Ciebie nie by³oby nas tutaj! Na pewno jesteœ z siebie dumny.
 
-Marbus:
-Milcz, Gewoldzie. Cieszê siê, ¿e znów mogê widzieæ Ciê w dobrym zdrowiu, Jarlu. Twoja pomoc naprawdê wiele dla nas znaczy³a. Czy jest coœ, co mogê dla Ciebie zrobiæ?
+{MESSAGE Marbus () () _"Milcz, Gewoldzie. Cieszê siê, ¿e znów mogê widzieæ Ciê w dobrym zdrowiu, Jarlu. Twoja pomoc naprawdê wiele dla nas znaczy³a. Czy jest coœ, co mogê dla Ciebie zrobiæ?
 
-Jarl Oferiu:
-Mo¿esz zebraæ Wielk¹ Hordê i opuœciæ pó³noc, ale jak mniemam, to zbyt wielkie ¿¹danie? No có¿... W takim razie niczego od Ciebie nie chcê. Stanê do walki i bêdê broni³ Pani Beatrycze do ostatniej kropli krwi.
+{MESSAGE Oferiu () () _"Mo¿esz zebraæ Wielk¹ Hordê i opuœciæ pó³noc, ale jak mniemam, to zbyt wielkie ¿¹danie? No có¿... W takim razie niczego od Ciebie nie chcê. Stanê do walki i bêdê broni³ Pani Beatrycze do ostatniej kropli krwi.
 
-Marbus:
-Szanujê to, Jarlu. Myœlê, ¿e móg³bym pozostawiæ Ciê przy ¿yciu i uczyniæ zarz¹dc¹ niewolników... Zarz¹dc¹ swojej rasy... Jednak obawiam siê, ¿e jesteœ na to zbyt dumny. Nie podj¹³byœ tej pracy, a raczej sam odebra³ sobie ¿ycie. Niemniej, dziêkujê za Twoj¹ pomoc w walce z Dzikim Gonem. Obiecujê, ¿e zabijemy Ciê szybko. Bezboleœnie.
+{MESSAGE Marbus () () _"Szanujê to, Jarlu. Myœlê, ¿e móg³bym pozostawiæ Ciê przy ¿yciu i uczyniæ zarz¹dc¹ niewolników... Zarz¹dc¹ swojej rasy... Jednak obawiam siê, ¿e jesteœ na to zbyt dumny. Nie podj¹³byœ tej pracy, a raczej sam odebra³ sobie ¿ycie. Niemniej, dziêkujê za Twoj¹ pomoc w walce z Dzikim Gonem. Obiecujê, ¿e zabijemy Ciê szybko. Bezboleœnie.
 
 
 4b. Dialog spotkania drugiego Jarla. Pojawia siê, gdy nie wybraliœmy do pomocy w walce z Dzikim Gonem Jarla Oferiu b¹dŸ gdy Jarl Oferiu pad³ w tamtej bitwie, a tak¿e: gdy Czerwony Kapturek nie ¿yje.
 
-Jarl Mooris:
-Stój, przeklêty orku! Przysiêgam na swój miecz, ¿e nie przejdziesz dalej!
+{MESSAGE Mooris () () _"Stój, przeklêty orku! Przysiêgam na swój miecz, ¿e nie przejdziesz dalej!
 
-Marbus:
-Stój. Zatrzymaj siê. OdejdŸ. Te s³owa dzia³aj¹ na mnie równie mocno jak "przeklêty" i "plugawy". To dosyæ nudne... Jesteœ nudny, Jarlu. Nawet staj¹c w obliczu Wielkiej Hordy nie staæ Ciê na ¿adne lepsze s³owa. Widzê jednak, ¿e nie nale¿ysz do starszyzny... M³ody, z mlekiem pod nosem... Dam Ci wiêc drug¹ szansê. No, powiedz coœ wznios³ego!
+{MESSAGE Marbus () () _"Stój. Zatrzymaj siê. OdejdŸ. Te s³owa dzia³aj¹ na mnie równie mocno jak "przeklêty" i "plugawy". To dosyæ nudne... Jesteœ nudny, Jarlu. Nawet staj¹c w obliczu Wielkiej Hordy nie staæ Ciê na ¿adne lepsze s³owa. Widzê jednak, ¿e nie nale¿ysz do starszyzny... M³ody, z mlekiem pod nosem... Dam Ci wiêc drug¹ szansê. No, powiedz coœ wznios³ego!
 
-Jarl Mooris:
-. . .
+{MESSAGE Mooris () () _". . .
 
-Marbus:
-Nie? Dobrze, Twój wybór. Gewoldzie, wybebeszcie go na oczach jego wojowników.
+{MESSAGE Marbus () () _"Nie? Dobrze, Twój wybór. Gewoldzie, wybebeszcie go na oczach jego wojowników.
 
-Gewold:
-Nie musisz mi tego powtarzaæ, Wielki Suwerenie! 
+{MESSAGE Gewold () () _"Nie musisz mi tego powtarzaæ, Wielki Suwerenie! 
 
 
 4c. Dialog spotkania Czerwonego Kapturka. Pojawia siê ona zawsze, gdy prze¿y³a w scenariuszu jedenastym.
 
-Gewold:
-Te elfy... To nie s¹ wojownicy Jarlów... Ale jestem pewien, ¿e gdzieœ ju¿ widzia³em te proporce i pancerze... Ha! Ju¿ pamiêtam! Krwawe Elfy! Wiedzia³em, ¿e jeszcze kiedyœ siê spotkamy, dziewczyno!
+{MESSAGE Gewold () () _"Te elfy... To nie s¹ wojownicy Jarlów... Ale jestem pewien, ¿e gdzieœ ju¿ widzia³em te proporce i pancerze... Ha! Ju¿ pamiêtam! Krwawe Elfy! Wiedzia³em, ¿e jeszcze kiedyœ siê spotkamy, dziewczyno!
 
-Czerwony Kapturek:
-Ja tak¿e wyczekiwa³am spotkania z wami. Oj, wyczekiwa³am... Po tym, jak mnie uwolniliœcie, by³am opluwana, bita i uwa¿ana za wasz¹ s³u¿kê. Wiele musia³am siê napracowaæ, by odzyskaæ szacunek w oczach moich wojowników... Ale uda³o siê. Oto jestem, potomkini Wyklêtego Landara, w³adczyni Krwawych Elfów!
+{MESSAGE RedHood () () _"Ja tak¿e wyczekiwa³am spotkania z wami. Oj, wyczekiwa³am... Po tym, jak mnie uwolniliœcie, by³am opluwana, bita i uwa¿ana za wasz¹ s³u¿kê. Wiele musia³am siê napracowaæ, by odzyskaæ szacunek w oczach moich wojowników... Ale uda³o siê. Oto jestem, potomkini Wyklêtego Landara, w³adczyni Krwawych Elfów!
 
-Marbus:
-Hahaha! Nawet nie wiesz, jak siê cieszê, ¿e Ciê widzê... Wiele siê zmieni³o, od naszego ostatniego spotkania. Ale jedno wci¹¿ pozostaje niezmienne: nie macie z nami szans. Choæ to tak ³adnie brzmi... Potomkini Landara staje siê pionkiem na szachownicy potomkini Kalenza... Powiedz, Beatrycze bardzo zbeszta³a Ciê za zaatakowanie nas w tamtej jaskini?
+{MESSAGE Marbus () () _"Hahaha! Nawet nie wiesz, jak siê cieszê, ¿e Ciê widzê... Wiele siê zmieni³o, od naszego ostatniego spotkania. Ale jedno wci¹¿ pozostaje niezmienne: nie macie z nami szans. Choæ to tak ³adnie brzmi... Potomkini Landara staje siê pionkiem na szachownicy potomkini Kalenza... Powiedz, Beatrycze bardzo zbeszta³a Ciê za zaatakowanie nas w tamtej jaskini?
 
-Czerwony Kapturek:
-Ty psie! Nie jestem niczyim pionkiem! Ja i moi wojownicy walczymy dla samych siebie. Nie interesuje nas pó³noc, ani Jarlowie, ani nawet Beatrycze! Nie jest moj¹ Pani¹! Walczymy z Tob¹, poniewa¿ Ciê nienawidzimy!
+{MESSAGE RedHood () () _"Ty psie! Nie jestem niczyim pionkiem! Ja i moi wojownicy walczymy dla samych siebie. Nie interesuje nas pó³noc, ani Jarlowie, ani nawet Beatrycze! Nie jest moj¹ Pani¹! Walczymy z Tob¹, poniewa¿ Ciê nienawidzimy!
 
-Marbus:
-Tak, jak nienawidzicie Jarlów. Ci¹gle nie mo¿esz niczego zmieniæ. To jest Ÿród³em Twojego gniewu, Twojej frustracji. Twoje oddzia³y s¹ zaciête, ale ma³e. Nie liczysz siê. Gdziekolwiek siê pojawisz, jesteœ tylko popychad³em. Nawet teraz kazali Ci strzec drogi do wiêkszej od siebie. Taki potencja³ zmarnowany...
+{MESSAGE Marbus () () _"Tak, jak nienawidzicie Jarlów. Ci¹gle nie mo¿esz niczego zmieniæ. To jest Ÿród³em Twojego gniewu, Twojej frustracji. Twoje oddzia³y s¹ zaciête, ale ma³e. Nie liczysz siê. Gdziekolwiek siê pojawisz, jesteœ tylko popychad³em. Nawet teraz kazali Ci strzec drogi do wiêkszej od siebie. Taki potencja³ zmarnowany...
 
-Czerwony Kapturek:
-Ty... Ugh... Przeklêty...
+{MESSAGE RedHood () () _"Ty... Ugh... Przeklêty...
 
-Marbus:
-Ale wiesz co...?
+{MESSAGE Marbus () () _"Ale wiesz co...?
 
 Opcja 1: "Krwawe Elfy mog¹ zostaæ czêœci¹ Wielkiej Hordy"
 Opcja 2: "Tym razem nie pozwolê Ci prze¿yæ"
 
 Po wybraniu Opcji 1:
 
-Marbus:
-Pozwolê Ci ¿yæ. Pozwolê Ci zachowaæ swoje oddzia³y. Pozwolê Ci nazywaæ siê Królow¹ Elfów. Staniesz siê na równi z moimi najbardziej oddanymi s³ugami, na równi z Gewoldem. Na równi nawet z Aidal¹! Po tej bitwie ka¿ê wynieœæ wszystkie skarby elfów i wysypaæ je u Twoich stóp. Zrób tylko jedno...
+{MESSAGE Marbus () () _"Pozwolê Ci ¿yæ. Pozwolê Ci zachowaæ swoje oddzia³y. Pozwolê Ci nazywaæ siê Królow¹ Elfów. Staniesz siê na równi z moimi najbardziej oddanymi s³ugami, na równi z Gewoldem. Na równi nawet z Aidal¹! Po tej bitwie ka¿ê wynieœæ wszystkie skarby elfów i wysypaæ je u Twoich stóp. Zrób tylko jedno...
 
-Czerwony Kapturek:
-. . .
+{MESSAGE RedHood () () _". . .
 
-Marbus:
-Pok³oñ siê mi.
+{MESSAGE Marbus () () _"Pok³oñ siê mi.
 
-Czerwony Kapturek:
-Nie! Ja siê nie k³aniam, ja nie mam panów! Jestem potomkini¹ Landara, przesycona jego nienawiœci¹, jego idea³ami, jego...
+{MESSAGE RedHood () () _"Nie! Ja siê nie k³aniam, ja nie mam panów! Jestem potomkini¹ Landara, przesycona jego nienawiœci¹, jego idea³ami, jego...
 
-Marbus:
-Wiesz, ¿e dotrzymam s³owa. Nienawidzisz mnie tak samo, jak Jarlów. Pod moj¹ piecz¹ Krwawe Elfy nareszcie stan¹ siê wa¿ne. Landar wreszcie pokona Kalenza, po tylu wiekach... Nie zas³u¿y³ na to? Nie chcia³by takiego koñca? Czy raczej wola³by, ¿eby jego jedyna potomkini zginê³a bezsensown¹ œmierci¹ w obronie Najwy¿szej Kap³anki, która nawet o niej nie pamiêta³a?
+{MESSAGE Marbus () () _"Wiesz, ¿e dotrzymam s³owa. Nienawidzisz mnie tak samo, jak Jarlów. Pod moj¹ piecz¹ Krwawe Elfy nareszcie stan¹ siê wa¿ne. Landar wreszcie pokona Kalenza, po tylu wiekach... Nie zas³u¿y³ na to? Nie chcia³by takiego koñca? Czy raczej wola³by, ¿eby jego jedyna potomkini zginê³a bezsensown¹ œmierci¹ w obronie Najwy¿szej Kap³anki, która nawet o niej nie pamiêta³a?
 
-Czerwony Kapturek:
-Ja... On... On wola³by, ¿eby Krwawe Elfy znów by³y silne...
+{MESSAGE RedHood () () _"Ja... On... On wola³by, ¿eby Krwawe Elfy znów by³y silne...
 
-Marbus:
-Pok³oñ siê mi...
+{MESSAGE Marbus () () _"Pok³oñ siê mi...
 
-Gewold:
-Hola, hola! Wielki Suwerenie... Nie uwa¿asz, ¿e to za du¿o? Nie potrzebujemy ich! S¹ niczym! Mogê zgnieœæ zarówno tê dziewczynê, jak i ca³y jej oddzia³ w zaledwie kilka chwil! Nie powinieneœ...
+{MESSAGE Gewold () () _"Hola, hola! Wielki Suwerenie... Nie uwa¿asz, ¿e to za du¿o? Nie potrzebujemy ich! S¹ niczym! Mogê zgnieœæ zarówno tê dziewczynê, jak i ca³y jej oddzia³ w zaledwie kilka chwil! Nie powinieneœ...
 
-Aidala:
-Ta Osoba myœli, ¿e nie do Ciebie nale¿y mówienie, co Wielki Suweren powinien, a czego nie powinien robiæ, Gewoldzie... I lepiej o tym pamiêtaj... Poza tym nie chodzi o dodatkowe si³y dla Wielkiej Hordy...
+{MESSAGE Aidala () () _"Ta Osoba myœli, ¿e nie do Ciebie nale¿y mówienie, co Wielki Suweren powinien, a czego nie powinien robiæ, Gewoldzie... I lepiej o tym pamiêtaj... Poza tym nie chodzi o dodatkowe si³y dla Wielkiej Hordy...
 
-Gewold:
-Nie? W takim razie o co...?
+{MESSAGE Gewold () () _"Nie? W takim razie o co...?
 
-Marbus:
-O moj¹ satysfakcjê. Od pocz¹tku ta dziewczyna stawia³a nam opór, a Krwawe Elfy od wieków polowa³y na nasz¹ rasê i sta³y za zniszczeniem dziesi¹tek pomniejszych klanów. Przy³¹czenie ich do Wielkiej Hordy bêdzie znacznie wiêkszym zwyciêstwem, ni¿ ich zniszczenie. Zatem, co odpowiesz, dziewczyno?
+{MESSAGE Marbus () () _"O moj¹ satysfakcjê. Od pocz¹tku ta dziewczyna stawia³a nam opór, a Krwawe Elfy od wieków polowa³y na nasz¹ rasê i sta³y za zniszczeniem dziesi¹tek pomniejszych klanów. Przy³¹czenie ich do Wielkiej Hordy bêdzie znacznie wiêkszym zwyciêstwem, ni¿ ich zniszczenie. Zatem, co odpowiesz, dziewczyno?
 
-Czerwony Kapturek:
-Ja...
+{MESSAGE RedHood () () _"Ja...
 
-Czerwony Kapturek:
-. . .
+{MESSAGE RedHood () () _". . .
 
-Czerwony Kapturek:
-*Klêka na jedno kolano i schyla g³owê. Jej wojownicy opuszczaj¹ ³uku i czyni¹ podobnie.*
+{MESSAGE RedHood () () _"*Klêka na jedno kolano i schyla g³owê. Jej wojownicy opuszczaj¹ ³uku i czyni¹ podobnie.*
 
-Marbus:
-Doskonale! Gewold, oœmieli³eœ mi siê sprzeciwiæ, wiêc bêdziesz odpowiedzialny za ¿ycie tej dziewczyny. Dbaj o to, by przetrwa³a tê bitwê, albo spotka Ciê kara... A teraz, Wielka Hordo, wyr¿n¹æ mi oddzia³y tej przeklêtej, elfiej wiedŸmy!
+{MESSAGE Marbus () () _"Doskonale! Gewold, oœmieli³eœ mi siê sprzeciwiæ, wiêc bêdziesz odpowiedzialny za ¿ycie tej dziewczyny. Dbaj o to, by przetrwa³a tê bitwê, albo spotka Ciê kara... A teraz, Wielka Hordo, wyr¿n¹æ mi oddzia³y tej przeklêtej, elfiej wiedŸmy!
 
 *Od tego momentu Czerwony Kapturek i wszystkie jej oddzia³y s¹ naszymi sojusznikami.*
 
 Po wybraniu Opcji 2:
 
-Marbus:
-Tym razem nie pope³niê tego b³êdu i nie pozwolê Ci ¿yæ. Obiecujê, ¿e zostan¹ spalone wszystkie Twoje sztandary, wszystkie wzmianki o Tobie zostan¹ usuniête z ksi¹g, ka¿dy z Twoich ¿o³nierzy zginie, a wypowiadanie Twojego imienia przez niewolników bêdzie karane œmierci¹. Nim minie to pokolenie, wszyscy zapomn¹ o tym, ¿e kiedykolwiek istnia³a jakaœ potomkini Landara!
+{MESSAGE Marbus () () _"Tym razem nie pope³niê tego b³êdu i nie pozwolê Ci ¿yæ. Obiecujê, ¿e zostan¹ spalone wszystkie Twoje sztandary, wszystkie wzmianki o Tobie zostan¹ usuniête z ksi¹g, ka¿dy z Twoich ¿o³nierzy zginie, a wypowiadanie Twojego imienia przez niewolników bêdzie karane œmierci¹. Nim minie to pokolenie, wszyscy zapomn¹ o tym, ¿e kiedykolwiek istnia³a jakaœ potomkini Landara!
 
-Czerwony Kapturek:
-Ty... Plugawy... Potworze! Póki starczy mi krwi, bêdê z Tob¹ walczyæ! Mój duch przeœladowaæ Ciê bêdzie nawet po œmierci. Nie umkniesz mojej zemsty! Przysiêgam Ci to!
+{MESSAGE RedHood () () _"Ty... Plugawy... Potworze! Póki starczy mi krwi, bêdê z Tob¹ walczyæ! Mój duch przeœladowaæ Ciê bêdzie nawet po œmierci. Nie umkniesz mojej zemsty! Przysiêgam Ci to!
 
-Marbus:
-Nie interesuj¹ mnie przysiêgi elfiej dziewczyny. Wielu przepowiada mi œmieræ i zemstê, a jednak jedni mœciciele zza grobu ju¿ po³amali sobie na mnie zêby. No, dosyæ gadania. Gewold, ka¿ swoim wojownikom poæwiartowaæ j¹ ¿ywcem.
+{MESSAGE Marbus () () _"Nie interesuj¹ mnie przysiêgi elfiej dziewczyny. Wielu przepowiada mi œmieræ i zemstê, a jednak jedni mœciciele zza grobu ju¿ po³amali sobie na mnie zêby. No, dosyæ gadania. Gewold, ka¿ swoim wojownikom poæwiartowaæ j¹ ¿ywcem.
 
-Gewold:
-Z rozkosz¹... S³yszeliœcie, ch³opcy! Na nich!
+{MESSAGE Gewold () () _"Z rozkosz¹... S³yszeliœcie, ch³opcy! Na nich!
 
 
 5a. Dialog zabicia drugiego Jarla.
 
-Jarl Mooris:
-Ugh... Co... Co wy robicie...?
+{MESSAGE Mooris () () _"Ugh... Co... Co wy robicie...?
 
-Gewold:
-Nie s³ysza³eœ naszego Wielkiego Suwerena? Wybebeszamy Ciê ¿ywcem!
+{MESSAGE Gewold () () _"Nie s³ysza³eœ naszego Wielkiego Suwerena? Wybebeszamy Ciê ¿ywcem!
 
-Jarl Mooris:
-Aaaa! Nie, proszê... Ugh...
+{MESSAGE Mooris () () _"Aaaa! Nie, proszê... Ugh...
 
 *Jarl Mooris umiera.*
 
-Gewold:
-Tak umieraj¹ g³upcy...
+{MESSAGE Gewold () () _"Tak umieraj¹ g³upcy...
 
 
 5b. Dialog zabicia Jarla Oferiu.
 
-Jarl Oferiu:
-Ugh... Psia koœæ... Nie dam rady d³u¿ej walczyæ...
+{MESSAGE Oferiu () () _"Ugh... Psia koœæ... Nie dam rady d³u¿ej walczyæ...
 
-Gewold:
-Kazaæ go wybebeszyæ?
+{MESSAGE Gewold () () _"Kazaæ go wybebeszyæ?
 
-Marbus:
-Nie. Jak mówi³em, wiele Ci zawdziêczamy, Jarlu. Dlatego zginiesz z honorem. Najl¿ejsz¹ œmierci¹, któr¹ zadamy wam podczas tej bitwy. Dajcie mu sztylet.
+{MESSAGE Marbus () () _"Nie. Jak mówi³em, wiele Ci zawdziêczamy, Jarlu. Dlatego zginiesz z honorem. Najl¿ejsz¹ œmierci¹, któr¹ zadamy wam podczas tej bitwy. Dajcie mu sztylet.
 
-Jarl Oferiu:
-B¹dŸ przeklêty, Marbusie... Kiedyœ upadniesz. Kiedyœ upadnie Wielka Horda, tak jak wówczas, gdy powstawa³ Sojusz Pó³nocy... To siê powtórzy... Orkowie nie mog¹ nad nami panowaæ...
+{MESSAGE Oferiu () () _"B¹dŸ przeklêty, Marbusie... Kiedyœ upadniesz. Kiedyœ upadnie Wielka Horda, tak jak wówczas, gdy powstawa³ Sojusz Pó³nocy... To siê powtórzy... Orkowie nie mog¹ nad nami panowaæ...
 
-Marbus:
-Czekam, Jarlu.
+{MESSAGE Marbus () () _"Czekam, Jarlu.
 
-Jarl Oferiu:
-*Podcina sobie ¿y³y.*
+{MESSAGE Oferiu () () _"*Podcina sobie ¿y³y.*
 
-Jarl Oferiu:
-Kiedyœ... Upadniecie...
+{MESSAGE Oferiu () () _"Kiedyœ... Upadniecie...
 
 *Jarl Oferiu umiera.*
 
 
 5c. Œmieræ Czerwonego Kapturka, gdy jest po naszej stronie.
 
-Czerwony Kapturek:
-Psia krew! Zdradziæ w³asn¹ rasê dla przysz³ej chwa³y... I umrzeæ tego samego dnia... Marbusie... Nie dotrzyma³eœ s³owa...
+{MESSAGE RedHood () () _"Psia krew! Zdradziæ w³asn¹ rasê dla przysz³ej chwa³y... I umrzeæ tego samego dnia... Marbusie... Nie dotrzyma³eœ s³owa...
 
-Marbus:
-Gewold! Mia³eœ sprawowaæ nad ni¹ pieczê! Przysiêgam, ¿e gdy ta bitwa siê skoñczy, zap³acisz mi za to!
+{MESSAGE Marbus () () _"Gewold! Mia³eœ sprawowaæ nad ni¹ pieczê! Przysiêgam, ¿e gdy ta bitwa siê skoñczy, zap³acisz mi za to!
 
-Gewold:
-By³a doros³a... By³a wojowniczk¹. Przyszed³em tu zabijaæ, a nie pilnowaæ Twoich dziewczynek!
+{MESSAGE Gewold () () _"By³a doros³a... By³a wojowniczk¹. Przyszed³em tu zabijaæ, a nie pilnowaæ Twoich dziewczynek!
 
-Aidala:
-Ta Osoba s¹dzi, ¿e powinieneœ zwa¿aæ na s³owa... Nie minie Ciê kara, jednak o tym porozmawiamy po bitwie...
+{MESSAGE Aidala () () _"Ta Osoba s¹dzi, ¿e powinieneœ zwa¿aæ na s³owa... Nie minie Ciê kara, jednak o tym porozmawiamy po bitwie...
 
 *Czerwony Kapturek umiera.*
 
 
 5d. Œmieræ Czerwonego Kapturka, gdy nie jest po naszej stronie.
 
-Czerwony Kapturek:
-Ugh... Psia krew... Ale przynajmniej odchodzê z godnoœci¹... Zrobi³am wszystko, co mog³am...
+{MESSAGE RedHood () () _"Ugh... Psia krew... Ale przynajmniej odchodzê z godnoœci¹... Zrobi³am wszystko, co mog³am...
 
-Marbus:
-Niewiele mog³aœ, g³upia dziewczyno... A jeœli chodzi o mnie, ja mogê bardzo wiele. I zawsze dotrzymujê s³owa. Wymarzê Twoje imiê z kart historii.
+{MESSAGE Marbus () () _"Niewiele mog³aœ, g³upia dziewczyno... A jeœli chodzi o mnie, ja mogê bardzo wiele. I zawsze dotrzymujê s³owa. Wymarzê Twoje imiê z kart historii.
 
 *Czerwony Kapturek umiera.*
 
 
 6. Dialog spotkania trzeciego Jarla i pojawienie siê krasnoludów.
 
-Jarl Ughirt Krwawa D³oñ:
-D³ugo wam zajê³o dojœcie do mojej linii obronnej, orkowie. Nie mog³em siê ju¿ wprost was doczekaæ. Tak, jak moi przyjaciele, których bardzo dobrze znacie.
+{MESSAGE Ughirt () () _"D³ugo wam zajê³o dojœcie do mojej linii obronnej, orkowie. Nie mog³em siê ju¿ wprost was doczekaæ. Tak, jak moi przyjaciele, których bardzo dobrze znacie.
 
 *Pojawiaj¹ siê krasnoludy.*
 
-Gilfit Œnie¿nostopy:
-Klan Œnie¿nostopych bêdzie z wami walczy³ do ostatniego ¿o³nierza! Jestem Gilfit, ostatni z mojego rodu. Przedarliœcie siê przez nasze jaskinie, by uciec przed nieumar³ymi. Choæ teraz budzicie strach na ca³ej pó³nocy, my pamiêtamy wasz¹ ucieczkê, wasz¹ próbê ratowania ¿ycia!
+{MESSAGE Gilfit () () _"Klan Œnie¿nostopych bêdzie z wami walczy³ do ostatniego ¿o³nierza! Jestem Gilfit, ostatni z mojego rodu. Przedarliœcie siê przez nasze jaskinie, by uciec przed nieumar³ymi. Choæ teraz budzicie strach na ca³ej pó³nocy, my pamiêtamy wasz¹ ucieczkê, wasz¹ próbê ratowania ¿ycia!
 
-Aidala:
-Wasz klan... Ta Osoba go nienawidzi... Ukrywa³am siê w cieniu waszych wód wraz ze swoimi córkami, póki nie spotka³am Wielkiego Suwerena... Dzisiaj nasta³ czas zemsty. Pancerze i koœci krasnoludów s¹ twarde... Dobrze zatem, i¿ miecze Tej Osoby wykonano z naprawdê dobrej jakoœci stali.
+{MESSAGE Aidala () () _"Wasz klan... Ta Osoba go nienawidzi... Ukrywa³am siê w cieniu waszych wód wraz ze swoimi córkami, póki nie spotka³am Wielkiego Suwerena... Dzisiaj nasta³ czas zemsty. Pancerze i koœci krasnoludów s¹ twarde... Dobrze zatem, i¿ miecze Tej Osoby wykonano z naprawdê dobrej jakoœci stali.
 
-Marbus:
-Krasnoludy? A myœla³em, ¿e wyci¹gnêliœmy ju¿ wszystkie szkodniki z podziemi. Dobrze, ¿e pokaza³y siê na powierzchni. Ostatni raz nacieszymy oczy widokiem tych kar³ów, nim ostatecznie wybijemy tê rasê i uczynimy z nich naszych niewolników. A Ty, Jarlu... Jesteœ stary, zgorzknia³y i pe³en wyblak³ej nienawiœci. Pora ukróciæ Twój ¿ywot.
+{MESSAGE Marbus () () _"Krasnoludy? A myœla³em, ¿e wyci¹gnêliœmy ju¿ wszystkie szkodniki z podziemi. Dobrze, ¿e pokaza³y siê na powierzchni. Ostatni raz nacieszymy oczy widokiem tych kar³ów, nim ostatecznie wybijemy tê rasê i uczynimy z nich naszych niewolników. A Ty, Jarlu... Jesteœ stary, zgorzknia³y i pe³en wyblak³ej nienawiœci. Pora ukróciæ Twój ¿ywot.
 
-Jarl Ughirt Krwawa D³oñ:
-Pamiêtam wiêcej bitw, ni¿ Ty masz lat, Wielki Suwerenie. Przewy¿szam was geniuszem taktycznym, doœwiadczeniem, wiedz¹... Nie podo³acie moim ¿o³nierzom.
+{MESSAGE Ughirt () () _"Pamiêtam wiêcej bitw, ni¿ Ty masz lat, Wielki Suwerenie. Przewy¿szam was geniuszem taktycznym, doœwiadczeniem, wiedz¹... Nie podo³acie moim ¿o³nierzom.
 
-Gewold:
-Podo³amy, poniewa¿ przerastamy was liczb¹, ¿¹dz¹ krwi i rynsztunkiem. Nawet nie wiesz, jak wiele broni teraz mamy... Wiêksz¹ jej czêœæ trzymamy w magazynach, bo nawet Wielka Horda nie jest w stanie zu¿yæ jej ca³ej. A wy? W tym lesie chyba trudno o metal. Jak wiêc walczycie? Dziel¹c siê jednym mieczem na trzech wojowników?
+{MESSAGE Gewold () () _"Podo³amy, poniewa¿ przerastamy was liczb¹, ¿¹dz¹ krwi i rynsztunkiem. Nawet nie wiesz, jak wiele broni teraz mamy... Wiêksz¹ jej czêœæ trzymamy w magazynach, bo nawet Wielka Horda nie jest w stanie zu¿yæ jej ca³ej. A wy? W tym lesie chyba trudno o metal. Jak wiêc walczycie? Dziel¹c siê jednym mieczem na trzech wojowników?
 
-Jarl Ughirt Krwawa D³oñ:
-Nawet, jeœli brakuje nam rynsztunku, wci¹¿ mamy ducha walki! Elfy, krasnoludy! Odp³aæmy im za wszystko, co nam uczynili!
+{MESSAGE Ughirt () () _"Nawet, jeœli brakuje nam rynsztunku, wci¹¿ mamy ducha walki! Elfy, krasnoludy! Odp³aæmy im za wszystko, co nam uczynili!
 
-Gilfit Œnie¿nostopy:
-Za Œnie¿nostopych!
+{MESSAGE Gilfit () () _"Za Œnie¿nostopych!
 
 
 7. Dialog zabicia trzeciego Jarla.
 
-Jarl Ughirt Krwawa D³oñ:
-Tyle lat doœwiadczenia... Walk... Szlachetnych bitw i pojedynków... ¯eby zostaæ zakatowany przez... Plugawych orków! Powinniœcie wymrzeæ, gdy zaatakowa³ Dziki Gon. Nie zrobiliœcie tego... Plenicie siê za to, jak... Jak robactwo! Jak karaluchy b¹dŸ mrówki! Szerzycie swoj¹ ohydê... Niszczycie wszystko, co piêkne, o co warto walczyæ...
+{MESSAGE Ughirt () () _"Tyle lat doœwiadczenia... Walk... Szlachetnych bitw i pojedynków... ¯eby zostaæ zakatowany przez... Plugawych orków! Powinniœcie wymrzeæ, gdy zaatakowa³ Dziki Gon. Nie zrobiliœcie tego... Plenicie siê za to, jak... Jak robactwo! Jak karaluchy b¹dŸ mrówki! Szerzycie swoj¹ ohydê... Niszczycie wszystko, co piêkne, o co warto walczyæ...
 
-Marbus:
-Có¿, wiêkszoœæ osób ma o nas takie zdanie. Problem jest taki, i¿ niewiele nas ono interesuje. Tak, jak rozmowa z Tob¹... ¯egnaj, Jarlu... Mam nadziejê, ¿e w zaœwiatach staniesz siê mniej zgorzknia³ym starcem.
+{MESSAGE Marbus () () _"Có¿, wiêkszoœæ osób ma o nas takie zdanie. Problem jest taki, i¿ niewiele nas ono interesuje. Tak, jak rozmowa z Tob¹... ¯egnaj, Jarlu... Mam nadziejê, ¿e w zaœwiatach staniesz siê mniej zgorzknia³ym starcem.
 
 *Jarl umiera.*
 
 
 8. Œmieræ kapitana krasnoludów.
 
-Gilfit Œnie¿nostopy:
-Nie... Beze mnie... Klan Œnie¿nostopych...
+{MESSAGE Gilfit () () _"Nie... Beze mnie... Klan Œnie¿nostopych...
 
-Marbus:
-Twój klan jest przesz³oœci¹. Tak, jak ca³a Knalga. Zdepczemy was, zmusimy do niewolniczej pracy i sprawimy, ¿e wasza pycha oraz duma przepadn¹, a na ich miejscu znajdzie siê strach przed Wielk¹ Hord¹. ¯aden z synów podziemi nie oœmieli siê ju¿ podnieœæ topora przeciwko orkowym panom!
+{MESSAGE Marbus () () _"Twój klan jest przesz³oœci¹. Tak, jak ca³a Knalga. Zdepczemy was, zmusimy do niewolniczej pracy i sprawimy, ¿e wasza pycha oraz duma przepadn¹, a na ich miejscu znajdzie siê strach przed Wielk¹ Hord¹. ¯aden z synów podziemi nie oœmieli siê ju¿ podnieœæ topora przeciwko orkowym panom!
 
-Gilfit Œnie¿nostopy:
-Niech Ciê... Do diab³a... Krasnoludy nigdy... Ci siê nie pok³oni¹...
+{MESSAGE Gilfit () () _"Niech Ciê... Do diab³a... Krasnoludy nigdy... Ci siê nie pok³oni¹...
 
-Marbus:
-Pok³oni¹ mi siê wasze kawa³ki! Rozerwaæ mi go na strzêpy i rzuciæ resztki do moich stóp!
+{MESSAGE Marbus () () _"Pok³oni¹ mi siê wasze kawa³ki! Rozerwaæ mi go na strzêpy i rzuciæ resztki do moich stóp!
 
 *Gilfit Œnie¿nostopy umiera.*
 
@@ -388,70 +297,50 @@ Pok³oni¹ mi siê wasze kawa³ki! Rozerwaæ mi go na strzêpy i rzuciæ resztki do moi
 
 10a. Dialog spotkania Beatrycze, gdy Czerwony Kapturek ¿yje i jest po naszej stronie.
 
-Czerwony Kapturek:
-Oto i elfia wiedŸma, potomkini Kalenza, Beatrycze. Od lat marzy³am o chwili, gdy jawnie Ci siê przeciwstawiê. Za te wszystkie momenty, gdy jawnie mn¹ pogardza³aœ, uwa¿a³aœ za gorsz¹ od siebie... Nawet nie wiesz, jak bardzo Ciê nienawidzê...
+{MESSAGE RedHood () () _"Oto i elfia wiedŸma, potomkini Kalenza, Beatrycze. Od lat marzy³am o chwili, gdy jawnie Ci siê przeciwstawiê. Za te wszystkie momenty, gdy jawnie mn¹ pogardza³aœ, uwa¿a³aœ za gorsz¹ od siebie... Nawet nie wiesz, jak bardzo Ciê nienawidzê...
 
-Beatrycze:
-Twoja zdrada jest mi boleœniejsza, niŸli œmieræ wszystkich tych, którzy bronili tego miejsca. Oni zginêli chwalebn¹ œmierci¹, walcz¹c o to, w co wierzyli. A Ty? Wybra³aœ ¿ycie razem z Wielk¹ Hord¹, razem z tymi, którzy mordowali Twoich pobratymców. Uczepi³aœ siê tej ³aski i zdradzi³aœ nas.
+{MESSAGE Beatrice () () _"Twoja zdrada jest mi boleœniejsza, niŸli œmieræ wszystkich tych, którzy bronili tego miejsca. Oni zginêli chwalebn¹ œmierci¹, walcz¹c o to, w co wierzyli. A Ty? Wybra³aœ ¿ycie razem z Wielk¹ Hord¹, razem z tymi, którzy mordowali Twoich pobratymców. Uczepi³aœ siê tej ³aski i zdradzi³aœ nas.
 
-Czerwony Kapturek:
-Zrobi³am to, co by³o najlepsze dla mnie i Krwawych Elfów. Od lat siê spieramy, wreszcie nadesz³a pora, by rozwi¹zaæ ten konflikt. Wynieœæ siê na wy¿yny, mieæ was pod stopami i patrzeæ, jak prowadzicie niewolniczy ¿ywot- oto, czego chcê! 
+{MESSAGE RedHood () () _"Zrobi³am to, co by³o najlepsze dla mnie i Krwawych Elfów. Od lat siê spieramy, wreszcie nadesz³a pora, by rozwi¹zaæ ten konflikt. Wynieœæ siê na wy¿yny, mieæ was pod stopami i patrzeæ, jak prowadzicie niewolniczy ¿ywot- oto, czego chcê! 
 
-Beatrycze:
-Sta³aœ siê równie pod³a, co orkowie, dziewczyno. To by³o jednak do przewidzenia... Od zawsze kipia³aœ nienawiœci¹, niezdrow¹ fascynacj¹ zabijaniem oraz rz¹dz¹ w³adzy. Jak mog³aœ myœleæ, ¿e kiedyœ staniesz siê nam równa? Powiadam Ci, nawet jeœli mój lud zmuszony bêdzie czyœciæ Ci buty, ka¿dy bêdzie Tob¹ pogardza³ w swoim duchu.
+{MESSAGE Beatrice () () _"Sta³aœ siê równie pod³a, co orkowie, dziewczyno. To by³o jednak do przewidzenia... Od zawsze kipia³aœ nienawiœci¹, niezdrow¹ fascynacj¹ zabijaniem oraz rz¹dz¹ w³adzy. Jak mog³aœ myœleæ, ¿e kiedyœ staniesz siê nam równa? Powiadam Ci, nawet jeœli mój lud zmuszony bêdzie czyœciæ Ci buty, ka¿dy bêdzie Tob¹ pogardza³ w swoim duchu.
 
-Beatrycze:
-Marbusie... ¯a³ujê, ¿e spotykamy siê w takich okolicznoœciach. Nie wiem, co w Ciebie wst¹pi³o. Dlaczego pozwoli³eœ na to, by Twoj¹ rasê znów ogarn¹³ sza³ krwi? Dlaczego doprowadzi³eœ do tego momentu? Czy nie widzisz, jak wszyscy cierpi¹ za Twoj¹ przyczyn¹?
+{MESSAGE Beatrice () () _"Marbusie... ¯a³ujê, ¿e spotykamy siê w takich okolicznoœciach. Nie wiem, co w Ciebie wst¹pi³o. Dlaczego pozwoli³eœ na to, by Twoj¹ rasê znów ogarn¹³ sza³ krwi? Dlaczego doprowadzi³eœ do tego momentu? Czy nie widzisz, jak wszyscy cierpi¹ za Twoj¹ przyczyn¹?
 
-Marbus:
-Moi wojownicy nie cierpi¹. Prowadzê Wielk¹ Hordê œwietlan¹ drog¹, któr¹ pragnie byæ prowadzona. Jeœli zaœ chodzi o powód... Có¿, wszystko mog³o wygl¹daæ inaczej. Mog³o, gdyby mój kuzyn ¿y³. Gdybyœcie rzeczywiœcie starali siê zachowaæ przymierze z nami.
+{MESSAGE Marbus () () _"Moi wojownicy nie cierpi¹. Prowadzê Wielk¹ Hordê œwietlan¹ drog¹, któr¹ pragnie byæ prowadzona. Jeœli zaœ chodzi o powód... Có¿, wszystko mog³o wygl¹daæ inaczej. Mog³o, gdyby mój kuzyn ¿y³. Gdybyœcie rzeczywiœcie starali siê zachowaæ przymierze z nami.
 
-Beatrycze:
-O Twoim kuzynie dowiedzia³am siê dopiero po fakcie... Nie chcia³am jego œmierci. Ca³ym sercem wierzy³am w to, ¿e mo¿ecie odmieniæ swoje przeznaczenie. A jednak do tego nie dosz³o. Znów robicie wszystko, by was nienawidziæ. Za tysi¹c lat Król Gonu powróci, by was zniszczyæ. Przedtem s¹dzi³am, ¿e jest on naszym przekleñstwem, ale teraz rozumiem: on by³ nasz¹ szans¹. Szans¹ na pozbycie siê was. Okupion¹ wielk¹ cen¹, ale jednak szans¹...
+{MESSAGE Beatrice () () _"O Twoim kuzynie dowiedzia³am siê dopiero po fakcie... Nie chcia³am jego œmierci. Ca³ym sercem wierzy³am w to, ¿e mo¿ecie odmieniæ swoje przeznaczenie. A jednak do tego nie dosz³o. Znów robicie wszystko, by was nienawidziæ. Za tysi¹c lat Król Gonu powróci, by was zniszczyæ. Przedtem s¹dzi³am, ¿e jest on naszym przekleñstwem, ale teraz rozumiem: on by³ nasz¹ szans¹. Szans¹ na pozbycie siê was. Okupion¹ wielk¹ cen¹, ale jednak szans¹...
 
-Marbus:
-To ju¿ bez znaczenia. Król Gonu nie ¿yje, a jeœli powróci, zastanie nas znacznie silniejszych, ni¿ w tym tysi¹cleciu. Róg Gjallarhorn bêdzie przekazywany Wielkiemu Suwerenowi z ka¿dym pokoleniem... Bêdziemy gotowi na nadejœcie tej kl¹twy.
+{MESSAGE Marbus () () _"To ju¿ bez znaczenia. Król Gonu nie ¿yje, a jeœli powróci, zastanie nas znacznie silniejszych, ni¿ w tym tysi¹cleciu. Róg Gjallarhorn bêdzie przekazywany Wielkiemu Suwerenowi z ka¿dym pokoleniem... Bêdziemy gotowi na nadejœcie tej kl¹twy.
 
-Beatrycze:
-Rozmowa nie przyniesie nam ju¿ niczego. Atakuj... Jestem gotowa na cios...
+{MESSAGE Beatrice () () _"Rozmowa nie przyniesie nam ju¿ niczego. Atakuj... Jestem gotowa na cios...
 
-Marbus:
-A ja z chêci¹ go zadam. Naprzód, moi wojownicy! Otoczyæ jej twierdzê, nie pozwoliæ uciec ¿adnemu drzewolubowi! Oto chwila naszego ostatecznego triumfu! Tash'kfug adin!
+{MESSAGE Marbus () () _"A ja z chêci¹ go zadam. Naprzód, moi wojownicy! Otoczyæ jej twierdzê, nie pozwoliæ uciec ¿adnemu drzewolubowi! Oto chwila naszego ostatecznego triumfu! Tash'kfug adin!
 
 
 10b. Dialog spotkania Beatrycze, gdy Czerwony Kapturek nie ¿yje lub nie jest po naszej stronie.
 
-Beatrycze:
-Marbusie... ¯a³ujê, ¿e spotykamy siê w takich okolicznoœciach. Nie wiem, co w Ciebie wst¹pi³o. Dlaczego pozwoli³eœ na to, by Twoj¹ rasê znów ogarn¹³ sza³ krwi? Dlaczego doprowadzi³eœ do tego momentu? Czy nie widzisz, jak wszyscy cierpi¹ za Twoj¹ przyczyn¹?
+{MESSAGE Beatrice () () _"Marbusie... ¯a³ujê, ¿e spotykamy siê w takich okolicznoœciach. Nie wiem, co w Ciebie wst¹pi³o. Dlaczego pozwoli³eœ na to, by Twoj¹ rasê znów ogarn¹³ sza³ krwi? Dlaczego doprowadzi³eœ do tego momentu? Czy nie widzisz, jak wszyscy cierpi¹ za Twoj¹ przyczyn¹?
 
-Marbus:
-Moi wojownicy nie cierpi¹. Prowadzê Wielk¹ Hordê œwietlan¹ drog¹, któr¹ pragnie byæ prowadzona. Jeœli zaœ chodzi o powód... Có¿, wszystko mog³o wygl¹daæ inaczej. Mog³o, gdyby mój kuzyn ¿y³. Gdybyœcie rzeczywiœcie starali siê zachowaæ przymierze z nami.
+{MESSAGE Marbus () () _"Moi wojownicy nie cierpi¹. Prowadzê Wielk¹ Hordê œwietlan¹ drog¹, któr¹ pragnie byæ prowadzona. Jeœli zaœ chodzi o powód... Có¿, wszystko mog³o wygl¹daæ inaczej. Mog³o, gdyby mój kuzyn ¿y³. Gdybyœcie rzeczywiœcie starali siê zachowaæ przymierze z nami.
 
-Beatrycze:
-O Twoim kuzynie dowiedzia³am siê dopiero po fakcie... Nie chcia³am jego œmierci. Ca³ym sercem wierzy³am w to, ¿e mo¿ecie odmieniæ swoje przeznaczenie. A jednak do tego nie dosz³o. Znów robicie wszystko, by was nienawidziæ. Za tysi¹c lat Król Gonu powróci, by was zniszczyæ. Przedtem s¹dzi³am, ¿e jest on naszym przekleñstwem, ale teraz rozumiem: on by³ nasz¹ szans¹. Szans¹ na pozbycie siê was. Okupion¹ wielk¹ cen¹, ale jednak szans¹...
+{MESSAGE Beatrice () () _"O Twoim kuzynie dowiedzia³am siê dopiero po fakcie... Nie chcia³am jego œmierci. Ca³ym sercem wierzy³am w to, ¿e mo¿ecie odmieniæ swoje przeznaczenie. A jednak do tego nie dosz³o. Znów robicie wszystko, by was nienawidziæ. Za tysi¹c lat Król Gonu powróci, by was zniszczyæ. Przedtem s¹dzi³am, ¿e jest on naszym przekleñstwem, ale teraz rozumiem: on by³ nasz¹ szans¹. Szans¹ na pozbycie siê was. Okupion¹ wielk¹ cen¹, ale jednak szans¹...
 
-Marbus:
-To ju¿ bez znaczenia. Król Gonu nie ¿yje, a jeœli powróci, zastanie nas znacznie silniejszych, ni¿ w tym tysi¹cleciu. Róg Gjallarhorn bêdzie przekazywany Wielkiemu Suwerenowi z ka¿dym pokoleniem... Bêdziemy gotowi na nadejœcie tej kl¹twy.
+{MESSAGE Marbus () () _"To ju¿ bez znaczenia. Król Gonu nie ¿yje, a jeœli powróci, zastanie nas znacznie silniejszych, ni¿ w tym tysi¹cleciu. Róg Gjallarhorn bêdzie przekazywany Wielkiemu Suwerenowi z ka¿dym pokoleniem... Bêdziemy gotowi na nadejœcie tej kl¹twy.
 
-Beatrycze:
-Rozmowa nie przyniesie nam ju¿ niczego. Atakuj... Jestem gotowa na cios...
+{MESSAGE Beatrice () () _"Rozmowa nie przyniesie nam ju¿ niczego. Atakuj... Jestem gotowa na cios...
 
-Marbus:
-A ja z chêci¹ go zadam. Naprzód, moi wojownicy! Otoczyæ jej twierdzê, nie pozwoliæ uciec ¿adnemu drzewolubowi! Oto chwila naszego ostatecznego triumfu! Tash'kfug adin!
+{MESSAGE Marbus () () _"A ja z chêci¹ go zadam. Naprzód, moi wojownicy! Otoczyæ jej twierdzê, nie pozwoliæ uciec ¿adnemu drzewolubowi! Oto chwila naszego ostatecznego triumfu! Tash'kfug adin!
 
 
 11a. Zabicie Beatrycze i zakoñczenie scenariusza.
 
-Beatrycze:
-Wiêc tak wygl¹da œmieræ... Jest tak zimno... I samotnie...
+{MESSAGE Beatrice () () _"Wiêc tak wygl¹da œmieræ... Jest tak zimno... I samotnie...
 
-Marbus:
-Ka¿da œmieræ jest lepsza od tego, co zgotujemy tym, którzy przetrwaj¹. ¯ycie pod jarzmem Wielkiej Hordy bêdzie dla nich cierpieniem wiêkszym, ni¿ fizyczny ból. A ka¿dy, absolutnie ka¿dy cierpi¹cy bêdzie móg³ zawdziêczaæ to tylko Tobie. To Ty przegra³aœ. Ty ich zawiod³aœ... Umieraj z t¹ myœl¹, Beatrycze.
+{MESSAGE Marbus () () _"Ka¿da œmieræ jest lepsza od tego, co zgotujemy tym, którzy przetrwaj¹. ¯ycie pod jarzmem Wielkiej Hordy bêdzie dla nich cierpieniem wiêkszym, ni¿ fizyczny ból. A ka¿dy, absolutnie ka¿dy cierpi¹cy bêdzie móg³ zawdziêczaæ to tylko Tobie. To Ty przegra³aœ. Ty ich zawiod³aœ... Umieraj z t¹ myœl¹, Beatrycze.
 
-Beatrycze:
-Zakoñcz to...
+{MESSAGE Beatrice () () _"Zakoñcz to...
 
-Marbus:
-¯egnaj, elfia wiedŸmo. Tak koñczy siê Twoja historii i zaczyna ca³kiem nowa opowieœæ. Opowieœæ o niezwyciê¿onej, panuj¹cej nad ca³¹ pó³noc¹ Wielkiej Hordzie!
+{MESSAGE Marbus () () _"¯egnaj, elfia wiedŸmo. Tak koñczy siê Twoja historii i zaczyna ca³kiem nowa opowieœæ. Opowieœæ o niezwyciê¿onej, panuj¹cej nad ca³¹ pó³noc¹ Wielkiej Hordzie!
 
 *Beatrycze umiera, scenariusz siê koñczy.*

@@ -38,17 +38,13 @@ Dialogi:
 
 1. Pocz¹tkowy.
 
-Gewold:
-Piêknie! Miêliœmy walczyæ z Dzikim Gonem, a nie uganiaæ siê za niedobitkami ludzi i elfów. Na dodatek brniemy po pas w œnie¿nych zaspach. Te warunki nie nadaj¹ siê do walki z nieumar³ymi.
+{MESSAGE Gewold () () _"Piêknie! Miêliœmy walczyæ z Dzikim Gonem, a nie uganiaæ siê za niedobitkami ludzi i elfów. Na dodatek brniemy po pas w œnie¿nych zaspach. Te warunki nie nadaj¹ siê do walki z nieumar³ymi.
 
-Aidala:
-Woda tutaj jest bardzo zimna i przykryta grub¹ warstw¹ lodu. Obawiam siê, ¿e Ta Osoba i jej córki nie bêd¹ zbyt przydatne podczas tej bitwy.
+{MESSAGE Aidala () () _"Woda tutaj jest bardzo zimna i przykryta grub¹ warstw¹ lodu. Obawiam siê, ¿e Ta Osoba i jej córki nie bêd¹ zbyt przydatne podczas tej bitwy.
 
-Marbus:
-Oboje macie racjê, jednak wojska nieumar³ych jeszcze nie zaatakowa³y na po³udniu. Wezwanie teraz Króla Gonu mija³oby siê z celem. Postarajmy siê jak najszybciej znaleŸæ naszych sojuszników i bezpiecznie doprowadziæ ich do obozu.
+{MESSAGE Marbus () () _"Oboje macie racjê, jednak wojska nieumar³ych jeszcze nie zaatakowa³y na po³udniu. Wezwanie teraz Króla Gonu mija³oby siê z celem. Postarajmy siê jak najszybciej znaleŸæ naszych sojuszników i bezpiecznie doprowadziæ ich do obozu.
 
-Marbus:
-Gdyby by³ tu Kochan, ju¿ dawno zbada³by na swoim wilku ca³e to miejsce i moglibyœmy ruszyæ dalej... Ehh... Brakuje mi Ciebie, kuzynie. ¯a³ujê, ¿e zgin¹³eœ tak bezsensown¹ œmierci¹.
+{MESSAGE Marbus () () _"Gdyby by³ tu Kochan, ju¿ dawno zbada³by na swoim wilku ca³e to miejsce i moglibyœmy ruszyæ dalej... Ehh... Brakuje mi Ciebie, kuzynie. ¯a³ujê, ¿e zgin¹³eœ tak bezsensown¹ œmierci¹.
 
 
 2. Dialog natkniêcia siê na pierwszy obóz. Tutaj zak³adam, ¿e bêdzie to obóz ludzi, jednak oba dialogi s¹ napisane tak, by pasowa³y, niezale¿nie od tego, na który natkniemy siê pierwsi.
@@ -56,20 +52,17 @@ Gdyby by³ tu Kochan, ju¿ dawno zbada³by na swoim wilku ca³e to miejsce i mogliby
 Kapitan Rylis (kawalerzysta 2/3 lvl?):
 Œciana tarcz! Uformowaæ œcianê tarcz! Nadchodz¹ z drugiej strony!
 
-Gewold:
-I mamy naszych kochanych braci z Sojuszu Pó³nocy. 
+{MESSAGE Gewold () () _"I mamy naszych kochanych braci z Sojuszu Pó³nocy. 
 
 Kapitan Rylis:
 Orkowie? Co wy tu robicie?! Z tego, co mi wiadomo, Wielka Horda mia³a zdobyæ ten ca³y magiczny róg i...
 
-Marbus:
-Róg Gjallarhorn jest ju¿ zdobyty, kapitanie. Na razie jednak nie bêdziemy wzywaæ Króla Gonu. Wys³ano nas, by was odnaleŸæ i doprowadziæ bezpiecznie do naszego obozu. A teraz... Musisz oddaæ mi dowództwo.
+{MESSAGE Marbus () () _"Róg Gjallarhorn jest ju¿ zdobyty, kapitanie. Na razie jednak nie bêdziemy wzywaæ Króla Gonu. Wys³ano nas, by was odnaleŸæ i doprowadziæ bezpiecznie do naszego obozu. A teraz... Musisz oddaæ mi dowództwo.
 
 Kapitan Rylis:
 Nawet, jeœli mówisz prawdê, nie muszê oddawaæ Ci dowództwa! Wiem najlepiej, jak ustawiæ swoich ludzi. Znam ich wszystkich i nie pozwolê, by jakiœ ork...
 
-Aidala:
-Ta Osoba s¹dzi, ¿e powinieneœ uwa¿aæ na s³owa. Mia³eœ ju¿ okazjê byæ dowódc¹ i zawiod³eœ. Nie potraficie poradziæ sobie z nieumar³ymi, a my tak. Wasze pierwsze wiêksze zwyciêstwo nad nimi odby³o siê akurat wtedy, gdy stanêliœmy po waszej stronie. Bez nas zginiecie.
+{MESSAGE Aidala () () _"Ta Osoba s¹dzi, ¿e powinieneœ uwa¿aæ na s³owa. Mia³eœ ju¿ okazjê byæ dowódc¹ i zawiod³eœ. Nie potraficie poradziæ sobie z nieumar³ymi, a my tak. Wasze pierwsze wiêksze zwyciêstwo nad nimi odby³o siê akurat wtedy, gdy stanêliœmy po waszej stronie. Bez nas zginiecie.
 
 Kapitan Rylis:
 Ja... Có¿, niech tak bêdzie. Moi ludzie s¹ teraz pod Twoj¹ komend¹.
@@ -80,20 +73,16 @@ Ja... Có¿, niech tak bêdzie. Moi ludzie s¹ teraz pod Twoj¹ komend¹.
 Jarl Oferiu (mistrz miecza?):
 Wycofywaæ siê w stronê obozu! Wycofywaæ siê! Gdy bêdziemy na fortyfikacjach, nieumarli nie dadz¹ nam rady... A to... Co...?
 
-Aidala:
-Zdaje siê, ¿e znaleŸliœmy elfy, Marbusie.
+{MESSAGE Aidala () () _"Zdaje siê, ¿e znaleŸliœmy elfy, Marbusie.
 
-Marbus:
-B¹dŸ pozdrowiony, Jarlu. Jestem Marbus, dowodzê Wielk¹ Hord¹. Moim zadaniem jest doprowadziæ was bezpiecznie do naszego obozu.
+{MESSAGE Marbus () () _"B¹dŸ pozdrowiony, Jarlu. Jestem Marbus, dowodzê Wielk¹ Hord¹. Moim zadaniem jest doprowadziæ was bezpiecznie do naszego obozu.
 
 Jarl Oferiu:
 Nie jestem pewien, czy to dobry pomys³... Dlaczego nie wezwaliœcie Króla Gonu? Macie Róg Gjallarhorn? Pachnie mi to podstêpem.
 
-Gewold:
-G³upi elf! Moglibyœmy was wszystkich wypatroszyæ i na³o¿yæ na siebie wasze z³ote zbroje i zdobienia, a jednak przybywamy, by wyrwaæ was z opresji! Przeklêta elfia duma!
+{MESSAGE Gewold () () _"G³upi elf! Moglibyœmy was wszystkich wypatroszyæ i na³o¿yæ na siebie wasze z³ote zbroje i zdobienia, a jednak przybywamy, by wyrwaæ was z opresji! Przeklêta elfia duma!
 
-Marbus:
-Owszem, mamy róg. Nie u¿yjemy go jednak przed czasem, a dopiero wtedy, gdy nadejdzie na to pora. Muszê przej¹æ dowództwo nad Twoim oddzia³em, by was uratowaæ. Ka¿da chwila zw³oki, to ¿ycie jednego z Twoich wojowników. Pamiêtaj o tym.
+{MESSAGE Marbus () () _"Owszem, mamy róg. Nie u¿yjemy go jednak przed czasem, a dopiero wtedy, gdy nadejdzie na to pora. Muszê przej¹æ dowództwo nad Twoim oddzia³em, by was uratowaæ. Ka¿da chwila zw³oki, to ¿ycie jednego z Twoich wojowników. Pamiêtaj o tym.
 
 Jarl Oferiu:
 Chyba masz racjê. Niech bêdzie. Dowództwo jest Twoje. Jeœli jednak knujecie coœ nikczemnego, nie darujê wam!
@@ -122,91 +111,68 @@ Przyby³em ze wszystkim swoimi elfami.
 
 7. Dialog koñcowy, gdy pokonamy przywódcê duchów i wybieramy, kto pomo¿e nam w nastêpnym scenariuszu. Premia za wczesne zakoñczenie i dodatkowe 200 golda.
 
-Marbus:
-Przywódca nieumar³ych zosta³ pokonany... Uda³o nam siê nie tylko pomóc wojownikom Sojuszu Pó³nocy i elfom, ale tak¿e uratowaliœmy tutejszych wieœniaków. Si³y nieumar³ych znów zosta³y zmia¿d¿one pod butem Wielkiej Hordy!
+{MESSAGE Marbus () () _"Przywódca nieumar³ych zosta³ pokonany... Uda³o nam siê nie tylko pomóc wojownikom Sojuszu Pó³nocy i elfom, ale tak¿e uratowaliœmy tutejszych wieœniaków. Si³y nieumar³ych znów zosta³y zmia¿d¿one pod butem Wielkiej Hordy!"}
 
-Gewold:
-Waaargh! Dok³adnie! Poza tym patrzcie, zdaje siê, ¿e nieumarli trzymali w swojej twierdzy nieco z³ota. WeŸmy je ze sob¹.
+{MESSAGE Gewold () () _"Waaargh! Dok³adnie! Poza tym patrzcie, zdaje siê, ¿e nieumarli trzymali w swojej twierdzy nieco z³ota. WeŸmy je ze sob¹."}
 
 Logo Wesnoth:
 Otrzymujesz 200 sztuk z³ota.
 
-Marbus:
-Dobrze, skoro wszystko tutaj zosta³o ju¿ za³atwione, pora ruszaæ w stronê Góry Przeznaczenia. 
+{MESSAGE Marbus () () _"Dobrze, skoro wszystko tutaj zosta³o ju¿ za³atwione, pora ruszaæ w stronê Góry Przeznaczenia."}
 
-Aidala:
-Ta Osoba myœli, ¿e nie powinniœmy tak pochopnie odchodziæ, Marbusie. Uda³o nam siê uratowaæ si³y Jarla Oferiu i Kapitana Rylisa. Wœród ich wojowników jest jednak wielu rannych i niezdolnych do walki. Myœlê, ¿e zabranie ze sob¹ obu tych wojsk nie bêdzie najlepszym pomys³em.
+{MESSAGE Aidala () () _"Ta Osoba myœli, ¿e nie powinniœmy tak pochopnie odchodziæ, Marbusie. Uda³o nam siê uratowaæ si³y Jarla Oferiu i Kapitana Rylisa. Wœród ich wojowników jest jednak wielu rannych i niezdolnych do walki. Myœlê, ¿e zabranie ze sob¹ obu tych wojsk nie bêdzie najlepszym pomys³em."}
 
-Gewold:
-Co?! Wiêc ratowaliœmy ich ¿ycia tylko po to, by póŸniej odes³aæ ich do domu i nie otrzymaæ ¿adnej pomocy w walce z Dzikim Gonem!? Nie pozwolê na to! Ju¿ wolê ich wszystkich wyr¿n¹æ!
+{MESSAGE Gewold () () _"Co?! Wiêc ratowaliœmy ich ¿ycia tylko po to, by póŸniej odes³aæ ich do domu i nie otrzymaæ ¿adnej pomocy w walce z Dzikim Gonem!? Nie pozwolê na to! Ju¿ wolê ich wszystkich wyr¿n¹æ!"}
 
-Aidala:
-Ta Osoba nie to mia³a na myœli... Nie mo¿emy jednak wzi¹æ ze sob¹ wszystkich. Ktoœ bêdzie musia³ eskortowaæ rannych do szpitali oraz obj¹æ dowództwo nad tymi terenami, by nie okaza³o siê, ¿e nieumarli powróc¹ w to miejsce.
+{MESSAGE Aidala () () _"Ta Osoba nie to mia³a na myœli... Nie mo¿emy jednak wzi¹æ ze sob¹ wszystkich. Ktoœ bêdzie musia³ eskortowaæ rannych do szpitali oraz obj¹æ dowództwo nad tymi terenami, by nie okaza³o siê, ¿e nieumarli powróc¹ w to miejsce."}
 
-Gewold:
-Nie powróc¹, jeœli siê sprê¿ymy i pokonamy ich ca³oœci¹ naszych si³! Zamiast gadaæ, powinniœmy iœæ ju¿ w stronê Góry Przeznaczenia!
+{MESSAGE Gewold () () _"Nie powróc¹, jeœli siê sprê¿ymy i pokonamy ich ca³oœci¹ naszych si³! Zamiast gadaæ, powinniœmy iœæ ju¿ w stronê Góry Przeznaczenia!"}
 
-Marbus:
-Doœæ! Aidala ma racjê. Ktoœ powinien obstawiæ ty³y, a tak¿e zaj¹æ siê tymi terenami. Na wyprawê weŸmiemy ze sob¹ tylko jedno wojsko, oddzia³y Elfickich Jarlów b¹dŸ Sojuszu Pó³nocy.
+{MESSAGE Marbus () () _"Doœæ! Aidala ma racjê. Ktoœ powinien obstawiæ ty³y, a tak¿e zaj¹æ siê tymi terenami. Na wyprawê weŸmiemy ze sob¹ tylko jedno wojsko, oddzia³y Elfickich Jarlów b¹dŸ Sojuszu Pó³nocy."}
 
-Marbus:
-Myœlê, ¿e najlepszym wyborem bêdzie...
+{MESSAGE Marbus () () _"Myœlê, ¿e najlepszym wyborem bêdzie..."}
 
 Opcja 1: Si³y Sojuszu Pó³nocy pod dowództwem Kapitana Rylisa wespr¹ nas w walce z Dzikim Gonem!
 Opcja 2: Si³y Elfickich Jarlów dowodzone przez Jarla Oferiu bêd¹ najlepszym wyborem!
 
 Po wybraniu Opcji 1:
 
-Marbus:
-Ruszymy na pó³noc z si³ami Sojuszu Pó³nocy. Ich konnica, a tak¿e uniwersalnoœæ jednostek mo¿e przechyliæ szalê zwyciêstwa na nasz¹ stronê. A teraz, naprzód!
+{MESSAGE Marbus () () _"Ruszymy na pó³noc z si³ami Sojuszu Pó³nocy. Ich konnica, a tak¿e uniwersalnoœæ jednostek mo¿e przechyliæ szalê zwyciêstwa na nasz¹ stronê. A teraz, naprzód!"}
 
 Po wybraniu Opcji 2:
 
-Marbus:
-Na pó³noc wybierzemy siê z si³ami Jarla Oferiu. Magia oraz zrêcznoœæ elfów mog¹ okazaæ siê nieocenione podczas tego starcia. A teraz wynoœmy siê z tej lodowatej krainy!
+{MESSAGE Marbus () () _"Na pó³noc wybierzemy siê z si³ami Jarla Oferiu. Magia oraz zrêcznoœæ elfów mog¹ okazaæ siê nieocenione podczas tego starcia. A teraz wynoœmy siê z tej lodowatej krainy!"}
 
 
 8. Dialog koñcowy, gdy doprowadzimy obu przywódców do obozu Marbusa i wybieramy, kto pomo¿e nam w nastêpnym scenariuszu.
 
-Marbus:
-Obydwie armie s¹ ju¿ w naszym obozie, pora opuœciæ to miejsce.
+{MESSAGE Marbus () () _"Obydwie armie s¹ ju¿ w naszym obozie, pora opuœciæ to miejsce."}
 
-Gewold:
-Co?! Opuœciæ?! Teraz, gdy nieumarli jeszcze tu grasuj¹? Mia³em nadziejê rozbiæ kilka czaszek i zniszczyæ te monstra, ale skoro taka jest Twoja wola...
+{MESSAGE Gewold () () _"Co?! Opuœciæ?! Teraz, gdy nieumarli jeszcze tu grasuj¹? Mia³em nadziejê rozbiæ kilka czaszek i zniszczyæ te monstra, ale skoro taka jest Twoja wola..."}
 
-Aidala:
-Ta Osoba ¿a³uje, ¿e tutejsi ludzie zgin¹, jednak nic nie mo¿emy ju¿ dla nich zrobiæ. Trzeba nam oszczêdzaæ si³y przed ostateczn¹ bitw¹ z Królem Gonu.
+{MESSAGE Aidala () () _"Ta Osoba ¿a³uje, ¿e tutejsi ludzie zgin¹, jednak nic nie mo¿emy ju¿ dla nich zrobiæ. Trzeba nam oszczêdzaæ si³y przed ostateczn¹ bitw¹ z Królem Gonu."}
 
-Marbus:
-Dobrze, skoro wszystko tutaj zosta³o ju¿ za³atwione, pora ruszaæ w stronê Góry Przeznaczenia. 
+{MESSAGE Marbus () () _"Dobrze, skoro wszystko tutaj zosta³o ju¿ za³atwione, pora ruszaæ w stronê Góry Przeznaczenia."}
 
-Aidala:
-Ta Osoba myœli, ¿e nie powinniœmy tak pochopnie odchodziæ, Marbusie. Uda³o nam siê uratowaæ si³y Jarla Oferiu i Kapitana Rylisa. Wœród ich wojowników jest jednak wielu rannych i niezdolnych do walki. Myœlê, ¿e zabranie ze sob¹ obu tych wojsk nie bêdzie najlepszym pomys³em.
+{MESSAGE Aidala () () _"Ta Osoba myœli, ¿e nie powinniœmy tak pochopnie odchodziæ, Marbusie. Uda³o nam siê uratowaæ si³y Jarla Oferiu i Kapitana Rylisa. Wœród ich wojowników jest jednak wielu rannych i niezdolnych do walki. Myœlê, ¿e zabranie ze sob¹ obu tych wojsk nie bêdzie najlepszym pomys³em."}
 
-Gewold:
-Co?! Wiêc ratowaliœmy ich ¿ycia tylko po to, by póŸniej odes³aæ ich do domu i nie otrzymaæ ¿adnej pomocy w walce z Dzikim Gonem!? Nie pozwolê na to! Ju¿ wolê ich wszystkich wyr¿n¹æ!
+{MESSAGE Gewold () () _"Co?! Wiêc ratowaliœmy ich ¿ycia tylko po to, by póŸniej odes³aæ ich do domu i nie otrzymaæ ¿adnej pomocy w walce z Dzikim Gonem!? Nie pozwolê na to! Ju¿ wolê ich wszystkich wyr¿n¹æ!"}
 
-Aidala:
-Ta Osoba nie to mia³a na myœli... Nie mo¿emy jednak wzi¹æ ze sob¹ wszystkich. Ktoœ bêdzie musia³ eskortowaæ rannych do szpitali oraz obj¹æ dowództwo nad tymi terenami, by nie okaza³o siê, ¿e nieumarli powróc¹ w to miejsce.
+{MESSAGE Aidala () () _"Ta Osoba nie to mia³a na myœli... Nie mo¿emy jednak wzi¹æ ze sob¹ wszystkich. Ktoœ bêdzie musia³ eskortowaæ rannych do szpitali oraz obj¹æ dowództwo nad tymi terenami, by nie okaza³o siê, ¿e nieumarli powróc¹ w to miejsce."}
 
-Gewold:
-Nie powróc¹, jeœli siê sprê¿ymy i pokonamy ich ca³oœci¹ naszych si³! Zamiast gadaæ, powinniœmy iœæ ju¿ w stronê Góry Przeznaczenia!
+{MESSAGE Gewold () () _"Nie powróc¹, jeœli siê sprê¿ymy i pokonamy ich ca³oœci¹ naszych si³! Zamiast gadaæ, powinniœmy iœæ ju¿ w stronê Góry Przeznaczenia!"}
 
-Marbus:
-Doœæ! Aidala ma racjê. Ktoœ powinien obstawiæ ty³y, a tak¿e zaj¹æ siê tymi terenami. Na wyprawê weŸmiemy ze sob¹ tylko jedno wojsko, oddzia³y Elfickich Jarlów b¹dŸ Sojuszu Pó³nocy.
+{MESSAGE Marbus () () _"Doœæ! Aidala ma racjê. Ktoœ powinien obstawiæ ty³y, a tak¿e zaj¹æ siê tymi terenami. Na wyprawê weŸmiemy ze sob¹ tylko jedno wojsko, oddzia³y Elfickich Jarlów b¹dŸ Sojuszu Pó³nocy."}
 
-Marbus:
-Myœlê, ¿e najlepszym wyborem bêdzie...
+{MESSAGE Marbus () () _"Myœlê, ¿e najlepszym wyborem bêdzie..."}
 
 Opcja 1: Si³y Sojuszu Pó³nocy pod dowództwem Kapitana Rylisa wespr¹ nas w walce z Dzikim Gonem!
 Opcja 2: Si³y Elfickich Jarlów dowodzone przez Jarla Oferiu bêd¹ najlepszym wyborem!
 
 Po wybraniu Opcji 1:
 
-Marbus:
-Ruszymy na pó³noc z si³ami Sojuszu Pó³nocy. Ich konnica, a tak¿e uniwersalnoœæ jednostek mo¿e przechyliæ szalê zwyciêstwa na nasz¹ stronê. A teraz, naprzód!
+{MESSAGE Marbus () () _"Ruszymy na pó³noc z si³ami Sojuszu Pó³nocy. Ich konnica, a tak¿e uniwersalnoœæ jednostek mo¿e przechyliæ szalê zwyciêstwa na nasz¹ stronê. A teraz, naprzód!"}
 
 Po wybraniu Opcji 2:
 
-Marbus:
-Na pó³noc wybierzemy siê z si³ami Jarla Oferiu. Magia oraz zrêcznoœæ elfów mog¹ okazaæ siê nieocenione podczas tego starcia. A teraz wynoœmy siê z tej lodowatej krainy!
+{MESSAGE Marbus () () _"Na pó³noc wybierzemy siê z si³ami Jarla Oferiu. Magia oraz zrêcznoœæ elfów mog¹ okazaæ siê nieocenione podczas tego starcia. A teraz wynoœmy siê z tej lodowatej krainy!"}
