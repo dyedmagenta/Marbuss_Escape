@@ -3,16 +3,16 @@ usage=map
 
 Aa, Aa, Aa, Aa, Aa, Aa, Ha, Ha, Ha, Aa, Ha, Aa, Ha, Aa, Aa, Ha, Ha, Ha, Aa, Aa, Aa, Ha, Aa, Aa, Ha, Ha, Ms, Ms, Ms, Ms, Ha, Ha, Ha, Ha, Ha, Ha, Ms, Ha, Ms, Ms, Ms, Ms, Ms, Ms
 Wo, Wo, Wo, Aa, Ha, Ha, Ha, Ha, Ha, Aa, Aa, Aa, Aa, Aa, Ha, Aa, Aa, Aa, Aa, Ha, Aa, Ha, Ha, Ha, Ms, Ha, Ha, Ms, Ha, Ha, Aa, Aa, Aa, Ha, Ms, Ms, Ms, Ms, Ha, Ms, Ms, Ms, Ha, Ms
-Wo, Ai, Ha, Wo, Ai, Aa, Cea^Vct, Cea, 1 Kea, Cea, Cea^Vct, Ha, Aa, Aa, Aa, Ha, Ha, Ha, Ms, Ha, Ha, Ha, Ms, Ms, Ha, Ms, Ha, Ha, Ha, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
-Wo, Wo, Ai, Ai, Ai, Ai, Ai, Cea, Aa, Cea, Aa, Aa, Aa, Aa, Aa, Ha, Aa, Ms, Ms, Ms, Ha, Ms, Ha, Ms, Ha, Ha, Ms, Ms, Ha, Ms, Ms, Ms, Ms, Ms, Ha, Ms, Ms, Ms, Ms, Ha, Ms, Ha, Ms, Ms
+Wo, Ai, Ha, Wo, Ai, Aa, Cea^Vct, Cea, 1 Kea, Cea, Cea^Vct, Ha, Aa, Aa, Rb, Ha, Ha, Ha, Ms, Ha, Ha, Ha, Ms, Ms, Ha, Ms, Ha, Ha, Ha, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
+Wo, Wo, Ai, Ai, Ai, Ai, Ai, Cea, Aa, Cea, Aa, Aa, Rb, Aa, Aa, Ha, Aa, Ms, Ms, Ms, Ha, Ms, Ha, Ms, Ha, Ha, Ms, Ms, Ha, Ms, Ms, Ms, Ms, Ms, Ha, Ms, Ms, Ms, Ms, Ha, Ms, Ha, Ms, Ms
 Ha, Ha, Aa, Ai, Ai, Wo, Ai, Ha, Ha, Ha, Ha, Ha, Ha, Ha, Ha, Aa, Aa, Ms, Ms, Ha, Ha, Ha, Ha, Ha, Ms, Ha, Ms, Ms, Ms, Ms, Ha, Ha, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
-Aa, Aa, Aa, Ha, Ha, Wo, Wo, Ai, Ai, Aa, Aa, Rb, Rb, Ha, Aa, Aa, Aa, Ha, Ha, Ms, Aa, Aa, Ha, Ms, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Aa, Ms, Ms, Ha, Aa, Ha, Ha, Ha, Ms, Ms, Ms, Ha, Ms
-Aa, Ha, Aa, Aa, Ha, Aa, Ai, Ai, Ai, Wo, Ai, Wo, Wo, Aa, Wo, Wo, Wo, Aa, Ha, Ha, Ha, Ha, Aa, Aa, Ms, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha, Aa, Ha, Aa, Ha, Ha, Aa, Ha, Ms, Ha, Ms
-Aa, Aa, Ha, Aa, Aa, Ha, Ha, Wo, Aa, Ai, Ai, Ai, Ai, Ai, Aa, Ai, Ai, Aa, Ha, Ha, Ha, Aa, Ms, Ms, Aa, Ms, Aa, Ha, Ms, Ms, Ha, Ms, Ha, Aa, Ha, Aa, Aa, Ha, Aa, Aa, Ha, Ha, Aa, Aa
-Aa, Ha, Ms, Aa, Ha, Aa, Aa, Aa, Aa, Aa, Wo, Ai, Ai, Ai, Ai, Aa, Wo, Rb, Aa, Ha, Aa, Ha, Ms, Ha, Ms, Ms, Aa, Ha, Aa, Ha, Aa, Ha, Ha, Ha, Ha, Aa, Ha, Ha, Ha, Ha, Ms, Ms, Ha, Aa
-Ms, Aa, Ms, Ms, Ms, Aa, Ms, Aa, Ha, Aa, Aa, Wo, Wo, Ai, Ai, Ai, Ai, Aa, Ai, Ai, Wo, Ms, Aa, Aa, Ms, Aa, Ms, Rb, Rb, Aa, Ha, Aa, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ha, Ha, Aa, Ha
-Aa, Ms, Ms, Ms, Ha, Ms, Ha, Ms, Ms, Ms, Ms, Ha, Ha, Wo, Ai, Ai, Ai, Ai, Wo, Ai, Ai, Aa, Rb, Ha, Ms, Aa, Aa, Rb, Aa, Aa, Aa, Ha, Ms, Ha, Ms, Ha, Ha, Ha, Ms, Aa, Ha, Ha, Ms, Ms
-Aa, Ha, Ms, Ms, Ms, Ha, Ha, Aa, Aa, Aa, Ha, Ms, Ms, Aa, Rb, Rb, Aa, Ai, Ai, Aa, Ai, Aa, Ms, Ms, Aa, Aa, Aa, Aa, Cea, Aa, Ha, Ha, Ms, Ms, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms
+Aa, Aa, Aa, Ha, Ha, Wo, Wo, Ai, Ai, Aa, Aa, Rb, Rb, Ha, Rb, Rb, Aa, Ha, Ha, Ms, Aa, Aa, Ha, Ms, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Aa, Ms, Ms, Ha, Aa, Ha, Ha, Ha, Ms, Ms, Ms, Ha, Ms
+Aa, Ha, Aa, Aa, Ha, Aa, Ai, Ai, Ai, Wo, Ai, Wo, Wo, Aa, Wo, Wo, Wo, Rb, Ha, Ha, Rb, Ha, Aa, Aa, Ms, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha, Aa, Ha, Aa, Ha, Ha, Aa, Ha, Ms, Ha, Ms
+Aa, Aa, Ha, Aa, Aa, Ha, Ha, Wo, Aa, Ai, Ai, Ai, Ai, Ai, Aa, Ai, Ai, Aa, Ha, Ha, Ha, Rb, Ms, Ms, Aa, Ms, Aa, Ha, Ms, Ms, Ha, Ms, Ha, Aa, Ha, Aa, Aa, Ha, Aa, Aa, Ha, Ha, Aa, Aa
+Aa, Ha, Ms, Aa, Ha, Aa, Aa, Aa, Aa, Aa, Wo, Ai, Ai, Ai, Ai, Aa, Wo, Ai, Rb, Ha, Aa, Ha, Ms, Ha, Ms, Ms, Aa, Ha, Aa, Ha, Aa, Ha, Ha, Ha, Ha, Aa, Ha, Ha, Ha, Ha, Ms, Ms, Ha, Aa
+Ms, Aa, Ms, Ms, Ms, Aa, Ms, Aa, Ha, Aa, Aa, Wo, Wo, Ai, Ai, Ai, Ai, Aa, Ai, Ai, Wo, Ms, Aa, Aa, Ms, Rb, Ms, Rb, Rb, Aa, Ha, Aa, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ha, Ha, Aa, Ha
+Aa, Ms, Ms, Ms, Ha, Ms, Ha, Ms, Ms, Ms, Ms, Ha, Ha, Wo, Ai, Ai, Ai, Ai, Wo, Ai, Ai, Aa, Rb, Ha, Ms, Rb, Aa, Rb, Aa, Aa, Aa, Ha, Ms, Ha, Ms, Ha, Ha, Ha, Ms, Aa, Ha, Ha, Ms, Ms
+Aa, Ha, Ms, Ms, Ms, Ha, Ha, Aa, Aa, Aa, Ha, Ms, Ms, Aa, Rb, Rb, Aa, Ai, Ai, Aa, Ai, Aa, Ms, Ms, Aa, Rb, Aa, Aa, Cea, Aa, Ha, Ha, Ms, Ms, Ha, Ha, Ha, Ms, Ms, Ms, Ms, Ms, Ms, Ms
 Aa, Ms, Ha, Ms, Ha, Ms, Ha, Rb, Rb, Ha, Ha, Aa, Aa, Aa, Aa, Aa, Aa, Wo, Wo, Aa, Wo, Ai, Ms, Aa, Rb, Rb, Rb, Ha, Re^Vct, Aa, Ha, Ms, Ms, Ha, Aa, Ha, Aa, Ha, Ha, Ha, Ha, Ha, Ha, Ha
 Ha, Ha, Ha, Ms, Ha, Ha, Aa, Aa, Aa, Ms, Ms, Aa, Ms, Aa, Aa, Aa, Aa, Aa, Aa, Ai, Ai, Ai, Ha, Aa, Aa, Rb, Cea, Aa, Cea, Cea, Cea, Ha, Aa, Ha, Aa, Ha, Aa, Aa, Ha, Ha, Aa, Ha, Ms, Aa
 Ms, Ms, Ms, Ha, Ha, Ha, Ha, Ha, Aa, Aa, Aa, Ms, Aa, Ms, Ms, Ha, Ms, Aa, Aa, Wo, Ai, Aa, Aa, Ha, Aa, Aa, Aa, Aa, Cea, Cea, 3 Kea, Cea, Cea, Aa, Aa, Rb, Ha, Aa, Ha, Aa, Aa, Ha, Ha, Ms
