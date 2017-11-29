@@ -1,92 +1,91 @@
 Scenariusz Pierwszy:
 
-Przełęcz Tut'anor- 8 ; 4
-Forteca Bag'not- 11 ; 9
-Jałowe Pole- 22 ; 5
-Stary fort Elbor- 24 ; 26
-Most Kazary- 32 ; 24
-Obóz uchodźców- 37 ; 24 (ZMIANA, obecnie jest "Obóz białoskórych")
-Most Thota Czteropalczastego- 37 ; 19
+Przełęcz Tut'anor - 8 ; 4
+Forteca Bag'not - 11 ; 9
+Jałowe Pole - 22 ; 5
+Stary fort Elbor - 24 ; 26
+Most Kazary - 32 ; 24
+Obóz uchodźców - 37 ; 24
+Most Thota Czteropalczastego - 37 ; 19
 
 Scenariusz Drugi:
 
-Przełęcz Tut'anor- 8 ; 4
-Forteca Bag'not- 11 ; 9
-Stary fort Elbor- 24 ; 26
-Most Kazary- 32 ; 24
-37 ; 19 (Tutaj był przedtem drewniany most. Trzeba go usunąć, jeśli dalej stoi.)
+Przełęcz Tut'anor - 8 ; 4
+Forteca Bag'not - 11 ; 9
+Stary fort Elbor - 24 ; 26
+Most Kazary - 32 ; 24
 
 Scenariusz Trzeci:
 
-Obóz Marbusa- 23 ; 8
-Zniszczona Twierdza- 21 ; 29
-Zrujnowany Zamek Jaszczurów- 8 ; 12
-Stary Mosty- 12 ; 25
+Obóz Marbusa - 23 ; 8
+Zniszczona Twierdza - 21 ; 29
+Zrujnowany Zamek Jaszczurów - 8 ; 12
+Stary Mosty - 12 ; 25
 
 Scenariusz Czwarty A:
 
-Twierdza Magów- 32 ; 12
-Uniwersytet- 21 ; 26
-Obóz Marbusa- 9 ; 3
-Strażnica Południowa- 36 ; 29
-Strażnica Północna- 40 ; 3
-Strażnica Zachodnia- 5 ; 20
-Jaszczurze Ruiny- 12 ; 13
+Twierdza Magów - 32 ; 12
+Uniwersytet - 21 ; 26
+Obóz Marbusa - 9 ; 3
+Strażnica Południowa - 36 ; 29
+Strażnica Północna - 40 ; 3
+Strażnica Zachodnia - 5 ; 20
+Jaszczurze Ruiny - 12 ; 13
 
 Scenariusz Czwarty B:
 
-Sunek Dal- 12 ; 24
-Strażnica- 31 ; 22
-Obóz Trolli- 39 ; 7
-Obóz Marbusa- 7 ; 3
+Sunek Dal - 12 ; 24
+Strażnica - 31 ; 22
+Obóz Trolli - 39 ; 7
+Obóz Marbusa - 7 ; 3
 
 Scenariusz Piąty:
 
-Gelu'Aben- 19 ; 17
-Obóz Marbusa- 35 ; 32
-Zamtuz "Pod Górą"- 37 ; 16
-Twierdza Klanu Śnieżnostopych- 38 ; 2
-Zamek Sojuszu Północy- 4 ; 3
+Gelu'Aben - 19 ; 17
+Obóz Marbusa - 35 ; 32
+Zamtuz "Pod Górą" - 37 ; 16
+Twierdza Klanu Śnieżnostopych - 38 ; 2
+Zamek Sojuszu Północy - 4 ; 3
 
 Scenariusz Szósty:
 
-Arena Rozpaczy- 7 ; 3
-Dom Klanu Śnieżnostopych- 44 ; 28
-Obóz Marbusa- 18 ; 49
-Krasnoludzka Huta Żelaza- 34 ; 13
+Arena Rozpaczy - 7 ; 3
+Dom Klanu Śnieżnostopych - 44 ; 28
+Obóz Marbusa - 18 ; 49
+Krasnoludzka Huta Żelaza - 34 ; 13
 
 Scenariusz Siódmy:
 
-Bagienna Twierdza- 11 ; 39
-Krasnoludzki kasztel- 5 ; 35
-Chata runmistrza- 11 ; 44
-Wielka Grzybnia- 27 ; 26 - 21 ; 10
+Bagienna Twierdza - 11 ; 39
+Krasnoludzki kasztel - 5 ; 35
+Chata runmistrza - 6 ; 30
+Wielka Grzybnia - 27 ; 26 - 21 ; 10
 
 Scenariusz Ósmy:
 
-Prastara Twierdza Orków- 29 ; 22
-Mosty Kalindorskie- 22 ; 30 - 45 ; 29
-Zniszczona Twierdza Kalindorska- 13 ; 38 - 35 ; 42 - 53 ; 37
-Obóz Sojuszu Północy- 10 ; 8 - 32 ; 5 - 51 ; 11
-Jezioro Kalindorskie- 52 ; 19
+Prastara Twierdza Orków - 29 ; 22
+Mosty Kalindorskie - 22 ; 30 - 45 ; 29
+Zniszczona Twierdza Kalindorska - 13 ; 38 - 35 ; 42 - 53 ; 37
+Obóz Sojuszu Północy - 10 ; 8 - 32 ; 5 - 51 ; 11
+Jezioro Kalindorskie - 52 ; 19
 
 Scenariusz Dziewiąty:
 
-Zniszczona droga na Południe- 36 ; 1
-Wieś Stary Ramdark- 39 ; 35
-Zamarznięta Wioska Trytonów- 37 ; 54
-Bród na rzece Cylies- 18 ; 49
-Elfia Brama- 24 ; 86
+Zniszczona droga na Południe - 36 ; 1
+Wieś Stary Ramdark - 39 ; 35
+Zamarznięta Wioska Trytonów - 37 ; 54
+Bród na rzece Cylies - 18 ; 49
+Elfia Brama - 24 ; 86
 
 Scenariusz Dziesiąty:
 
-Obóz Marbusa- 25 ; 37
-Krasnoludzkie Drzwi- 2 ; 19
-Twierdza Jarla Iricka- 42 ; 4
-Twierdza Lorda Diracka- 9 ; 5
-Wielkie Bagno- 26 ; 27
-Droga Tallina- 23 ; 8
-Wieża Beatrycze- 11 ; 4
+Obóz Marbusa - 25 ; 37
+Krasnoludzkie Drzwi - 2 ; 19
+Twierdza Jarla Iricka - 42 ; 4
+Twierdza Lorda Diracka - 9 ; 5
+Wielkie Bagno - 26 ; 27
+Droga Tallina - 23 ; 8
+Wieża Beatrycze - 11 ; 4
 
 Scenariusz Jedenasty:
 
