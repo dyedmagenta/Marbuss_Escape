@@ -1,4 +1,4 @@
-Scenariusz Pierwszy:
+﻿Scenariusz Pierwszy:
 
 Przełęcz Tut'anor - 8 ; 4
 Forteca Bag'not - 11 ; 9
@@ -89,10 +89,46 @@ Wieża Beatrycze - 11 ; 4
 
 Scenariusz Jedenasty:
 
+Prawa odnoga - 39 ; 41
+Lewa odnoga - 15 ; 41
+Leczniczy staw - 27 ; 46
+Górna odnoga - 27 ; 30
+Obelisk - 27 ; 26
+Komnata Trefla - 27 ; 6
+
 Scenariusz Dwunasty:
+
+Obóz Marbusa - 8 ; 2
+Obóz Sojuszu Północy - 30 ; 14
+Obóz Elfickiego Jarla - 10 ; 17
+Góry Ogrów - 36 ; 4
+Zniszczone umocnienia - 30 ; 26
 
 Scenariusz Trzynasty:
 
+Pojawiają się dopiero po evencie początkowym ze zniszczeniem terenu!
+
+Wielki obóz Marbusa - 24 ; 52
+Obóz Gewolda - 11 ; 50
+Obóz Sojuszu Północy/Obóz Elfickiego Jarla - 40 ; 48
+Twierdza Żalu - 17 ; 33
+Twierdza Smutku - 35 ; 32
+Twierdza Rozpaczy - 26 ; 33
+Dom Umarłych - 20 ; 19
+
 Scenariusz Czternasty A:
 
+Droga wschodnia - 60 ; 6
+Droga zachodnia - 2 ; 39
+Wielka rzeka Eugen - 7 ; 10
+
 Scenariusz Czternasty B:
+
+Droga północna - 11 ; 3
+Wielki obóz Hordy - 24 ; 14
+Wielka rzeka Eugen - 20 ; 35
+Elficka twierdza - 27 ; 33
+Elficka twierdza - 22 ; 48
+Elficka twierdza - 41 ; 65
+Dom Wszystkich Wróżek - 32 ; 84
+Góry Śnieżne - 6 ; 55
