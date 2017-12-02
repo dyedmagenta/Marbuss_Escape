@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [scenario]: id = 01_Bag-not_Under_Attack;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -32,8 +32,8 @@ msgstr ""
 "Nasza historia rozpoczyna się w roku 883 e.W, a ma miejsce na dalekiej "
 "północy, gdzie wszystkie te daty przestały mieć znaczenie. Siła, krew i "
 "potępienie. Zawody zapaśnicze i hulanki alkoholowe, między jedną grabieżą, a "
-"drugą. Gdzie kobiety rozkładają nogi przy ognisku, a ich partnerzy kryją je "
-"jak suki. Tak, mowa tu o orkach."
+"drugą. Gdzie kobiety I dzieci sypiają w psiarniach, a każdy mężczyzna jest "
+"zapatrzonym w siebie mordercą. Tak, mowa tu o orkach."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -56,10 +56,10 @@ msgid ""
 "whet their swords. After a next, unsuccessful attack of the bloodthirsty "
 "army, orcs retreated deep into their lands, elves followed them."
 msgstr ""
-"Gdy bitwa za bitwą, orkowie to raz zdobywali nowe ziemie, to wracali do "
-"swych chat z kolejnymi ranami, równie silne krainy zaczęły ostrzyć swoje "
-"miecze. Gdy po kolejnym, nieudanym ataku żądnej krwi armii, orkowie wycofali "
-"się wgłąb swych ziem, podążyli za nimi elfy."
+"Bitwa za bitwą, orkowie albo zdobywali nowe ziemie, albo wracali do swych "
+"chat z kolejnymi ranami. Równie silne krainy zaczęły ostrzyć swoje miecze i "
+"przygotowywać się do wojny. Gdy po kolejnym, nieudanym ataku żądnej krwi "
+"armii, orkowie wycofali się wgłąb swych ziem, podążyły za nimi elfy."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -71,12 +71,12 @@ msgid ""
 "rules. The other were fighting and were destroyed after several battles "
 "against dwarves or elves."
 msgstr ""
-"Ludzie, tak jak i krasnoludy ochoczo dołączyli do odwetu. Rok za rokiem, "
+"Ludzie, tak jak i krasnoludy, ochoczo dołączyli do odwetu. Rok za rokiem, "
 "orkowie stawali się tylko rozdzielanymi przez szlaki handlowe obozami "
 "uchodźców i kobiet. Niektóre plemienia przyłączyły się do Sojuszu Północy, "
 "gdzie przez dziesięciolecia zmuszani byli do akceptowania ludzkich norm. "
-"Inni walczyli i po kilku większych bitwach zostawali wyniszczeni przez "
-"krasnoludów bądź elfy."
+"Inni walczyli, by po kilku większych bitwach zostać pokonanymi przez "
+"przeważające siły przeciwnika."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -352,8 +352,8 @@ msgid ""
 "something pushed these people here. And we may get attacked by that "
 "something, too."
 msgstr ""
-"Nie podoba mi się to, Marbus. Wszystko wskazuje na to, że coś przygnało tu "
-"tych ludzi. I to coś może zaatakować i nas. "
+"Wszystko wskazuje na to, że coś przygnało tu tych ludzi. A to coś może "
+"zaatakować i nas."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -459,7 +459,7 @@ msgstr ""
 "do piachu, a kilkanaście lat po tym wydarzeniu miała miejsce inwazja elfów "
 "na krainy północy. Wtedy właśnie orkowie postanowili wznieść wzdłuż swoich "
 "najważniejszych miast pomniejsze fortece. Bag'not było właśnie jedną z tych "
-"fortec, miało bronić Gelu'Aben, Ojczyzny Mieczy."
+"fortec, miało bronić Gelu'Aben, Ojczyznę Mieczy."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -475,13 +475,13 @@ msgid ""
 "yet. When they did that, had long been forgotten."
 msgstr ""
 "Gelu'Aben było miastem zajmującym się głównie metalem. Huty, zbrojownie, "
-"handlarze sprzedający metalowe przedmioty zarówno orków, jak i elfów, "
-"krasnoludów i ludzi. Położone daleko na północy, było prawie niedostępne dla "
-"elfickich armii. Droga do miasta prowadziła przez przełęcz Tut'anor, która "
+"handlarze sprzedający metalowe przedmioty zarówno orków, elfów, krasnoludów "
+"i ludzi. Położone daleko na północy, było prawie niedostępne dla elfickich "
+"armii. Droga do miasta prowadziła przez przełęcz Tut'anor, której nazwa "
 "nawet elfom obiła się o uszy. Owiana złą sławą, z wąskimi przejściami i "
 "pułapkami. Najeźdźcy zrezygnowali z ataku na miasto. Oczywiście była i inna "
 "droga, przez krasnoludzkie tunele. Wówczas jednak krasnoludy nie przyłączyły "
-"się jeszcze do armii elfickiej, a gdy to uczyniono, o Gelu'Aben dawno "
+"się jeszcze do armii elfickiej, a gdy to uczyniły, o Gelu'Aben dawno "
 "zapomniano."
 
 #. [story]: [part]
@@ -497,9 +497,8 @@ msgstr ""
 "Kilkanaście lat po najeździe, gdy orkowie znów zaczęli zapuszczać się na "
 "południe, wódz Gelu'Aben, Suweren Gewold, nakazał zasiedlić dawną fortecę "
 "Bag'not. Wysłał tam najmniej tolerowane w mieście istoty, gobliny. Wraz z "
-"nimi wysłał na południe także mały oddział innych orków, głównie tych, "
-"którzy mieli w rodzinie jakiegoś goblina. Władzę nad nimi miał sprawować "
-"Marbus."
+"nimi odesłał na południe także mały oddział orków, głównie tych, którzy "
+"mieli w rodzinie jakiegoś goblina. Władzę nad nimi miał sprawować Marbus."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -514,14 +513,14 @@ msgid ""
 "charge of wolf raiders. Life here was good, or at least not worse than in "
 "Gelu'Aben. Until now..."
 msgstr ""
-"Ścieżka przez przełęcz Tut'anor była straszna i niebezpieczna. Ogromne węże "
-"i pająki oraz przeczucie, że jest się obserwowanym. Zło w tym miejscu było "
-"wręcz namacalne, jednak Marbusowi udało się przejść ze swoim oddziałem "
+"Ścieżka przez przełęcz Tut'anor była straszna i niebezpieczna. Ogromne węże, "
+"wielkie pająki oraz przeczucie, że jest się obserwowanym. Zło w tym miejscu "
+"było wręcz namacalne, jednak Marbusowi udało się przejść ze swoim oddziałem "
 "niemal bez ofiar. Zasiedlanie Bag'not było przy tym jak bułka z masłem. "
 "Gobliny stanowiły trzy czwarte populacji klanu Marbusa i była traktowane na "
 "równi z orkami. Sam Marbus miał za kuzyna goblina, Kochana, który przejął "
 "dowodzenie nad jeźdźcami wilków. Żyło się tu dobrze, a przynajmniej nie "
-"gorzej, niż w Gelu'Aben. Aż do teraz..."
+"gorzej niż w Gelu'Aben. Aż do teraz..."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -542,8 +541,8 @@ msgstr ""
 "że w lasach nie jest już bezpiecznie. Wielu z tych, którzy w nie wkraczali, "
 "ginęło bezpowrotnie. Mieszkańcy zaczęli więc pozyskiwać drewno tylko w "
 "pobliżu wiosek. A gdy nawet tego zabrakło, wkrótce rozebrany został "
-"drewniany most. Niedługo potem nastał dzień, w którym strach nareszcie "
-"pokazał swoje oblicze."
+"drewniany most. Wkrótce nastał dzień, w którym strach nareszcie pokazał "
+"swoje oblicze."
 
 #. [side]: id = Spectral Knight; type = Nightgaunt;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -590,7 +589,7 @@ msgstr "Nieumarli wchodzą do fortecy Bag'not"
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.6\userdata\data\add-ons\Marbuss_Escapee/scenarios/02_Winter_in_Bag-not.cfg:130
 msgid "Marbus doesn't know what happens in the south when turns run out"
-msgstr "Marbus nie wie co dzieje się na południu po wyczerpaniu limitu tur"
+msgstr "Wyczerpanie limitu tur."
 
 #. {NAMED_LOYAL_UNIT ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -624,8 +623,8 @@ msgid ""
 "only the first month of winter. We are running out of food in our granaries. "
 "I am worried about the future."
 msgstr ""
-"Ashen'tir, Kochan. Nie możemy pozwolić, by ogarnął nas strach i psychoza. To "
-"dopiero pierwszy miesiąc zimy, a w naszych magazynach zaczyna powoli "
+"Ashen'tir, Kochan. Nie możemy pozwolić, by ogarnął nas strach i szaleństwo. "
+"To dopiero pierwszy miesiąc zimy, a w naszych magazynach zaczyna powoli "
 "brakować żywności. Martwię się o przyszłość..."
 
 #. {MESSAGE ...}:
@@ -635,8 +634,9 @@ msgid ""
 "Suddenly, there blew a wind piercing a body like an arrow. In Bag'not, there "
 "was heard a voice, as cold and biting as icicles dangling on roofs."
 msgstr ""
-"Wtem zawiał wiatr przeszywający ciało jak strzała, a przez Bag'not potoczył "
-"się głos równie zimny i ostry, jak lodowate sople zwisające z dachów."
+"Wtem w mury twierdzy uderzył porywisty wiatr, a przez Bag'not potoczył się "
+"głos równie zimny i ostry, jak lodowate sople zwisające z dachów orkowych "
+"domostw."
 
 #. {NAMED_LOYAL_UNIT ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -707,7 +707,7 @@ msgid ""
 "escape skeletons even on snow. If the undead conquered the Celadon City "
 "indeed, we are going to have a serious problem with them."
 msgstr ""
-"Kuzynie! Najlepiej będzie jeżeli pójdę na zwiad. Mój wilk ucieknie "
+"Kuzynie! Najlepiej będzie jeżeli pojadę na zwiad. Mój wilk ucieknie "
 "szkieletom nawet na śniegu. Jeżeli nieumarli naprawdę podbili Seledynowe "
 "Miasto, będziemy mieli z nimi prawdziwy problem."
 
@@ -718,9 +718,9 @@ msgid ""
 "You are right. I will command the orcs to guard the walls. I do not want my "
 "orcs to encounter these creatures on open ground. We stand no chance on snow."
 msgstr ""
-"Masz rację. Ustawię orków wzdłuż murów. Nie chcę, by moi orkowie spotkali "
-"się z tymi stworzeniami na otwartym terenie. Na śniegu nie mamy z nimi "
-"żadnych szans."
+"Masz rację. Ustawię łuczników wzdłuż murów. Nie chcę, by moi orkowie "
+"spotkali się z tymi stworzeniami na otwartym terenie. Na śniegu nie mamy z "
+"nimi żadnych szans."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -873,7 +873,7 @@ msgid ""
 "Almost everyone is packed. We are starting to load the wolves soon. Then we "
 "can set out."
 msgstr ""
-"Wszyscy są już prawie spakowani, kuzynie. Zaraz zaczniemy pakować wszystko "
+"Wszyscy są już prawie spakowani, kuzynie. Zaraz zaczniemy ładować wszystko "
 "na wilki, a potem możemy ruszać."
 
 #. {MESSAGE ...}:
@@ -1089,9 +1089,10 @@ msgid ""
 "surprise was awaiting the orcs..."
 msgstr ""
 "Nieumarli nie wyruszyli w pościg za orkami, którzy po jakimś czasie "
-"wynurzyli się z przełęczy. Teraz Klan Marbusa czekała kolejna przeszkoda. "
-"Drogę do Gelu'Aben blokowała rwąca rzeka, nad którą można było przejść "
-"jedynie mostem... Orków czekała jednak przykra niespodzianka..."
+"wynurzyli się z górskiej drogi. Teraz Klan Marbusa zetknął się z kolejną "
+"przeszkodą. Drogę do Gelu'Aben blokowała rwąca rzeka, którą można było "
+"pokonać jedynie dzięki mostowi... Orków czekała jednak przykra "
+"niespodzianka..."
 
 #. [side]: id = Ashuran; type = Saurian Ambusher;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -1154,8 +1155,8 @@ msgid ""
 "We've managed to cross this darn pass. Now the path should be way more "
 "straight-forward. We only need to pass the brid... What happened here?"
 msgstr ""
-"Udało nam się przejść przez tę cholerną przełęcz. Teraz droga będzie już o "
-"wiele prostsza. Wystarczy przejść przez mos.. Co tu się stało!?"
+"Udało nam się przejść przez tę przeklętą przełęcz. Teraz droga będzie już o "
+"wiele prostsza. Wystarczy przebyć mos.. Co tu się stało!?"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -1248,11 +1249,11 @@ msgid ""
 "through the smoke. The of the dying could be heard until morning. A few of "
 "my veterans tried to swim across the river... None has returned."
 msgstr ""
-"Jeden z duchów opętał ciało dowódcy orków. Ten chwycił oliwę i pochodnie. Na "
+"Jeden z duchów opętał ciało dowódcy orków. Ten chwycił oliwę i pochodnię. Na "
 "własne oczy widziałem, jak z szaleńczym uśmiechem staje na środku mostu, "
 "wylewa na siebie łatwopalną ciecz i podpala... Zaraz po nim spłonął też "
 "most... Przez dym niewiele widzieliśmy, jednak krzyki umierających słychać "
-"było do samego rana. Kilku moich weteranów próbowało przepłynąć rzekę... "
+"było do samego rana. Trzech moich weteranów próbowało przepłynąć rzekę... "
 "Żaden z nich nie powrócił."
 
 #. {MESSAGE ...}:
@@ -1397,7 +1398,7 @@ msgstr "Mam nadzieję że ten most się nie zawali."
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.6\userdata\data\add-ons\Marbuss_Escapee/scenarios/03_Banished_Saurians.cfg:304
 msgid "To be honest, I'm surprised it hasn't done it already."
-msgstr "Właściwie to dziwi mnie, ze nie rozleciał się do tej pory."
+msgstr "Właściwie to dziwi mnie, że nie rozleciał się do tej pory."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -1406,8 +1407,8 @@ msgid ""
 "This river is treacherous... I do not remember such a large part covered "
 "with ice during any winter."
 msgstr ""
-"Rzeka jest zdradliwa... Nie pamiętam żadnej zimy, podczas której taka jej "
-"część byłaby zlodowacona."
+"Rzeka jest zdradliwa... Nie pamiętam ani jednej zimy, podczas której taka "
+"jej część byłaby zlodowacona."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -1489,7 +1490,7 @@ msgid ""
 msgstr ""
 "Tak... By dojść do Gelu'Aben będziemy musieli przejść przez tereny Elgerusa. "
 "Ten zawszony ork od lat nazywany jest szalonym. Założę się, że sytuacja w "
-"jego twierdzy, Sunek Dal, jest jeszcze gorsza, niż nasza. Może próbować nas "
+"jego twierdzy, Sunek Dal, jest jeszcze gorsza niż nasza. Może próbować nas "
 "ograbić..."
 
 #. {MESSAGE ...}:
@@ -1597,7 +1598,8 @@ msgid ""
 msgstr ""
 "Słyszałam to, jeźdźcze wilka... Przewidziałam to, że się tu pojawiasz. "
 "Przepowiedziałam też, że pokonasz ludzkich kuglarzy na bagnach. Sama Cię tam "
-"poprowadzę i będę Ci towarzyszyć przez całą twoją podróż. Wraz z moim ludem."
+"poprowadzę i będę Ci towarzyszyć przez całą podróż, którą odbędzisz. Wraz z "
+"moim ludem."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -1734,8 +1736,8 @@ msgid ""
 "divided."
 msgstr ""
 "Okazało się jednak, że te dwie odmienne rasy mogą żyć w zgodzie. W obliczu o "
-"wiele bardziej poważnego zagrożenia byli zdolni zapomnieć o dzielących ich "
-"różnicach i ramię w ramię stanęli do boju, który niechybnie przegraliby "
+"wiele bardziej poważnego zagrożenia, byli zdolni zapomnieć o dzielących ich "
+"różnicach i ramię w ramię stanąć do boju, który niechybnie przegraliby "
 "działając osobno."
 
 #. [story]: [part]
@@ -1749,7 +1751,7 @@ msgid ""
 "as soon as she appeared."
 msgstr ""
 "Zahartowane w bojach i zdyscyplinowane oddziały jaszczurów dołączyły do sił "
-"Marbusa. Dowodziła nimi stara jaszczurka-wyrocznia, Emborgi-tarash. "
+"Marbusa. Dowodziła nimi stara jaszczurza wyrocznia, Emborgi-tarash. "
 "Tajemnicza i małomówna, z niemal ślepym spojrzeniem. Przepowiadała i "
 "wróżyła. Marbus nie znał wielu osób, względem których odczuwał szacunek, "
 "jednak ona zaczęła do nich należeć niemal natychmiast, gdy się pojawiła."
@@ -1944,7 +1946,7 @@ msgid ""
 "Like aurochs? Unfortunately, these animals won't provide us so expensive "
 "trophies... At least our adepts will train their spells."
 msgstr ""
-"Tak, jak za Żubrami? Szkoda tylko, że z tej zwierzyny nie trafi się nam "
+"Tak, jak za żubrami? Szkoda tylko, że z tej zwierzyny nie trafi się nam "
 "żadne cenne trofeum. No cóż, przynajmniej nasi adepci poćwiczą zaklęcia."
 
 #. {MESSAGE ...}:
@@ -1957,8 +1959,8 @@ msgid ""
 "power, knowledge and authority. It is a strong hunger, which none shall "
 "extinguish."
 msgstr ""
-"Ludzka pycha nigdy nie znała granic. Ten lud zawsze był nią nasssączony. "
-"Duma i arogancja przelała się na nich, gdy Haldric I pierwszy raz dotknął "
+"Ludzka pycha nigdy nie znała granic. Ta rasa zawsze była nią nasssączona. "
+"Duma i arogancja przelała się na nią, gdy Haldric I pierwszy raz dotknął "
 "Rubinu Ognia. Wówczas to spisał swój lud na wieczny głód. Głód władzy, "
 "wiedzy i siły. A jest to głód potężny, którego nic nie ugasi."
 
@@ -2161,8 +2163,8 @@ msgid ""
 "out on a limb. We can't win this battle once again."
 msgstr ""
 "Słyszałem już o czymś takim. Choć ponoć tylko nekromanci mogą to uczynić. "
-"Zmartwychwstać. To potężna sztuka, jeśli ten mag znów się odrodzi, będziemy "
-"w niezłych opałach. Nie uda nam się wygrać takiej bitwy poraz drugi."
+"Zmartwychwstać. To potężna sztuka. Jeśli ten mag znów się odrodzi, będziemy "
+"w niezłych opałach. Nie uda nam się wygrać takiej bitwy po raz drugi."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2253,8 +2255,9 @@ msgid ""
 "The survivor mages are running away through the marches. I don't expect them "
 "to escape our wolves. Also, the humans had many supplies here."
 msgstr ""
-"Niedobitki magów już uciekają przez moczary. Sądzę, że nie uciekną przed "
-"wilkami. Ludzie mieli tutaj całkiem dużo zapasów."
+"Niedobitki magów już uciekają przez moczary. Sądzę, że będą doskonałą "
+"zwierzyną dla naszych wilków. Poza tym ludzie mieli tutaj całkiem dużo "
+"zapasów, pora przeszukać ich domostwa."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2303,12 +2306,11 @@ msgid ""
 "running blood gave him a feeling of incoming battle."
 msgstr ""
 "Droga do Sunek Dalu była męcząca i uciążliwa, uszczupliła gromadę Marbusa z "
-"wielu kobiet i starców. Zawierucha była tak potężna, iż droga kilka metrów "
+"wielu kobiet i starców. Zawierucha była tak potężna, iż ścieżka kilka metrów "
 "przed orkami była całkowicie niewidoczna. Trzeba było zawierzyć wargom. Poza "
-"tym, co czekało ich w Sunek Dalu? Gorąca strawa, ciepłe łóżka i piwo "
-"korzenne? Czy też bratobójcza walka o resztki prowiantu? Marbus nie "
-"wiedział, choć płynąca w nim dziko krew dawała mu przeczucie nadchodzącej "
-"bitwy..."
+"tym, co czekało ich na miejscu? Gorąca strawa, ciepłe łóżka i piwo korzenne? "
+"Czy też bratobójcza walka o resztki prowiantu? Marbus nie wiedział, choć "
+"płynąca w nim dziko krew dawała mu przeczucie nadchodzącej bitwy..."
 
 #. [side]: id = Krull; type = Krull3;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2368,7 +2370,7 @@ msgid ""
 "battle. I hope we are not late here."
 msgstr ""
 "Kuzynie, coś jest zdecydowanie na rzeczy. Wargi są niespokojne. Zachowują "
-"się, jak na bitwie. Miejmy nadzieję, że nie przybyliśmy za późno."
+"się tak, jak na bitwie. Miejmy nadzieję, że nie przybyliśmy za późno."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2398,7 +2400,7 @@ msgid ""
 "shabby troll is hiding from us!"
 msgstr ""
 "Walczcie, nędzne kundle! Walczcie, jeśli chcecie się pożywić się jedzeniem, "
-"które ten nędzny troll przed nami ukrywa!"
+"które ten stary troll przed nami ukrywa!"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2629,7 +2631,7 @@ msgid ""
 "Orc ruler - wise orc. Rules better than formers. Trolls willingly join orc "
 "ruler."
 msgstr ""
-"Wódz ork - mądry ork. Przewodzić lepiej, niż poprzedni. Trolle chętnie "
+"Wódz ork — mądry ork. Przewodzić lepiej, niż poprzedni. Trolle chętnie "
 "przyłączyć się do wodza orka."
 
 #. {MESSAGE ...}:
@@ -2734,7 +2736,7 @@ msgstr "Boda Budu"
 msgid "This is our master in boulder throw! None throws stones as far as him!"
 msgstr ""
 "To być nasz mistrz w rzucie głazem! Nikt nie potrafi miotać kamieniem tak "
-"daleko jak on!"
+"daleko, jak on!"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2779,7 +2781,7 @@ msgid ""
 msgstr ""
 "Czarodzieje i ich potężna magia upadła pod naciskiem orkowych mieczy. Mroźna "
 "północ okazała się złym miejscem na ćwiczenia magiczne i ludzką pychę, a "
-"uciskana rasa jaszczurów jeszcze raz pokazała ile jest warta. W podbitych "
+"uciskana rasa jaszczurów jeszcze raz pokazała, ile jest warta. W podbitych "
 "fortyfikacjach orkowie znaleźli sporo kosztowności, żywności oraz opału. "
 "Przez okrągły tydzień mogli więc biesiadować i ogrzewać się przy kominkach. "
 "W tym czasie coraz to nowe plemiona gadów przybywały do swojego dawnego "
@@ -2800,7 +2802,7 @@ msgid ""
 msgstr ""
 "Bitwa w Sunek Dalu zakończyła się zwycięsko, choć nikt nie świętował. Wielu "
 "orków z kampanii Marbusa miało tutaj krewniaków, którzy teraz płonęli na "
-"stosach pogrzebowych. Okazało się, że tutejsze fortece nie były w równie "
+"stosach pogrzebowych. Okazało się, że tutejsze fortece były w równie "
 "kiepskim stanie, jak te w Bag'not. Brak żywności i opału sprawił, że płonące "
 "ciała poległych były jedynym źródłem ciepła. Krull Skała i jego trolle "
 "zebrały się jeszcze tego samego dnia, a cała gromada ruszyła w drogę do "
@@ -2823,7 +2825,7 @@ msgstr ""
 "zagrożenie: patrole ludzi, elfów i krasnoludów. Sojusz Północy co prawda "
 "istniał, a niektóre orkowe plemiona cieszyły się jego szacunkiem, niemniej "
 "jednak było to zbyt mało, by nie zaatakować przemieszczającego się, "
-"osłabionego klanu Marbusa. Możliwe było też, że ktoś skojarzy sam klan ze "
+"osłabionego klanu Marbusa. Możliwe było też, że ktoś skojarzy orków ze "
 "zniszczeniem Seledynowego Miasta."
 
 #. [story]: [part]
@@ -2837,12 +2839,12 @@ msgid ""
 "the place where the capital was supposed to lie, smoke was floating. "
 "Although no orc talked about it, everyone expected the worst."
 msgstr ""
-"Dobrą niespodzianką był fakt, że czym dalej od nieumarłych, tym więcej "
+"Dobrą niespodzianką był fakt, iż czym dalej od nieumarłych, tym więcej "
 "zwierzyny można było znaleźć w lasach. Cała podróż okazała się nie być tak "
 "zła, jak wszyscy przewidywali. Nadzieja na zakończenie tego koszmaru "
 "rozwiała się jednak podczas ostatniej nocy przed dojściem do Gelu'Aben. Z "
 "miejsca, gdzie miała znajdować się stolica, unosił się bowiem dym. Choć nikt "
-"z orków o tym nie rozmawiał, wszyscy spodziewali się najgorszego. "
+"z orków o tym nie rozmawiał, wszyscy spodziewali się najgorszego."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -2911,7 +2913,7 @@ msgid ""
 "We've already run out of crossbowmen... We even don't have any crossbows in "
 "the armories, Great Souvereign."
 msgstr ""
-"Kusznicy już się skończyli... Nie mamy nawet już kusz w zbrojowniach, Wielki "
+"Kusznicy się skończyli... Nie mamy już nawet kusz w zbrojowniach, Wielki "
 "Suwerenie."
 
 #. [message]: speaker = Gewold;
@@ -3005,10 +3007,10 @@ msgid ""
 "brought here both Alliance and dwarves. I don't have to go after them, I'll "
 "kill both of them in front of my stronghold!"
 msgstr ""
-"Cholera... To Marbus... Nie sądziłem, że go tutaj zobaczę... Marbus! Po "
-"cholerę się tutaj zjawiłeś? Jak widzisz, świetnie sobie radzę! Sprowadziłem "
-"tu i Sojusz, i Krasnoludy! Teraz nie muszę się za nimi uganiać, załatwię ich "
-"obu przed swoją twierdzą!"
+"Psia krew... To Marbus... Nie sądziłem, że go tutaj zobaczę... Marbus! Po co "
+"się tutaj zjawiłeś? Jak widzisz, świetnie sobie radzę! Sprowadziłem tu i "
+"Sojusz, i krasnoludy! Teraz nie muszę się za nimi uganiać, załatwię ich obu "
+"przed swoją twierdzą!"
 
 #. [message]: speaker = Kochan;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3159,7 +3161,7 @@ msgid ""
 "the north lies in ruins now. Humans, elves, dwarfs... Everyone needs food, "
 "steel and a piece of land not inhabited by wraiths... So they went on us."
 msgstr ""
-"W każdym razie... Droga powrotna została odcięta... Ruszyliśmy przez ziemię "
+"W każdym razie... Droga powrotna została odcięta... Ruszyliśmy przez ziemie "
 "Sojuszu Północy... A za nami ciągnęli nieumarli. Z tego co wiem, północ leży "
 "teraz w ruinie. Ludzie, elfy, krasnoludy... Każdy potrzebuje żywności, stali "
 "i kawałka ziemi, którego nie zamieszkują upiory... Ruszyli więc na nas."
@@ -3202,7 +3204,7 @@ msgid ""
 "Do not disregard my commands, yokel! Execute! And give me here heavy "
 "infantrymen! We'll blow their city gates and fortifications into shreds!"
 msgstr ""
-"Nie lekceważ moich rozkazów, kmiotku! Wykonać! I dawać mi tutaj ciężkich "
+"Nie lekceważ moich rozkazów, kmiotku! Wykonać! Dawać mi tutaj zaraz ciężkich "
 "piechurów! Rozwalimy w drzazgi ich bramy miejskie i fortyfikacje!"
 
 #. {MESSAGE ...}:
@@ -3252,8 +3254,8 @@ msgid ""
 msgstr ""
 "Co wyście robili na tym południu, Marbus? Do Sojuszu Północy przyłączyły się "
 "już niemalże wszystkie rasy, nawet smoki i... Tfu, niektóre plemiona "
-"orków... Tworzą teraz największą siłę, rywalizując z Knalgą w dziedzinach "
-"gospodarki..."
+"orków... Tworzą teraz największą siłę północy, rywalizując z Knalgą w "
+"dziedzinach gospodarki..."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3271,7 +3273,7 @@ msgid ""
 msgstr ""
 "Nie można lekceważyć mądrości i potęgi elfów... Ich rasa jest równie "
 "pradawna, co nasza... Byli pierwszymi, którzy pojęli potęgę natury... Choć "
-"ich rasa skarlała... Nie ma już bohaterów takich, jak Kalenz..."
+"ich lud skarlał... Nie ma już bohaterów takich, jak Kalenz..."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3498,8 +3500,8 @@ msgstr ""
 "starszyzna. Każdy próbował narzucić innym swój punkt widzenia, a wszystkie "
 "opierały się na jasnych założeniach: zostać w twierdzy i przeczekać. Tylko "
 "Marbus sądził, że w ten sposób nie uda im się przetrwać. Uderzając w stół i "
-"nawołując orków do porządku, udało mu się przekonać ich, że tutaj nie czeka "
-"na nich nic, tylko śmierć. Gewold pierwszy sprzeciwił się Marbusowi: "
+"nawołując orków do porządku, udało mu się przekonać ich, iż tutaj nie czeka "
+"na nich nic, tylko śmierć. Gewold pierwszy sprzeciwił się Marbusowi – "
 "ucieczka nie wchodziła w grę, bo dokąd mieliby uciekać?"
 
 #. [story]: [part]
@@ -3534,9 +3536,9 @@ msgid ""
 msgstr ""
 "Marbus, który już powziął decyzję o dostaniu się na Pola Kalindorskie, "
 "zaproponował, by zaprowadzić orków krasnoludzkimi tunelami. Choć Gelu'Aben "
-"znajdowało się tylko kawałek drogi od nich, żadne z orków od lat nie "
+"znajdowało się tylko kawałek drogi od nich, żaden z orków od lat nie "
 "przekraczał progu wykutych przez krasnoludy jaskiń. Wojownicza niegdyś rasa "
-"zaczęła bać się potęgi, jaką stałą się Knalga."
+"zaczęła bać się potęgi, jaką stała się Knalga."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3569,8 +3571,8 @@ msgstr ""
 "się w ruinę. Nie było już powrotu: tylko elfowie w lasach i żołnierze "
 "Sojuszu oglądali, jak czarny dym unosił się nad miastem. Miał się unosić "
 "jeszcze długo, zaczadzając tych, którzy spróbowali w tym czasie zbliżyć się "
-"do miasta. Marbus zaś powziął sztandar Wielkiego Suwerena i pierwszy wstąpił "
-"pod ziemię, prowadząc swoich braci w mroki krasnoludzkich tuneli."
+"do Gelu'Aben. Marbus zaś powziął sztandar Wielkiego Suwerena i pierwszy "
+"wstąpił pod ziemię, prowadząc swoich braci w mroki krasnoludzkich tuneli."
 
 #. [side]: id = Marbus;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3682,7 +3684,7 @@ msgid ""
 "old age. There is no way back for us - we must move forward."
 msgstr ""
 "Uspokój się, Gewoldzie, albo uznam, że na starość zaczynasz robić się "
-"zrzędliwy. Nie ma już dla nas drogi powrotnej- musimy iść naprzód."
+"zrzędliwy. Nie ma już dla nas drogi powrotnej — musimy iść naprzód."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3766,7 +3768,8 @@ msgid ""
 "don't know, what dangers will await us in these tunnels."
 msgstr ""
 "Naprzód, moi wojownicy! Poruszajcie się sprawnie i cicho. Nie rozdzielajcie "
-"się jednak: nie wiadomo, jakie niebezpieczeństwa czekają nas w tych tunelach."
+"się jednak — nie wiadomo, jakie niebezpieczeństwa czekają nas w tych "
+"tunelach."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -3825,7 +3828,7 @@ msgid ""
 "ruling the swamps and rivers on the whole continent."
 msgstr ""
 "Czyż nie mylą mnie zmysły? Jakże to możliwe, że dumna niegdyś rasa nag "
-"osiadła pod ziemię? Pamiętam czasy, gdy nasze ludy tworzyły jedność, "
+"osiadła pod ziemią? Pamiętam czasy, gdy nasze ludy tworzyły jedność, "
 "władając bagnami i rzekami na całym kontynencie."
 
 #. {MESSAGE ...}:
@@ -3960,7 +3963,7 @@ msgid ""
 "that nagas, wchich are on the Northern Alliance side already."
 msgstr ""
 "Przemyśl to jeszcze... Nie każdy, kto nie chce nas zaatakować, jest naszym "
-"przyjacielem. Mogą kłamać. Mogą też wydać nasz przy pierwszej możliwej "
+"przyjacielem. Mogą kłamać. Mogą też wydać nas przy pierwszej możliwej "
 "okazji, dołączając do tych nag, które są już po stronie Sojuszu Północy."
 
 #. {MESSAGE ...}:
@@ -3975,7 +3978,7 @@ msgstr ""
 "Sss... Zamilcz, orku... Zamilcz, albo sprawię, że zamilkniesz na wieki... "
 "Jeśli trzeba, Ta Osoba złoży śluby. Ta Osoba przyrzeka na gwiazdy i węże, na "
 "truciznę i miecze, na czarną i czerwoną krew, że służyć będzie waszemu "
-"Wielkiemu Suwerenowi i odda się mu cała!"
+"Wielkiemu Suwerenowi i odda się mu w całości!"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -4031,8 +4034,8 @@ msgid ""
 msgstr ""
 "Wodzu mój... Pozwól mi udzielić Ci rady... Podziemne karły również odczuły "
 "wpływ Złego Ducha, który pustoszy tę krainę. Są słabi... Możemy razem stawić "
-"im czoło, pokonując ich. Jest jednak inne rozwiązani. Ich strażnicy są "
-"nieliczni, a na większości korytarzy brakuje im wartowników. Możemy "
+"im czoło, pokonując ich. Jest jednak inne rozwiązanie. Ich strażnicy są "
+"nieliczni, a na większości korytarzy brakuje wartowników. Możemy "
 "niepostrzeżenie dotrzeć na wschód, jeśli będziemy iść ostrożnie."
 
 #. {MESSAGE ...}:
@@ -4042,8 +4045,8 @@ msgid ""
 "That's a good advice. Personally I would rather not participate in the fight "
 "- terrain is not suitable for that."
 msgstr ""
-"To dobra rada. Osobiście wolałbym nie brać udziału w walkach: warunki "
-"terenowe zdecydowanie im sprzyjają."
+"To dobra rada. Osobiście wolałbym nie brać udziału w walkach — warunki "
+"terenowe zdecydowanie sprzyjają krasnoludom."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -4104,8 +4107,8 @@ msgid ""
 "Thank you all for your advices. Aidala... Whatever I decide, I want you to "
 "be at my side. I am really glad that we've met. And now - onward!"
 msgstr ""
-"Dziękuję wam wszystkim za rady. Aidalo... Cokolwiek postąpię, chcę mieć Cię "
-"u swego boku. Bardzo cieszę się z tego spotkania. A teraz: w drogę!"
+"Dziękuję wam wszystkim za rady. Aidalo... Cokolwiek postanowię, chcę mieć "
+"Cię u swego boku. Bardzo cieszę się z tego spotkania. A teraz — w drogę!"
 
 #. [objective]: condition = win;
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -4120,7 +4123,7 @@ msgstr "Dotrzyj Marbusem do północnego krańca mapy"
 msgid ""
 "Die, you dwarven monster! This is for all our warriors slain by your brethen!"
 msgstr ""
-"Giń, krasnoludzka poczwaro! To za wszystkich naszych wojowników, którzy "
+"Giń, krasnoludzka poczwaro! To, za wszystkich naszych wojowników, którzy "
 "umarli z waszych rąk!"
 
 #. {MESSAGE ...}:
@@ -4287,14 +4290,14 @@ msgid ""
 "into the horns! Orcs are attacking our lands!"
 msgstr ""
 "Na tysiąc beczek piwa i tonę wieprzowiny! To orkowie! Zadąć w rogi! Orkowie "
-"atakują nasze ziemię!"
+"atakują nasze ziemie!"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
 #: 1.12.6\userdata\data\add-ons\Marbuss_Escapee/scenarios/06_By_the_Tunnels.cfg:683
 msgid ""
 "Into the horns?! Somebody immediately start beating in drums! To the attack!"
-msgstr "W rogi?! Natychmiast niech ktoś zacznie bić w bębny! Do ataku!"
+msgstr "W rogi?! Natychmiast zacznijcie bić w bębny! Do ataku!"
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -4584,7 +4587,7 @@ msgid ""
 "I only hope that you won't talk like this ghost did. Broken sentences aren't "
 "in your style, cousin. We should already move forward."
 msgstr ""
-"Mam tylko nadzieję, że nie będziesz mówić tak jak tamten duch. Urywane "
+"Mam tylko nadzieję, że nie będziesz mówić tak, jak tamten duch. Urywane "
 "zdania nie są w twoim stylu, kuzynie. Powinniśmy już ruszać dalej."
 
 #. {MESSAGE ...}:
@@ -4755,7 +4758,7 @@ msgstr ""
 "wokół siebie niewielką grupkę doradców i najznamienitszych wojowników, a "
 "także tych nielicznych, którzy zapoznali się z kulturą i filozofią "
 "krasnoludów. Mieli oni za zadanie wybierać takie drogi, by unikać spotkań z "
-"o wiele bardziej licznymi siłami nieprzyjaciela."
+"o wiele liczniejszymi siłami nieprzyjaciela."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -4775,7 +4778,7 @@ msgstr ""
 "skorzystał z praw wojennych i nakazał ich powiesić. Następnie nagi "
 "pociągnęły ciała wgłąb podziemnych rzek, gdzie przykryto je kamieniami. Taka "
 "śmierć była największą hańbą dla orka i jego rodziny. Po tym incydencie "
-"Horda nie walczyła już miedzy sobą."
+"Horda nie walczyła już między sobą."
 
 #. [story]: [part]
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -4961,7 +4964,7 @@ msgid ""
 "these tunnels"
 msgstr ""
 "Powiedzieć, że należysz do Sojuszu Północy i musisz przedostać się przez te "
-"tunele"
+"tunele."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
@@ -5377,7 +5380,7 @@ msgid ""
 "pass through these tunnels"
 msgstr ""
 "Powiedzieć, że jesteś przywódcą Wielkiej Hordy i przedostaniesz się przez te "
-"tunele siłą"
+"tunele siłą."
 
 #. {MESSAGE ...}:
 #: add-ons/D:\Gry\Battle for Wesnoth
