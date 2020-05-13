@@ -1,12 +1,12 @@
-Napisy Koñcowe
+Napisy KoÅ„cowe
 
 ***
 
-Kampania stworzona przez stronê wesnoth.com.pl
+Kampania stworzona przez stronÄ™ wesnoth.com.pl
 
 ***
 
-G³ówny projektant:
+GÅ‚Ã³wny projektant:
 
 Adrian (Deidara) Pezda
 
@@ -22,11 +22,11 @@ Piotr (kalfat) Frankiewicz
 
 ***
 
-G³ówny programista:
+GÅ‚Ã³wny programista:
 
 Piko
 
-Programiœci:
+ProgramiÅ›ci:
 
 Jarom
 
@@ -34,11 +34,11 @@ Kamil (Filar) Pilarski
 
 ***
 
-G³ówny t³umacz jêzyka angielskiego:
+GÅ‚Ã³wny tÅ‚umacz jÄ™zyka angielskiego:
 
 Damian Wydra
 
-T³umacze jêzyka angielskiego:
+TÅ‚umacze jÄ™zyka angielskiego:
 
 Modrzew
 
@@ -50,17 +50,17 @@ Jarom
 
 ***
 
-G³ówny twórca map:
+GÅ‚Ã³wny twÃ³rca map:
 
 Piko
 
-Twórcy map:
+TwÃ³rcy map:
 
 Jarom
 
 ***
 
-G³ówny tester:
+GÅ‚Ã³wny tester:
 
 Piotr (kalfat) Frankiewicz
 
