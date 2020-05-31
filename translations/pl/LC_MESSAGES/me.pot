@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 12:01 UTC\n"
+"POT-Creation-Date: 2020-05-31 14:23 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -297,6 +297,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\02+_.cfg:156
 #: Marbuss_Escape\scenarios\04A_The_Crystal_Order.cfg:145
 #: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:241
+#: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:351
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:217
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:204
 #: Marbuss_Escape\scenarios\12_.cfg:186
@@ -1075,7 +1076,7 @@ msgstr ""
 
 #. [option]
 #: Marbuss_Escape\scenarios\03_Banished_Saurians.cfg:376
-msgid "Helping the trolls is the best way. we are going to Sunek Dal."
+msgid "Helping the trolls is the best way. We are heading to Sunek Dal!"
 msgstr ""
 
 #. [command]
@@ -1456,7 +1457,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:31
-msgid "The journey to Sunek Dal was exhausting and burdensome, it decreased the Marbus' crowd by a considerable amount of women and elderly people. The blizzard was so strong that the road a few meters in front of the orcs was completely invisible. They had to trust the wolves. Apart from that, what awaited them in Sunek Dal? Hot meal, warm beds and root beer? Or maybe a fratricidal fight for the rest of provisions? Marbus didn't know it, although his wildly flowing blood gave him a feeling of an incoming battle."
+msgid "The journey to Sunek Dal was exhausting and burdensome, it decreased the Marbus' crowd by a considerable amount of women and elderly people. The blizzard was so strong that the road a few meters in front of the orcs was completely invisible. They had to trust the wolves. Apart from that, what awaited them in Sunek Dal? Hot meal, warm beds and root beer? Or maybe a fratricidal fight for the rest of provisions? Marbus didn't know it, although his wildly flowing blood gave him a feeling of an incoming battle..."
 msgstr ""
 
 #. [side]: id=Krull, type=Krull3
@@ -1825,11 +1826,6 @@ msgid "Raslav the Snowfeet"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:351
-msgid "Marbus's Camp."
-msgstr ""
-
-#. [event]
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:352
 msgid "''Under the Mountain'' Bawdy House"
 msgstr ""
@@ -1941,7 +1937,7 @@ msgstr ""
 
 #. [message]: speaker=Kochan
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:468
-msgid "The Northern Alliance is separated from Wesnoth? It seems that these undead became the plague of these lands. The situation is even worse than we thought."
+msgid "The Northern Alliance is separated from Wesnoth? It seems that these undead became the plague of these lands. The situation is even worse than we thought..."
 msgstr ""
 
 #. [message]: speaker=Marbus
@@ -1981,7 +1977,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:520
-msgid "...we’ve tracked them. And I was lead the assault... However, their numbers, their power... They were crushing us. And my boys? They left me alone! In the first line! It wasn't worth it, Marbus! Nothing wasn't worth doing anything! But this is enough as for now... There's no point talking nor wasting one’s breath."
+msgid "...We’ve tracked them. And I was lead the assault... However, their numbers, their power... They were crushing us. And my boys? They left me alone! In the first line! It wasn't worth it, Marbus! Nothing wasn't worth doing anything! But this is enough as for now... There's no point talking nor wasting one’s breath."
 msgstr ""
 
 #. [event]
@@ -2026,7 +2022,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:579
-msgid "Defeat the enemy leaders."
+msgid "Defeat the enemy leaders"
 msgstr ""
 
 #. [then]: id=s25Yeti)}{FACING ne}
@@ -2036,7 +2032,7 @@ msgstr ""
 
 #. [then]: id=s25Yeti)}{FACING ne}
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:624
-msgid "Can you hear that sound? It's something like … A roar. I've heard it somwhere before."
+msgid "Can you hear that sound? It's something like … A roar. I've heard it somwhere before..."
 msgstr ""
 
 #. [then]: id=s25Yeti)}{FACING ne}
@@ -2370,12 +2366,12 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:375
-msgid "Woof Woof"
+msgid "Woof, woof!"
 msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:376
-msgid "Silence, Barley! You mustn't touch it!"
+msgid "Silence, Barley! You mustn't touch it."
 msgstr ""
 
 #. [event]
@@ -2485,7 +2481,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:532
-msgid "Sss... Silence, orc... Stay silent or I will make you silent forever... If it is needed, She will make an oath. She swears on the stars and snakes, on the poison and swords, on the blood of black and red, that She will serve your Great Sovereign and will give the whole of Herself to him."
+msgid "Sss... Silence, orc... Stay silent or I will make you silent forever... If it is needed, This Person will make an oath. This Person swears on the stars and snakes, on the poison and swords, on the blood of black and red, that This Person will serve your Great Sovereign and will give the whole of Herself to him."
 msgstr ""
 
 #. [event]
@@ -2731,7 +2727,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:897
-msgid "Yes... It had  happened before... But not here. In the far, far west... When the dark Wesfolk people stood in front of us tearing us out from our battle-realms... Our primal world from which we were summoned by the liches."
+msgid "Yes... It had  happened before... But not here. In the far, far west... When the dark Wesfolk people stood in front of us tearing us out from our battle-realms... Our primal world from which we were summoned by the liches..."
 msgstr ""
 
 #. [event]
@@ -2861,7 +2857,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1098
-msgid "This person is named Aidala... Do you want to spawn with me?"
+msgid "This Person is named Aidala... Do you want to spawn with me?"
 msgstr ""
 
 #. [then]
@@ -3536,7 +3532,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Marbuss_Escape\scenarios\08_.cfg:506
-msgid "Wkrocz do fortecy"
+msgid "Enter the fortress"
 msgstr ""
 
 #. [event]
@@ -4343,12 +4339,12 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:252
-msgid "Śmierć Jarl Irick the High"
+msgid "Death of Jarl Irick the High"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:256
-msgid "Śmierć Great Lord Dirack"
+msgid "Death of Great Lord Dirack"
 msgstr ""
 
 #. [message]: speaker=Marbus
@@ -5275,7 +5271,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:818
-msgid "Szczur. Możemy go zatrzymać? Jest taki słodki i... Kudłaty."
+msgid "Rat. Can we keep it? It's so cute, and... Shaggy."
 msgstr ""
 
 #. [else]
@@ -7923,66 +7919,46 @@ msgstr ""
 
 #. [about]
 #: Marbuss_Escape\_main.cfg:32
-msgid "Kampania stworzona przez społeczność strony wesnoth.com.pl"
+msgid "Campaign created by wesnoth.com.pl community members"
 msgstr ""
 
 #. [about]
 #: Marbuss_Escape\_main.cfg:35
-msgid "Główny projektant:"
+msgid "Story & dialogues"
 msgstr ""
 
 #. [about]
 #: Marbuss_Escape\_main.cfg:41
-msgid "Projektanci:"
+msgid "Designers"
 msgstr ""
 
 #. [about]
 #: Marbuss_Escape\_main.cfg:56
-msgid "Główny programista:"
+msgid "Developers"
 msgstr ""
 
 #. [about]
-#: Marbuss_Escape\_main.cfg:62
-msgid "Programiści:"
+#: Marbuss_Escape\_main.cfg:70
+msgid "English translators"
 msgstr ""
 
 #. [about]
-#: Marbuss_Escape\_main.cfg:71
-msgid "Główny tłumacz języka angielskiego:"
+#: Marbuss_Escape\_main.cfg:90
+msgid "Mapmakers"
 msgstr ""
 
 #. [about]
-#: Marbuss_Escape\_main.cfg:77
-msgid "Tłumacze języka angielskiego:"
+#: Marbuss_Escape\_main.cfg:99
+msgid "Testers"
 msgstr ""
 
 #. [about]
-#: Marbuss_Escape\_main.cfg:92
-msgid "Główny twórca map:"
+#: Marbuss_Escape\_main.cfg:120
+msgid "Portraits"
 msgstr ""
 
 #. [about]
-#: Marbuss_Escape\_main.cfg:98
-msgid "Twórcy map:"
-msgstr ""
-
-#. [about]
-#: Marbuss_Escape\_main.cfg:104
-msgid "Główny Tester:"
-msgstr ""
-
-#. [about]
-#: Marbuss_Escape\_main.cfg:110
-msgid "Testerzy:"
-msgstr ""
-
-#. [about]
-#: Marbuss_Escape\_main.cfg:134
-msgid "Portrety:"
-msgstr ""
-
-#. [about]
-#: Marbuss_Escape\_main.cfg:140
-msgid "Scenariusz i dialogi:"
+#: Marbuss_Escape\_main.cfg:126
+msgid "King of Gon unit graphics"
 msgstr ""
 
