@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 14:23 UTC\n"
+"POT-Creation-Date: 2020-05-31 14:56 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -176,7 +176,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\01_Bag-not_Under_Attack.cfg:195
-msgid "I do not like it, my cousin. If this human is telling the truth, something must have flushed the city's dwellers out. Way off in the distance I can see their women and children. Marbus, they are not an army, they are refugees."
+msgid "I don't like it, my cousin. If this human is telling the truth, something must have flushed the city's dwellers out. Way off in the distance I can see their women and children. Marbus, they are not an army, they are refugees!"
 msgstr ""
 
 #. [event]
@@ -5723,7 +5723,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\13_.cfg:43
-msgid "Sprawiła, że zadrżały truchła mieszkańców Seledynowego Miasta, które nie nadawały się już nawet do wstąpienia w szeregi armii trupów. Cała północ przystanęła na moment i milczała, słuchając przedziwnej, wspaniałej nuty Rogu Gjallarhorn."
+msgid "It made the corpses Celadon City dwellers, which wouldn't even be suitable for the army of the dead anymore, tremble. The whole North stopped for a moment in silence, listening to mysterious, splendid sound of the Gjallarhorn."
 msgstr ""
 
 #. [part]
@@ -7784,12 +7784,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:8
-msgid "Nie... Teraz nie uda mi się... Poprowadzić moich wojowników..."
+msgid "No... Now I won't be able... To lead my warriors..."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:20
-msgid "Ugh... Umieram... To koniec..."
+msgid "Ugh... I'm dying... This is the end..."
 msgstr ""
 
 #. [event]
@@ -7819,12 +7819,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:87
-msgid "Psia krew! Zdaje się, że tu kończy się... Moja historia..."
+msgid "Damn! It seems, that here ends... My story..."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:105
-msgid "*Wyje z bólu.*"
+msgid "*Howls from pain*"
 msgstr ""
 
 #. [event]

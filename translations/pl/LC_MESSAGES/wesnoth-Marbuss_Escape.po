@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 14:23 UTC\n"
-"PO-Revision-Date: 2020-05-31 16:23+0200\n"
+"POT-Creation-Date: 2020-05-31 14:56 UTC\n"
+"PO-Revision-Date: 2020-05-31 17:00+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -257,9 +257,9 @@ msgstr ""
 #. [event]
 #: Marbuss_Escape\scenarios\01_Bag-not_Under_Attack.cfg:195
 msgid ""
-"I do not like it, my cousin. If this human is telling the truth, something "
+"I don't like it, my cousin. If this human is telling the truth, something "
 "must have flushed the city's dwellers out. Way off in the distance I can see "
-"their women and children. Marbus, they are not an army, they are refugees."
+"their women and children. Marbus, they are not an army, they are refugees!"
 msgstr ""
 "Nie podoba mi się to, kuzynie. Jeśli ten człowiek mówi prawdę, coś musiało "
 "wykurzyć ich z miasta. Tam w oddali widzę ich kobiety i dzieci. To nie "
@@ -9508,11 +9508,15 @@ msgstr ""
 #. [part]
 #: Marbuss_Escape\scenarios\13_.cfg:43
 msgid ""
+"It made the corpses Celadon City dwellers, which wouldn't even be suitable "
+"for the army of the dead anymore, tremble. The whole North stopped for a "
+"moment in silence, listening to mysterious, splendid sound of the "
+"Gjallarhorn."
+msgstr ""
 "Sprawiła, że zadrżały truchła mieszkańców Seledynowego Miasta, które nie "
 "nadawały się już nawet do wstąpienia w szeregi armii trupów. Cała północ "
 "przystanęła na moment i milczała, słuchając przedziwnej, wspaniałej nuty "
 "Rogu Gjallarhorn."
-msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\13_.cfg:46
@@ -13049,7 +13053,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\Final_Orcs.cfg:649
 #: Marbuss_Escape\utils\deaths.cfg:68 Marbuss_Escape\utils\deaths.cfg:115
 msgid "Sss... This Person will now swim in the river of dead nagas..."
-msgstr ""
+msgstr "Sss... Ta Osoba będzie teraz pływać w rzece martwych nag..."
 
 #. [else]
 #: Marbuss_Escape\scenarios\Final_Orcs.cfg:655
@@ -13382,24 +13386,25 @@ msgstr "Taniec w Wodzie: +10% obrony na płytkiej i głębokiej wodzie"
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:8
-msgid "Nie... Teraz nie uda mi się... Poprowadzić moich wojowników..."
-msgstr ""
+msgid "No... Now I won't be able... To lead my warriors..."
+msgstr "Nie... Teraz nie uda mi się... Poprowadzić moich wojowników…"
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:20
-msgid "Ugh... Umieram... To koniec..."
-msgstr ""
+msgid "Ugh... I'm dying... This is the end..."
+msgstr "Ugh... Umieram... To koniec..."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:32
 msgid "Trolls not survive... by themselves..."
-msgstr ""
+msgstr "Trolle nie przeżyją... same..."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:39
 msgid ""
 "Without this troll we won't manage to lead his herd to fight! It's over..."
 msgstr ""
+"Bez tego trolla nie uda nam się poprowadzić tego stada do bitwy! To koniec..."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:49
@@ -13407,32 +13412,35 @@ msgid ""
 "I'm dying... My vision is blurred, my blood stopped flowing in my veins. "
 "It's time for me... The time... I'm leaving..."
 msgstr ""
+"Umieram... Mój wzrok jest zaćmiony, moja krew przestała płynąć w moich "
+"żyłach. Czas na mnie... Tym razem... Odchodzę..."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:56
 msgid ""
 "Without her we won't reclaim the motherland of saurians! Everything is lost!"
 msgstr ""
+"Bez niej nie uda nam się odzyskać terytorium jaszczurów! Wszystko stracone!"
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:75
 msgid "Sss... Our matron is dying..."
-msgstr ""
+msgstr "Sss... Nasza matka umiera..."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:87
-msgid "Psia krew! Zdaje się, że tu kończy się... Moja historia..."
-msgstr ""
+msgid "Damn! It seems, that here ends... My story..."
+msgstr "Psia krew! Zdaje się, że tu kończy się... Moja historia..."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:105
-msgid "*Wyje z bólu.*"
-msgstr ""
+msgid "*Howls from pain*"
+msgstr "*Wyje z bólu.*"
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:124
 msgid "Rest in peace, Kochan. I wouldn't have went this far, if not for you."
-msgstr ""
+msgstr "Spoczywaj w pokoju, Kochan. Nie zaszedłbym tak daleko, gdyby nie ty."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:157
@@ -13440,16 +13448,18 @@ msgid ""
 "Her wisdom and venerablity were admirable... I am glad that we had the "
 "opportunity to fight at her side."
 msgstr ""
+"Jej mądrość i charyzma były godne podziwu... Cieszę się, że mogłem walczyć z "
+"nią ramię w ramię."
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:180
 msgid "Nooo... Now we will not save our clan!"
-msgstr ""
+msgstr "Niee... Teraz nie uda nam się uratować naszego klanu!"
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:186
 msgid "Nooo... Now the Great Horde will die from undeads!"
-msgstr ""
+msgstr "Nie... Teraz Wielka Horda zginie z rąk nieumarłych!"
 
 #. [objective]: condition=lose
 #: Marbuss_Escape\utils\deaths.cfg:191
@@ -13496,6 +13506,12 @@ msgid ""
 "przyszłość. Czy uda mu się przeprowadzić orków przez dziką północ, opanowaną "
 "przez krwiożercze, mroczne moce? (Wersja 1.0.1, 15 scenariuszy)"
 msgstr ""
+"Many years passed, since orcs incited fear in hearts of elves, humans and "
+"dwarves. Many, since they dared to set foot on lands of Wesnoth. Many, since "
+"they were rolling in wealth. Among surviving orcish clans, there was also a "
+"certain Marbus's clan, too small to have a name, history or future. Will he "
+"succesfully lead orcs through wild North, controlled by blood-thirsty, dark "
+"powers? (Version 1.0.1, 15 scenarios)"
 
 #. [campaign]: id=MARBUS_ESCAPE
 #: Marbuss_Escape\_main.cfg:25

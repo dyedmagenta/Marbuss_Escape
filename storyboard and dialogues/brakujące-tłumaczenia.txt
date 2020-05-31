@@ -1,5 +1,5 @@
 (main)
-Many years passed, since orcs incited fear in hearts of elves, humans and dwarves. Many, since they dared to set foot on lands of Wesnoth. Many, since they ???. Among surviving orcish clans, there was also a certain Marbus's clan, too small to have a name, history or future. Will he succesfully lead orcs through wild North, controlled by blood-thirsty, dark powers? (Version 1.0.1, 15 scenarios)
+Many years passed, since orcs incited fear in hearts of elves, humans and dwarves. Many, since they dared to set foot on lands of Wesnoth. Many, since they were rolling in wealth. Among surviving orcish clans, there was also a certain Marbus's clan, too small to have a name, history or future. Will he succesfully lead orcs through wild North, controlled by blood-thirsty, dark powers? (Version 1.0.1, 15 scenarios)
 Wiele lat minęło, odkąd orkowie budzili postrach w sercach elfów, ludzi i krasnoludów. Wiele, odkąd odważyli się postawić stopę na ziemiach Wesnoth. Wiele, odkąd opływali w bogactwa. Wśród przetrwałych klanów orków, był również pewien klan Marbusa, klan zbyt mały, by mieć nazwę, historię bądź przyszłość. Czy uda mu się przeprowadzić orków przez dziką północ, opanowaną przez krwiożercze, mroczne moce? (Wersja 1.0.1, 15 scenariuszy)
 
 Civilian
@@ -74,5 +74,5 @@ Rat. Can we keep it? It's so cute, and... Shaggy.
 Szczur. Możemy go zatrzymać? Jest taki słodki i... Kudłaty.
 
 (13)
-It made citizens of Celadon City's corpses to tremble
+It made the corpses Celadon City dwellers, which wouldn't even be suitable for the army of the dead anymore, tremble. The whole North stopped for a moment in silence, listening to mysterious, splendid sound of the Gjallarhorn.
 Sprawiła, że zadrżały truchła mieszkańców Seledynowego Miasta, które nie nadawały się już nawet do wstąpienia w szeregi armii trupów. Cała północ przystanęła na moment i milczała, słuchając przedziwnej, wspaniałej nuty Rogu Gjallarhorn.

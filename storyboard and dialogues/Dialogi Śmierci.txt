@@ -1,22 +1,81 @@
-Dialogi śmierci dla poszczególnych postaci.
+Dialogi śmierci dla poszczególnych postaci. -- wersja orginalna
 
 Marbus:
 Nie... Teraz nie uda mi się... Poprowadzić moich wojowników...
+No... Now I won't be able... To lead my warriors...
 
 Kochan:
 Ugh... Umieram... To koniec...
+Ugh... I'm dying... This is the end...
 
 Gewold:
 Psia krew! Zdaje się, że tu kończy się... Moja historia...
+Damn! It seems, that here ends... My story...
 
 Aidala:
 Argh! Ta Osoba... Nie może Ci już pomóc... #nie wprowadziłem tego, bo poprzednie dialogi uważam za lepsze
+Argh! This Person... Cannot help you anymore...
 
 Emborgi-tarash:
 Ugh... Moje oczy widzą już tylko ciemność...
+Ugh... My eyes only see darkness...
 
 Krull Skała:
 Ugh... Trolle... Poprowadź trolle...
+Ugh... Trolls... Lead the trolls...
 
 Jęczmień:
 *Wyje z bólu.*
+*Howls from pain*
+
+
+
+---------------------------------------------------------------------------
+
+
+
+Pozostałe dialogi śmierci (w tym nieaktualne, z pliku z dialogami śmierci):
+
+(Emborgi)
+I'm dying... My vision is blurred, my blood stopped flowing in my veins. It's time for me... The time... I'm leaving...
+
+Without her we won't reclaim the motherland of saurians! Everything is lost!
+
+-----
+I'm dying... My sight is weakening... The only thing I can see in the future... Is death...
+
+Farewell, augur. Your sacrifice won't come in vain. I will lead your saurians to a new, better life.
+
+Her wisdom and venerablity were admirable... I am glad that we had the opportunity to fight at her side.
+
+(Krull)
+Trolls not survive... by themselves...
+Trolle nie przeżyją... same...
+
+Without this troll we won't manage to lead his herd to fight! It's over...
+-----
+Ugh... Mine heart... Mine liver... Mine intestines... It be my end... But wise orc shall lead... Shall he lead the whelps... They must to live.
+
+Farewell, Krull the Rock. Your sacrifice won't come in vain... And now, to the battle, orcs! May we honour his memory in fight!
+
+Warf! Warf!
+
+He was a mighty warrior on the land... Let his soul drift with the flow of troll rivers.
+
+(Aidala)
+Sss... This Person will now swim in the river of dead nagas...
+Sss... Ta Osoba będzie teraz pływać w rzece martwych nag...
+
+Sss... Our matron is dying...
+
+(Kochan)
+Rest in peace, Kochan. I wouldn't have went this far, if not for you.
+Spoczywaj w pokoju, Kochan. Nie zaszedłbym tak daleko, gdyby nie ty.
+---tego dialogu powyżej raczej nie powinno być
+
+(timeout)
+Nooo... Now we will not save our clan!
+Niee... Teraz nie uda nam się uratować naszego klanu!
+-----
+Nooo... Now the Great Horde will die from undeads!
+Nie... Teraz Wielka Horda zginie z rąk nieumarłych!
