@@ -1,38 +1,32 @@
 Campaign created by wesnoth.com.pl community members
 Kampania stworzona przez społeczność strony wesnoth.com.pl
 
-Head designer:
-Główny projektant:
+Story and dialogues
+Fabuła i tekst
 
-Designers:
-Projektanci:
+Designers
+Projektanci
 
-Lead developer:
-Główny programista:
+Developers
+Programiści
 
-Developers:
-Programiści:
+Lead developer
+Główny programista
 
-Main English translator:
-Główny tłumacz języka angielskiego:
+English translators
+Tłumacze języka angielskiego
 
-English translators:
-Tłumacze języka angielskiego:
+Main translator and proofreader
+Główny tłumacz języka angielskiego
 
-Head mapmaker:
-Główny twórca map:
+Mapmakers
+Twórcy map
 
-Mapmakers:
-Twórcy map:
+Testers
+Testerzy
 
-Main tester:
-Główny Tester:
+Portraits
+Portrety
 
-Testers:
-Testerzy:
-
-Portraits:
-Portrety:
-
-Scenario and dialogues:
-Scenariusz i dialogi:
+King of Gon unit graphics
+Grafika Króla Gonu
