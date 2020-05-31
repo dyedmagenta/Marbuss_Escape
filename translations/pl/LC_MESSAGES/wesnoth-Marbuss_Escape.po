@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 15:15 UTC\n"
-"PO-Revision-Date: 2020-05-31 17:15+0200\n"
+"POT-Creation-Date: 2020-05-31 15:25 UTC\n"
+"PO-Revision-Date: 2020-05-31 17:26+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -96,7 +96,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\02_Winter_in_Bag-not.cfg:48
 #: Marbuss_Escape\scenarios\03_Banished_Saurians.cfg:40
 #: Marbuss_Escape\scenarios\04A_The_Crystal_Order.cfg:62
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:59
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:47
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:118
 #: Marbuss_Escape\scenarios\07_.cfg:58 Marbuss_Escape\scenarios\09_.cfg:44
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:43
@@ -453,7 +453,7 @@ msgstr "Natura"
 #. [event]
 #: Marbuss_Escape\scenarios\02+_.cfg:156
 #: Marbuss_Escape\scenarios\04A_The_Crystal_Order.cfg:145
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:241
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:229
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:351
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:217
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:204
@@ -469,7 +469,7 @@ msgstr "Kieł Ogra"
 #. [objective]: condition=win
 #: Marbuss_Escape\scenarios\02+_.cfg:162
 msgid "Explore the pass"
-msgstr "Przeszukaj przełęcz."
+msgstr "Przeszukaj przełęcz"
 
 #. [event]
 #: Marbuss_Escape\scenarios\02+_.cfg:178
@@ -575,10 +575,10 @@ msgstr ""
 #: Marbuss_Escape\scenarios\02+_.cfg:233
 msgid ""
 "We’ve managed to bring such a dangerous and rare thing. We’re now left with "
-"deciding what to do next... I think that ..."
+"deciding what to do next... I think, that..."
 msgstr ""
-"Udało nam się powalić coś tak niebezpiecznego i niespotykanego… Zostaje "
-"teraz kwestia tego, co zrobić dalej… Myślę, że…"
+"Udało nam się powalić coś tak niebezpiecznego i niespotykanego... Zostaje "
+"teraz kwestia tego, co zrobić dalej... Myślę, że..."
 
 #. [option]
 #: Marbuss_Escape\scenarios\02+_.cfg:235
@@ -1026,12 +1026,12 @@ msgstr "To dobrze. Nasza obrona już się chwieje."
 #. [case]
 #: Marbuss_Escape\scenarios\02_Winter_in_Bag-not.cfg:360
 #: Marbuss_Escape\scenarios\02_Winter_in_Bag-not.cfg:394
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:450
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:536
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:572
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:608
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:644
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:680
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:438
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:524
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:560
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:596
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:632
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:668
 msgid "Woof woof!"
 msgstr "Hau! Hau!"
 
@@ -2229,35 +2229,6 @@ msgstr "Szaleństwo Głodu"
 #. [part]
 #: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:15
 msgid ""
-"The recent danger, the mighty undead, feared by children and women, in front "
-"of whom orcs had been falling. Has been defeated. Even though it happened "
-"neither without doubts, nor without sacrifice, in the beating hearts of orcs "
-"the warfare and the lust of survival have inflamed. The warriors saw that "
-"even the most dreadful demons may be defeated."
-msgstr ""
-
-#. [part]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:19
-msgid ""
-"They managed to do it only thanks to the help of Saurians. When years ago, "
-"sovereign Gewold refused them help and shelter, everyone was expecting the "
-"war. In the far north the great battle between the orcish clans and Saurians "
-"was supposed to fire. Two kinds of blood would flood the dry hills and the "
-"swampy marches. However, this battle never happened."
-msgstr ""
-
-#. [part]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:23
-msgid ""
-"It even turned out that these two races could live in harmony. In face of "
-"much more serious danger they were able to forget separating them "
-"differences and stood together the combat, which would they certainly lose "
-"divided."
-msgstr ""
-
-#. [part]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:27
-msgid ""
 "After all, Marbus didn't show generosity and didn't ally with the Saurians. "
 "He led his units farther through the frozen steppes right into Sunek Dal. He "
 "didn't look behind when he was leaving. Thus, that he couldn't see the "
@@ -2272,7 +2243,7 @@ msgstr ""
 "na ratunek."
 
 #. [part]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:31
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:19
 msgid ""
 "The journey to Sunek Dal was exhausting and burdensome, it decreased the "
 "Marbus' crowd by a considerable amount of women and elderly people. The "
@@ -2291,54 +2262,54 @@ msgstr ""
 "bitwy…"
 
 #. [side]: id=Krull, type=Krull3
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:95
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:83
 msgid "Trolls"
 msgstr "Trolle"
 
 #. [side]: id=Krull, type=Krull3
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:97
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:85
 msgid "Krull the Rock"
 msgstr "Krull Skała"
 
 #. [side]: id=Kunus, type=Orcish Ruler
 #. [side]: id=Elgerus, type=Orcish Sovereign
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:144
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:187
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:132
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:175
 msgid "Enemies"
 msgstr "Przeciwnicy"
 
 #. [side]: id=Kunus, type=Orcish Ruler
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:146
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:134
 msgid "Kunus the Dead Fish"
 msgstr "Kunus Martwa Ryba"
 
 #. [side]: id=Elgerus, type=Orcish Sovereign
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:189
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:177
 msgid "Elgerus"
 msgstr "Elgerus"
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:226
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:214
 msgid "Reach Sunek Dal"
 msgstr "Dotrzyj do Sunek Dalu"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:238
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:226
 msgid "Sunek Dal"
 msgstr "Sunek Dal"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:239
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:227
 msgid "The Watchtower"
 msgstr "Strażnica"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:240
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:228
 msgid "Troll Camp"
 msgstr "Obóz Trolli"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:286
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:274
 msgid ""
 "So we have finally reached Sunek Dal... I can see that winter hasn't spared "
 "this place. But something is wrong. Even in such weather is bad, we should "
@@ -2349,7 +2320,7 @@ msgstr ""
 "zauważeni przez patrole."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:287
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:275
 msgid ""
 "My cousin, something is on. Our wolves are anxious. They behave as in a "
 "battle. I hope we haven’t come here too late."
@@ -2358,7 +2329,7 @@ msgstr ""
 "się jak na bitwie. Miejmy nadzieję, że nie przybyliśmy za późno."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:288
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:276
 msgid ""
 "Elgerus was never a calm ruler. If there was a battle, he would fight till "
 "last orc standing. He wouldn't let anyone run away from the battlefield. Now "
@@ -2371,12 +2342,12 @@ msgstr ""
 "kolejnego spotkania z tymi upiorami."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:307
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:295
 msgid "These are Elgerus' orcs. But what are they doing?!"
 msgstr "To orkowie Elgerusa... Ale co oni robią?!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:328
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:316
 msgid ""
 "Fight, poor dogs! Fight if you want to feed yourselves on the food this "
 "shabby troll is hiding from us!"
@@ -2385,14 +2356,14 @@ msgstr ""
 "które ten nędzny troll przed nami ukrywa!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:329
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:317
 msgid "Orc be mad! Hunger break him mind. Krull have no a bit food in garners!"
 msgstr ""
 "Ork szalony. Głód złamać jego umysł. Krull nie mieć ani trochę jadła w "
 "spiżarnie!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:330
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:318
 msgid ""
 "You heard him, boys!? This old goat thinks he can deceive us like that! He "
 "will get thrown to the pot himself if there is a need to do so! Just as his "
@@ -2403,7 +2374,7 @@ msgstr ""
 "jego wojowników, których złapaliśmy!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:335
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:323
 msgid ""
 "Release the trolls. They did nothing to you. Broken mind... Needs breaking a "
 "few bones... We will get our brothers back."
@@ -2412,22 +2383,22 @@ msgstr ""
 "kości... Odbijemy naszych braci..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:336
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:324
 msgid "For the horde’s sake, what's going on here?!"
 msgstr "Co tu się dzieje na hordę?!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:337
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:325
 msgid "A new orc?"
 msgstr "Inny ork?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:338
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:326
 msgid "Who the hell are you?"
 msgstr "Kim ty do diabła jesteś!?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:339
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:327
 msgid ""
 "Lord, this is Marbus. He is the orc ruler from Bag'not Fortress. He's said "
 "to be a friend of goblins and he listens his cousin who sleeps with his dog."
@@ -2436,7 +2407,7 @@ msgstr ""
 "goblinów i słucha się kuzyna, który sypia z kundlem."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:340
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:328
 msgid ""
 "Yes, yes. I have heard about him. A scum not worth listening to... Kill him! "
 "He’s surely brought enough food to fill our maws!"
@@ -2445,12 +2416,12 @@ msgstr ""
 "przyniósł ze sobą wystarczająco jedzenia, by napełnić nasze brzuchy!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:341
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:329
 msgid "But... Lord... They're almost as numerous many as we are..."
 msgstr "Ale... Panie... Jest ich niemalże tylu, co nas..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:342
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:330
 msgid ""
 "Shut up, Kunus! I am the commander! So, Marbus, I hope you've sharpened your "
 "sword. I'll let you silt your throat yourself when my orcs have caught you."
@@ -2460,7 +2431,7 @@ msgstr ""
 "orkowie cię już dopadną."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:343
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:331
 msgid ""
 "It's sick... He didn't even let us get a word edgeways. And this "
 "slaughter... They really wanted to butcher these trolls..."
@@ -2469,7 +2440,7 @@ msgstr ""
 "wyrżnąć trolle..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:344
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:332
 msgid ""
 "So, firstly the undead, then the chaos, and now we're going to fight our "
 "brothers. But... do they propose any solution?"
@@ -2478,12 +2449,12 @@ msgstr ""
 "walczyć przeciw naszym braciom. Ale czy dają nam wyjście?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:345
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:333
 msgid "New orc? Wise orc? Trolls help beat broken mind orc."
 msgstr "Inny ork... Mądry ork? Trolle pomogą pokonać orka ze złamanym umysłem."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:346
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:334
 msgid ""
 "Yes... This is a fair offer. Let's get rid of them, and then we'll think "
 "what to do later."
@@ -2492,39 +2463,39 @@ msgstr ""
 "czynić dalej."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:347
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:335
 msgid "It seems that Elgerus caged some trolls. Maybe we can free them."
 msgstr ""
 "Zdaje się, że Elgerus schwytał trolle do klatek. Może uda nam się je uwolnić."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:348
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:336
 msgid "Forward, children. Time to punch. Time to punch very, very hard."
 msgstr "Wymarsz, dzieci. Pora bić. Pora bardzo mocno bić."
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:353
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:341
 msgid "Defeat enemy orcish leaders"
 msgstr "Pokonaj wrogich przywódców orków"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:359
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:347
 #: Marbuss_Escape\utils\deaths.cfg:203
 msgid "Death of Krull the Rock"
 msgstr "Śmierć Krulla Skały"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:381
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:369
 msgid "Argh... How could you... You... You... You fratricide!"
 msgstr "Ahh... Jak mogłeś... Ty... Ty... Bratobójco!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:382
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:370
 msgid "It wasn't us who wanted to start this battle. Farewell, brother..."
 msgstr "Nie my chcieliśmy rozpocząć tę bitwę... Żegnaj, bracie…"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:390
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:378
 msgid ""
 "Grr... You are a good warrior... Marbus... But you don't stand a chance "
 "anyway... Turmoil, hunger... It will destroy you, just like it destroyed me"
@@ -2533,7 +2504,7 @@ msgstr ""
 "Zawierucha, głód... Wykończy cię to, tak jak wykończyło mnie…"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:391
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:379
 msgid ""
 "It seems that a moment before his death he regained a bit of sanity... I "
 "wonder what does he has to say."
@@ -2542,7 +2513,7 @@ msgstr ""
 "co ma do powiedzenia."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:392
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:380
 msgid ""
 "You won't survive... But thank you... I died as a warrior... And during this "
 "fight, I managed to... Forget... The hunger... simply forget..."
@@ -2551,17 +2522,17 @@ msgstr ""
 "walki udało mi się... Zapomnieć... O głodzie... Po prostu zapomnieć…"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:393
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:381
 msgid "Farewell... You won't be forgotten."
 msgstr "Żegnaj... Nie zostaniesz zapomniany."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:410
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:398
 msgid "And that's it..."
 msgstr "To by było na tyle…"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:411
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:399
 msgid ""
 "We’ve slaughtered each and every warrior. Only the orcs unable to fight are "
 "still alive. What shall we do with them, cousin?"
@@ -2570,7 +2541,7 @@ msgstr ""
 "Co z nimi zrobić, kuzynie?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:412
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:400
 msgid ""
 "No more mouths do we need to feed, and I won't kill the ones who didn't "
 "fight us. They'll join our women and children who are following us."
@@ -2580,7 +2551,7 @@ msgstr ""
 "idą razem z nami."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:413
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:401
 msgid ""
 "Orc ruler – wise orc. Rules better than formers. Trolls willingly join orc "
 "ruler."
@@ -2589,112 +2560,112 @@ msgstr ""
 "przyłączyć się do wodza orka."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:414
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:402
 msgid "The help of trolls would be very useful in this terrain."
 msgstr "Wsparcie ze strony trolli byłoby nieocenione w takim terenie."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:415
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:403
 msgid "I'm glad to include you and your whelps in my army, troll."
 msgstr "Chętnie przyłączę do swojej armii ciebie i twoje szczenięta, trollu."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:416
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:404
 msgid "So I and my children will fight for you."
 msgstr "W takim razie ja i moje dzieci będziemy bić się dla ciebie."
 
 #. [event]: id=Brog
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:442
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:430
 msgid "Brog Dogg"
 msgstr "Brog Dogg"
 
 #. [event]: id=Brog
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:444
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:432
 msgid "Our best warrior! Strong, strong... Now we will crush our foe together!"
 msgstr "Nasz najlepszy wojownik! Silny, silny... Teraz razem zmiażdżymy wroga!"
 
 #. [event]: id=Brog
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:445
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:433
 msgid "Release me, and I will show this orc who is the boss is!"
 msgstr "Wypuśćcie mnie, a pokażę temu orkowi, kto tutaj rządzi!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:454
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:540
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:576
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:612
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:648
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:684
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:442
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:528
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:564
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:600
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:636
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:672
 msgid "Ugg ugg!"
 msgstr "Ug ug!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:458
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:544
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:580
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:616
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:652
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:688
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:446
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:532
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:568
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:604
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:640
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:676
 msgid "You are free, brother!"
 msgstr "Jesteś wolny, bracie!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:461
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:449
 msgid "The cage is open!"
 msgstr "Klatka otwarta!"
 
 #. [event]: id=Wogum
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:480
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:468
 msgid "Daro Wogum"
 msgstr "Daro Wogum"
 
 #. [event]: id=Wogum
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:482
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:470
 msgid ""
 "This be troll shaman, great fighter and mage! He have to join the fight!"
 msgstr ""
 "To być troll szaman, wielki wojownik i mag! On musieć dołączyć do walki!"
 
 #. [event]: id=Wogum
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:483
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:471
 msgid ""
 "A troll of his skills would be exceptionally useful in fighting the undead."
 msgstr ""
 "Ktoś o jego umiejętnościach byłby niebywale użyteczny w walce z nieumarłymi."
 
 #. [event]: id=Wogum
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:484
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:472
 msgid "You are right... Immediately free and feed this troll!"
 msgstr "Masz rację... Natychmiast wypuście i nakarmcie tego trolla!"
 
 #. [event]: id=Budu
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:501
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:489
 msgid "Boda Budu"
 msgstr "Boda Budu"
 
 #. [event]: id=Budu
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:503
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:491
 msgid "This be our master in boulder throw! None throws stones as far as him!"
 msgstr ""
 "To być nasz mistrz w rzucie głazem! Nikt nie potrafi miotać kamieniem tak "
 "daleko jak on!"
 
 #. [event]: id=Budu
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:504
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:492
 msgid "Hopefully his aim will be just as good."
 msgstr "Oby był w stanie rzucać równie celnie, co mocno."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:513
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:501
 msgid "Those mine young! Let those out of cages!"
 msgstr "To moja młode! Wypuścić one z klatek!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:547
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:583
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:619
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:655
-#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:691
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:535
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:571
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:607
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:643
+#: Marbuss_Escape\scenarios\04B_Krull_the_Rock.cfg:679
 msgid "The troll from this cage is free now!"
 msgstr "Troll z tej klatki jest już wolny!"
 
