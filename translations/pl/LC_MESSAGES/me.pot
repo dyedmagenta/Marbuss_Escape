@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 15:25 UTC\n"
+"POT-Creation-Date: 2020-05-31 16:01 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -478,7 +478,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\02_Winter_in_Bag-not.cfg:150
-msgid "I have a bad feeling about this, cousin. Since the snow fell, we have been having that dreadful fog... I haven’t remembered such ... since we crossed the Tut'anor pass. Even the wolves are uneasy"
+msgid "I have a bad feeling about this, cousin. Since the snow fell, we have been having that dreadful fog... I haven’t remembered such... Since we crossed the Tut'anor pass. Even the wolves are uneasy."
 msgstr ""
 
 #. [event]
@@ -1870,7 +1870,7 @@ msgstr ""
 #. [then]
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:420
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:648
-#: Marbuss_Escape\scenarios\07_.cfg:545
+#: Marbuss_Escape\scenarios\07_.cfg:544
 msgid "Warf, warf!"
 msgstr ""
 
@@ -2417,7 +2417,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:522
-msgid "Greetings, sons of the west... Or should I say: sons of the north? Her name is Aidala. And these are her daughters. She is their matriarch."
+msgid "Greetings, sons of the west... Or should I say: sons of the north? Her name is Aidala. And these are her daughters. This Person is their matriarch."
 msgstr ""
 
 #. [event]
@@ -2432,7 +2432,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:525
-msgid "Your companion's remark was spot-on, son of the north. The majority of my race would turned their backs on our tradition and the elders' beliefs. She, however, never got rid of her pride, never quenched the sorrow and hatred that stir in her heart... And yet... She couldn't fight."
+msgid "Your companion's remark was spot-on, son of the north. The majority of my race would turned their backs on our tradition and the elders' beliefs. This Person, however, never got rid of her pride, never quenched the sorrow and hatred that stir in her heart... And yet... This Person couldn't fight."
 msgstr ""
 
 #. [event]
@@ -2442,17 +2442,17 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:527
-msgid "Less than one century ago, the elders of my kin called the Great Council on which we were supposed to debate how to save Her race from the calamity... But at the council, we faced a betrayal. Young nagas, living in the most shallow waters, decided to join forces with the Nortern Alliance and murdered the vast majority of Her race. She fought fiercely, killing many of her daughters and sisters, but She couldn't save the elders."
+msgid "Less than one century ago, the elders of my kin called the Great Council on which we were supposed to debate how to save Her race from the calamity... But at the council, we faced a betrayal. Young nagas, living in the most shallow waters, decided to join forces with the Nortern Alliance and murdered the vast majority of Her race. This Person fought fiercely, killing many of her daughters and sisters, but This Person couldn't save the elders."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:528
-msgid "I got sealed off with my most trusted daughters... The road to the sea was closed. And on land, crossbowmen were waiting for us. She could have died a grand and just death... However, it would result in that there wouldn't be any ceasing the hatred between nagas and Northern Alliance anymore. Dwarves, elves and even The Great Kingdom of Wesnoth... Everyone would start identifying Her race with something good. With something that got rid of its darkness and joined them to hunt pearls, help sailors and swim with dolphins."
+msgid "I got sealed off with my most trusted daughters... The road to the sea was closed. And on land, crossbowmen were waiting for us. This Person could have died a grand and just death... However, it would result in that there wouldn't be any ceasing the hatred between nagas and Northern Alliance anymore. Dwarves, elves and even The Great Kingdom of Wesnoth... Everyone would start identifying Her race with something good. With something that got rid of its darkness and joined them to hunt pearls, help sailors and swim with dolphins."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:529
-msgid "She couldn't stand that! She had to live in order to hate. To bear witness to the darkness and decay, The Witness of the Snake. She had gathered its daughters and set off in the only dirrection where She could survive - to the caves. So here, in the darkness and gloom we've started to spawn, to grow stronger and wait for the moment when we could inflict the deadly blow to our enemies. She presumes this moment has come now."
+msgid "This Person couldn't stand that! This Person had to live in order to hate. To bear witness to the darkness and decay, The Witness of the Snake. This Person had gathered its daughters and set off in the only dirrection where This Person could survive - to the caves. So here, in the darkness and gloom we've started to spawn, to grow stronger and wait for the moment when we could inflict the deadly blow to our enemies. This Person presumes this moment has come now."
 msgstr ""
 
 #. [event]
@@ -2467,7 +2467,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:532
-msgid "Sss... Silence, orc... Stay silent or I will make you silent forever... If it is needed, This Person will make an oath. This Person swears on the stars and snakes, on the poison and swords, on the blood of black and red, that This Person will serve your Great Sovereign and will give the whole of Herself to him."
+msgid "Sss... Silence, orc... Stay silent or I will make you silent forever... If it is needed, This Person will make an oath. This Person swears on the stars and snakes, on the poison and swords, on the blood of black and red, that This Person will serve your Great Sovereign and will give the whole of Herself to him!"
 msgstr ""
 
 #. [event]
@@ -2507,7 +2507,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:540
-msgid "My chieftain, this is not all. She knows more... In the north, in the tunnels abbandoned by the midgets... I can feel magic vibrations emanating from there... She and her daughters think something can be hidden there, something that might prove useful in the future. It can even have the decisive effect in the final encounter."
+msgid "My chieftain, this is not all. This Person knows more... In the north, in the tunnels abbandoned by the midgets... I can feel magic vibrations emanating from there... This Person and her daughters think something can be hidden there, something that might prove useful in the future. It can even have the decisive effect in the final encounter."
 msgstr ""
 
 #. [event]
@@ -2552,7 +2552,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:763
-msgid "She is glad that another revenge is taken... With the gold from their treasuries we will grow stronger..."
+msgid "This Person is glad that another revenge is taken... With the gold from their treasuries we will grow stronger..."
 msgstr ""
 
 #. [then]
@@ -2567,7 +2567,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:788
-msgid "She will finally be able plunge her blade in the bodies of those whom she hates! Why do we have to cease a moment so sweet for Her?"
+msgid "This Person will finally be able plunge her blade in the bodies of those whom she hates! Why do we have to cease a moment so sweet for Her?"
 msgstr ""
 
 #. [then]
@@ -2592,7 +2592,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:795
-msgid "She thinks that staying here would be UNresonable. We would rather move as soon as possible so that we can leave these caves."
+msgid "This Person thinks that staying here would be UNresonable. We would rather move as soon as possible so that we can leave these caves."
 msgstr ""
 
 #. [else]
@@ -2612,7 +2612,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:803
-msgid "Sss... She would prefer to behead all of these dwarves rather than let them live. Hatred for them is burning in our blood. But we will do what is neccesary."
+msgid "Sss... This Person would prefer to behead all of these dwarves rather than let them live. Hatred for them is burning in our blood. But we will do what is neccesary."
 msgstr ""
 
 #. [event]
@@ -2632,7 +2632,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:825
-msgid "She can sees that orcish race hasn't changed since the last time she saw them."
+msgid "This Person can sees that orcish race hasn't changed since the last time she saw them."
 msgstr ""
 
 #. [then]
@@ -2651,7 +2651,7 @@ msgstr ""
 #. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:869
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:875
-msgid "She feels shivers. So the demon that settled in these caves can still speak!"
+msgid "This Person feels shivers. So the demon that settled in these caves can still speak!"
 msgstr ""
 
 #. [then]
@@ -2663,7 +2663,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:873
-msgid "There... This is the place from which She feels the strange old magic."
+msgid "There... This is the place from which This Person feels the strange old magic."
 msgstr ""
 
 #. [event]
@@ -2693,15 +2693,18 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:894
-msgid "Again? She thinks that you know more than you seem to. Everything that is happening now in the north - has this happened earlier?"
+msgid "Again? This Person thinks that you know more than you seem to. Everything that is happening now in the north - has this happened earlier?"
 msgstr ""
 
 #. [event]
 #. [command]
+#. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:895
 #: Marbuss_Escape\scenarios\Final_Elves.cfg:374
 #: Marbuss_Escape\scenarios\Final_Elves.cfg:385
 #: Marbuss_Escape\scenarios\Final_Elves.cfg:455
+#: Marbuss_Escape\scenarios\Final_Elves.cfg:646
+#: Marbuss_Escape\scenarios\Final_Elves.cfg:649
 #: Marbuss_Escape\scenarios\Final_Orcs.cfg:317
 msgid ". . ."
 msgstr ""
@@ -2728,7 +2731,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:900
-msgid "That story of yours is ancient, ghost... She dares to ask... How can we stop all that is happening now?"
+msgid "That story of yours is ancient, ghost... This Person dares to ask... How can we stop all that is happening now?"
 msgstr ""
 
 #. [event]
@@ -2783,7 +2786,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:993
-msgid "She thinks that the Great Sovereign should keep this thing. It might turn out to be really valuable."
+msgid "This Person thinks that the Great Sovereign should keep this thing. It might turn out to be really valuable."
 msgstr ""
 
 #. [object]
@@ -2894,7 +2897,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\07_.cfg:41
-msgid "On these grim days Aidala proved to be a real solace for Marbus. She was always ready to give him advice or lend an ear when he just needed to talk. It was unacceptable for some of his advisors who still didn't trust the nagas and were afraid of their way of life. However, with days passing, fewer and fewer people had an influence on the Great Sovereign’s decisions, who seemed to be getting older and more rigorous with every day. The journey through the undergrounds had an such influence on most of the orcs."
+msgid "On these grim days Aidala proved to be a real solace for Marbus. This Person was always ready to give him advice or lend an ear when he just needed to talk. It was unacceptable for some of his advisors who still didn't trust the nagas and were afraid of their way of life. However, with days passing, fewer and fewer people had an influence on the Great Sovereign’s decisions, who seemed to be getting older and more rigorous with every day. The journey through the undergrounds had an such influence on most of the orcs."
 msgstr ""
 
 #. [part]
@@ -2956,7 +2959,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\07_.cfg:350
-msgid "She feels the smell of the sun... The smell of the sun and of the grass... and warm waters which flow into the seas and oceans... Our way out is nearby."
+msgid "This Person feels the smell of the sun... The smell of the sun and of the grass... and warm waters which flow into the seas and oceans... Our way out is nearby."
 msgstr ""
 
 #. [event]
@@ -3180,7 +3183,7 @@ msgstr ""
 
 #. [command]
 #: Marbuss_Escape\scenarios\07_.cfg:482
-msgid "She will speak in the name of glorious Northern Alliance! We salut you, noble dwarves, and ask for your assistance in crossing this road..."
+msgid "This Person will speak in the name of glorious Northern Alliance! We salut you, noble dwarves, and ask for your assistance in crossing this road..."
 msgstr ""
 
 #. [command]
@@ -3260,139 +3263,138 @@ msgstr ""
 
 #. [command]
 #: Marbuss_Escape\scenarios\07_.cfg:527
-#: Marbuss_Escape\scenarios\07_.cfg:528
 msgid "A Magical wolf? Let us see.."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\07_.cfg:541
+#: Marbuss_Escape\scenarios\07_.cfg:540
 msgid "I find this wolf to be very magical. We should let them pass."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\07_.cfg:542
+#: Marbuss_Escape\scenarios\07_.cfg:541
 msgid "If my own runemaster says so, I don’t intend to argue with him!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\07_.cfg:543
+#: Marbuss_Escape\scenarios\07_.cfg:542
 msgid "Praised be the Northern Alliance! I will help you. Walking out of here will not be so easy, because of monsters of the deep, dwelling in this lake. Not to mention the giant bats and other beasts. However, together we will definitely manage it."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\07_.cfg:544
+#: Marbuss_Escape\scenarios\07_.cfg:543
 msgid "Barley... you are a good puppy."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\07_.cfg:549
+#: Marbuss_Escape\scenarios\07_.cfg:548
 msgid "I find that there is no magic in this animal! It was all a fraud to lure me out and kill me when I’m all alone here! Help me brothers!"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\07_.cfg:560
+#: Marbuss_Escape\scenarios\07_.cfg:559
 msgid "Tell them that you are the leader of the Great Horde and will force your way through these tunnels."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\07_.cfg:562
+#: Marbuss_Escape\scenarios\07_.cfg:561
 msgid "The name is Marbus. I am the Great Sovereign of my people and I am going to pass through the underground."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\07_.cfg:563
+#: Marbuss_Escape\scenarios\07_.cfg:562
 msgid "So the Horde has gathered again? I may have few soldiers, but  we will oppose you - your journey ends here! Come, brothers! Make this corridors flood with the blood of the orcish dogs!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\07_.cfg:573
-#: Marbuss_Escape\scenarios\07_.cfg:622
-#: Marbuss_Escape\scenarios\07_.cfg:647
+#: Marbuss_Escape\scenarios\07_.cfg:572
+#: Marbuss_Escape\scenarios\07_.cfg:621
+#: Marbuss_Escape\scenarios\07_.cfg:646
 msgid "Fraud! To arms, my brothers! May the orcish blood flow."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:767
+#: Marbuss_Escape\scenarios\07_.cfg:766
 msgid "I knew I wouldn’t be able to repel your attack ... Yet my death won’t come to nothing ... My people ... Will chase you ... You will die at the hands of dwarves!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:768
+#: Marbuss_Escape\scenarios\07_.cfg:767
 msgid "Behead this dwarf! He has wasted enough time! Go forth, my warriors, let us leave these wretched caves!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:779
+#: Marbuss_Escape\scenarios\07_.cfg:778
 msgid "Argh! He’s stabbed me!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:780
+#: Marbuss_Escape\scenarios\07_.cfg:779
 msgid "I sensed it ... Nocturnal creatures living in these caves are hostile to us. We have to make our way by force!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:791
+#: Marbuss_Escape\scenarios\07_.cfg:790
 msgid "Pfffffaaaa!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:792
+#: Marbuss_Escape\scenarios\07_.cfg:791
 msgid "For the Horde’s sake! What is that?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\07_.cfg:793
-msgid "She recognises this creature... These are water devils, monstrosities and fiends! They dwell in evil and contaminated waters. She advises to look out for them and set foot carefully."
+#: Marbuss_Escape\scenarios\07_.cfg:792
+msgid "This Person recognises this creature... These are water devils, monstrosities and fiends! They dwell in evil and contaminated waters. This Person advises to look out for them and set foot carefully."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:806
+#: Marbuss_Escape\scenarios\07_.cfg:805
 msgid "We’ve made it, cousin! We’ve battled our way to the surface together with the dwarves."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:807
+#: Marbuss_Escape\scenarios\07_.cfg:806
 msgid "I would have never thought we could form such an alliance. Although the Great Sovereign’s new methods differ from the ones we used to practise, they do work."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:808
+#: Marbuss_Escape\scenarios\07_.cfg:807
 msgid "Thank you for helping us get tot he surface, dwarves. This gesture will never be forgotten."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:809
+#: Marbuss_Escape\scenarios\07_.cfg:808
 msgid "And we thank you for helpin us get rid of some of the lake monsters. Farewell, brothers in arms!"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:813
+#: Marbuss_Escape\scenarios\07_.cfg:812
 msgid "We’ve finally got across to the other side. It’s been quite tough. Who would have thought that at the very end of our journey we would have to fight the dwarves?"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:814
+#: Marbuss_Escape\scenarios\07_.cfg:813
 msgid "The dwarves got what they deserved. I am happy we were able to plunge our blades into their bodies."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:815
-msgid "What is done cannot be undone. Let us go forth and forget about these cursed deeps!"
+#: Marbuss_Escape\scenarios\07_.cfg:814
+msgid "What is done cannot be undone. Let's go forth and forget about these cursed deeps."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:819
+#: Marbuss_Escape\scenarios\07_.cfg:818
 msgid "We’ve made it tot he other side. Indeed, this has been a strange arrangement."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:820
+#: Marbuss_Escape\scenarios\07_.cfg:819
 msgid "Follow your own path now! And never again dare you set foot on our lands! If we ever meet you again, each of my warriors will draw their axe no matter how big an army you will bring with you!"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\07_.cfg:821
+#: Marbuss_Escape\scenarios\07_.cfg:820
 msgid "We will never meet again, dwarf. I can see it in my vision. Farewell, then. And may the darkness enveloping the north never reach your chambers."
 msgstr ""
 
@@ -3528,7 +3530,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:521
-msgid "She smells a lake ... Water means fish. Soon, we will all fill our bellies with fish."
+msgid "This Person smells a lake ... Water means fish. Soon, we will all fill our bellies with fish."
 msgstr ""
 
 #. [event]
@@ -3558,7 +3560,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:601
-msgid "She agrees ... Over the years, the nagas have fought alongside the Great Horde and shared its secrests. The stronghold we are in is an ancient and mistical place. If anywhere there are any asnwers for us, this is the place."
+msgid "This Person agrees ... Over the years, the nagas have fought alongside the Great Horde and shared its secrests. The stronghold we are in is an ancient and mistical place. If anywhere there are any asnwers for us, this is the place."
 msgstr ""
 
 #. [event]
@@ -3618,7 +3620,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:664
-msgid "Silence, orc!  Although Marbus let your command the army, She didn’t let you insult her daughters!"
+msgid "Silence, orc!  Although Marbus let your command the army, This Person didn’t let you insult her daughters!"
 msgstr ""
 
 #. [event]
@@ -3633,7 +3635,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:681
-msgid "Now we are talking! Strong massive trolls! Together we will defend the stronghold before Marbus come back from his .... trip."
+msgid "Now we are talking! Strong massive trolls! Together we will defend the stronghold before Marbus come back from his... trip."
 msgstr ""
 
 #. [event]
@@ -3683,7 +3685,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:709
-msgid "Shut up, both of you! She can’t stand listening to you whining. Instead, we’d better focus on defending the stronghold."
+msgid "Shut up, both of you! This Person can’t stand listening to you whining. Instead, we’d better focus on defending the stronghold."
 msgstr ""
 
 #. [event]
@@ -3708,7 +3710,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:718
-msgid "She ordered the daughters to check out the underwater tunnels around. The lie oft he land does not indicate that there may be any underground escape route or deep catacombs. We cannot save ourselves by disappearing underground."
+msgid "This Person ordered the daughters to check out the underwater tunnels around. The lie oft he land does not indicate that there may be any underground escape route or deep catacombs. We cannot save ourselves by disappearing underground."
 msgstr ""
 
 #. [event]
@@ -3733,7 +3735,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:748
-msgid "She is sorry to interrupt this moment of emotion, butthe Great Sovereign is coming back"
+msgid "This Person is sorry to interrupt this moment of emotion, butthe Great Sovereign is coming back"
 msgstr ""
 
 #. [event]
@@ -3753,7 +3755,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_.cfg:758
-msgid "She sees a glimmer of hope in this plan. The undead are not that smart. We may lock ourselves in the stronghold and wait out until the undead rush with all their forces after the unit which would head in the opposite direction to ours."
+msgid "This Person sees a glimmer of hope in this plan. The undead are not that smart. We may lock ourselves in the stronghold and wait out until the undead rush with all their forces after the unit which would head in the opposite direction to ours."
 msgstr ""
 
 #. [event]
@@ -4250,7 +4252,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:228
-msgid "She did not expect you to be the first to shudder at the thought of the elves."
+msgid "This Person did not expect you to be the first to shudder at the thought of the elves."
 msgstr ""
 
 #. [event]
@@ -4305,7 +4307,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:239
-msgid "She senses an incoming battle. There is a stench of death in the air."
+msgid "This Person senses an incoming battle. There is a stench of death in the air."
 msgstr ""
 
 #. [event]
@@ -4411,12 +4413,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:349
-msgid "She also believes you are making a mistake, Great Sovereign. We should attack with redoubled strength, when they are stunned."
+msgid "This Person also believes you are making a mistake, Great Sovereign. We should attack with redoubled strength, when they are stunned."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:350
-msgid "No! If the elf womans speaks truth, Kochan told her about us. She didn’t kill him. They not our enemies then. They are losing the battle will, too."
+msgid "No! If the elf womans speaks truth, Kochan told her about us. This Person didn’t kill him. They not our enemies then. They are losing the battle will, too."
 msgstr ""
 
 #. [event]
@@ -4426,7 +4428,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:353
-msgid "Very well then ... She lays down the weapon, but will still keep the battle stance with the daughters."
+msgid "Very well then ... This Person lays down the weapon, but will still keep the battle stance with the daughters."
 msgstr ""
 
 #. [event]
@@ -4577,7 +4579,7 @@ msgstr ""
 
 #. [event]: id=WilhelmIronhand
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:765
-msgid "She thinks otherwise ... He reeks of booze. His all regiment reeks of booze ... For the Drowned Godess’s sake, they can barely keep their balance!"
+msgid "This Person thinks otherwise ... He reeks of booze. His all regiment reeks of booze ... For the Drowned Godess’s sake, they can barely keep their balance!"
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
@@ -4662,7 +4664,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:905
-msgid "She advises not to enter that place. There is a strange smell coming from the underground ... Ethanol ... It is getting stronger and stronger ..."
+msgid "This Person advises not to enter that place. There is a strange smell coming from the underground ... Ethanol ... It is getting stronger and stronger ..."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
@@ -4727,7 +4729,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:112
-msgid "It should be remembered that this area has been inhabited by the treants for ages. She wouldn’t be surprised if some of these have been hiding here. We should be careful."
+msgid "It should be remembered that this area has been inhabited by the treants for ages. This Person wouldn’t be surprised if some of these have been hiding here. We should be careful."
 msgstr ""
 
 #. [event]
@@ -4762,7 +4764,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:130
-msgid "She senses a lot of humidity here. She wonders if it’s been like that all the time? Maybe the elves have sunken these lands on purpose in order to get rid of the remains of the orcish culture?"
+msgid "This Person senses a lot of humidity here. This Person wonders if it’s been like that all the time? Maybe the elves have sunken these lands on purpose in order to get rid of the remains of the orcish culture?"
 msgstr ""
 
 #. [then]
@@ -4812,7 +4814,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:208
-msgid "She used to tell her daughters the story of the Red Riding Hood and the wolf ... She didn’t think that there was a grain of truth in it. Where does this nickname come from, elvish girl?"
+msgid "This Person used to tell her daughters the story of the Red Riding Hood and the wolf ... This Person didn’t think that there was a grain of truth in it. Where does this nickname come from, elvish girl?"
 msgstr ""
 
 #. [event]
@@ -4917,7 +4919,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:303
-msgid "She prepares for a fight ..."
+msgid "This Person prepares for a fight ..."
 msgstr ""
 
 #. [event]
@@ -4937,7 +4939,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:413
-msgid "She is not ... But yes, there is fish here. Collurful. She saw such fish a long time ago, near the coral reefs."
+msgid "This Person is not ... But yes, there is fish here. Collurful. This Person saw such fish a long time ago, near the coral reefs."
 msgstr ""
 
 #. [then]
@@ -4947,7 +4949,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:415
-msgid "These are ... like gardens .. under water, under vast, salty water. She thinks this pool is magical, heals wounds ... It reminds the body what is should be: healed."
+msgid "These are ... like gardens .. under water, under vast, salty water. This Person thinks this pool is magical, heals wounds ... It reminds the body what is should be: healed."
 msgstr ""
 
 #. [then]
@@ -4977,7 +4979,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:430
-msgid "She senses a strange aura around the pond. It seems to be healing wounds."
+msgid "This Person senses a strange aura around the pond. It seems to be healing wounds."
 msgstr ""
 
 #. [else]
@@ -5002,7 +5004,7 @@ msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:472
-msgid "She has found the glyph. I will no doubt be useful for finding the Gjallarhorn."
+msgid "This Person has found the glyph. I will no doubt be useful for finding the Gjallarhorn."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
@@ -5078,12 +5080,17 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:581
-msgid "She thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts .... or glyphs. We might find them here and they will open the passage."
+msgid "This Person thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts... or glyphs. We might find them here and they will open the passage."
 msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:582
 msgid "Aidala is right. Let’s have a look around the cave and come back here when we find something."
+msgstr ""
+
+#. [else]
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:589
+msgid "We still don't have all the glyphs. It would be better to return here with all pieces of the puzzle."
 msgstr ""
 
 #. [then]
@@ -5105,7 +5112,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:611
-msgid "She thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts .... or glyphs. Why don’t we put the stones we found in the spaces on the statue. However, we will have to do it in the right order."
+msgid "This Person thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts... or glyphs. Why don’t we put the stones we found in the spaces on the statue. However, we will have to do it in the right order."
 msgstr ""
 
 #. [command]
@@ -5173,7 +5180,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:734
-msgid "She is thinking of a password ... CLUBS ... Oh yes, it we look at the shape of the cave..."
+msgid "This Person is thinking of a password ... CLUBS ... Oh yes, it we look at the shape of the cave..."
 msgstr ""
 
 #. [event]
@@ -5198,7 +5205,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:801
-msgid "She has a question ..."
+msgid "This Person has a question ..."
 msgstr ""
 
 #. [else]
@@ -5272,7 +5279,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:856
-msgid "She thinks you should be using some sedatives."
+msgid "This Person thinks you should be using some sedatives."
 msgstr ""
 
 #. [unit]: id=Trefl, type=Ancient Wose
@@ -5282,7 +5289,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:879
-msgid "She thinks it’s high time to be ready for a hard battle ..."
+msgid "This Person thinks it’s high time to be ready for a hard battle ..."
 msgstr ""
 
 #. [event]
@@ -5476,7 +5483,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\12_.cfg:274
-msgid "The water here is really cold and covered with a thick layer of ice. I fear that She and her daughters won’t be very useful in fight."
+msgid "The water here is really cold and covered with a thick layer of ice. I fear that This Person and her daughters won’t be very useful in fight."
 msgstr ""
 
 #. [event]
@@ -5516,7 +5523,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\12_.cfg:301
-msgid "She thinks you should watch your words. You had the chance to be in command and you failed. You aren’t able to deal with the undead, and we do! Your first major victory over them was when we stood by your side. Without us, you die."
+msgid "This Person thinks you should watch your words. You had the chance to be in command and you failed. You aren’t able to deal with the undead, and we do! Your first major victory over them was when we stood by your side. Without us, you die."
 msgstr ""
 
 #. [event]
@@ -5590,7 +5597,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\12_.cfg:528
-msgid "She wishes the local people didn’t die, however, we cannot do anything for them. We need to save strength before the final battle with the King of Gon."
+msgid "This Person wishes the local people didn’t die, however, we cannot do anything for them. We need to save strength before the final battle with the King of Gon."
 msgstr ""
 
 #. [else]
@@ -5605,7 +5612,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\12_.cfg:555
-msgid "She thinks we shouldn’t leave so hastily, Marbus. We managed to save Yarl Oferiu’s and Captain Rylis’s forces. However, there are warriors who are wounded or unable to fight  among them. I believe taking both armies together won’t be the best idea."
+msgid "This Person thinks we shouldn’t leave so hastily, Marbus. We managed to save Yarl Oferiu’s and Captain Rylis’s forces. However, there are warriors who are wounded or unable to fight  among them. I believe taking both armies together won’t be the best idea."
 msgstr ""
 
 #. [event]
@@ -5615,7 +5622,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\12_.cfg:557
-msgid "She didn’t mean that. We can’t take all of them with us though. Some will have to escort the wounded to the hospital and take command over these lands so that it doesn’t turn out that the undead will come back to this place."
+msgid "This Person didn’t mean that. We can’t take all of them with us though. Some will have to escort the wounded to the hospital and take command over these lands so that it doesn’t turn out that the undead will come back to this place."
 msgstr ""
 
 #. [event]
@@ -5754,7 +5761,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\13_.cfg:321
-msgid "Your soldiers are behaving worse than the trolls! All that was left of the pea soup was poured into the river! To a place where we will fight! She and her daughters taught the Great Horde the respect for the water. Should we do the same with you?"
+msgid "Your soldiers are behaving worse than the trolls! All that was left of the pea soup was poured into the river! To a place where we will fight! This Person and her daughters taught the Great Horde the respect for the water. Should we do the same with you?"
 msgstr ""
 
 #. [then]
@@ -5764,7 +5771,7 @@ msgstr ""
 
 #. [else]
 #: Marbuss_Escape\scenarios\13_.cfg:325
-msgid "Nagas as well as elves also feel the burden of the steel. Its touch feels like a salty water rinsing a fresh wound. Despite that, She will fight with all her strength. For you, Marbus!"
+msgid "Nagas as well as elves also feel the burden of the steel. Its touch feels like a salty water rinsing a fresh wound. Despite that, This Person will fight with all her strength. For you, Marbus!"
 msgstr ""
 
 #. [else]
@@ -5949,7 +5956,7 @@ msgstr ""
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
 #: Marbuss_Escape\scenarios\13_.cfg:775
-msgid "She will do this with pleasure..."
+msgid "This Person will do this with pleasure..."
 msgstr ""
 
 #. [then]
@@ -6084,7 +6091,7 @@ msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_.cfg:938
-msgid "She prefers not to talk about it... It's a very old story... Sunken deep in a sea of reminiscences..."
+msgid "This Person prefers not to talk about it... It's a very old story... Sunken deep in a sea of reminiscences..."
 msgstr ""
 
 #. [case]
@@ -6094,7 +6101,7 @@ msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_.cfg:940
-msgid "These fools deserved to die! And daughters of her... They are loyal to me... She loves them as own children."
+msgid "These fools deserved to die! And daughters of her... They are loyal to me... This Person loves them as own children."
 msgstr ""
 
 #. [case]
@@ -6104,7 +6111,7 @@ msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_.cfg:942
-msgid "That's enough! She promises to destroy you! Even if I had to sunk this whole continent under ocean's waves, I'll do it! Die, begone! Go away!"
+msgid "That's enough! This Person promises to destroy you! Even if I had to sunk this whole continent under ocean's waves, I'll do it! Die, begone! Go away!"
 msgstr ""
 
 #. [case]
@@ -6936,12 +6943,6 @@ msgstr ""
 #: Marbuss_Escape\scenarios\Final_Elves.cfg:580
 #: Marbuss_Escape\scenarios\Final_Elves.cfg:618
 msgid "Gilfit the Snowfeet"
-msgstr ""
-
-#. [else]
-#: Marbuss_Escape\scenarios\Final_Elves.cfg:646
-#: Marbuss_Escape\scenarios\Final_Elves.cfg:649
-msgid ". . . "
 msgstr ""
 
 #. [else]

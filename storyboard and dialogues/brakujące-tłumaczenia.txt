@@ -67,7 +67,7 @@ Statue
 Statua
 
 (11)
-We still don't have all the glyphs. It would be better to return here with all pieces of the puzzle
+We still don't have all the glyphs. It would be better to return here with all pieces of the puzzle.
 Póki co nie mamy jeszcze wszystkich glifów. Lepiej wrócić tu z wszystkimi elementami tej zagadki.
 
 Rat. Can we keep it? It's so cute, and... Shaggy.
