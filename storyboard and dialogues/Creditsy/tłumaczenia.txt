@@ -1,0 +1,38 @@
+Campaign created by wesnoth.com.pl community members
+Kampania stworzona przez społeczność strony wesnoth.com.pl
+
+Head designer:
+Główny projektant:
+
+Designers:
+Projektanci:
+
+Lead developer:
+Główny programista:
+
+Developers:
+Programiści:
+
+Main English translator:
+Główny tłumacz języka angielskiego:
+
+English translators:
+Tłumacze języka angielskiego:
+
+Head mapmaker:
+Główny twórca map:
+
+Mapmakers:
+Twórcy map:
+
+Main tester:
+Główny Tester:
+
+Testers:
+Testerzy:
+
+Portraits:
+Portrety:
+
+Scenario and dialogues:
+Scenariusz i dialogi:
