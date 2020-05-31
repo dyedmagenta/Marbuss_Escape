@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 16:01 UTC\n"
+"POT-Creation-Date: 2020-05-31 16:36 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6335,6 +6335,16 @@ msgid "Trolls united with the Great Horde and without a word of objection they f
 msgstr ""
 
 #. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:55
+msgid "When the Great Horde was shattered, and orcish power was a part of history, ogres, yeti and other wild races of the North fleed into lands inaccesible for elves, where they secretly proliferated or perished. Soon they become a part of history, and in next years - of legends and fairy tales. Jarls superseded memory about them, to subdue northern lands even more."
+msgstr ""
+
+#. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:60
+msgid "When the Great Horde was shattered, and orcish power was a part of history, ogres and yeti emerged from their caves, to fight against Elvish Jarls. Even though they made a lot of damages and killed many leaders, their failure was unevitable. Soon their heads become trophies on northern lords' walls, who treated them like a chase game."
+msgstr ""
+
+#. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:71
 msgid "Bad fate also touched the Blood Elves. Deprived of their leader, they soon turned against each other and mutually killed. Those, who survived, were called bandits and traitors of elvish race. The Red Hood, last descendand of Landar, become a symbol of betrayal, youth stupidity and hatred. Soon everyone forgot about respect she aroused, and children started to play ''Red Hood and the wolf''. This game though wasn't about revolution and fighting the Jarls, or Landar's ideals..."
 msgstr ""
@@ -6417,6 +6427,16 @@ msgstr ""
 #. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:193
 msgid "The saurians weren't a part of the Great Horde while Marbus was waging his wars, but they integrated into it in times of peace. They went back to friendship with orcs. Soon, beliefs of saurians become a main religion of the Great Horde, and sabbats of their shamans were conducted every month. Together they achieved much more than it would be possible separately."
+msgstr ""
+
+#. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:204
+msgid "When the Great Horde subdued the North, from the wilderness ogres and other, less common creatures emerged. They started a suicidal, pointless fight against new tyran. Every year hunts for yeti were organised, and Marbus's throne hall quickly filled with trophies from them. Another race has fallen under orcish boots."
+msgstr ""
+
+#. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:209
+msgid "When the Great Horde subdued the North, from the wilderness ogres and other, less common creatures emerged. All bowed to Marbus, who sheltered them. Before Yeti stopped to be more than a fairy tale, and started to show themselves on the north, many years passed. But it was only natural. Another race was saved by orcs."
 msgstr ""
 
 #. [part]

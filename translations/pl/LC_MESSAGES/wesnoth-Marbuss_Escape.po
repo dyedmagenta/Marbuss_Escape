@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 16:01 UTC\n"
-"PO-Revision-Date: 2020-05-31 18:02+0200\n"
+"POT-Creation-Date: 2020-05-31 16:36 UTC\n"
+"PO-Revision-Date: 2020-05-31 18:37+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -10759,6 +10759,38 @@ msgstr ""
 "trzymano ich na krótkim łańcuchu, który z czasem miał zamienić się w kajdany."
 
 #. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:55
+msgid ""
+"When the Great Horde was shattered, and orcish power was a part of history, "
+"ogres, yeti and other wild races of the North fleed into lands inaccesible "
+"for elves, where they secretly proliferated or perished. Soon they become a "
+"part of history, and in next years - of legends and fairy tales. Jarls "
+"superseded memory about them, to subdue northern lands even more."
+msgstr ""
+"Gdy Wielka Horda została rozbita, a potęga orków ponownie przeszła do "
+"historii, ogry, Yeti i inne, dzikie rasy północy umknęły w niedostępne dla "
+"elfów tereny, gdzie potajemnie mnożyły się bądź wymierały. Wkrótce przeszły "
+"do historii, a w kolejnych latach – do legend i bajek dla dzieci. Jarlowie "
+"wyparli pamięć o nich, by jeszcze bardziej przyporządkować sobie północne "
+"kraje."
+
+#. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:60
+msgid ""
+"When the Great Horde was shattered, and orcish power was a part of history, "
+"ogres and yeti emerged from their caves, to fight against Elvish Jarls. Even "
+"though they made a lot of damages and killed many leaders, their failure was "
+"unevitable. Soon their heads become trophies on northern lords' walls, who "
+"treated them like a chase game."
+msgstr ""
+"Gdy Wielka Horda została rozbita, a potęga orków ponownie przeszła do "
+"historii, ogry i Yeti wynurzyły się ze swoich pieczar, by walczyć przeciwko "
+"elfickim jarlom. Choć zadawały im duże szkody i zabiły wielu wodzów, ich "
+"porażka była nieunikniona. Wkrótce łby potworów stały się trofeami na "
+"ścianach wielmożów północy, którzy traktowali owe stworzenia wyłącznie jako "
+"zwierzynę łowną."
+
+#. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:71
 msgid ""
 "Bad fate also touched the Blood Elves. Deprived of their leader, they soon "
@@ -11092,6 +11124,37 @@ msgstr ""
 "główną religią Wielkiej Hordy, zaś sabaty ich szamanów odbywały się co "
 "miesiąc. Wspólnie osiągnęli znacznie więcej, niż udałoby im się zdobyć "
 "osobno."
+
+#. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:204
+msgid ""
+"When the Great Horde subdued the North, from the wilderness ogres and other, "
+"less common creatures emerged. They started a suicidal, pointless fight "
+"against new tyran. Every year hunts for yeti were organised, and Marbus's "
+"throne hall quickly filled with trophies from them. Another race has fallen "
+"under orcish boots."
+msgstr ""
+"Gdy Wielka Horda zapanowała na północy, z najdzikszych jej terenów wynurzyły "
+"się ogry i inne, rzadziej spotykane stworzenia. Podjęły one samobójczą, z "
+"góry przegraną walkę z nowym uzurpatorem. Z roku na rok organizowane były "
+"polowania na Yeti, a sala tronowa Marbusa szybko pokryła się trofeami z ich "
+"głów. Kolejna rasa upadła pod ciężkimi butami orków."
+
+#. [part]
+#: Marbuss_Escape\scenarios\Epilogue.cfg:209
+msgid ""
+"When the Great Horde subdued the North, from the wilderness ogres and other, "
+"less common creatures emerged. All bowed to Marbus, who sheltered them. "
+"Before Yeti stopped to be more than a fairy tale, and started to show "
+"themselves on the north, many years passed. But it was only natural. Another "
+"race was saved by orcs."
+msgstr ""
+"Gdy Wielka Horda zapanowała na północy, z najdzikszych jej terenów wynurzyły "
+"się ogry i inne, rzadziej spotykane stworzenia. Wszystkie ugięły kolano "
+"przed Marbusem, który zapewnił im schronienie i bezpieczeństwo. Nim Yeti "
+"przestały być tylko bajką dla dzieci, a zaczęły pojawiać się na północy, "
+"minęło jeszcze wiele lat. Był to jednak proces naturalny. Kolejna rasa "
+"została ocalona przez orków."
 
 #. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:220
