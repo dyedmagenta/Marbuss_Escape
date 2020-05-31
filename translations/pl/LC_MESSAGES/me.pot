@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-31 14:56 UTC\n"
+"POT-Creation-Date: 2020-05-31 15:15 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -259,7 +259,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\02+_.cfg:17
-msgid "In orcish stories you may often hear an old saying: 'Do not feel fear of anything that bleeds'. However Marbus's clan had to face an enemy that had no blood, neither feeling nor life. Thus, the clan's leader had no choice but to escape."
+msgid "In orcish stories you may often hear an old saying: 'Do not feel fear of anything that bleeds'. However Marbus's clan had to face an enemy that had no blood, neither feeling nor life. Thus, the clan's leader had no choice but to escape..."
 msgstr ""
 
 #. [part]
@@ -371,7 +371,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\02+_.cfg:230
-msgid "We’ve managed to bring it down. It won’t disturb us anymore. This seems to be ... a female yeti. There are her young in the womb."
+msgid "We’ve managed to bring it down. It won’t disturb us anymore. This seems to be... a female yeti. There are her young in the womb."
 msgstr ""
 
 #. [message]: speaker=Marbus
@@ -563,6 +563,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\04A_The_Crystal_Order.cfg:259
 #: Marbuss_Escape\scenarios\05_Gelu-Aben_besieged.cfg:651
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:352
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:412
 msgid "..."
 msgstr ""
 
@@ -4950,11 +4951,6 @@ msgid "Humidity! It comes from here! A lakey! And this means fishes! Trolls like
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:412
-msgid "..."
-msgstr ""
-
-#. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:413
 msgid "She is not ... But yes, there is fish here. Collurful. She saw such fish a long time ago, near the coral reefs."
 msgstr ""
@@ -5723,7 +5719,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\13_.cfg:43
-msgid "It made the corpses Celadon City dwellers, which wouldn't even be suitable for the army of the dead anymore, tremble. The whole North stopped for a moment in silence, listening to mysterious, splendid sound of the Gjallarhorn."
+msgid "It made the mutilated corpses of Celadon City dwellers, that wouldn't even be suitable for the army of the dead anymore, tremble. The whole North stopped for a moment in silence, listening to mysterious, splendid sound of the Gjallarhorn."
 msgstr ""
 
 #. [part]
@@ -7371,7 +7367,9 @@ msgid "Kill as many elves as you can."
 msgstr ""
 
 #. [then]
+#. [event]
 #: Marbuss_Escape\scenarios\Final_Orcs.cfg:501
+#: Marbuss_Escape\utils\deaths.cfg:8
 msgid "No... Now I won't be able... To lead my warriors..."
 msgstr ""
 
@@ -7780,11 +7778,6 @@ msgstr ""
 #. [advancement]: id=speed2
 #: Marbuss_Escape\units\advancements.cfg:1453
 msgid "Dancing in the Water: +10% defense on shallow and deep water"
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\utils\deaths.cfg:8
-msgid "No... Now I won't be able... To lead my warriors..."
 msgstr ""
 
 #. [event]
