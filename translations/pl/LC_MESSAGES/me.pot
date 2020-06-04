@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-04 01:59 UTC\n"
+"POT-Creation-Date: 2020-06-04 13:21 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -416,7 +416,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:14
-msgid "It's hard to assess how long Marbus' clan occupied the Bag'not Fortress. The elders sometimes spun tales about mighty Elbor, a human fortress turned to ruin by a sorcerer. Not much time has passed until the wizard kicked the bucket himself. A dozen years or so after that happened, the elves invaded the northern lands. That is when the orcs set out to erect minor fortresses along the most important cities. Bag'not was one of these, it's aim was to protect Gelu'Aben the motherland of swords"
+msgid "It's hard to assess how long Marbus' clan occupied the Bag'not Fortress. The elders sometimes spun tales about mighty Elbor, a human fortress turned to ruin by a sorcerer. Not much time has passed until the wizard kicked the bucket himself. A dozen years or so after that happened, the elves invaded the northern lands. That is when the orcs set out to erect minor fortresses along the most important cities. Bag'not was one of these, it's aim was to protect Gelu'Aben the motherland of swords."
 msgstr ""
 
 #. [part]
@@ -604,7 +604,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:279
-msgid "Survive until the preparations for the escape are finished."
+msgid "Survive until the preparations for the escape are finished"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -997,7 +997,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:325
-msgid "There is one other way, though... through bogs... a lot faster"
+msgid "There is one other way, though... through bogs... a lot faster..."
 msgstr ""
 
 #. [event]
@@ -1621,7 +1621,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:378
-msgid "Grr... You are a good warrior... Marbus... But you don't stand a chance anyway... Turmoil, hunger... It will destroy you, just like it destroyed me"
+msgid "Grr... You are a good warrior... Marbus... But you don't stand a chance anyway... Turmoil, hunger... It will destroy you, just like it destroyed me..."
 msgstr ""
 
 #. [event]
@@ -3732,7 +3732,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:756
-msgid "This Person is sorry to interrupt this moment of emotion, butthe Great Sovereign is coming back"
+msgid "This Person is sorry to interrupt this moment of emotion, butthe Great Sovereign is coming back..."
 msgstr ""
 
 #. [event]
@@ -4460,7 +4460,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:481
-msgid "What you are saying makes a lot of sense, My Lady. The Northern Alliance"
+msgid "What you are saying makes a lot of sense, My Lady. The Northern Alliance fought arm to arm with orcs in the past. We will help you."
 msgstr ""
 
 #. [event]
@@ -4527,7 +4527,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:539
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:775
-msgid "Defeat all the undead."
+msgid "Defeat all the undead"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -4886,7 +4886,7 @@ msgstr ""
 
 #. [option]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:243
-msgid "We should set her free as a sign of good will!"
+msgid "We should set her free as a sign of good will."
 msgstr ""
 
 #. [command]
@@ -5466,7 +5466,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:376
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:462
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:491
-msgid "Find the forces of the Northern Alliance and the Elvish Jarls, and then lead thier leaders to the initial Marbus's camp."
+msgid "Find the forces of the Northern Alliance and the Elvish Jarls, and then lead thier leaders to the initial Marbus's camp"
 msgstr ""
 
 #. [objective]: condition=win
