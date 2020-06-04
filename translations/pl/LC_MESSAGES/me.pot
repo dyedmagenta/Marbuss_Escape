@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-04 13:21 UTC\n"
+"POT-Creation-Date: 2020-06-04 13:29 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7678,6 +7678,13 @@ msgid ""
 "<span size='small'>Blade, pierce and impact resistances<span color='#55FF46'> +10%</span></span>"
 msgstr ""
 
+#. [advancement]: id=damage
+#: Marbuss_Escape\units\advancements.cfg:93
+msgid ""
+"<span color='#FFF046'>Orcish Brutality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +3</span>, Melee damage<span color='#55FF46'> +2</span></span>"
+msgstr ""
+
 #. [advancement]: id=damage2
 #: Marbuss_Escape\units\advancements.cfg:117
 msgid ""
@@ -7690,6 +7697,20 @@ msgstr ""
 msgid ""
 "<span color='#FFF046'>Merciless Aim</span>\n"
 "<span size='small'>Health<span color='#55FF46'> +4</span>, Ranged damage<span color='#55FF46'> +2</span></span>"
+msgstr ""
+
+#. [advancement]: id=xbow2
+#: Marbuss_Escape\units\advancements.cfg:166
+msgid ""
+"<span color='#FFF046'>Unforgiving</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +4</span>, Ranged damage<span color='#55FF46'> +2</span>, <span color='#46FFF0'>Marksman</span></span>"
+msgstr ""
+
+#. [advancement]: id=speed
+#: Marbuss_Escape\units\advancements.cfg:194
+msgid ""
+"<span color='#FFF046'>Trained in Hunting</span>\n"
+"<span size='small'>Health<span color='#FF4655'> -6</span>, Moves<span color='#55FF46'> +1</span></span>"
 msgstr ""
 
 #. [advancement]: id=speed2

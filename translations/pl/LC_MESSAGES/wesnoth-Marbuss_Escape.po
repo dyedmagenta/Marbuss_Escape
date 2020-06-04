@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-04 13:21 UTC\n"
-"PO-Revision-Date: 2020-06-04 15:22+0200\n"
+"POT-Creation-Date: 2020-06-04 13:29 UTC\n"
+"PO-Revision-Date: 2020-06-04 15:31+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -13404,6 +13404,17 @@ msgstr ""
 "<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
 "color='#55FF46'> +10%</span></span>"
 
+#. [advancement]: id=damage
+#: Marbuss_Escape\units\advancements.cfg:93
+msgid ""
+"<span color='#FFF046'>Orcish Brutality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +3</span>, Melee damage<span "
+"color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Orkowa Brutalność</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +3</span>, Obrażenia "
+"wręcz<span color='#55FF46'> +2</span></span>"
+
 #. [advancement]: id=damage2
 #: Marbuss_Escape\units\advancements.cfg:117
 msgid ""
@@ -13425,6 +13436,30 @@ msgstr ""
 "<span color='#FFF046'>Bezwzględny Strzelec</span>\n"
 "<span size='small'>Punkty życia<span color='#55FF46'> +4</span>, Obrażenia z "
 "dystansu<span color='#55FF46'> +2</span></span>"
+
+#. [advancement]: id=xbow2
+#: Marbuss_Escape\units\advancements.cfg:166
+msgid ""
+"<span color='#FFF046'>Unforgiving</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +4</span>, Ranged "
+"damage<span color='#55FF46'> +2</span>, <span color='#46FFF0'>Marksman</"
+"span></span>"
+msgstr ""
+"<span color='#FFF046'>Gdy Twój Miecz Nie Jest Wystarczająco Długi</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +4</span>, Obrażenia "
+"na dystans<span color='#55FF46'> +2</span>, <span color='#46FFF0'>Strzelec "
+"wyborowy</span></span>"
+
+#. [advancement]: id=speed
+#: Marbuss_Escape\units\advancements.cfg:194
+msgid ""
+"<span color='#FFF046'>Trained in Hunting</span>\n"
+"<span size='small'>Health<span color='#FF4655'> -6</span>, Moves<span "
+"color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Przeszkolony w Łowach</span>\n"
+"<span size='small'>Punkty życia<span color='#FF4655'> -6</span>, Punkty "
+"ruchu<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=speed2
 #: Marbuss_Escape\units\advancements.cfg:217
