@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-04 18:32 UTC\n"
-"PO-Revision-Date: 2020-06-04 20:33+0200\n"
+"POT-Creation-Date: 2020-06-04 20:04 UTC\n"
+"PO-Revision-Date: 2020-06-04 22:05+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -764,17 +764,17 @@ msgid "Not scouting your surroundings before turns run out"
 msgstr "Nie dokonanie zwiadu przed upływem limitu tur"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:144
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:143
 msgid "Filar, the Mighty Battleaxe"
 msgstr "Filar, Potężny Topór Bojowy"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:145
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:144
 msgid "Adris, the Blunt Sword"
 msgstr "Adris, Tępy Miecz"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:154
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:153
 msgid ""
 "I have a bad feeling about this, cousin. Since the snow fell, we have been "
 "having that dreadful fog... I haven’t remembered such... Since we crossed "
@@ -785,7 +785,7 @@ msgstr ""
 "kroczyliśmy przez przełęcz Tut'anor. Nawet wilki są niespokojne."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:155
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:154
 msgid ""
 "Ashen'tir, Kochan. We can not let the fear and psychosis overcome us. It is "
 "only the first month of winter. We are running out of food in our granaries. "
@@ -796,7 +796,7 @@ msgstr ""
 "żywności. Martwię się o przyszłość..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:156
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:155
 msgid ""
 "Suddenly, a wind blew piercing the body like an arrow. In Bag'not, a voice "
 "was heard, as cold and biting as icicles dangling from roofs."
@@ -805,17 +805,18 @@ msgstr ""
 "się głos równie zimny i ostry, niczym lodowate sople zwisające z dachów."
 
 #. [event]
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:164
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:165
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:166
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:167
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:168
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:169
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:170
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:171
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:172
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:173
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:174
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:175
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:176
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:177
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:178
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:179
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:180
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:181
@@ -824,23 +825,22 @@ msgstr ""
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:184
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:185
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:186
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:187
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:189
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:190
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:191
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:192
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:193
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:194
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:195
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:196
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:197
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:198
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:199
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:200
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:201
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:202
 msgid "Undead Warrior"
 msgstr "Nieumarły wojownik"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:215
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:214
 msgid ""
 "Shudder! Shudder and despair! The chariot of dead horses will race through "
 "your lands. It will trample your homes and children. Your blood will slop in "
@@ -851,18 +851,18 @@ msgstr ""
 "w naszych pucharach, które wzniesiemy na chwałę Umarłego Króla!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:216
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:215
 msgid "So they... they have destroyed Celadon City. The undead."
 msgstr "A więc to oni... Oni zniszczyli Seledynowe Miasto. Nieumarli."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:217
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:216
 msgid "Stand up! Get out of your houses! Take up your arms! The undead!"
 msgstr ""
 "Wstawać! Wychodźcie ze swoich chat! Weźcie do rąk swoje miecze! Umarli!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:218
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:217
 msgid ""
 "Cousin! It will be the best if I go for a reconnaissance. My wolf will "
 "escape skeletons even on snow. If the undead truly conquered the Celadon "
@@ -873,7 +873,7 @@ msgstr ""
 "Miasto, będziemy mieli z nimi prawdziwy problem."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:220
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:219
 msgid ""
 "You are right. I will command the orcs to guard the walls. I do not want my "
 "orcs to encounter these creatures on open ground. We stand no chance against "
@@ -884,14 +884,14 @@ msgstr ""
 "nimi żadnych szans."
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:230
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:229
 msgid "Kochan, what can you see there? How many of them are left?"
 msgstr "Co widzisz, Kochan? Ile ich tam jeszcze zostało!?"
 
 #. [event]: role=temp_undead
 #. [then]
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:231
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:230
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:259
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:657
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:358
@@ -900,17 +900,17 @@ msgid "..."
 msgstr "..."
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:232
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:231
 msgid "Cousin!"
 msgstr "Kuzynie!"
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:260
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:259
 msgid "We stand no chance against them, Marbus! There are thousands of them."
 msgstr "Nie mamy z nimi szans, Marbus. Są ich tysiące."
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:261
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:260
 msgid ""
 "What!? That is impossible... Why have we not noticed them? The march of such "
 "a big army couldn’t have stayed unnoticed!"
@@ -919,14 +919,14 @@ msgstr ""
 "nie mógł pozostać niezauważony!"
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:265
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:264
 msgid ""
 "The fog. It must have been them who have brought it... We will die here, "
 "cousin..."
 msgstr "Mgła. To pewnie oni ją zesłali. Kuzynie... Umrzemy tutaj."
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:266
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:265
 msgid ""
 "No! We can still escape. Let the orcs pack the most important things. Food "
 "goes first, then clothes and weapons. Then the rest. Hurry! We do not have "
@@ -937,7 +937,7 @@ msgstr ""
 "wiele czasu."
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:267
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:266
 msgid ""
 "Were do you want to run!? Wherever we go, these corpses will hunt us down. "
 "We stand no chance to... Do... you want to lead us through Tut'anor pass?"
@@ -946,7 +946,7 @@ msgstr ""
 "mamy szans, by... Ty... Chcesz przeprowadzić nas przez przełęcz Tut'anor?"
 
 #. [event]: role=temp_undead
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:268
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:267
 msgid ""
 "We do not have much time left. The Pass has already turned out to be "
 "favourable once. I hope it will be this way again."
@@ -955,45 +955,45 @@ msgstr ""
 "nadzieję, że zrobi to po raz drugi."
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:283
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:282
 msgid "Survive until the preparations for the escape are finished"
 msgstr ""
 "Przetrwaj do momentu, w którym przygotowania do ucieczki zostaną zakończone"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:288
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:287
 msgid "The death of Marbus"
 msgstr "Śmierć Marbusa"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:292
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:291
 msgid "The death of Kochan"
 msgstr "Śmierć Kochana"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:296
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:295
 msgid "The undead break into the Bag-not fortress"
 msgstr "Nieumarli wdzierają się do twierdzy Bag'not"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:312
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:311
 msgid "We made it! Everyone is ready to set out."
 msgstr "Udało się! Wszyscy są gotowi do wyruszenia w drogę."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:313
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:312
 msgid "Well done. Abandon the posts. To the Pass, everyone!"
 msgstr "Dobra robota. Zejść z posterunków. Wszyscy w kierunku przełęczy!"
 
 #. [event]: id=timeoverlose
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:325
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:324
 msgid "You, orcs, are too weak even to taste our power. Kill them all."
 msgstr ""
 "Wy, orki, jesteście zbyt słabi, żeby nawet posmakować naszej potęgi. Zabić "
 "ich wszystkich."
 
 #. [event]: id=timeoverlose
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:328
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:327
 msgid ""
 "Oh, no! We really should have known what they're capable of. Now it's too "
 "late for most of us. Flee, my cousin!"
@@ -1002,7 +1002,7 @@ msgstr ""
 "dla większości z nas. Uciekaj, mój kuzynie!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:335
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:334
 msgid ""
 "Do you think you will run away from death? Wherever you go... wherever you "
 "hide... you will never escape our greatest might."
@@ -1012,7 +1012,7 @@ msgstr ""
 "ulegnie naszej potędze."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:339
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:338
 msgid ""
 "Almost everyone has packed their things, cousin. We are starting to load the "
 "wolves soon. Then we can set out."
@@ -1021,15 +1021,15 @@ msgstr ""
 "na wilki, a potem możemy ruszać."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:340
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:339
 msgid "Very well. Our defences are starting to break."
 msgstr "To dobrze. Nasza obrona już się chwieje."
 
 #. [then]
 #. [else]
 #. [case]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:364
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:398
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:363
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:397
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:438
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:524
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:560
@@ -1041,17 +1041,17 @@ msgstr "Hau! Hau!"
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:365
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:399
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:364
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:398
 msgid "Hey! Get out of me! Stop licking my face! Argghh~!"
 msgstr "Hej! Zejdź ze mnie! Przestań lizać moją twarz! Argghh~!"
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:373
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:376
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:407
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:410
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:372
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:375
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:406
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:409
 msgid ""
 "I think this wolf might actually be friendly! It can help us fight back "
 "these undead."
@@ -1060,46 +1060,46 @@ msgstr ""
 "nieumarłymi."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:440
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:439
 msgid "I will cut your rotting body into pieces!"
 msgstr "Posiekam twoje gnijące ciało na kawałki!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:451
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:450
 msgid "Be gone, you filthy being!"
 msgstr "Precz, ohydna istoto!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:464
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:463
 msgid "Let's crush their bones!"
 msgstr "Połammy im kości!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:476
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:475
 msgid "Let me taste your fleeesh..."
 msgstr "Pozwól mi posmakować twojego ciaaała..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:489
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:488
 msgid "Good puppy, catch the bone!"
 msgstr "Dobry piesek, łap kość!"
 
 #. [event]: id=ghoul_dialogue_1
 #. [event]: id=ghoul_dialogue_2
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:503
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:538
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:502
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:537
 msgid "Aaargh!"
 msgstr "Aaargh!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:513
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:548
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:512
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:547
 msgid "I'm feeling sick... I will vomit."
 msgstr "Słabo się czuję... Zaraz zwymiotuję."
 
 #. [then]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:514
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:549
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:513
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:548
 msgid ""
 "This lousy creature must have infected him! Take this man to the village and "
 "take care of him."
@@ -1108,8 +1108,8 @@ msgstr ""
 "nim."
 
 #. [then]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:515
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:550
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:514
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:549
 msgid ""
 "Marbus, their claws must be covered with poison. Tell your man to avoid "
 "fighting them hand-to-hand and let archers shoot them down from distance."
@@ -1118,14 +1118,14 @@ msgstr ""
 "unikać walki wręcz i pozwolić łucznikom ich ustrzelić."
 
 #. [else]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:518
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:553
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:517
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:552
 msgid "Their claws... They must be covered with poison!"
 msgstr "Ich szpony... Muszą być pokryte trucizną!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:519
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:554
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:518
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:553
 msgid ""
 "We must avoid fighting them hand-to-hand and let archers shoot them down "
 "from distance or else we will all get infected!"
@@ -1134,7 +1134,7 @@ msgstr ""
 "innym wypadku wszyscy się zarazimy!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:577
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:576
 msgid ""
 "Don't let them get any closer! Our wives and children haven't finished "
 "packing yet. If these damned undead get in, they will murder them all!"
@@ -1144,7 +1144,7 @@ msgstr ""
 "wszystkie!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:580
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:579
 msgid ""
 "Don't let them get any closer! Our wives and children are there. If these "
 "damned undead get in, they will murder them all!"
@@ -1153,7 +1153,7 @@ msgstr ""
 "Jeżeli te przeklęte trupy się przedostaną, zamordują je wszystkie!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:592
+#: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:591
 msgid "No! We failed to protect them!"
 msgstr "Nie! Nie udało nam się ich ochronić!"
 
@@ -2886,15 +2886,18 @@ msgstr ""
 "odpuszczają. Jeśli wygramy, przyjdą znowu."
 
 #. [message]: speaker=Marbus
-#. [message]: speaker=petwolf
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:434
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:438
 msgid ""
 "I'm worried about it, too. The Northern Alliance never gives up. We won't be "
 "safe in Gelu'Aben anymore. However, we'll have to help Gewold!"
 msgstr ""
 "Też się o to martwię. Sojusz Północy nigdy nie ustępuje. W Gelu'Aben nie "
 "będziemy już bezpieczni. Niemniej jednak, będziemy musieli pomóc Gewoldowi!"
+
+#. [message]: speaker=petwolf
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:438
+msgid "<i>Plays joyfully with a troll whelp</i>"
+msgstr "<i>Bawi się radośnie z trolowym szczenięciem</i>"
 
 #. [message]: speaker=Marbus
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:444
