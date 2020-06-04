@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-01 17:06 UTC\n"
-"PO-Revision-Date: 2020-06-01 19:06+0200\n"
+"POT-Creation-Date: 2020-06-04 01:59 UTC\n"
+"PO-Revision-Date: 2020-06-04 04:02+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -3477,9 +3477,11 @@ msgstr "Orkowie"
 #. [side]: id=Dwarf1, type=Dwarvish Lord
 #. [side]: id=Dwarf2, type=Dwarvish Lord
 #. [side]: id=Dwarf7, type=Dwarvish Sentinel
+#. [side]: type=Peasant
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:76
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:117
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:72
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:173
 msgid "Dwarves"
 msgstr "Krasnoludy"
 
@@ -4377,11 +4379,11 @@ msgstr ""
 #. [else]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:896
 #: Marbuss_Escape\scenarios\14A_The_Change_of_Fate.cfg:323
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:378
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:389
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:459
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:650
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:653
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:404
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:415
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:485
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:851
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:854
 msgid ". . ."
 msgstr ". . ."
 
@@ -9561,7 +9563,9 @@ msgstr "Sojusznicy"
 
 #. [side]: type=Undead King, id=King_of_the_Wild_Hunt
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:119
-msgid "The King of Wild Gon"
+#, fuzzy
+#| msgid "The King of Wild Gon"
+msgid "The King of Gon"
 msgstr "Król Dzikiego Gonu"
 
 #. [event]
@@ -11501,39 +11505,39 @@ msgid "That day just came..."
 msgstr "Dzień ten właśnie nadszedł..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:168
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:194
 msgid "Northern road"
 msgstr "Droga północna"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:169
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:195
 msgid "Great camp of the Horde"
 msgstr "Wielki obóz Hordy"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:170
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:196
 msgid "River Eugen"
 msgstr "Rrzeka Eugen"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:171
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:172
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:173
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:197
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:198
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:199
 msgid "Elvish fortress"
 msgstr "Elficka twierdza"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:174
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:200
 msgid "Home of All Shydes"
 msgstr "Dom Wszystkich Wróżek"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:175
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:201
 msgid "Snowy Mountains"
 msgstr "Góry Śnieżne"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:256
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:282
 msgid ""
 "For all those dwarven treasures we pillaged! I feel that magical barrier is "
 "about to shatter! It will soon be clear how many soldiers they still keep "
@@ -11546,7 +11550,7 @@ msgstr ""
 "jeszcze przed tym całym zamieszaniem z Dzikim Gonem."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:257
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:283
 msgid ""
 "This Person didn't feel so good for a long time... The flow of the river "
 "carries a smell of fear... Soon our enemies are going to kneel and beg for "
@@ -11557,12 +11561,12 @@ msgstr ""
 "błagać o litość... A litością można nazwać jedynie miecze Tej Osoby."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:258
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:284
 msgid "*Wags and barks near Marbus's leg.*"
 msgstr "*Macha ogonem i szczeka radośnie przy nodze Marbusa.*"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:259
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:285
 msgid ""
 "I'm glad that you all are in good mood. For a long time I wasn't so excited "
 "for upcoming battle... Even dwarves recently ceased to resist."
@@ -11572,12 +11576,12 @@ msgstr ""
 "krasnoludy przestały stawiać nam opór."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:260
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:286
 msgid "True that! Trolls again strong in undergrounds."
 msgstr "Prawda to! Trolle znów wielka potęga w podziemiach."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:261
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:287
 msgid ""
 "Not to mention mages and other parts of Northern Alliance... They abandon "
 "their fortresses and flee south, where Kingdom of Wesnoth gives them "
@@ -11590,7 +11594,7 @@ msgstr ""
 "się później... Póki co, pora zniszczyć ostatnią twierdzę elfów!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:262
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:288
 msgid ""
 "Since the Great Horde is single-handedly ruling the North, my people have "
 "grown in power... Saurian oracles can once again gather for their sabbaths, "
@@ -11605,7 +11609,7 @@ msgstr ""
 "jej smak wydaje mi się całkiem nowy... I podoba mi się."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:263
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:289
 msgid ""
 "It seems that we can finally cross the line of trees. I fear, that "
 "everything is covered with fog anyway... Damn elvish tricks! They will mean "
@@ -11618,12 +11622,12 @@ msgstr ""
 "ucieknie z tego pogromu, nikt nie przeżyje!"
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:267
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:293
 msgid "Defeat all enemy leaders"
 msgstr "Pokonaj wszystkich wrogich przywódców"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:285
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:311
 msgid ""
 "So, you're here... We expected that you will resist our spells at the end... "
 "Having nothing to count on, we'll make use of steel to survive. Whatever "
@@ -11634,7 +11638,7 @@ msgstr ""
 "się stanie – jedna potęga Północy zostanie w tej bitwie zniszczona."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:286
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:312
 msgid ""
 "I'd like to admit that you're right, but I can't. Even if you miraculosly "
 "will be able to put up a resistance against us, dragons will fall from the "
@@ -11651,7 +11655,7 @@ msgstr ""
 "północą! To zaledwie ułamek mojej armii."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:287
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:313
 msgid ""
 "Our highest priestess will defead you! You won't be able to stop her magic, "
 "to resist her... This forest will be your grave!"
@@ -11660,7 +11664,7 @@ msgstr ""
 "stawić jej oporu... Ten las będzie waszym grobem!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:288
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:314
 msgid ""
 "This Person senses desperation in your voice, treehugger... I'll do "
 "something for you... I'll order my daughters to cut you into pieces, and "
@@ -11674,12 +11678,12 @@ msgstr ""
 "pogrzeb, podpalę je! Na północy nie ostanie się ani jeden z waszych gajów!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:289
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:315
 msgid "We'll see, sea witch... We'll see..."
 msgstr "Zobaczymy, morska wiedźmo... Zobaczymy..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:290
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:316
 msgid ""
 "I'm getting tired of talking with those, who soon won't talk anymore. Enough "
 "chit-chats before battle. Kill them!"
@@ -11688,7 +11692,7 @@ msgstr ""
 "żadnego zdania. Dosyć przekomarzań przed bitwą. Zabić ich!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:301
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:327
 msgid ""
 "Ugh... Damn... Orcs... Beatrice did so much for you, and you... Didn't "
 "keep... the promise..."
@@ -11697,7 +11701,7 @@ msgstr ""
 "dotrzymaliście... Słowa..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:302
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:328
 msgid ""
 "Don't worry, Jarl. I will keep mine. I promise that no onewill touch your "
 "body... Except my daughters, that will cut it after the battle..."
@@ -11706,17 +11710,17 @@ msgstr ""
 "ciała... Prócz moich córek, które porąbią je po bitwie..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:303
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:329
 msgid "This is not the end... Cavalry... Fight for the Northern Alliance..."
 msgstr "To nie koniec... Kawalerzyści... Walczcie za Sojusz Północy..."
 
 #. [event]: id=Weriel
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:317
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:343
 msgid "Weriel"
 msgstr "Weriel"
 
 #. [event]: id=Weriel
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:340
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:366
 msgid ""
 "We come as we promised to lady Beatrice! Last lords, commanders, officers "
 "and soldiers faithful to Northern Alliance! Grab your lances, we'll charge "
@@ -11727,12 +11731,12 @@ msgstr ""
 "Chwyćcie za swoje lance, szarżą rozgromimy przeciwnika!"
 
 #. [event]: id=Weriel
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:341
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:367
 msgid "I cannot believe it..."
 msgstr "Nie mogę w to uwierzyć..."
 
 #. [event]: id=Weriel
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:342
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:368
 msgid ""
 "Some cavalry is still left here! Those are mine! Warriors, to arms! And that "
 "knight's horse is mine!"
@@ -11741,7 +11745,7 @@ msgstr ""
 "na którym paraduje ten rycerz ma być mój!"
 
 #. [event]: id=Weriel
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:343
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:369
 msgid ""
 "Not very succesful, that ambush of yours... Even that one made by peasants "
 "in a village nearby was better. They told us, that all their valuables are "
@@ -11756,7 +11760,7 @@ msgstr ""
 "na nas rzucili."
 
 #. [event]: id=Weriel
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:344
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:370
 msgid ""
 "They screamed even more when we set the barn on fire. But enough "
 "reminiscing. Slaughter those horses!"
@@ -11765,7 +11769,7 @@ msgstr ""
 "wspominania. Wyrżnąć mi te koniki!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:351
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:377
 msgid ""
 "No... The Northern Alliance... The Lords... We cannot fall... It cannot be "
 "the end..."
@@ -11774,7 +11778,7 @@ msgstr ""
 "koniec..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:352
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:378
 msgid ""
 "It may, and it is. You ruled those lands for long enough. Now a new order "
 "became. An order of the Great Horde! Tash ash krok narosh! Bring me this "
@@ -11785,7 +11789,7 @@ msgstr ""
 "narosh! Przynieście mi głowę tego głupca!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:353
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:379
 msgid ""
 "And bring me his horse! I'm going to taste a delicious horse meat! Dig my "
 "fangs into last of the Northern Alliance's horses!"
@@ -11794,12 +11798,12 @@ msgstr ""
 "kły w mięso ostatniego z wierzchowców Sojuszu Północy!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:354
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:380
 msgid "*Barks cheerfully, seemingly liking that idea.*"
 msgstr "*Szczeka radośnie, jakby ten pomysł bardzo mu się podobał.*"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:365
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:391
 msgid ""
 "Those elves... They aren't Jarls' warriors... But I'm sure I've seen those "
 "banners and armors... Ha! I remember! Blood Elves! I knew we'll meet again, "
@@ -11810,7 +11814,7 @@ msgstr ""
 "Wiedziałem, że jeszcze kiedyś się spotkamy, dziewczyno!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:366
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:392
 msgid ""
 "I also awaited meeting you again. Oh, did I wait... After you let me go, I "
 "was spitted on and treated like your servant. I had to work hard to regain "
@@ -11824,7 +11828,7 @@ msgstr ""
 "Elfów!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:367
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:393
 msgid ""
 "Hahaha! You don't know how I'm glad that I see you... A lot has changed "
 "since our last meeting. But one thing remains unchanged - you don't stand a "
@@ -11839,7 +11843,7 @@ msgstr ""
 "zbeształa cię za zaatakowanie nas w tamtej jaskini?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:368
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:394
 msgid ""
 "You dog! I'm nobody's pawn! Me and my warriors are fighting only for "
 "ourselves. We don't care about the North, Jarls, not even Beatrice! She "
@@ -11850,7 +11854,7 @@ msgstr ""
 "moją panią! Walczymy z tobą, ponieważ cię nienawidzimy!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:369
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:395
 msgid ""
 "The same as you hate the Jarls. You still can't change anything. It's a "
 "source of your anger, your frustration. Your forces are fierce, but low in "
@@ -11865,22 +11869,22 @@ msgstr ""
 "zmarnowany..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:370
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:396
 msgid "You... Ugh... Damned..."
 msgstr "Ty... Ugh... Przeklęty..."
 
 #. [message]: speaker=Marbus
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:373
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:399
 msgid "But you know what...?"
 msgstr "Ale wiesz co...?"
 
 #. [option]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:375
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:401
 msgid "Blood Elves might become a part of the Great Horde."
 msgstr "Krwawe Elfy mogą zostać częścią Wielkiej Hordy"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:377
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:403
 msgid ""
 "I'll let you stay alive. I'll let you keep your forces. I'll let you call "
 "yourself the Queen of Elves. You'll stand on equal ground with my most "
@@ -11894,12 +11898,12 @@ msgstr ""
 "wszystkie skarby elfów i wysypać je u twoich stóp. Zrób tylko jedno..."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:379
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:405
 msgid "Bow before me."
 msgstr "Pokłoń się mi."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:380
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:406
 msgid ""
 "No! I don't bow to anyone, I have no masters! I'm a descendand of Landar, "
 "filled with his hatred, his ideals, his..."
@@ -11908,7 +11912,7 @@ msgstr ""
 "przesycona jego nienawiścią, jego ideałami, jego..."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:381
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:407
 msgid ""
 "You know I'll keep my promise. You hate me as much as Jarls. Under my "
 "custody Blood Elves will finally become important. Landar will finally beat "
@@ -11923,17 +11927,17 @@ msgstr ""
 "w obronie Najwyższej Kapłanki, która nawet o niej nie pamiętała?"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:382
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:408
 msgid "I... He... He'd prefer the Blood Elves to be mighty again..."
 msgstr "Ja... On... On wolałby, żeby Krwawe Elfy znów były silne..."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:383
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:409
 msgid "Bow before me..."
 msgstr "Pokłoń się mi."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:384
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:410
 msgid ""
 "!!! Great Sovereign... Don't you think it's too much? We don't need them! "
 "They are nothing! I can crush that girl and her troops in mere seconds! You "
@@ -11944,7 +11948,7 @@ msgstr ""
 "zaledwie kilka chwil! Nie powinieneś..."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:385
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:411
 msgid ""
 "This Person thinks, that you're not the one to speak what the Great "
 "Sovereign should or shouldn't do, Gewold... And you'd better remember it... "
@@ -11955,12 +11959,12 @@ msgstr ""
 "pamiętaj... Poza tym nie chodzi o dodatkowe siły dla Wielkiej Hordy..."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:386
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:412
 msgid "No? Then what...?"
 msgstr "Nie? W takim razie o co...?"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:387
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:413
 msgid ""
 "It's about my satisfaction. This girl was opposing us from the very "
 "beginning, and the Blood Elves were hunting our race for ages and are "
@@ -11974,12 +11978,12 @@ msgstr ""
 "większym zwycięstwem, niż ich zniszczenie. Zatem, co odpowiesz, dziewczyno?"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:388
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:414
 msgid "I..."
 msgstr "Ja..."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:390
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:416
 msgid ""
 "*Gets down on one knee and bows her head. Her fighters lower their bows and "
 "do likewise.*"
@@ -11988,7 +11992,7 @@ msgstr ""
 "czynią podobnie.*"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:391
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:417
 msgid ""
 "Perfect! Gewold, you dared to oppose me, so you're responsible for this "
 "girl's life. You must care about her staing alive to the end of this battle, "
@@ -12001,12 +12005,12 @@ msgstr ""
 "przeklętej, elfiej wiedźmy!"
 
 #. [option]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:415
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:441
 msgid "This time I won't let you live"
 msgstr "Tym razem nie pozwolę ci przeżyć"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:417
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:443
 msgid ""
 "This time I won't make the same mistake of letting you live. I promise you, "
 "I'll burn all your banners, all mentions about yourself will be removed from "
@@ -12021,7 +12025,7 @@ msgstr ""
 "wszyscy zapomną o tym, że kiedykolwiek istniała jakaś potomkini Landara!"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:418
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:444
 msgid ""
 "You... Filthy... Monster! As long as I have any blood left in my veins I'll "
 "be fighting you! My ghost will haunt you even after my death. You won't "
@@ -12032,7 +12036,7 @@ msgstr ""
 "Przysięgam ci to!"
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:419
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:445
 msgid ""
 "I'm not interested in oaths of an elvish girl. Many are foretelling me death "
 "and revenge, but one revengers from the other side !!!. Enough talking. "
@@ -12043,19 +12047,19 @@ msgstr ""
 "zęby. No, dosyć gadania. Gewold, każ swoim wojownikom poćwiartować ją żywcem."
 
 #. [command]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:420
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:446
 msgid "With pleasure... You heard, boys! Forward!"
 msgstr "Z rozkoszą... Słyszeliście, chłopcy! Na nich!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:438
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:464
 msgid "We meet again, Marbus. This time on opposite sides."
 msgstr ""
 "Znów się spotykamy, Marbusie. Tym razem jednak po przeciwnych stronach "
 "barykady."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:439
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:465
 msgid ""
 "Jarl Oferiu! I didn't think we'll meet again! You did a great job helping us "
 "defead the Wild Gon. I could say, we wouldn't be here without you! You must "
@@ -12066,7 +12070,7 @@ msgstr ""
 "nas tutaj! Na pewno jesteś z siebie dumny."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:440
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:466
 msgid ""
 "Silence, Gewold. I'm glad to see you in good health, Jarl. Your help was "
 "really much for us. Is there anything I can do for you?"
@@ -12076,7 +12080,7 @@ msgstr ""
 "dla ciebie zrobić?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:441
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:467
 msgid ""
 "You can gather the Great Horde and leave the North, but I think it's too "
 "much of a demand? Well... Then I don't want anything from you. I'll stand my "
@@ -12087,7 +12091,7 @@ msgstr ""
 "do walki i będę bronił pani Beatrycze do ostatniej kropli krwi."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:442
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:468
 msgid ""
 "I respect that, Jarl. I think I could leave you alive and make a supervisor "
 "of slaves... An administrator of your own race... But I'm afraid you're too "
@@ -12102,19 +12106,26 @@ msgstr ""
 "Obiecuję, że zabijemy cię szybko. Bezboleśnie."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:457
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:483
 msgid "Stop here, damned orc! I swear on my sword, you won't pass any further!"
 msgstr ""
 "Stój, przeklęty orku! Przysięgam na swój miecz, że nie przejdziesz dalej!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:458
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:484
+#, fuzzy
+#| msgid ""
+#| "Stop. Halt. Go away. Those words work on me just like ''cursed'' and "
+#| "''filthy''. It's rather boring... You are boring, Jarl. Even standing "
+#| "before the Great Horde, you cannot say any better words. But I see, you "
+#| "aren't an elder... Young, wet behind the ears... I'll give you a second "
+#| "chance. Go, say something elevated!"
 msgid ""
 "Stop. Halt. Go away. Those words work on me just like ''cursed'' and "
 "''filthy''. It's rather boring... You are boring, Jarl. Even standing before "
 "the Great Horde, you cannot say any better words. But I see, you aren't an "
 "elder... Young, wet behind the ears... I'll give you a second chance. Go, "
-"say something elevated!"
+"say something noble!"
 msgstr ""
 "Stój. Zatrzymaj się. Odejdź. Te słowa działają na mnie równie mocno jak "
 "„przeklęty” i „plugawy”. To dosyć nudne... Jesteś nudny, Jarlu. Nawet stając "
@@ -12123,18 +12134,21 @@ msgstr ""
 "drugą szansę. No, powiedz coś wzniosłego!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:460
-msgid "No? Well, it's your choice. Gewold, gut him before his warrior's eyes."
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:486
+#, fuzzy
+#| msgid ""
+#| "No? Well, it's your choice. Gewold, gut him before his warrior's eyes."
+msgid "No? Well, it's your choice. Gewold, gut him before his warriors' eyes."
 msgstr ""
 "Nie? Dobrze, twój wybór. Gewoldzie, wybebeszcie go na oczach jego wojowników."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:461
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:487
 msgid "You don't have to say it twice, Great Sovereign!"
 msgstr "Nie musisz mi tego powtarzać, Wielki Suwerenie!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:479
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:505
 msgid ""
 "Ugh... Dammit... But at least I die with honour... I did everything I "
 "could..."
@@ -12143,7 +12157,7 @@ msgstr ""
 "wszystko, co mogłam..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:480
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:506
 msgid ""
 "You weren't really able to do much, stupid girl... But when it comes to me, "
 "I can do a lot. And I always keep my word. I'll remove your name from "
@@ -12153,7 +12167,7 @@ msgstr ""
 "wiele. I zawsze dotrzymuję słowa. Wymażę twoje imię z kart historii."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:492
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:518
 msgid ""
 "Dammit! Betray my own race for future glory... And die on the same day... "
 "Marbus... You didn't keep your promise..."
@@ -12162,7 +12176,7 @@ msgstr ""
 "dnia... Marbusie... Nie dotrzymałeś słowa..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:493
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:519
 msgid ""
 "Gewold! You were supposed to keep an eye on her! I swear, when this battle "
 "will be over, you'll pay for it!"
@@ -12171,16 +12185,20 @@ msgstr ""
 "skończy, zapłacisz mi za to!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:494
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:520
+#, fuzzy
+#| msgid ""
+#| "She way an adult... She was a warrior. I came here to kill, not to take "
+#| "care of your girls!"
 msgid ""
-"She way an adult... She was a warrior. I came here to kill, not to take care "
+"She was an adult... She was a warrior. I came here to kill, not to take care "
 "of your girls!"
 msgstr ""
 "Była dorosła... Była wojowniczką. Przyszedłem tu zabijać, a nie pilnować "
 "twoich dziewczynek!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:495
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:521
 msgid ""
 "This Person thinks, that you should watch your words... You won't go without "
 "a punishment, but we'll talk about it after the battle."
@@ -12189,17 +12207,17 @@ msgstr ""
 "o tym porozmawiamy po bitwie..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:502
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:528
 msgid "Ugh... Dammit... I can't fight anymore..."
 msgstr "Ugh... Psia kość... Nie dam rady dłużej walczyć..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:503
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:529
 msgid "Should we gut him?"
 msgstr "Kazać go wybebeszyć?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:504
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:530
 msgid ""
 "No. As I said, we owe you a lot, Jarl. So you'll die with honour. Lightest "
 "death in the entire battle. Give him a dagger."
@@ -12208,7 +12226,7 @@ msgstr ""
 "Najlżejszą śmiercią, którą zadamy wam podczas tej bitwy. Dajcie mu sztylet."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:505
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:531
 msgid ""
 "Be damned, Marbus... You'll fall one day. One day, the Great Horde will "
 "fall, same as when the Northern Alliance was formed... History will repeat "
@@ -12219,50 +12237,54 @@ msgstr ""
 "mogą nad nami panować..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:506
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:532
 msgid "I'm waiting, Jarl."
 msgstr "Czekam, Jarlu."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:507
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:533
 msgid "*Slits his wrists*"
 msgstr "*Podcina sobie żyły.*"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:508
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:534
 msgid "You'll... Fall...."
 msgstr "Kiedyś... Upadniecie..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:515
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:541
 msgid "Ugh... What... What are you doing...?"
 msgstr "Ugh... Co... Co wy robicie...?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:516
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:542
 msgid "You didn't hear the Great Sovereign? We're gutting you alive!"
 msgstr "Nie słyszałeś naszego Wielkiego Suwerena? Wybebeszamy cię żywcem!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:517
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:543
 msgid "Aaaa! No, please... Ugh..."
 msgstr "Aaaa! Nie, proszę... Ugh..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:524
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:550
 msgid "This is how fools die..."
 msgstr "Tak umierają głupcy..."
 
 #. [then]: id=Gilfit
 #. [else]: id=Gilfit
 #. [else]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:549
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:580
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:618
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:649
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:587
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:641
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:749
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:850
+#, fuzzy
+#| msgid ""
+#| "It took you a while to reach my defense line, orcs. I couldnt wait to see "
+#| "you. Same, as my friends, who you know well."
 msgid ""
-"It took you a while to reach my defense line, orcs. I couldnt wait to see "
-"you. Same, as my friends, who you know well."
+"It took you a while to reach my defense line, orcs. I couldn't wait to see "
+"you. Same as my friends, whom you know very well."
 msgstr ""
 "Długo wam zajęło dojście do mojej linii obronnej, orkowie. Nie mogłem się "
 "już wprost was doczekać. Tak, jak moi przyjaciele, których bardzo dobrze "
@@ -12270,20 +12292,217 @@ msgstr ""
 
 #. [then]: id=Gilfit
 #. [else]: id=Gilfit
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:553
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:584
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:622
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:591
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:645
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:753
 msgid "Gilfit the Snowfeet"
 msgstr "Gilfit Śnieżnostopy"
 
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:617
+msgid ""
+"It’s a trap, damned orcs! You thought that we’ll let you go after the "
+"massacre you did on our brothers? Not in this life! Snowfeet will fight you "
+"to the last axe!"
+msgstr ""
+
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:618
+msgid "Torturing dwarves will never fail to entertain This Person."
+msgstr ""
+
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:619
+msgid ""
+"Dwarves? I thought that I taught you a good lesson in the undergrounds. Your "
+"greedy people will surely join my army if I throw you a tenth of my wealth."
+msgstr ""
+
+#. [message]: speaker=Marbus
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:622
+msgid "Let’s see..."
+msgstr ""
+
+#. [option]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:624
+msgid "I’ll give you 300 gold pieces for joining my army."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:626
+msgid ""
+"Gold? You want to bribe us with gold, you dim orc? Know that the Snowfeet "
+"clan will not take your gold! You're going to pay for the massacre of our "
+"brothers with your own, foul, blood!"
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:627
+msgid ""
+"You insult the Great Sovereign, dwarf. I’ll tear your tongue away for that."
+msgstr ""
+
+#. [option]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:632
+msgid "Actually, we don’t need you in our ranks."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:634
+msgid "I’ll fight you, even if it'll be the last battle of my life!"
+msgstr ""
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:666
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:774
+#, fuzzy
+#| msgid ""
+#| "The Snowfeet Clan will fight you to the last soldier! I'm Gilfit, last of "
+#| "my kin. You rended through our caves to flee from undeads. Even now, when "
+#| "you are feared in the whole North, we remember you fleeing for your life."
+msgid ""
+"That’s an ambush, orcs! I’m Gilfit, last of my kin. You stormed your way "
+"through our caves to flee from undead. And even though now you spread fear "
+"over the North, we still remember your flight, your attempt to save your "
+"lives!"
+msgstr ""
+"Klan Śnieżnostopych będzie z wami walczył do ostatniego żołnierza! Jestem "
+"Gilfit, ostatni z mojego rodu. Przedarliście się przez nasze jaskinie, by "
+"uciec przed nieumarłymi. Choć teraz budzicie strach na całej północy, my "
+"pamiętamy waszą ucieczkę, waszą próbę ratowania życia!"
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:667
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:775
+msgid ""
+"This Person remembers years spent in dirty waters of your undergrounds. "
+"Swimming in your sewers and hiding from drunken, stinky dwarves. This Person "
+"wants to sink her steel in your bodies so badly."
+msgstr ""
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:668
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:776
+msgid ""
+"Keep calm, Aidala. Gilfit, right? I remember, that when we were in trouble, "
+"your clan let us go through the undergrounds. You weren’t trying to fight "
+"us. Look where we’re now! Thanks to the fact that you didn’t care to attack "
+"us back then."
+msgstr ""
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:669
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:777
+msgid "Dwarf, what he’s talking about?!"
+msgstr ""
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:670
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:778
+msgid ""
+"It’s true that we didn’t fight back then. Our clan isn’t itching to fight. "
+"We value peace, leisure and transquility... and also vaults full of gold. "
+"So, Great Sovereign, it’s in fact not our war."
+msgstr ""
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:671
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:779
+msgid "Damned traitor!"
+msgstr ""
+
+#. [else]: id=Gilfit
+#. [then]: id=Gilfit
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:672
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:780
+msgid ""
+"This Person will understand any decision you will make, but would gladly "
+"tear throats of this worthless bearded midgets."
+msgstr ""
+
+#. [message]: speaker=Marbus
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:676
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:784
+msgid "Given the circumstances..."
+msgstr ""
+
+#. [option]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:678
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:786
+msgid "I can pay you 300 gold pieces to join my army."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:698
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:806
+msgid ""
+"Great Sovereign! This is truly a generous offer. We’ll gladly help you fight "
+"those damned elves."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:699
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:721
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:807
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:829
+msgid "I swear, before I die, I’ll crush your skull, traitor!"
+msgstr ""
+
+#. [option]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:704
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:812
+msgid "I want you to join me for free."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:718
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:826
+msgid "This isn’t an option that would make me content, but..."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:719
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:827
+msgid ""
+"...but if you won’t comply, This Person will fill your stomach with all the "
+"gold that you desire so much, and then take you to the middle of a very deep "
+"lake."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:720
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:828
+msgid "Guess I have no choice. Brothers, time to help the orcs!"
+msgstr ""
+
+#. [option]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:725
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:833
+msgid "I can’t deny Aidala the pleasure of torturing your short bodies."
+msgstr ""
+
+#. [command]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:731
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:839
+msgid ""
+"Yes! This Person is glad for your words, Great Sovereign. Sisters, it’s time "
+"to impale dwarves on our swords!"
+msgstr ""
+
 #. [else]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:651
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:852
 msgid ""
 "Damn... Where are those dwarves? Why they are late in this important moment?"
 msgstr "Zaraza... Gdzie te krasnoludy? Muszą się spóźniać w takiej chwili?"
 
 #. [else]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:652
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:853
 msgid ""
 "Dwarves came to me a while ago to negotiate their surrender. Those cunning "
 "midgets can fight with words, but are rather reluctant to admit how much "
@@ -12296,102 +12515,28 @@ msgstr ""
 "oddali mi się sami, a po drugą połowę zjawiłem się niebawem. Z wojskiem."
 
 #. [else]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:654
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:855
+#, fuzzy
+#| msgid ""
+#| "Well, at least they tried to survive and ensure their well-being. What "
+#| "you did, Jarl? You dedidec to oppose me and die along with your "
+#| "subordinates in suicidal attempt to defend your fairy."
 msgid ""
-"Well, at least they tried to survive and ensure their well-being. What you "
-"did, Jarl? You dedidec to oppose me and die along with your subordinates in "
-"suicidal attempt to defend your fairy."
+"Well, at least they tried to survive and ensure their well-being. What did "
+"you do, Jarl? You decided to oppose me and die along with your subordinates "
+"in suicidal attempt to defend your fairy."
 msgstr ""
 "Starali się jednak przetrwać i zapewnić sobie godny byt. Co zaś zrobiłeś ty, "
 "Jarlu? Postanowiłeś sprzeciwić mi się i zginąć wraz ze swoimi podopiecznymi "
 "w samobójczej próbie obrony waszej wróżki."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:667
-msgid ""
-"The Snowfeet Clan will fight you to the last soldier! I'm Gilfit, last of my "
-"kin. You rended through our caves to flee from undeads. Even now, when you "
-"are feared in the whole North, we remember you fleeing for your life."
-msgstr ""
-"Klan Śnieżnostopych będzie z wami walczył do ostatniego żołnierza! Jestem "
-"Gilfit, ostatni z mojego rodu. Przedarliście się przez nasze jaskinie, by "
-"uciec przed nieumarłymi. Choć teraz budzicie strach na całej północy, my "
-"pamiętamy waszą ucieczkę, waszą próbę ratowania życia!"
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:668
-msgid ""
-"Your clan... This Person hates it... I was hiding in shadows of your waters, "
-"until I met the Great Sovereign... Today it's time for revenge. Armors and "
-"bones of dwarves are hard... It's good then, that swords of This Person are "
-"also made from very good steel."
-msgstr ""
-"Wasz klan... Ta Osoba go nienawidzi... Ukrywałam się w cieniu waszych wód "
-"wraz ze swoimi córkami, póki nie spotkałam Wielkiego Suwerena... Dzisiaj "
-"nastał czas zemsty. Pancerze i kości krasnoludów są twarde... Dobrze zatem, "
-"iż miecze Tej Osoby wykonano z naprawdę dobrej jakości stali."
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:669
-msgid ""
-"Dwarves? And here I thought that we exterminated all pests underground. It's "
-"good they showed themselves on the surface. We'll feast our eyes on those "
-"dwarfs until we finally finish off this race and make them our slaves. And "
-"you, Jarl... You're old, embittered, and full of hatred. It's time to end "
-"your life."
-msgstr ""
-"Krasnoludy? A myślałem, że wyciągnęliśmy już wszystkie szkodniki z podziemi. "
-"Dobrze, że pokazały się na powierzchni. Ostatni raz nacieszymy oczy widokiem "
-"tych karłów, nim ostatecznie wybijemy tę rasę i uczynimy z nich naszych "
-"niewolników. A Ty, Jarlu... Jesteś stary, zgorzkniały i pełen wyblakłej "
-"nienawiści. Pora skrócić twój żywot."
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:670
-msgid ""
-"I remember more battles than years you lived. I surpass you in tactical "
-"genius, experience, knowledge... You won't be able to overcome my soldiers."
-msgstr ""
-"Pamiętam więcej bitw, niż ty masz lat, Wielki Suwerenie. Przewyższam was "
-"geniuszem taktycznym, doświadczeniem, wiedzą... Nie podołacie moim "
-"żołnierzom."
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:671
-msgid ""
-"We will, because we surpass you in numbers, bloodlust, and equipment. You "
-"don't even know how many weapons we've got... We keep most of it in "
-"storages, because even the Great Horde can't use all of it. And you? It's "
-"probably rather hard to get any metal in this forest. How do you fight? You "
-"share one sword for three wariors?"
-msgstr ""
-"Podołamy, ponieważ przerastamy was liczbą, żądzą krwi i rynsztunkiem. Nawet "
-"nie wiesz, jak wiele broni teraz mamy... Większą jej część trzymamy w "
-"magazynach, bo nawet Wielka Horda nie jest w stanie zużyć jej całej. A wy? W "
-"tym lesie chyba trudno o metal. Jak więc walczycie? Dzieląc się jednym "
-"mieczem na trzech wojowników?"
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:672
-msgid ""
-"Even if we lack equipment, we still have the spirit! Elves, dwarves! Let's "
-"pay them back for everything they did to us!"
-msgstr ""
-"Nawet, jeśli brakuje nam rynsztunku, wciąż mamy ducha walki! Elfy, "
-"krasnoludy! Odpłaćmy im za wszystko, co nam uczynili!"
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:673
-msgid "For Snowfeet!"
-msgstr "Za Śnieżnostopych!"
-
-#. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:686
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:883
 msgid "No... Without me... The Snowfeet Clan..."
 msgstr "Nie... Beze mnie... Klan Śnieżnostopych..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:687
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:884
 msgid ""
 "Your clan is the past now. Same goes for all the Knalga. We'll stumble on "
 "you, enslave and make sure, that all your pride and hubris will be gone, "
@@ -12404,12 +12549,12 @@ msgstr ""
 "ośmieli się już podnieść topora przeciwko orkowym panom!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:688
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:885
 msgid "Curse you... To hell... Dwarves won't... Ever... Bow to you..."
 msgstr "Niech cię... Do diabła... Krasnoludy nigdy... Ci się nie pokłonią..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:689
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:886
 msgid ""
 "Your pieces will bow to me! Tear him into shreds and throw the remains "
 "before my feet!"
@@ -12418,7 +12563,17 @@ msgstr ""
 "moich stóp!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:696
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:898
+msgid "I die... I betrayed the North to join the orcs... What for?"
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:910
+msgid "Well, I wasn’t very attached to him."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:917
 msgid ""
 "So many years of experience... Fights... Noble battles and duels... To be "
 "attacked by... Filthy orcs! You should all die when the Wild Gon attacked. "
@@ -12433,7 +12588,7 @@ msgstr ""
 "wszystko, co piękne, o co warto walczyć..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:697
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:918
 msgid ""
 "Well, many people shares similar opinion about us. The problem is, we don't "
 "really care about it. Same goes for talking with you... Farewell, Jarl... I "
@@ -12444,7 +12599,7 @@ msgstr ""
 "nadzieję, że w zaświatach staniesz się mniej zgorzkniałym starcem."
 
 #. [then]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:717
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:938
 msgid ""
 "And here we have an elvish witch, a descendant of Kalenz, Beatrice. I was "
 "dreaming about that moment, when I can oppose you for years. For all those "
@@ -12457,7 +12612,7 @@ msgstr ""
 "nienawidzę..."
 
 #. [then]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:718
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:939
 msgid ""
 "Your betrayal is more painful for me than deaths of all those who protected "
 "this place. They died in glory, fighting for what they believed. And you? "
@@ -12470,7 +12625,7 @@ msgstr ""
 "twoich pobratymców. Uczepiłaś się tej łaski i zdradziłaś nas."
 
 #. [then]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:719
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:940
 msgid ""
 "I did what's the best for me and the Blood Elves. We argued for years, it's "
 "time to settle this conflict. Rise above, have you under my feet and look on "
@@ -12482,7 +12637,7 @@ msgstr ""
 "oto, czego chcę!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:720
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:941
 msgid ""
 "You become as despicable as orcs, girl. But it was only predictable... You "
 "were always full of hatred, unhealthy fascination about killing and lust for "
@@ -12497,7 +12652,7 @@ msgstr ""
 "każdy będzie pogardzał tobą w swoim duchu."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:725
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:946
 msgid ""
 "Marbus... I regret meeting you again in such circumstances. I don't know "
 "what has come into you. Why you let your race become posessed by bloodlust "
@@ -12510,12 +12665,18 @@ msgstr ""
 "wszyscy cierpią za twoją przyczyną?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:726
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:947
+#, fuzzy
+#| msgid ""
+#| "My warriors don't suffer. I lead the Great Horde through a bright path, "
+#| "that it wants to be lead. And when it comes to reasons... Well, "
+#| "everything could be different. But, provided my cousin lived. If you "
+#| "really tried to keep your alliance with us."
 msgid ""
 "My warriors don't suffer. I lead the Great Horde through a bright path, that "
 "it wants to be lead. And when it comes to reasons... Well, everything could "
-"be different. But, provided my cousin lived. If you really tried to keep "
-"your alliance with us."
+"be different. Provided my cousin lived. If you really tried to keep your "
+"alliance with us."
 msgstr ""
 "Moi wojownicy nie cierpią. Prowadzę Wielką Hordę świetlaną drogą, którą "
 "pragnie być prowadzona. Jeśli zaś chodzi o powód... Cóż, wszystko mogło "
@@ -12523,14 +12684,15 @@ msgstr ""
 "się zachować przymierze z nami."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:727
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:948
+#, fuzzy
 msgid ""
-"About your cousin I only known after it was done... I didn't want his death. "
-"I believed entirely that you can change your destiny. But it didn't happen. "
-"You still do everything to be hated. After a thousand years the King of Gon "
-"will return. Before I thought, that he's our curse, but now I understand - "
-"he was our chance. A chance to get rid of you. With a great price, but still "
-"a chance..."
+"About your cousin I only have known after it was done... I didn't want his "
+"death. I believed entirely that you can change your destiny. But it didn't "
+"happen. You still do everything to be hated. After a thousand years the King "
+"of Gon will return. Before I thought, that he's our curse, but now I "
+"understand - he was our chance. A chance to get rid of you. With a great "
+"price, but still a chance..."
 msgstr ""
 "O twoim kuzynie dowiedziałam się dopiero po fakcie... Nie chciałam jego "
 "śmierci. Całym sercem wierzyłam w to, że możecie odmienić swoje "
@@ -12540,7 +12702,7 @@ msgstr ""
 "pozbycie się was. Okupioną wielką ceną, ale jednak szansą..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:728
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:949
 msgid ""
 "It doesn't matter anymore. The King of Gon is dead, and even if he returns, "
 "he'll find us even more powerfull than in this millenium. The Gjallarhorn "
@@ -12553,14 +12715,14 @@ msgstr ""
 "nadejście tej klątwy."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:729
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:950
 msgid ""
 "Talking won't bring us anything more. Attack... I'm ready for the strike..."
 msgstr ""
 "Rozmowa nie przyniesie nam już niczego. Atakuj... Jestem gotowa na cios..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:730
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:951
 msgid ""
 "And I'll be glad to deal it. Forward, my warriors! Surround her fortress, "
 "don't let any tree-hugger escape! It's time for our final triumph! Tash'kfug "
@@ -12571,12 +12733,12 @@ msgstr ""
 "triumfu! Tash'kfug adin!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:741
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:962
 msgid "So that's how death looks like... It's so cold... And lonely..."
 msgstr "Więc tak wygląda śmierć... Jest tak zimno... I samotnie..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:742
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:963
 msgid ""
 "Any death is better than what we're preparing for those who survive. Living "
 "under the Great Horde's rule will be a greater suffering for them than any "
@@ -12591,12 +12753,12 @@ msgstr ""
 "Beatrycze."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:743
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:964
 msgid "Finish it..."
 msgstr "Zakończ to..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:744
+#: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:965
 msgid ""
 "Farewell, elvish witch. This is how your story ends and a brand new story "
 "starts. A story, about invincible Great Horde, ruling the whole North!"
@@ -13216,283 +13378,552 @@ msgstr ""
 "szybko wszelki opór. Wszystko to należy już jednak do całkiem innej "
 "historii..."
 
+#. [advancement]: id=healthm
+#: Marbuss_Escape\units\advancements.cfg:27
+msgid ""
+"<span color='#FFF046'>Orcish Vitality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +8</span></span>"
+msgstr ""
+"<span color='#FFF046'>Orkowa Witalność</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +8</span></span>"
+
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:51
-msgid "Juggernaut's Vitality: +14 Health"
-msgstr "Witalność Niszczyciela: +14 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:46
+msgid ""
+"<span color='#FFF046'>Juggernaut's Vitality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +14</span></span>"
+msgstr ""
+"<span color='#FFF046'>Witalność Niszczyciela</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +14</span></span>"
 
 #. [advancement]: id=health3
-#: Marbuss_Escape\units\advancements.cfg:70
-#: Marbuss_Escape\units\advancements.cfg:1068
-msgid "Reinforced Armor: +10% Blade, pierce and impact resistance"
+#: Marbuss_Escape\units\advancements.cfg:66
+msgid ""
+"<span color='#FFF046'>Reinforced Armor</span>\n"
+"<span size='small'>Blade, pierce and impact resistances<span "
+"color='#55FF46'> +10%</span></span>"
 msgstr ""
-"Wzmocniona Zbroja: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+"<span color='#FFF046'>Wzmocniona Zbroja</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +10%</span></span>"
 
 #. [advancement]: id=damage2
-#: Marbuss_Escape\units\advancements.cfg:121
-msgid "Savage and Ruthless: +3 Health, +1 Melee strikes"
-msgstr "Dziki i Bezlitosny: +3 Punkty życia, +1 Cios wręcz"
+#: Marbuss_Escape\units\advancements.cfg:117
+msgid ""
+"<span color='#FFF046'>Savage and Ruthless</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +3</span>, Melee "
+"strikes<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Dziki i Bezlitosny</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +3</span>, Cios "
+"wręcz<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=xbow
-#: Marbuss_Escape\units\advancements.cfg:145
-msgid "Merciless Aim: +4 Health, +2 Ranged damage"
-msgstr "Bezwzględny Strzelec: +4 Punkty życia, +2 Obrażenia z dystansu"
+#: Marbuss_Escape\units\advancements.cfg:142
+msgid ""
+"<span color='#FFF046'>Merciless Aim</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +4</span>, Ranged "
+"damage<span color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Bezwzględny Strzelec</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +4</span>, Obrażenia z "
+"dystansu<span color='#55FF46'> +2</span></span>"
 
 #. [advancement]: id=speed2
-#: Marbuss_Escape\units\advancements.cfg:221
-msgid "Best Hunter in the Clan: +1 Movement point"
-msgstr "Najlepszy Łowca w Klanie: +1 Punkt ruchu"
+#: Marbuss_Escape\units\advancements.cfg:217
+msgid ""
+"<span color='#FFF046'>Best Hunter in the Clan</span>\n"
+"<span size='small'>Movement point<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Najlepszy Łowca w Klanie</span>\n"
+"<span size='small'>Punkt ruchu<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=healthm
-#: Marbuss_Escape\units\advancements.cfg:269
-msgid "Healthy Mount: +7 Health"
-msgstr "Zdrowy Wierzchowiec: +7 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:266
+msgid ""
+"<span color='#FFF046'>Healthy Mount</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +7</span></span>"
+msgstr ""
+"<span color='#FFF046'>Zdrowy Wierzchowiec</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +7</span></span>"
 
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:287
-msgid "Mighty Beast: +13 Health"
-msgstr "Potężna bestia: +13 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:285
+msgid ""
+"<span color='#FFF046'>Mighty Beast</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +13</span></span>"
+msgstr ""
+"<span color='#FFF046'>Potężna bestia</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +13</span></span>"
 
 #. [advancement]: id=damage
-#: Marbuss_Escape\units\advancements.cfg:306
-msgid "Sharp Teeth: +2 Fangs damage"
-msgstr "Ostre Zęby: +2 Obrażenia kłami"
+#: Marbuss_Escape\units\advancements.cfg:305
+msgid ""
+"<span color='#FFF046'>Sharp Teeth</span>\n"
+"<span size='small'>Fangs damage<span color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Ostre Zęby</span>\n"
+"<span size='small'>Obrażenia kłami<span color='#55FF46'> +2</span></span>"
 
 #. [advancement]: id=damage2
 #: Marbuss_Escape\units\advancements.cfg:328
-msgid "Mad Hunger: +1 Fangs strikes"
-msgstr "Szaleńczy Głód: +1 Cios kłami"
+msgid ""
+"<span color='#FFF046'>Mad Hunger</span>\n"
+"<span size='small'>Fangs strikes<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Szaleńczy Głód</span>\n"
+"<span size='small'>Cios kłami<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=claws
-#: Marbuss_Escape\units\advancements.cfg:351
-msgid "Deadly Claws: +3 Health, +1 Claws strike"
-msgstr "Zabójcze Szpony: +3 Punkty życia, +1 Cios szponami"
+#: Marbuss_Escape\units\advancements.cfg:352
+msgid ""
+"<span color='#FFF046'>Deadly Claws</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +3</span>, Claws strike<span "
+"color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Zabójcze Szpony</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +3</span>, Cios "
+"szponami<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=claws2
-#: Marbuss_Escape\units\advancements.cfg:374
-msgid "Paralyzing Poison: +3 Health, +1 Claws strike, slows"
-msgstr "Paraliżująca Trucizna: +3 Punkty życia, +1 Cios kłami, spowalnia"
+#: Marbuss_Escape\units\advancements.cfg:376
+msgid ""
+"<span color='#FFF046'>Paralyzing Poison</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +3</span>, Claws strike<span "
+"color='#55FF46'> +1, slows</span></span>"
+msgstr ""
+"<span color='#FFF046'>Paraliżująca Trucizna</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +3</span>, Cios "
+"kłami<span color='#55FF46'> +1, spowalnia</span></span>"
 
 #. [advancement]: id=speed
-#: Marbuss_Escape\units\advancements.cfg:402
-#: Marbuss_Escape\units\advancements.cfg:548
-msgid "Swift Beast: +1 Movement point"
-msgstr "Szybka Bestia: +1 Punkt ruchu"
+#: Marbuss_Escape\units\advancements.cfg:405
+#: Marbuss_Escape\units\advancements.cfg:557
+msgid ""
+"<span color='#FFF046'>Swift Beast</span>\n"
+"<span size='small'>Movement point<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Szybka Bestia</span>\n"
+"<span size='small'>Punkty ruchu<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=healthm
-#: Marbuss_Escape\units\advancements.cfg:441
-msgid "Nourished with Meat: +7 Health"
-msgstr "Żywiący się mięsem: +7 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:445
+msgid ""
+"<span color='#FFF046'>Nourished with Meat</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +7</span></span>"
+msgstr ""
+"<span color='#FFF046'>Żywiący się mięsem</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +7</span></span>"
 
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:459
-msgid "Fed with Dwarven Bones: +13 Health"
-msgstr "Karmiony Krasnoludzkimi Kośćmi: +13 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:464
+msgid ""
+"<span color='#FFF046'>Fed with Dwarven Bones</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +13</span></span>"
+msgstr ""
+"<span color='#FFF046'>Karmiony Krasnoludzkimi Kośćmi</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +13</span></span>"
 
 #. [advancement]: id=res
-#: Marbuss_Escape\units\advancements.cfg:478
-msgid "Tough skin: +10% Blade, pierce and impact resistance"
-msgstr "Twarda Skóra: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+#: Marbuss_Escape\units\advancements.cfg:484
+msgid ""
+"<span color='#FFF046'>Tough skin</span>\n"
+"<span size='small'>Blade, pierce and impact resistance<span color='#55FF46'> "
+"+10%</span></span>"
+msgstr ""
+"<span color='#FFF046'>Twarda Skóra</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +10%</span></span>"
 
 #. [advancement]: id=damage
-#: Marbuss_Escape\units\advancements.cfg:503
-msgid "Murderous Beast: +2 Melee damage"
-msgstr "Mordercza bestia: +2 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:510
+msgid ""
+"<span color='#FFF046'>Murderous Beast</span>\n"
+"<span size='small'>Melee damage<span color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Mordercza bestia</span>\n"
+"<span size='small'>Obrażenia wręcz<span color='#55FF46'> +2</span></span>"
 
 #. [advancement]: id=damage2
-#: Marbuss_Escape\units\advancements.cfg:525
-msgid "Direwolf Alpha: +3 Melee damage"
-msgstr "Wilk alfa: +3 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:533
+msgid ""
+"<span color='#FFF046'>Direwolf Alpha</span>\n"
+"<span size='small'>Melee damage<span color='#55FF46'> +3</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wilk alfa</span>\n"
+"<span size='small'>Obrażenia wręcz<span color='#55FF46'> +3</span></span>"
 
 #. [advancement]: id=speed2
-#: Marbuss_Escape\units\advancements.cfg:569
-msgid "Predator: Skirmisher"
-msgstr "Drapieżnik: Harcownik"
+#: Marbuss_Escape\units\advancements.cfg:579
+msgid ""
+"<span color='#FFF046'>Predator</span>\n"
+"<span size='small'><span color='#46FFF0'>Skirmisher</span></span>"
+msgstr ""
+"<span color='#FFF046'>Drapieżnik</span>\n"
+"<span size='small'><span color='#46FFF0'>Harcownik</span></span>"
 
 #. [advancement]: id=hunter
-#: Marbuss_Escape\units\advancements.cfg:593
-msgid "Hunter: Movement cost in forest reduced to 1"
-msgstr "Łowca: Koszt przemieszczania się po lesie zmniejszony o 1"
+#: Marbuss_Escape\units\advancements.cfg:604
+msgid ""
+"<span color='#FFF046'>Hunter</span>\n"
+"<span size='small'>Movement cost in forest reduced to<span color='#55FF46'> "
+"1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Łowca</span>\n"
+"<span size='small'>Koszt przemieszczania się po lesie zmniejszony o <span "
+"color='#55FF46'> 1</span></span>"
 
 #. [advancement]: id=hunter2
-#: Marbuss_Escape\units\advancements.cfg:617
-msgid "Waiting for Prey: +10% defense in forest, ambush"
-msgstr "Czychanie na Ofiarę: +10% obrony w lesie, zasadzka"
+#: Marbuss_Escape\units\advancements.cfg:629
+msgid ""
+"<span color='#FFF046'>Waiting for Prey</span>\n"
+"<span size='small'>Defense in forest<span color='#55FF46'> +10%</span>, "
+"<span color='#46FFF0'>ambush</span></span>"
+msgstr ""
+"<span color='#FFF046'>Czyhanie na Ofiarę</span>\n"
+"<span size='small'>Obrona w lesie<span color='#55FF46'> +10%</span>, <span "
+"color='#46FFF0'>zasadzka</span></span>"
 
 #. [advancement]: id=preamla
-#: Marbuss_Escape\units\advancements.cfg:657
-msgid "General advancement"
-msgstr "Ogólny awans"
+#: Marbuss_Escape\units\advancements.cfg:670
+msgid "<span color='#FFF046'>General advancement</span>"
+msgstr "<span color='#FFF046'>Ogólny awans</span>"
 
 #. [advancement]: id=healthm
-#: Marbuss_Escape\units\advancements.cfg:683
-msgid "Strengthening Herbs: +6 Health"
-msgstr "Wzmacniające Zioła: +6 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:696
+msgid ""
+"<span color='#FFF046'>Strengthening Herbs</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +6</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wzmacniające Zioła</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +6</span></span>"
 
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:702
-msgid "Wormwood Brew: +11 Health"
-msgstr "Wywar z piołunu: +11 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:716
+msgid ""
+"<span color='#FFF046'>Wormwood Brew</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +11</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wywar z piołunu</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +11</span></span>"
 
 #. [advancement]: id=damage
-#: Marbuss_Escape\units\advancements.cfg:721
-msgid "Enlive Old Muscles: +4 Health, +2 Melee damage"
-msgstr "Rozruszanie Starych Mięśni: +4 Punkty życia, +2 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:736
+msgid ""
+"<span color='#FFF046'>Enlive Old Muscles</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +1</span>, Melee damage<span "
+"color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Rozruszanie Starych Mięśni</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +1</span>, Obrażenia "
+"wręcz<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=damage2
-#: Marbuss_Escape\units\advancements.cfg:745
-msgid "Restore Young Strengh: +4 Health, +2 Melee damage"
-msgstr "Przywrócenie Młodzieńczych Sił: +4 Punkty życia, +2 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:761
+msgid ""
+"<span color='#FFF046'>Restore Young Strengh</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +4</span>, Melee damage<span "
+"color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Przywrócenie Młodzieńczych Sił</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +4</span>, Obrażenia "
+"wręcz<span color='#55FF46'> +2</span></span>"
 
 #. [advancement]: id=xbow
-#: Marbuss_Escape\units\advancements.cfg:769
-msgid "Curse of the Bogs: +2 Ranged damage"
-msgstr "Klątwa Bagień: +2 Obrażenia z dystansu"
+#: Marbuss_Escape\units\advancements.cfg:786
+msgid ""
+"<span color='#FFF046'>Curse of the Bogs</span>\n"
+"<span size='small'>Ranged damage<span color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Klątwa Bagien</span>\n"
+"<span size='small'>Obrażenia z dystansu<span color='#55FF46'> +2</span></"
+"span>"
 
 #. [advancement]: id=xbow2
-#: Marbuss_Escape\units\advancements.cfg:792
-msgid "Wrath of the Ancient: +3 Ranged damage"
-msgstr "Gniew Pradawnej: +3 Obrażenia z dystansu"
+#: Marbuss_Escape\units\advancements.cfg:810
+msgid ""
+"<span color='#FFF046'>Wrath of the Ancient</span>\n"
+"<span size='small'>Ranged damage<span color='#55FF46'> +3</span></span>"
+msgstr ""
+"<span color='#FFF046'>Gniew Pradawnej</span>\n"
+"<span size='small'>Obrażenia z dystansu<span color='#55FF46'> +3</span></"
+"span>"
 
 #. [advancement]: id=speed
-#: Marbuss_Escape\units\advancements.cfg:815
-msgid "Swift Granny: +1 Movement point, skirmish"
-msgstr "Chyża starowinka: +1 Punkt ruchu, harcownik"
+#: Marbuss_Escape\units\advancements.cfg:834
+msgid ""
+"<span color='#FFF046'>Swift Granny</span>\n"
+"<span size='small'>Movement point<span color='#55FF46'> +1</span>, <span "
+"color='#46FFF0'>skirmish</span></span>"
+msgstr ""
+"<span color='#FFF046'>Chyża starowinka</span>\n"
+"<span size='small'>Punkty ruchu<span color='#55FF46'> +1</span>, <span "
+"color='#46FFF0'>harcownik</span></span>"
 
 #. [advancement]: id=healthm
-#: Marbuss_Escape\units\advancements.cfg:853
-msgid "Big Chest: +10 Health"
-msgstr "Wielka Klata: +10 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:873
+msgid ""
+"<span color='#FFF046'>Big Chest</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +10</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wielka Klata</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +10</span></span>"
 
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:871
-msgid "Mountain Giant: +16 Health"
-msgstr "Górski Olbrzym: +16 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:892
+msgid ""
+"<span color='#FFF046'>Mountain Giant</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +16</span></span>"
+msgstr ""
+"<span color='#FFF046'>Górski Olbrzym</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +16</span></span>"
 
 #. [advancement]: id=res
-#: Marbuss_Escape\units\advancements.cfg:890
-msgid "Stone Skin: +10% Blade, pierce and impact resistance"
+#: Marbuss_Escape\units\advancements.cfg:912
+msgid ""
+"<span color='#FFF046'>Stone Skin</span>\n"
+"<span size='small'>Blade, pierce and impact resistance<span color='#55FF46'> "
+"+10%</span></span>"
 msgstr ""
-"Kamienna Skóra: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+"<span color='#FFF046'>Kamienna Skóra</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +10%</span></span>"
 
 #. [advancement]: id=res2
-#: Marbuss_Escape\units\advancements.cfg:915
-msgid "Stone Armor: +10% Blade, pierce and impact resistance, steadfast"
+#: Marbuss_Escape\units\advancements.cfg:938
+msgid ""
+"<span color='#FFF046'>Stone Armor</span>\n"
+"<span size='small'>Blade, pierce and impact resistance<span color='#55FF46'> "
+"+10%</span>, <span color='#46FFF0'> steadfast</span></span>"
 msgstr ""
-"Skalna Zbroja: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+"<span color='#FFF046'>Skalna Zbroja</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +10%</span>, <span color='#46FFF0'> niezłomny</span></span>"
 
 #. [advancement]: id=damage
-#: Marbuss_Escape\units\advancements.cfg:947
-msgid "Boulder Shoulder: +5 Health, +4 Melee damage"
-msgstr "Olbrzymi Bark: +5 Punktów życia, +4 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:971
+msgid ""
+"<span color='#FFF046'>Boulder Shoulder</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +5</span>, Melee damage<span "
+"color='#55FF46'> +4</span></span>"
+msgstr ""
+"<span color='#FFF046'>Olbrzymi Bark</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +5</span>, Obrażenia "
+"wręcz<span color='#55FF46'> +4</span></span>"
 
 #. [advancement]: id=damage2
-#: Marbuss_Escape\units\advancements.cfg:969
-msgid "Iron Bicep: +5 health, +6 Melee damage"
-msgstr "Żelazy Biceps: +5 Punktów życia, +6 Obrażeń wręcz"
+#: Marbuss_Escape\units\advancements.cfg:994
+msgid ""
+"<span color='#FFF046'>Iron Bicep</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +5</span>, Melee damage<span "
+"color='#55FF46'> +6</span></span>"
+msgstr ""
+"<span color='#FFF046'>Żelazny Biceps</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +5</span>, Obrażeń "
+"wręcz<span color='#55FF46'> +6</span></span>"
 
 #. [advancement]: id=speed
-#: Marbuss_Escape\units\advancements.cfg:992
-msgid "Big Feet: +1 Movement point"
-msgstr "Wielka Stopa: +1 Punkt ruchu"
+#: Marbuss_Escape\units\advancements.cfg:1018
+msgid ""
+"<span color='#FFF046'>Big Feet</span>\n"
+"<span size='small'>Movement point<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wielka Stopa</span>\n"
+"<span size='small'>Punkty ruchu<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=healthm
-#: Marbuss_Escape\units\advancements.cfg:1031
-msgid "Orcish Vitality: +9 Health"
-msgstr "Orkowa Witalność: +9 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:1058
+msgid ""
+"<span color='#FFF046'>Orcish Vitality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +9</span></span>"
+msgstr ""
+"<span color='#FFF046'>Orkowa Witalność</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +9</span></span>"
 
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:1049
-msgid "Juggernaut's Vitality: +15 Health"
-msgstr "Witalność Niszczyciela: +15 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:1077
+msgid ""
+"<span color='#FFF046'>Juggernaut's Vitality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +15</span></span>"
+msgstr ""
+"<span color='#FFF046'>Witalność Niszczyciela</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +15</span></span>"
+
+#. [advancement]: id=health3
+#: Marbuss_Escape\units\advancements.cfg:1097
+msgid ""
+"<span color='#FFF046'>Reinforced Armor</span>\n"
+"<span size='small'>Blade, pierce and impact resistance<span color='#55FF46'> "
+"+10%</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wzmocniona Zbroja</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +10%</span></span>"
 
 #. [advancement]: id=damage
-#: Marbuss_Escape\units\advancements.cfg:1094
-msgid "Orcish Brutality: +5 Health, +2 Melee damage"
-msgstr "Orkowa Brutalność: +5 Punktów życia, +2 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:1124
+msgid ""
+"<span color='#FFF046'>Orcish Brutality</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +5</span>, Melee damage<span "
+"color='#55FF46'> +2</span></span>"
+msgstr ""
+"<span color='#FFF046'>Orkowa Brutalność</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +5</span>, Obrażenia "
+"wręcz<span color='#55FF46'> +2</span></span>"
 
 #. [advancement]: id=damage2
-#: Marbuss_Escape\units\advancements.cfg:1117
-msgid "Savage and Ruthless: +5 Health, +3 Melee damage"
-msgstr "Dziki i Bezlitosny: +5 Punktów Życia, +3 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:1148
+msgid ""
+"<span color='#FFF046'>Savage and Ruthless</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +5</span>, Melee damage<span "
+"color='#55FF46'> +3</span></span>"
+msgstr ""
+"<span color='#FFF046'>Dziki i Bezlitosny</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +3</span>, Cios "
+"wręcz<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=xbow
-#: Marbuss_Escape\units\advancements.cfg:1141
-msgid "Ranged Combat: +4 Health, +1 Ranged strikes"
-msgstr "Walka Dystansowa: +4 Punkty życia, +1 Cios na dystans"
+#: Marbuss_Escape\units\advancements.cfg:1173
+msgid ""
+"<span color='#FFF046'>Ranged Combat</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +4</span>, Ranged "
+"strikes<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Walka Dystansowa</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +4</span>, Ciosy na "
+"dystans<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=xbow2
-#: Marbuss_Escape\units\advancements.cfg:1164
+#: Marbuss_Escape\units\advancements.cfg:1197
 msgid ""
-"When Your Sword Isn't Long Enough: +4 Health, +1 Ranged damage, +1 Ranged "
-"strikes"
+"<span color='#FFF046'>When Your Sword Isn't Long Enough</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +4</span>, Ranged "
+"damage<span color='#55FF46'> +1</span>, Ranged strikes<span color='#55FF46'> "
+"+1</span></span>"
 msgstr ""
-"Gdy Twój Miecz Nie Jest Wystarczająco Długi: +4 Punkty życia, +1 Obrażenia "
-"na dystans, +1 Cios na dystans"
+"<span color='#FFF046'>Gdy Twój Miecz Nie Jest Wystarczająco Długi</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +4</span>, Obrażenia "
+"na dystans<span color='#55FF46'> +1</span>, Ciosy na dystans<span "
+"color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=leader
-#: Marbuss_Escape\units\advancements.cfg:1189
-msgid "Chieftain From a Burned City: leadership"
-msgstr "Wódz Ze Spalonego Miasta: dowodzenie"
+#: Marbuss_Escape\units\advancements.cfg:1223
+msgid ""
+"<span color='#FFF046'>Chieftain From a Burned City</span>\n"
+"<span size='small'><span color='#46FFF0'>Leadership</span></span>"
+msgstr ""
+"<span color='#FFF046'>Wódz Ze Spalonego Miasta</span>\n"
+"<span size='small'><span color='#46FFF0'>dowodzenie</span></span>"
 
 #. [advancement]: id=speed
-#: Marbuss_Escape\units\advancements.cfg:1212
-msgid "Endurance Training: -4 Health, +1 Movement point"
-msgstr "Przeszkolony w Łowach: -4 Punkty życia, +1 Punkt ruchu"
+#: Marbuss_Escape\units\advancements.cfg:1247
+msgid ""
+"<span color='#FFF046'>Endurance Training</span>\n"
+"<span size='small'>Health<span color='#FF4655'> -4</span>, Movement "
+"point<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Przeszkolony w Łowach</span>\n"
+"<span size='small'>Punkty życia<span color='#FF4655'> -4</span>, Punkty "
+"ruchu<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=healthm
-#: Marbuss_Escape\units\advancements.cfg:1253
-msgid "Thick Skin: +5 Health"
-msgstr "Gruba Skóra: +5 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:1289
+msgid ""
+"<span color='#FFF046'>Thick Skin</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +5</span></span>"
+msgstr ""
+"<span color='#FFF046'>Gruba Skóra</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +5</span></span>"
 
 #. [advancement]: id=health2
-#: Marbuss_Escape\units\advancements.cfg:1271
-msgid "Seaweed Salad: +11 Health"
-msgstr "Sałatka z Wodorostów: +11 Punktów życia"
+#: Marbuss_Escape\units\advancements.cfg:1308
+msgid ""
+"<span color='#FFF046'>Seaweed Salad</span>\n"
+"<span size='small'>Health<span color='#55FF46'> +11</span></span>"
+msgstr ""
+"<span color='#FFF046'>Sałatka z Wodorostów</span>\n"
+"<span size='small'>Punkty życia<span color='#55FF46'> +11</span></span>"
 
 #. [advancement]: id=res
-#: Marbuss_Escape\units\advancements.cfg:1290
-msgid "Mithril Chainmail: +10% Blade, pierce and impact resistance"
+#: Marbuss_Escape\units\advancements.cfg:1328
+msgid ""
+"<span color='#FFF046'>Mithril Chainmail</span>\n"
+"<span size='small'>Blade, pierce and impact resistance<span color='#55FF46'> "
+"+10%</span></span>"
 msgstr ""
-"Mithrilowa Kolczuga: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+"<span color='#FFF046'>Mithrilowa Kolczuga</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +10%</span></span>"
 
 #. [advancement]: id=res2
-#: Marbuss_Escape\units\advancements.cfg:1315
+#: Marbuss_Escape\units\advancements.cfg:1354
 msgid ""
-"Heavy Armor: +20% Blade, pierce and impact resistance, -1 Movement point"
+"<span color='#FFF046'>Trained in Hunting</span>\n"
+"<span size='small'>Blade, pierce and impact resistance<span color='#55FF46'> "
+"+20%</span>, Movement point<span color='#FF4655'> -1</span></span>"
 msgstr ""
-"Ciężka Zbroja: +20% Odporności na obrażenia sieczne, kłujące i obuchowe, -1 "
-"Punkt ruchu"
+"<span color='#FFF046'>Ciężka Zbroja</span>\n"
+"<span size='small'>Odporności na obrażenia sieczne, kłujące i obuchowe<span "
+"color='#55FF46'> +20%</span>, Punkty ruchu<span color='#FF4655'> -1</span></"
+"span>"
 
 #. [advancement]: id=res3
-#: Marbuss_Escape\units\advancements.cfg:1341
-msgid "Reflective Scales: +20% Fire and cold resistance"
-msgstr "Odbijające Łuski: +20% Odporności na ogień i chłód"
+#: Marbuss_Escape\units\advancements.cfg:1381
+msgid ""
+"<span color='#FFF046'>Reflective Scales</span>\n"
+"<span size='small'>Fire and cold resistance<span color='#55FF46'> +20%</"
+"span></span>"
+msgstr ""
+"<span color='#FFF046'>Odbijające Łuski</span>\n"
+"<span size='small'>Odporności na ogień i chłód<span color='#55FF46'> +20%</"
+"span></span>"
 
 #. [advancement]: id=damage
-#: Marbuss_Escape\units\advancements.cfg:1362
-msgid "Swordfish's Grace: Marksman"
-msgstr "Szermiercza Gracja: Strzelec wyborowy"
+#: Marbuss_Escape\units\advancements.cfg:1403
+msgid ""
+"<span color='#FFF046'>Swordfish's Grace</span>\n"
+"<span size='small'><span color='#46FFF0'>Marksman</span></span>"
+msgstr ""
+"<span color='#FFF046'>Szermiercza Gracja</span>\n"
+"<span size='small'><span color='#46FFF0'>Strzelec wyborowy</span></span>"
 
 #. [advancement]: id=damage2
-#: Marbuss_Escape\units\advancements.cfg:1386
-msgid "Venomous Blade: Poison"
-msgstr "Jadowite Ostrze: Trucizna"
+#: Marbuss_Escape\units\advancements.cfg:1428
+msgid ""
+"<span color='#FFF046'>Venomous Blade</span>\n"
+"<span size='small'><span color='#46FFF0'>Poison</span></span>"
+msgstr ""
+"<span color='#FFF046'>Jadowite Ostrze</span>\n"
+"<span size='small'><span color='#46FFF0'>Trucizna</span></span>"
 
 #. [advancement]: id=damage3
-#: Marbuss_Escape\units\advancements.cfg:1410
-msgid "Master of Swordsart: +3 Melee damage"
-msgstr "Mistrzyni Miecznictwa: +3 Obrażenia wręcz"
+#: Marbuss_Escape\units\advancements.cfg:1453
+msgid ""
+"<span color='#FFF046'>Master of Swordsart</span>\n"
+"<span size='small'>Melee damage<span color='#55FF46'> +3</span></span>"
+msgstr ""
+"<span color='#FFF046'>Mistrzyni Miecznictwa</span>\n"
+"<span size='small'>Obrażenia wręcz<span color='#55FF46'> +3</span></span>"
 
 #. [advancement]: id=speed
-#: Marbuss_Escape\units\advancements.cfg:1432
-msgid "Swift Swimmer: +1 Movement point"
-msgstr "Żwawy Pływak: +1 Punkt ruchu"
+#: Marbuss_Escape\units\advancements.cfg:1476
+msgid ""
+"<span color='#FFF046'>Swift Swimmer</span>\n"
+"<span size='small'>Movement point<span color='#55FF46'> +1</span></span>"
+msgstr ""
+"<span color='#FFF046'>Żwawy Pływak</span>\n"
+"<span size='small'>Punkty ruchu<span color='#55FF46'> +1</span></span>"
 
 #. [advancement]: id=speed2
-#: Marbuss_Escape\units\advancements.cfg:1453
-msgid "Dancing in the Water: +10% defense on shallow and deep water"
-msgstr "Taniec w Wodzie: +10% obrony na płytkiej i głębokiej wodzie"
+#: Marbuss_Escape\units\advancements.cfg:1498
+msgid ""
+"<span color='#FFF046'>Dancing in the Water</span>\n"
+"<span size='small'>Defense on shallow and deep water<span color='#FF4655'> "
+"-6</span>, Moves<span color='#55FF46'> +10%</span></span>"
+msgstr ""
+"<span color='#FFF046'>Taniec w Wodzie</span>\n"
+"<span size='small'>Obrona na płytkiej i głębokiej wodzie<span "
+"color='#55FF46'> +10%</span></span>"
 
 #. [event]
 #: Marbuss_Escape\utils\deaths.cfg:20
@@ -13692,6 +14123,252 @@ msgstr "Portrety"
 #: Marbuss_Escape\_main.cfg:126
 msgid "King of Gon unit graphics"
 msgstr "Grafika Króla Gonu"
+
+#~ msgid ""
+#~ "<span color='#FFF046'>Swift Beast</span>\n"
+#~ "<span size='small'>Movement point<span color='#FF4655'><span "
+#~ "color='#55FF46'> +1</span></span>"
+#~ msgstr ""
+#~ "<span color='#FFF046'>Szybka Bestia</span>\n"
+#~ "<span size='small'>Punkty ruchu<span color='#55FF46'> +1</span></span>"
+
+#~ msgid ""
+#~ "<span color='#FFF046'>Savage and Ruthless</span>\n"
+#~ "<span size='small'>Health<span color='#FF4655'><span color='#55FF46'> +5</"
+#~ "span>, Melee damage<span color='#55FF46'> +3</span></span>"
+#~ msgstr ""
+#~ "<span color='#FFF046'>Dziki i Bezlitosny</span>\n"
+#~ "<span size='small'>Punkty życia<span color='#55FF46'> +5</span>, "
+#~ "Obrażenia wręcz<span color='#55FF46'> +3</span></span>"
+
+#~ msgid ""
+#~ "Your clan... This Person hates it... I was hiding in shadows of your "
+#~ "waters, until I met the Great Sovereign... Today it's time for revenge. "
+#~ "Armors and bones of dwarves are hard... It's good then, that swords of "
+#~ "This Person are also made from very good steel."
+#~ msgstr ""
+#~ "Wasz klan... Ta Osoba go nienawidzi... Ukrywałam się w cieniu waszych wód "
+#~ "wraz ze swoimi córkami, póki nie spotkałam Wielkiego Suwerena... Dzisiaj "
+#~ "nastał czas zemsty. Pancerze i kości krasnoludów są twarde... Dobrze "
+#~ "zatem, iż miecze Tej Osoby wykonano z naprawdę dobrej jakości stali."
+
+#~ msgid ""
+#~ "Dwarves? And here I thought that we exterminated all pests underground. "
+#~ "It's good they showed themselves on the surface. We'll feast our eyes on "
+#~ "those dwarfs until we finally finish off this race and make them our "
+#~ "slaves. And you, Jarl... You're old, embittered, and full of hatred. It's "
+#~ "time to end your life."
+#~ msgstr ""
+#~ "Krasnoludy? A myślałem, że wyciągnęliśmy już wszystkie szkodniki z "
+#~ "podziemi. Dobrze, że pokazały się na powierzchni. Ostatni raz nacieszymy "
+#~ "oczy widokiem tych karłów, nim ostatecznie wybijemy tę rasę i uczynimy z "
+#~ "nich naszych niewolników. A Ty, Jarlu... Jesteś stary, zgorzkniały i "
+#~ "pełen wyblakłej nienawiści. Pora skrócić twój żywot."
+
+#~ msgid ""
+#~ "I remember more battles than years you lived. I surpass you in tactical "
+#~ "genius, experience, knowledge... You won't be able to overcome my "
+#~ "soldiers."
+#~ msgstr ""
+#~ "Pamiętam więcej bitw, niż ty masz lat, Wielki Suwerenie. Przewyższam was "
+#~ "geniuszem taktycznym, doświadczeniem, wiedzą... Nie podołacie moim "
+#~ "żołnierzom."
+
+#~ msgid ""
+#~ "We will, because we surpass you in numbers, bloodlust, and equipment. You "
+#~ "don't even know how many weapons we've got... We keep most of it in "
+#~ "storages, because even the Great Horde can't use all of it. And you? It's "
+#~ "probably rather hard to get any metal in this forest. How do you fight? "
+#~ "You share one sword for three wariors?"
+#~ msgstr ""
+#~ "Podołamy, ponieważ przerastamy was liczbą, żądzą krwi i rynsztunkiem. "
+#~ "Nawet nie wiesz, jak wiele broni teraz mamy... Większą jej część trzymamy "
+#~ "w magazynach, bo nawet Wielka Horda nie jest w stanie zużyć jej całej. A "
+#~ "wy? W tym lesie chyba trudno o metal. Jak więc walczycie? Dzieląc się "
+#~ "jednym mieczem na trzech wojowników?"
+
+#~ msgid ""
+#~ "Even if we lack equipment, we still have the spirit! Elves, dwarves! "
+#~ "Let's pay them back for everything they did to us!"
+#~ msgstr ""
+#~ "Nawet, jeśli brakuje nam rynsztunku, wciąż mamy ducha walki! Elfy, "
+#~ "krasnoludy! Odpłaćmy im za wszystko, co nam uczynili!"
+
+#~ msgid "For Snowfeet!"
+#~ msgstr "Za Śnieżnostopych!"
+
+#~ msgid "Juggernaut's Vitality: +14 Health"
+#~ msgstr "Witalność Niszczyciela: +14 Punktów życia"
+
+#~ msgid "Reinforced Armor: +10% Blade, pierce and impact resistance"
+#~ msgstr ""
+#~ "Wzmocniona Zbroja: +10% Odporności na obrażenia sieczne, kłujące i "
+#~ "obuchowe"
+
+#~ msgid "Savage and Ruthless: +3 Health, +1 Melee strikes"
+#~ msgstr "Dziki i Bezlitosny: +3 Punkty życia, +1 Cios wręcz"
+
+#~ msgid "Merciless Aim: +4 Health, +2 Ranged damage"
+#~ msgstr "Bezwzględny Strzelec: +4 Punkty życia, +2 Obrażenia z dystansu"
+
+#~ msgid "Best Hunter in the Clan: +1 Movement point"
+#~ msgstr "Najlepszy Łowca w Klanie: +1 Punkt ruchu"
+
+#~ msgid "Healthy Mount: +7 Health"
+#~ msgstr "Zdrowy Wierzchowiec: +7 Punktów życia"
+
+#~ msgid "Mighty Beast: +13 Health"
+#~ msgstr "Potężna bestia: +13 Punktów życia"
+
+#~ msgid "Sharp Teeth: +2 Fangs damage"
+#~ msgstr "Ostre Zęby: +2 Obrażenia kłami"
+
+#~ msgid "Mad Hunger: +1 Fangs strikes"
+#~ msgstr "Szaleńczy Głód: +1 Cios kłami"
+
+#~ msgid "Deadly Claws: +3 Health, +1 Claws strike"
+#~ msgstr "Zabójcze Szpony: +3 Punkty życia, +1 Cios szponami"
+
+#~ msgid "Paralyzing Poison: +3 Health, +1 Claws strike, slows"
+#~ msgstr "Paraliżująca Trucizna: +3 Punkty życia, +1 Cios kłami, spowalnia"
+
+#~ msgid "Swift Beast: +1 Movement point"
+#~ msgstr "Szybka Bestia: +1 Punkt ruchu"
+
+#~ msgid "Nourished with Meat: +7 Health"
+#~ msgstr "Żywiący się mięsem: +7 Punktów życia"
+
+#~ msgid "Fed with Dwarven Bones: +13 Health"
+#~ msgstr "Karmiony Krasnoludzkimi Kośćmi: +13 Punktów życia"
+
+#~ msgid "Tough skin: +10% Blade, pierce and impact resistance"
+#~ msgstr ""
+#~ "Twarda Skóra: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+
+#~ msgid "Murderous Beast: +2 Melee damage"
+#~ msgstr "Mordercza bestia: +2 Obrażenia wręcz"
+
+#~ msgid "Direwolf Alpha: +3 Melee damage"
+#~ msgstr "Wilk alfa: +3 Obrażenia wręcz"
+
+#~ msgid "Predator: Skirmisher"
+#~ msgstr "Drapieżnik: Harcownik"
+
+#~ msgid "Hunter: Movement cost in forest reduced to 1"
+#~ msgstr "Łowca: Koszt przemieszczania się po lesie zmniejszony o 1"
+
+#~ msgid "Waiting for Prey: +10% defense in forest, ambush"
+#~ msgstr "Czychanie na Ofiarę: +10% obrony w lesie, zasadzka"
+
+#~ msgid "General advancement"
+#~ msgstr "Ogólny awans"
+
+#~ msgid "Strengthening Herbs: +6 Health"
+#~ msgstr "Wzmacniające Zioła: +6 Punktów życia"
+
+#~ msgid "Wormwood Brew: +11 Health"
+#~ msgstr "Wywar z piołunu: +11 Punktów życia"
+
+#~ msgid "Enlive Old Muscles: +4 Health, +2 Melee damage"
+#~ msgstr "Rozruszanie Starych Mięśni: +4 Punkty życia, +2 Obrażenia wręcz"
+
+#~ msgid "Restore Young Strengh: +4 Health, +2 Melee damage"
+#~ msgstr "Przywrócenie Młodzieńczych Sił: +4 Punkty życia, +2 Obrażenia wręcz"
+
+#~ msgid "Curse of the Bogs: +2 Ranged damage"
+#~ msgstr "Klątwa Bagień: +2 Obrażenia z dystansu"
+
+#~ msgid "Wrath of the Ancient: +3 Ranged damage"
+#~ msgstr "Gniew Pradawnej: +3 Obrażenia z dystansu"
+
+#~ msgid "Swift Granny: +1 Movement point, skirmish"
+#~ msgstr "Chyża starowinka: +1 Punkt ruchu, harcownik"
+
+#~ msgid "Big Chest: +10 Health"
+#~ msgstr "Wielka Klata: +10 Punktów życia"
+
+#~ msgid "Mountain Giant: +16 Health"
+#~ msgstr "Górski Olbrzym: +16 Punktów życia"
+
+#~ msgid "Stone Skin: +10% Blade, pierce and impact resistance"
+#~ msgstr ""
+#~ "Kamienna Skóra: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+
+#~ msgid "Stone Armor: +10% Blade, pierce and impact resistance, steadfast"
+#~ msgstr ""
+#~ "Skalna Zbroja: +10% Odporności na obrażenia sieczne, kłujące i obuchowe"
+
+#~ msgid "Boulder Shoulder: +5 Health, +4 Melee damage"
+#~ msgstr "Olbrzymi Bark: +5 Punktów życia, +4 Obrażenia wręcz"
+
+#~ msgid "Iron Bicep: +5 health, +6 Melee damage"
+#~ msgstr "Żelazy Biceps: +5 Punktów życia, +6 Obrażeń wręcz"
+
+#~ msgid "Big Feet: +1 Movement point"
+#~ msgstr "Wielka Stopa: +1 Punkt ruchu"
+
+#~ msgid "Orcish Vitality: +9 Health"
+#~ msgstr "Orkowa Witalność: +9 Punktów życia"
+
+#~ msgid "Juggernaut's Vitality: +15 Health"
+#~ msgstr "Witalność Niszczyciela: +15 Punktów życia"
+
+#~ msgid "Orcish Brutality: +5 Health, +2 Melee damage"
+#~ msgstr "Orkowa Brutalność: +5 Punktów życia, +2 Obrażenia wręcz"
+
+#~ msgid "Savage and Ruthless: +5 Health, +3 Melee damage"
+#~ msgstr "Dziki i Bezlitosny: +5 Punktów Życia, +3 Obrażenia wręcz"
+
+#~ msgid "Ranged Combat: +4 Health, +1 Ranged strikes"
+#~ msgstr "Walka Dystansowa: +4 Punkty życia, +1 Cios na dystans"
+
+#~ msgid ""
+#~ "When Your Sword Isn't Long Enough: +4 Health, +1 Ranged damage, +1 Ranged "
+#~ "strikes"
+#~ msgstr ""
+#~ "Gdy Twój Miecz Nie Jest Wystarczająco Długi: +4 Punkty życia, +1 "
+#~ "Obrażenia na dystans, +1 Cios na dystans"
+
+#~ msgid "Chieftain From a Burned City: leadership"
+#~ msgstr "Wódz Ze Spalonego Miasta: dowodzenie"
+
+#~ msgid "Endurance Training: -4 Health, +1 Movement point"
+#~ msgstr "Przeszkolony w Łowach: -4 Punkty życia, +1 Punkt ruchu"
+
+#~ msgid "Thick Skin: +5 Health"
+#~ msgstr "Gruba Skóra: +5 Punktów życia"
+
+#~ msgid "Seaweed Salad: +11 Health"
+#~ msgstr "Sałatka z Wodorostów: +11 Punktów życia"
+
+#~ msgid "Mithril Chainmail: +10% Blade, pierce and impact resistance"
+#~ msgstr ""
+#~ "Mithrilowa Kolczuga: +10% Odporności na obrażenia sieczne, kłujące i "
+#~ "obuchowe"
+
+#~ msgid ""
+#~ "Heavy Armor: +20% Blade, pierce and impact resistance, -1 Movement point"
+#~ msgstr ""
+#~ "Ciężka Zbroja: +20% Odporności na obrażenia sieczne, kłujące i obuchowe, "
+#~ "-1 Punkt ruchu"
+
+#~ msgid "Reflective Scales: +20% Fire and cold resistance"
+#~ msgstr "Odbijające Łuski: +20% Odporności na ogień i chłód"
+
+#~ msgid "Swordfish's Grace: Marksman"
+#~ msgstr "Szermiercza Gracja: Strzelec wyborowy"
+
+#~ msgid "Venomous Blade: Poison"
+#~ msgstr "Jadowite Ostrze: Trucizna"
+
+#~ msgid "Master of Swordsart: +3 Melee damage"
+#~ msgstr "Mistrzyni Miecznictwa: +3 Obrażenia wręcz"
+
+#~ msgid "Swift Swimmer: +1 Movement point"
+#~ msgstr "Żwawy Pływak: +1 Punkt ruchu"
+
+#~ msgid "Dancing in the Water: +10% defense on shallow and deep water"
+#~ msgstr "Taniec w Wodzie: +10% obrony na płytkiej i głębokiej wodzie"
 
 #~ msgid ". . . "
 #~ msgstr ". . ."
