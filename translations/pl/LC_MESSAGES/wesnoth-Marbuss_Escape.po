@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-06-04 20:04 UTC\n"
-"PO-Revision-Date: 2020-06-04 22:05+0200\n"
+"PO-Revision-Date: 2020-06-05 10:19+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -7577,7 +7577,7 @@ msgstr "Nieumarli poruszają się po śniegu szybciej niż zwykle."
 #. [event]: id=WilhelmIronhand
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:743
 msgid "King Wilhelm the Iron Hand"
-msgstr "Śmierć Króla Wilhelma Żelaznej Ręki"
+msgstr "Król Wilhelm Żelazna Ręka"
 
 #. [event]: id=WilhelmIronhand
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:767
