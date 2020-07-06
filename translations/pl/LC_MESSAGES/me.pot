@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-04 20:04 UTC\n"
+"POT-Creation-Date: 2020-07-06 09:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3425,12 +3425,12 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:61
-msgid "The bloodless escape from caverns was construed differently amongst different representatives of the Horde. Many leaders of the past accused Marbus of leaving them behind their enemies and pf not being fit to rule. The tired warriors and their families had a different opinion on that issue."
+msgid "The bloodless escape from caverns was construed differently amongst different representatives of the Horde. Many leaders of the past accused Marbus of leaving them behind their enemies and of not being fit to rule. The tired warriors and their families had a different opinion on that issue."
 msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:73
-msgid "Before leaving the caverns, the whole space was filled by joyful howl of BARLEY, which seemed to burst with energy after biting the magic amulet. Long fighting and harsh conditions only brought the wolf and the Marbus closer to each other, so that it was hard to meet them separately."
+msgid "Before leaving the caverns, the whole space was filled by joyful howl of Barley, which seemed to burst with energy after biting the magic amulet. Long fighting and harsh conditions only brought the wolf and the Marbus closer to each other, so that it was hard to meet them separately."
 msgstr ""
 
 #. [part]
@@ -8162,7 +8162,7 @@ msgstr ""
 
 #. [campaign]: id=MARBUS_ESCAPE
 #: Marbuss_Escape\_main.cfg:36
-msgid "Many years passed, since orcs incited fear in hearts of elves, humans and dwarves. Many, since they dared to set foot on lands of Wesnoth. Many, since they were rolling in wealth. Among surviving orcish clans, there was also a certain Marbus's clan, too small to have a name, history or future. Will he successfully lead orcs through wild North, controlled by blood-thirsty, dark powers? (Version 1.0.1, 15 scenarios)"
+msgid "Many years passed, since orcs incited fear in hearts of elves, humans and dwarves. Many, since they dared to set foot on lands of Wesnoth. Many, since they were rolling in wealth. Among surviving orcish clans, there was also a certain Marbus's clan, too small to have a name, history or future. Will he successfully lead orcs through wild North, controlled by blood-thirsty, dark powers? (Version 1.1.0, 15 scenarios)"
 msgstr ""
 
 #. [campaign]: id=MARBUS_ESCAPE
