@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-06 09:00 UTC\n"
+"POT-Creation-Date: 2020-07-16 11:48 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -563,7 +563,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:259
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:657
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:358
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:416
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:446
 msgid "..."
 msgstr ""
 
@@ -4749,7 +4749,7 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:124
-msgid "The elves must have lead uus into a trap! We can’t be sure whether this is the right cave. There must be at least a hundred of archers deep inside."
+msgid "The elves must have led us into a trap! We can’t be sure whether this is the right cave. There must be at least a hundred of archers deep inside."
 msgstr ""
 
 #. [then]
@@ -4783,627 +4783,632 @@ msgid "Find the Gjallarhorn"
 msgstr ""
 
 #. [unit]: id=RedHood, type=Elvish Avenger
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:173
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:175
 msgid "Red Riding Hood"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:206
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:208
 msgid "What the ...?!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:207
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:209
 msgid "Haha! You have come right into my trap, fools! You even haven’t taken more troops  ... Simpletons!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:208
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:210
 msgid "Your Yarls promised us safety! You’ve betrayed us! Do you really want to squander your only chance to defeat the undead only to get rid of us?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:209
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:211
 msgid "Our Yarls? Our? Ah no ... We do not fall under the yarls’ command, neither the witches nor the lords! We are absolutely free!  You stand before the descendant of the Great Landar, the Red Riding Hood (nie pamiętam jak to wcześniej tłumaczyłem?), the ruler of the Blood Elves!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:210
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:212
 msgid "The Red Riding Hood? But that a fairy tale for children!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:211
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:213
 msgid "Red ... Riding Hood ... Fairy tale!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:212
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:214
 msgid "This Person used to tell her daughters the story of the Red Riding Hood and the wolf ... This Person didn’t think that there was a grain of truth in it. Where does this nickname come from, elvish girl?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:213
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:215
 msgid "One night my former Yarl sent me and my unit to hunt. The fool wanted some deer meat, and we, little dogs, had to rush and hunt some for him. We didn’t expect to be attacked by wolves, or rather your stunted brothers on wolves. Supposedly one of them lead to your wandering our forests now, and we can’t slaughter you like ducks!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:214
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:216
 msgid "It doesn’t matter anymore ... Coming back to the main story: we weren’t going to surrender without  a fight. We didn’t think of losing at all. And we won, having only our hunting bows and skinnig knives on us. We defeated a pack of wargs, and when we finished ... our hoods were red with blood. That thus my nickname."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:215
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:217
 msgid "This is a very interesting story, but this jabbering won’t make anyone die, and my sword would gladly taste some of your elvish flesh!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:216
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:218
 msgid "This does not have to end like this, girl ... You are very young, I will firgive you this excess. Take your warriors and go back home."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:217
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:219
 msgid "What! You forgive me!? Our races have fought each other for ages, and I am not going to change this tradition. We will slaughter you! Arrows on the bowstrings!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:224
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:226
 msgid "Awww ... Bloody hell! Go on, do it! What am I waiting for? Maybe you have no courage to kill an elvish girl, do you?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:225
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:227
 msgid "Let’s smash her head, and hang the body at the entrance to the cave! Let the treants know what fighting us means!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:226
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:228
 msgid "You fought bravely, girl ... but your life belongs to us now. Greath Soveregin?"
 msgstr ""
 
 #. [message]: speaker=Marbus
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:229
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:231
 msgid "It think that ..."
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:231
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:233
 msgid "We should kill the girl and teach the elves a lesson!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:233
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:235
 msgid "Butcher her. And do so with the rest of this elvish litter! Let’s spill the elvish blood!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:234
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:236
 msgid "My death won’t change anything! Be cursed, Marbus! I swear I will haunt you even from the grave!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:239
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:241
 msgid "Ha ha! Problem solved!"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:243
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:245
 msgid "We should set her free as a sign of good will."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:245
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:247
 msgid "Let the kid go! Let her go back to her people. Perhaps when her anger subsides and she thinks through her behaviour , she will understand her foolish actions ... We can’t kill everyone who isn’t favourable towards us. The undead are our enemy, not the elves!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:246
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:248
 msgid "Ha! You think this will change anything? I will hunt you until the end of my days and will never let you have any rest! I swear I will kill every orc I come across!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:260
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:262
 msgid "Foolishness! If  I were in command of the Great Horde, such an excess wouldn’t happen! This only shows that even elvish pups can oppose us without any consequences!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:261
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:263
 msgid "But you are not in command of the Great Horde, Gewold ... And you’d better remember about it."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:305
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:269
+msgid "We should proceed with caution, who knows what else lurks here. Stick together and pay attention to your wounds."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:319
 msgid "Treants! Humidity, muchroom, elves ... Kill all bad elves and escape as fast as we can!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:306
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:320
 msgid "And so more enemy forces? When will these fools understand that all races should unite against the common enemy?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:307
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:321
 msgid "This Person prepares for a fight ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:353
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:375
 msgid "More elves? Great, simply fabulous! Come to me, my friends! Daddy has somethign for you ... A big blade which will gut each of you!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:399
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:429
 msgid "The south room ... Darn, even here, too? Everyone, to me, we need to clear this area! I’m almost sure that we will find something here!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:415
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:445
 msgid "Humidity! It comes from here! A lakey! And this means fishes! Trolls likes fishes! There is fishes, fish-woman?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:417
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:447
 msgid "This Person is not ... But yes, there is fish here. Collurful. This Person saw such fish a long time ago, near the coral reefs."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:418
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:448
 msgid "Ree ... What?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:419
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:449
 msgid "These are ... like gardens .. under water, under vast, salty water. This Person thinks this pool is magical, heals wounds ... It reminds the body what is should be: healed."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:420
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:450
 msgid "Great! We can use this place to heal. It seems to me we won’t find anything better here."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:428
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:458
 msgid "This spring is not natural. Someone created it here. Someone opened the ground and ordered it to gush out magical healing water. I myself cannot tell whether it’s been done by an elvish mage or an orcish shaman."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:429
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:459
 msgid "I’d like to believe the second option is true ... I have never suspected that my people have such a colourful history. Might orcish fortresses, the curse of the Wild Gon, the Gjallarhorn ... I would have never suspected to come across such things ... To lead the Great Horde."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:430
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:460
 msgid "Sometimes life plays tricks on us, Marbus. We must learn to accept the changes, whatever they are, and then live according to new rules. This pond is the new rule ... It only depends on you how you will use it."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:431
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:461
 msgid "You are right. Created by orcs or not ... It will serve to hea our warriors."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:434
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:464
 msgid "This Person senses a strange aura around the pond. It seems to be healing wounds."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:435
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:465
 msgid "Excellent! It will make do for our wounded warriors. Keep it safe."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:436
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:466
 msgid "*Barks merrily and wags its tail*"
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:474
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:504
 msgid "This is a glyph ... We’d better take it with us. I bet it will become useful."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:475
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:505
 msgid "What the ...? A stone? Some magical contraption ... I may be useful."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:476
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:506
 msgid "This Person has found the glyph. I will no doubt be useful for finding the Gjallarhorn."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:477
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:507
 msgid "A magical stone ... I feel we will find it useful."
 msgstr ""
 
 #. [unit]: id=Gideon, type=Fire Drake, type=Inferno Drake, type=Armageddon Drake
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:494
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:524
 msgid "Gideon"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:513
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:543
 msgid "What the...?!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:514
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:544
 msgid "Waaaargh! Leave my cave be! What do you want from it?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:515
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:545
 msgid "We are looking for the Gjallarhorn. We are not going to stay her for long."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:516
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:546
 msgid "Yeah, sure! First, the elves came and mollified me with their elvish food, but they won’t leave! You’ve left their corpses, and the soil has already soaked up the blood. You will pay for devastating my dwelling!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:517
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:547
 msgid "Draw your swords!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:524
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:554
 msgid "Cursed orcs! Wherever you turn up ... death always follows!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:529
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:559
 msgid "He is truly right. But it’s time to ease ourselves of this curse’s burden. Let’s take the glyph and try using it somehow."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:581
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:611
 msgid "This statue looks different from the rest. There seems to be a passage behind it. Meybe we could move it aside ..."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:582
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:612
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:642
 msgid "What for? Let’s call some hefty-looking soldiers and take a batternig ram. It will yield."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:583
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:613
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:643
 msgid "This is not the best idea. When I was in the catacombs of the stronghold, I came across some scriptures telling about such passages. If we use force to move the statue, the cave will collapse and finding the Gjallarhorn will take us months. Assuming, of course, it is still there."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:584
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:614
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:644
 msgid "What shall we do, then? Call the elvish witch so that she will cast a spell and unblock the passage for us?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:585
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:615
 msgid "This Person thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts... or glyphs. We might find them here and they will open the passage."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:586
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:616
 msgid "Aidala is right. Let’s have a look around the cave and come back here when we find something."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:593
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:623
 msgid "We still don't have all the glyphs. It would be better to return here with all pieces of the puzzle."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:604
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:634
 msgid "Finally, we’ve collected all the glyphs. It’s time to have a look at the statue."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:605
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:616
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:635
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:646
 msgid "Over the spaces there are some words carved. This can be a riddle."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:611
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:641
 msgid "This statue looks different from the rest. There seems to be a passage behind it. Maybe we could move it aside ..."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:615
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:645
 msgid "This Person thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts... or glyphs. Why don’t we put the stones we found in the spaces on the statue. However, we will have to do it in the right order."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:627
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:657
 msgid "Damn it, not this way. Let’s start over."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:690
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:682
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:674
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:654
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:638
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:720
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:712
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:704
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:684
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:668
 msgid "Statue"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:692
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:684
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:676
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:656
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:640
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:722
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:714
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:706
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:686
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:670
 msgid "The biggest sign"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:642
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:658
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:678
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:672
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:688
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:708
 msgid "Enter the glyph with the letter U"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:646
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:662
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:686
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:712
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:676
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:692
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:716
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:742
 msgid "Enter the glyph with the letter B"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:650
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:680
 msgid "Enter the glyph with the letter C"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:666
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:694
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:705
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:716
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:726
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:696
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:724
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:735
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:746
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:756
 msgid "Enter the glyph with the letter S"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:670
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:730
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:700
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:760
 msgid "Enter the glyph with the letter L"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:737
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:767
 msgid "We’ve made it! The statue is moving!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:738
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:768
 msgid "This Person is thinking of a password ... CLUBS ... Oh yes, it we look at the shape of the cave..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:739
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:769
 msgid "This is of no importance! Let’s take the horn and set out to deal with the Wild Gon!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:740
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:770
 msgid "I’m afraid this is not the end of the dangers ... But it’s true, it’s time to set off. Follow me!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:794
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:824
 msgid "A rat! Dinner!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:802
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:832
 msgid "Filthy rodent! Some you fry them over fire and eat, but I’ve never manager to look a it! Disgusting!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:805
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:835
 msgid "This Person has a question ..."
 msgstr ""
 
 #. [else]
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:806
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:836
 #: Marbuss_Escape\scenarios\14A_The_Change_of_Fate.cfg:383
 msgid "Yes, Aidala?"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:807
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:837
 msgid "Can we keep it?"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:808
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:838
 msgid "What ?!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:814
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:844
 msgid "The rat. Can we keep it? It is so sweet and ... shaggy."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:815
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:845
 msgid "Barley is shaggy, too. However, it’s hard to call him sweet ..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:816
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:846
 msgid "*Barks merrily and jumps, stamping its paws on the ground*"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:817
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:847
 msgid "... or it isn’t."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:818
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:848
 msgid "But it’s your animal. I want one of my own."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:819
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:823
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:849
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:853
 msgid "Ehh... This doesn’t seem to be a good idea. It can have rabies and pass it on to our army. But I can bring you an animal when all of this ends."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:822
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:852
 msgid "Rat. Can we keep it? It's so cute, and... Shaggy."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:824
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:854
 msgid "Very well, Marbus."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:858
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:888
 msgid "Cursed flying rats! I can never shoot them! Waaargh!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:859
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:889
 msgid "*Cocks its head in an asking manner*"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:860
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:890
 msgid "This Person thinks you should be using some sedatives."
 msgstr ""
 
 #. [unit]: id=Trefl, type=Ancient Wose
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:872
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:904
 msgid "Clubs"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:883
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:915
 msgid "This Person thinks it’s high time to be ready for a hard battle ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:884
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:916
 msgid "Omomomom... Omomomom..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:885
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:917
 msgid "Maybe not ... He is probably .... Sleeping?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:886
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:918
 msgid "Sharpen your swords! Now we have the chance! Uproot the treant!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:887
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:919
 msgid "What ... what ...? What!? Who dares enter Clubs’s dwelling!?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:888
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:920
 msgid "And all our plan fell apart... I’m Marbus, The Great Sovereign of the Horde. I’ve come here to take the Gjallarhorn thanks to which we can destroy the King of Wild Gon and lift the curse from my race."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:889
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:921
 msgid "It’s fine ... If you are telling the truth, I have been sleeping here for thousand years. I bacace the guardian of this place and was planted but an orc shaman, one of your predecessors. He must have gathered the Great Horde and deafeated the King of Gon. What he did then was, however, very imprudent."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:890
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:922
 msgid "Imprudent? What do you mean, guardian?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:891
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:923
 msgid "The orc thought that he would be able to break the curse of the Wild Gond once and for all. He lived long. Very long. He was a great mage. He understood the true nature of the Curse. It draw its strength from the orcush nature itself, your wickedness and bloodthirst. It was supposed to be the final weapon against your kind, which was made by the beings across the ocean."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:892
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:924
 msgid "But the orc created a magical object, thanks to which the curse could be lifted for one thousand years. And yes, the object is the Gjallarhorn. After many years, the mage came to the conclusion that this was not enough. He created an amulet allowing you to bind the curse to you, take its burden upon oneself. The burden of the sins of the orcish race ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:893
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:925
 msgid "Such a great sacrifice ... What happened next?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:894
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:926
 msgid "The shaman made ghis amulet at the dwarfish smithies, using the best tools the dwarves had. He worked hard for many months, and his warriors withstood the dwarfish siege. In the end they lost, and the mage fled. He was killed by the beardmen in a forgotten tunnel, where his ghost haunts, and the amulet awaits to be found. At least that is what the legend says."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:895
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:927
 msgid "So, enough talk. We’ve come for the artifact, so a trial awaits. To battle!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:929
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:961
 msgid "Phew ... It wasn’t easy. We can finally take the horn and leave."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:930
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:962
 msgid "Oh ... Such treants are a mere trifle for me. But killing them does not bring any joy. I prefer enemies which are bleeding!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:944
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:976
 msgid "You think it is so easy? Before you the the Gjallarhorn, first you have to defeat me!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:960
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:992
 msgid "At last! We have it. It’s time to leave the cave. We won’t find anything interesting here, and the Wild Gon is growing in strength with every minute!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:978
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1010
 msgid "You thought that would be so easy to do? Oh no, first you have to deal with me!"
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:996
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1028
 msgid "Skeletons dancing in a circle and large stone gates through which warriors with big swords and fangs come out have been carved on the statue. In the background, you there are figures in helmets and full armour who are panicking."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:997
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1029
 msgid "Someone carved a battle scene here: figures in full armour are fighting the ones with big swords and fangs... The former are losign sand retreating towards the boat."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:998
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1030
 msgid "The scene shows skeleton destroying cities and killing the countrymen, In the background there are orcs building ships and setting out in the sea."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:999
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1031
 msgid "Someone carved twelve skeletons in long robes, all of them with their hands up to the sky, and above them there is something that looks like an eclipse. In the middle of the skeleton circle, a shape of a ghost or a demons is looming."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1000
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1032
 msgid "The low relief shows an orc, but not a typical one. He is holding a staff and a medallion. He is a bit shorter than most orcs, and seems to have a decent amount of goblin blood flowing in his veins. His face is worried, although there is determination in his eyes."
 msgstr ""
 
