@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-23 21:26 UTC\n"
-"PO-Revision-Date: 2020-07-23 23:30+0200\n"
+"POT-Creation-Date: 2020-07-24 16:04 UTC\n"
+"PO-Revision-Date: 2020-07-24 18:04+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -28,7 +28,7 @@ msgid ""
 "legs at bonfires and let their partners shag them. Yes, I am talking about "
 "orcs."
 msgstr ""
-"Nasza historia rozpoczyna się w roku 883 e.W, ma zaś miejsce na dalekiej "
+"Nasza historia rozpoczyna się w roku 883 e.W., ma zaś miejsce na dalekiej "
 "północy, gdzie wszystkie daty przestały mieć znaczenie. Siła, krew i "
 "potępienie. Zawody zapaśnicze i hulanki alkoholowe między jedną grabieżą a "
 "drugą. Tak, mowa tu o orkach."
@@ -298,8 +298,8 @@ msgid ""
 "And the swamp it sunk into."
 msgstr ""
 "To zamek Elbor, jedna z orkowych twierdz, wybudowana w pierwszym wieku, gdy "
-"orki położyły stopy na tych ziemiach... Teraz została z niej tylko ruina. I "
-"bagno, które ją wchłonęło."
+"orkowie postawili stopy na tych ziemiach... Teraz została z niej tylko "
+"ruina. I bagno, które ją wchłonęło."
 
 #. [event]
 #: Marbuss_Escape\scenarios\01_Refugees.cfg:229
@@ -335,12 +335,12 @@ msgid ""
 "I know that, my cousin. Yet, we cannot worry about guesswork when our "
 "pantries are empty. Search all the corpses. Loot food, clothes and "
 "everything that may come in handy. If they were really the survivors, they "
-"should carry tons of wealth. Throw the corpses to the sheepfold."
+"should carry tons of wealth. Throw the corpses to the kennel."
 msgstr ""
 "Wiem to, kuzynie. Jednak nie możemy przejmować się przypuszczeniami, gdy "
 "nasze spiżarnie świecą pustkami. Przeszukajcie wszystkie trupy. Bierzcie "
 "jedzenie, ubrania, wszystko, co się nada. Jeśli to rzeczywiście ocaleni, "
-"powinni przynieść ze sobą wiele bogactw. Trupy rzućcie do owczarni."
+"powinni przynieść ze sobą wiele bogactw. Trupy rzućcie do psiarni."
 
 #. [event]
 #: Marbuss_Escape\scenarios\01_Refugees.cfg:239
@@ -624,9 +624,9 @@ msgid ""
 "for no reason, we can be cursed, and I’d prefer to avoid such situation. "
 "Let’s get going before the undead start following our footsteps."
 msgstr ""
-"To stworzenie nic nam już nie zrobi. Przełęcz jest zaś zawistna; jeśli "
+"To stworzenie nic nam już nie zrobi. Przełęcz jest zaś zawistna - jeśli "
 "zabijemy kogoś bez potrzeby, może spaść na nas przekleństwo, czego wolę "
-"uniknąć. Zbierajmy się stąd, póki nieumarli nie ruszyli w nasze ślady."
+"uniknąć. Zbierajmy się stąd, póki nieumarli nie ruszyli naszym śladem."
 
 #. [scenario]: id=02_Bone_Tempest
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:4
@@ -672,7 +672,7 @@ msgstr ""
 "przejściami i pułapkami. Najeźdźcy zrezygnowali z ataku na miasto. "
 "Oczywiście była i inna droga, przez krasnoludzkie tunele. Wówczas jednak "
 "krasnoludy nie przyłączyły się jeszcze do armii elfickiej, a gdy to "
-"uczyniono, o Gelu'Aben dawno zapomniano."
+"uczyniły, o Gelu'Aben dawno zapomniano."
 
 #. [part]
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:25
@@ -724,7 +724,7 @@ msgid ""
 "face at last."
 msgstr ""
 "Zima okazała się być jeszcze gorszą, niż wszyscy się obawiali. Na domiar "
-"złego, okolicę nawiedziła dziwna, niepokojąca mgła. Strach budził się w "
+"złego okolicę nawiedziła dziwna, niepokojąca mgła. Strach budził się w "
 "sercach orków i wkraczał do ich snów. Niedługo potem rozeszła się nowina, że "
 "w lasach nie jest już bezpiecznie. Wielu z tych, którzy w nie wkraczali, "
 "ginęło bezpowrotnie. Mieszkańcy zaczęli więc pozyskiwać drewno tylko w "
@@ -890,7 +890,7 @@ msgstr ""
 #. [event]: role=temp_undead
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:230
 msgid "Kochan, what can you see there? How many of them are left?"
-msgstr "Co widzisz, Kochan? Ile ich tam jeszcze zostało!?"
+msgstr "Co widzisz, Kochan? Ilu ich tam jeszcze zostało!?"
 
 #. [event]: role=temp_undead
 #. [then]
@@ -993,8 +993,8 @@ msgstr "Dobra robota. Zejść z posterunków. Wszyscy w kierunku przełęczy!"
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:325
 msgid "You, orcs, are too weak even to taste our power. Kill them all."
 msgstr ""
-"Wy, orki, jesteście zbyt słabi, żeby nawet posmakować naszej potęgi. Zabić "
-"ich wszystkich."
+"Wy, orkowie, jesteście zbyt słabi, żeby nawet posmakować naszej potęgi. "
+"Zabić ich wszystkich."
 
 #. [event]: id=timeoverlose
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:328
@@ -1181,14 +1181,14 @@ msgstr ""
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:21
 msgid ""
 "The undead weren’t been chasing the orcs who eventually walked out from the "
-"pass. A new adventure was waiting for the clan. Their way to Gelu'Aben was "
+"pass. The clan was soon to meet a new challenge. Their way to Gelu'Aben was "
 "cut by a torrent that could be crossed only over a bridge. An unpleasant "
 "surprise was awaiting the orcs..."
 msgstr ""
 "Nieumarli nie wyruszyli w pościg za orkami, którzy po jakimś czasie "
-"wynurzyli się z przełęczy. Teraz Klan Marbusa czekała kolejna przeszkoda. "
-"Drogę do Gelu'Aben blokowała rwąca rzeka, nad którą można było przejść "
-"jedynie mostem... Orków czekała jednak przykra niespodzianka..."
+"wynurzyli się z przełęczy. Klan Marbusa musiał się zmierzyć z nowym "
+"wyzwaniem. Drogę do Gelu'Aben blokowała rwąca rzeka, nad którą można było "
+"przejść jedynie mostem... Orków czekała jednak przykra niespodzianka..."
 
 #. [side]: id=Ashuran, type=Saurian Ambusher
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:72
@@ -1239,10 +1239,10 @@ msgstr "Śmierć Aszuran-Sana"
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:205
 msgid ""
 "We have managed to cross this cursed pass. Now, the road ahead will be much "
-"easier. We just need to pass the brigd.... What has happened here?"
+"easier. We just need to pass the brid.... What has happened here?"
 msgstr ""
 "Udało nam się przejść przez tę przeklętą przełęcz. Teraz droga będzie już o "
-"wiele prostsza. Wystarczy przejść przez mos.. Co tu się stało!?"
+"wiele prostsza. Wystarczy przejść przez mo.. Co tu się stało!?"
 
 #. [event]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:206
@@ -1307,7 +1307,7 @@ msgid ""
 "best warriors, I rushed up the river to help your brothers, but when we "
 "reached the bridge..."
 msgstr ""
-"Noc była zimna i mglista. Jak wszystkie tej zimy. Nasze szamanki od dawna "
+"Noc była zimna i mglista, jak wszystkie tej zimy. Nasze szamanki od dawna "
 "wróżyły nadejście złych mocy, jednak to, co zobaczyliśmy, było ponad wszelką "
 "miarę... Duchy niemal bezgłośnie wychyliły się z lasów. Zdążyły wyrżnąć "
 "kilkunastu wartowników, zanim orkowie spostrzegli się, że są atakowani. "
@@ -1471,8 +1471,8 @@ msgid ""
 "This river is treacherous... I do not remember such a large part covered "
 "with ice during any winter."
 msgstr ""
-"Rzeka jest zdradliwa... Nie pamiętam żadnej zimy, podczas której taka jej "
-"część byłaby zlodowacona."
+"Rzeka jest zdradliwa... Nie pamiętam ani jednej zimy, podczas której taka "
+"jej część byłaby zlodowacona."
 
 #. [event]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:310
@@ -1669,7 +1669,7 @@ msgid ""
 "So be it. Farewell, my son. I foretell you and our brothers will soon return "
 "to the bogs, which we will reclaim."
 msgstr ""
-"Niech tak będzie. Żegnaj, mój synu. Przepowiadam Ci, że niedługo wrócisz z "
+"Niech tak będzie. Żegnaj, mój synu. Przepowiadam ci, że niedługo wrócisz z "
 "naszymi braćmi na bagna, które odbijemy."
 
 #. [command]
@@ -1948,9 +1948,9 @@ msgid ""
 "they hope to regain these lands. They seem freezing cold and exhausted "
 "though, they'll not put up resistance for long."
 msgstr ""
-"To orki, Mistrzu. Wśród nich widzę także jaszczury. Pewnie mają nadzieję na "
-"odzyskanie tych ziem. Wydają się zziębnięci i przemęczeni, nie będą stawiać "
-"oporu zbyt długo."
+"To orkowie, Mistrzu. Wśród nich widzę także jaszczury. Pewnie mają nadzieję "
+"na odzyskanie tych ziem. Wydają się zziębnięci i przemęczeni, nie będą "
+"stawiać oporu zbyt długo."
 
 #. [event]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:178
@@ -11776,7 +11776,7 @@ msgid ""
 "Ugh... Damn... Orcs... Beatrice did so much for you, and you... Didn't "
 "keep... the promise..."
 msgstr ""
-"Ugh... Przeklęte... Orki... Beatrycze tyle dla was zrobiła, a wy... Nie "
+"Ugh... Przeklęci... Orkowie... Beatrycze tyle dla was zrobiła, a wy... Nie "
 "dotrzymaliście... Słowa..."
 
 #. [event]

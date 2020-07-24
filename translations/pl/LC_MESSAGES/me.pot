@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-23 21:26 UTC\n"
+"POT-Creation-Date: 2020-07-24 16:04 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -211,7 +211,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\01_Refugees.cfg:238
-msgid "I know that, my cousin. Yet, we cannot worry about guesswork when our pantries are empty. Search all the corpses. Loot food, clothes and everything that may come in handy. If they were really the survivors, they should carry tons of wealth. Throw the corpses to the sheepfold."
+msgid "I know that, my cousin. Yet, we cannot worry about guesswork when our pantries are empty. Search all the corpses. Loot food, clothes and everything that may come in handy. If they were really the survivors, they should carry tons of wealth. Throw the corpses to the kennel."
 msgstr ""
 
 #. [event]
@@ -781,7 +781,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:21
-msgid "The undead weren’t been chasing the orcs who eventually walked out from the pass. A new adventure was waiting for the clan. Their way to Gelu'Aben was cut by a torrent that could be crossed only over a bridge. An unpleasant surprise was awaiting the orcs..."
+msgid "The undead weren’t been chasing the orcs who eventually walked out from the pass. The clan was soon to meet a new challenge. Their way to Gelu'Aben was cut by a torrent that could be crossed only over a bridge. An unpleasant surprise was awaiting the orcs..."
 msgstr ""
 
 #. [side]: id=Ashuran, type=Saurian Ambusher
@@ -831,7 +831,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:205
-msgid "We have managed to cross this cursed pass. Now, the road ahead will be much easier. We just need to pass the brigd.... What has happened here?"
+msgid "We have managed to cross this cursed pass. Now, the road ahead will be much easier. We just need to pass the brid.... What has happened here?"
 msgstr ""
 
 #. [event]
