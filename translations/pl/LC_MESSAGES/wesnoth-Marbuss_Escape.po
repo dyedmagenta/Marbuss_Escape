@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-24 16:04 UTC\n"
-"PO-Revision-Date: 2020-07-24 18:04+0200\n"
+"POT-Creation-Date: 2020-08-10 17:39 UTC\n"
+"PO-Revision-Date: 2020-08-10 19:43+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -103,7 +103,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:49
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:392
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:400
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:566
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:575
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:45
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:47
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:311
@@ -438,7 +438,7 @@ msgstr "Wróg"
 #. [side]: id=s25Yeti, type=Yeti
 #. [then]: id=s25Yeti
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:90
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:623
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:622
 msgid "White God"
 msgstr "Biały Bóg"
 
@@ -897,7 +897,7 @@ msgstr "Co widzisz, Kochan? Ilu ich tam jeszcze zostało!?"
 #. [event]
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:231
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:259
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:657
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:656
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:358
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:448
 msgid "..."
@@ -2900,7 +2900,7 @@ msgstr ""
 #. [message]: speaker=petwolf
 #. [then]
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:424
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:654
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:653
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:558
 msgid "Warf, warf!"
 msgstr "Hau, hau!"
@@ -3019,12 +3019,12 @@ msgid "Break the siege and recapture Gelu'Aben"
 msgstr "Przełam oblężenie i odbij Gelu-Aben"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:519
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:518
 msgid "Finally! The siege is broken. Now we can recapture Gelu-Aben!"
 msgstr "Wreszcie! Oblężenie puściło. Mamy teraz szansę odbić Gelu-Aben!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:520
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:519
 msgid ""
 "Marbus! Out of all my lousy relatives! I'd have never thought that you would "
 "be the one to rescue me... Hahahaha... I haven't felt so amused for a long "
@@ -3035,7 +3035,7 @@ msgstr ""
 "taki rozbawiony..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:521
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:520
 msgid ""
 "Egh tro Grash, brother! It seems you are wounded like most of the orcs in "
 "your castle. But tell me... For the horde, what has happened here?"
@@ -3044,7 +3044,7 @@ msgstr ""
 "twoim zamku. Ale opowiadaj... Co tu się stało, na Hordę?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:522
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:521
 msgid ""
 "Here? You mean the siege, right? This is a hilarious story... It began with "
 "some rumours about the undead coming from the north... I took my best boys "
@@ -3057,7 +3057,7 @@ msgstr ""
 "tym roku jest ciężka... Potrzebowaliśmy zapasów, nawet z rąk nieumarłych..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:523
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:522
 msgid ""
 "I don’t like it... The undead attacked us from the south... It looks like we "
 "are surrounded."
@@ -3066,7 +3066,7 @@ msgstr ""
 "to, że jesteśmy zamknięci."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:524
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:523
 msgid ""
 "...We’ve tracked them. And I was lead the assault... However, their numbers, "
 "their power... They were crushing us. And my boys? They left me alone! In "
@@ -3080,7 +3080,7 @@ msgstr ""
 "gadać, szkoda strzępić język..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:525
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:524
 msgid ""
 "Nevertheless, the way home had been blocked... We were moving through the "
 "lands of Northern Alliance... The undead were following us. As far as I "
@@ -3094,7 +3094,7 @@ msgstr ""
 "i kawałka ziemi, którego nie zamieszkują upiory... Ruszyli więc na nas."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:526
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:525
 msgid ""
 "We can do nothing more except for fighting... Grab your swords once again! "
 "We will lead you to the victory!"
@@ -3103,7 +3103,7 @@ msgstr ""
 "raz! Poprowadzimy was do zwycięstwa!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:527
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:526
 msgid ""
 "It seems the orcs have managed to break the siege... This does not bode "
 "well... Call for more troops! Let the legions from the northern posts push "
@@ -3113,7 +3113,7 @@ msgstr ""
 "Posłać po więcej wojska! Niech ciągną tutaj legiony z północnych posterunków!"
 
 #. [message]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:531
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:530
 msgid ""
 "But lord... If we take the units thence, who will defend the borders from "
 "the undead?"
@@ -3122,7 +3122,7 @@ msgstr ""
 "nieumarłymi?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:533
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:532
 msgid ""
 "Do not disregard my commands, yokel! Execute! And send me heavy infantrymen "
 "here! We'll blow their city gates and fortifications into shreds!"
@@ -3131,7 +3131,7 @@ msgstr ""
 "piechurów! Rozwalimy w drzazgi ich bramy miejskie i fortyfikacje!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:534
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:533
 msgid ""
 "I don’t like it... But if we want to defend our clan from the danger from "
 "the outside, we'll have to get rid of orcs. Send for my cousins, Gill and "
@@ -3142,27 +3142,27 @@ msgstr ""
 "Billa! Załatwią ich!"
 
 #. [unit]: id=Bill, type=Dwarvish Berserker
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:544
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:543
 msgid "Bill the Snowfeet"
 msgstr "Bill Śnieżnostopy"
 
 #. [unit]: id=Gill, type=Dwarvish Berserker
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:558
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:557
 msgid "Gill the Snowfeet"
 msgstr "Gill Śnieżnostopy"
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:583
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:582
 msgid "Defeat the enemy leaders"
 msgstr "Pokonaj przywódców wroga"
 
 #. [then]: id=s25Yeti
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:626
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:625
 msgid "White Kid"
 msgstr "Białe Dziecko"
 
 #. [then]: id=s25Yeti
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:630
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:629
 msgid ""
 "Can you hear that sound? It's something like ... A roar. I've heard it "
 "somwhere before..."
@@ -3170,13 +3170,13 @@ msgstr "Słyszycie ten dźwięk? Coś jakby... Ryk. Gdzieś już to słyszałem.
 
 #. [then]: id=s25Yeti
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:631
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:711
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:630
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:710
 msgid "Waaaargh~~!"
 msgstr "Waaaargh~~!"
 
 #. [then]: id=s25Yeti
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:632
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:631
 msgid ""
 "For the Horde's sake! Is it possible? I've heard tales anout them, but I "
 "would have never imagined they really exist ..."
@@ -3185,7 +3185,7 @@ msgstr ""
 "przypuszczałbym, że istnieją..."
 
 #. [then]: id=s25Yeti
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:633
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:632
 msgid ""
 "Haha...  Meet the White God, Gewold! It seems our friends from the pass have "
 "come to help us!"
@@ -3194,12 +3194,12 @@ msgstr ""
 "przełęczy przybyli nas wesprzeć!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:645
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:644
 msgid "What? Elves? But where from..."
 msgstr "Co? Elfy! Ale skąd..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:646
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:645
 msgid ""
 "What have you been doing in the south, Marbus? The Northern Alliance has "
 "been joined by almost every race, even the drakes and... ugh, some orcish "
@@ -3212,12 +3212,12 @@ msgstr ""
 "gospodarki..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:647
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:646
 msgid "Elves! Long-eared! My whelps want to play with them!"
 msgstr "Elfy! Długouchy! Moje szczenięta chcieć się z nimi bawić!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:648
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:647
 msgid ""
 "You cannot disregard the wisdom and the power of elves... Their race is as "
 "ancient as ours... They were the first to comprehend the power of nature... "
@@ -3228,22 +3228,22 @@ msgstr ""
 "ich rasa skarlała... Nie ma już bohaterów takich, jak Kalenz..."
 
 #. [then]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:655
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:654
 msgid "Silence, silence Barley... They are enemies."
 msgstr "Cicho, cicho Jęczmień... To wrogowie."
 
 #. [then]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:656
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:655
 msgid "Have you just named this wolf Barley, cousin?"
 msgstr "Nazwałeś tego wilka Jęczmień, kuzynie?"
 
 #. [modify_unit]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:662
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:661
 msgid "Barley"
 msgstr "Jęczmień"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:674
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:673
 msgid ""
 "This is impossible... We failed... Even with the reinforcements from the "
 "north... But it doesn't matter... You will die anyway. Defeated... By the "
@@ -3253,7 +3253,7 @@ msgstr ""
 "nic... I tak zginiecie. Pokonani... Przez Króla Gonu..."
 
 #. [then]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:680
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:679
 msgid ""
 "The King of Gon? Is this possible? We have to flee, quickly! We aren't able "
 "to beat this being!"
@@ -3262,14 +3262,14 @@ msgstr ""
 "stanie pokonać tej istoty!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:681
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:680
 msgid ""
 "Hum? What are you talking about, old augur? Why is this name so dreadful for "
 "you?"
 msgstr "Hm? O czym mówisz, stara wróżbitko? Dlaczego to imię tak cię przeraża?"
 
 #. [then]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:682
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:681
 msgid ""
 "He is much older than you can imagine... He remembers the times when orcs "
 "were sailing to the Great Continent on human boats... But why did he return? "
@@ -3280,7 +3280,7 @@ msgstr ""
 "dlaczego się zjawił? Nie wiem... Ale muszę się dowiedzieć..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:697
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:696
 msgid ""
 "No! I... Ekhm... I can't fall... You cowards... You bastards... You devils "
 "incarnates... You..."
@@ -3289,12 +3289,12 @@ msgstr ""
 "diabły wcielone... Wy..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:698
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:697
 msgid "Oh shut up alrerady! Bring me his head on a tray!"
 msgstr "A zamknij się wreszcie! Niech ktoś przyniesie mi jego łeb na tacy!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:716
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:715
 msgid ""
 "We’ve made it, Marbus! We're alive! And it seems like it's thanks to you... "
 "Though, in my own opinion, it's rather me who saved you."
@@ -3303,7 +3303,7 @@ msgstr ""
 "prywatnej opinii, to raczej ja ratowałem ciebie."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:717
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:716
 msgid ""
 "Hahaha... I'm glad that it's over now... But let’s get to the point... It's "
 "time we gathered the Horde. The undead are marching on us from the south... "
@@ -3315,7 +3315,7 @@ msgstr ""
 "nadchodzą także z północy... Wyślijmy kruki do wodzów..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:718
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:717
 msgid ""
 "The ravens were sent some time ago with a plea for help. As far as I know, "
 "only a few minors clans managed to survive."
@@ -3324,7 +3324,7 @@ msgstr ""
 "tylko kilka pomniejszych klanów dało radę przetrwać."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:719
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:718
 msgid ""
 "This is very unsettling news, cousin. It seems like we can't bargain either "
 "for more warriors or for a shelter."
@@ -3333,7 +3333,7 @@ msgstr ""
 "na większą ilość wojowników, ani na schronienie."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:720
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:719
 msgid ""
 "As for now, we have other worries. We must call the elders and hold a "
 "meeting."
@@ -3341,7 +3341,7 @@ msgstr ""
 "Mamy na razie inne zmartwienia. Musimy wezwać starszyznę i odbyć naradę."
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:721
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:720
 msgid ""
 "Calm down, warrior! First, let's take care of the bodies, patch up the "
 "wounded. The remaining survivors from Northern Alliance are fleeing in "
@@ -3352,7 +3352,7 @@ msgstr ""
 "wydajmy ucztę!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:722
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:721
 msgid ""
 "For many days we have had no rest... So be it! Ragh for En Traht! We’ve won "
 "the battle!"
@@ -3361,12 +3361,12 @@ msgstr ""
 "Traht! Wygraliśmy bitwę!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:723
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:722
 msgid "Ragh for En Traht!"
 msgstr "Ragh for En Traht!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:724
+#: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:723
 msgid "Owooooo!"
 msgstr "Auuuuu!"
 
@@ -3824,7 +3824,7 @@ msgstr ""
 msgid "*Merry barking*"
 msgstr "*Radosne szczekanie.*"
 
-#. [unit]: id=Aidala, type=Naga Warrior
+#. [unit]: id=Aidala, type=Aidala2
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:432
 msgid "Aidala"
 msgstr "Aidala"
@@ -7047,8 +7047,11 @@ msgstr ""
 "jaskinia, będzie kiedyś należeć do elfów."
 
 #. [side]: type=Grand Marshal, id=LordDirack
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:80
+msgid "Great Lord Dirack"
+msgstr "Wielki Lord Dirac"
+
 #. [side]: type=Elvish Champion, id=IrickHigh
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:81
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:127
 msgid "Jarl Irick the High"
 msgstr "Jarl Irick Wysoki"
@@ -7576,42 +7579,42 @@ msgid "For the elvish jarls!"
 msgstr "Za elfickich jarlów!"
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:541
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:777
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:550
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:786
 msgid "Defeat all the undead"
 msgstr "Pokonaj wszystkich nieumarłych"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:547
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:783
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:556
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:792
 msgid "Jarl Irick the High's Death"
 msgstr "Śmierć Jarla Iricka Wysokiego"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:551
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:787
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:560
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:796
 msgid "The Great Lord Dirack's Death"
 msgstr "Śmierć Wielkiego Lorda Diracka"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:555
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:795
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:564
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:804
 msgid "Beatrice's Death"
 msgstr "Śmierć Beatrice"
 
 #. [note]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:559
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:799
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:568
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:808
 msgid "The undead move through the snow faster than usual."
 msgstr "Nieumarli poruszają się po śniegu szybciej niż zwykle."
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:743
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:752
 msgid "King Wilhelm the Iron Hand"
 msgstr "Król Wilhelm Żelazna Ręka"
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:767
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:776
 msgid ""
 "Axes! Ready your axes, these are orcs! Wait ... there are the undead, too! "
 "Hammers! Ready the hammers!"
@@ -7620,7 +7623,7 @@ msgstr ""
 "Szykować młoty!"
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:768
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:777
 msgid ""
 "Welcome, King Wilhelm! These orcs are on our side, this is the Great Horde "
 "led by the orc Marbus."
@@ -7629,7 +7632,7 @@ msgstr ""
 "Horda, którą prowadzi ork o imieniu Marbus."
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:769
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:778
 msgid ""
 "What?! I’ve heard of him! He has passed through our underground leaving only "
 "charred remains! But ... So be it! A war is being fought, and I don’t intend "
@@ -7642,12 +7645,12 @@ msgstr ""
 "zabijanie orków! Hahahaha!"
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:770
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:779
 msgid "This dwarf is slightly ... crazy."
 msgstr "Ten krasnolud jest trochę... Szalony."
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:771
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:780
 msgid ""
 "This Person thinks otherwise ... He reeks of booze. His all regiment reeks "
 "of booze ... For the Drowned Godess’s sake, they can barely keep their "
@@ -7657,7 +7660,7 @@ msgstr ""
 "cuchnie gorzałką... Na Utopioną Boginię, oni ledwo trzymają się na nogach!"
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:772
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:781
 msgid ""
 "King, are you sure your troops are ready to fight? Maybe you should rest "
 "awhile and join the battle when ..."
@@ -7666,7 +7669,7 @@ msgstr ""
 "powinniście nieco odpocząć i dołączyć do bitwy, gdy..."
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:773
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:782
 msgid ""
 "When!? When what? Don’t play the smart guy here, Ir ... Hic!  ick ... I will "
 "show you how a dwarwish ... Hic! Regiment fights! Give them to me! Hammers! "
@@ -7677,37 +7680,37 @@ msgstr ""
 "po szkieletach!"
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:791
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:800
 msgid "The death of King Wilhelm Iron Fist"
 msgstr "Śmierć Króla Wilhelma Żelaznej Ręki"
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:809
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:818
 msgid "Uh, my headache is stronger than before..."
 msgstr "Uh, głowa boli mnie mocniej niż wcześniej..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:810
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:819
 msgid "Dwarven king has fallen. That is the end.."
 msgstr "Krasnoludzki Król upadł. To jest koniec..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:820
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:829
 msgid "I didn't expect to die in this place..."
 msgstr "Nie spodziewałam się umrzeć w tym miejscu..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:821
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:830
 msgid "No one expected this ..."
 msgstr "Nikt się tego nie spodziewał..."
 
 #. [message]: role=farseer
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:845
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:854
 msgid "The undead are fleeting!"
 msgstr "Nieumarli uciekają!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:872
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:881
 msgid ""
 "Told you so? Huh! We’ve defeated all of ... Hic! ... them ... and I didn’t "
 "even sweat ... You’d better give me ... Hic! ... some booze."
@@ -7716,7 +7719,7 @@ msgstr ""
 "nie spociłem... Dajcie wy mi lepiej... Hyk!... Gorzałki."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:873
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:882
 msgid ""
 "A devastating defeat was inflicted on the enemy here, but I fear it’s not "
 "the end. The will come back. With doubled strength. We have to be ready. "
@@ -7733,7 +7736,7 @@ msgstr ""
 "kopalń, ale one..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:874
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:883
 msgid ""
 "... are as safe as my daughter’s chastity. One half of my troops is guarding "
 "the passages. The other is with me here. You are lucky, orc, to have left "
@@ -7746,7 +7749,7 @@ msgstr ""
 "kawałku."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:875
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:884
 msgid ""
 "After what I have seen I believe your every word, dwarf king. We all need to "
 "rest now. We’ve won a beautiful victory. However, one thing troubles me ... "
@@ -7757,14 +7760,14 @@ msgstr ""
 "jednak jeszcze jedna sprawa... Co z Kochanem?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:876
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:885
 msgid ""
 "My people should be here in a minute, they are escorting him. Oh, I can see "
 "them!"
 msgstr "Moi ludzie powinni zaraz tutaj być, eskortują go. O! Widzę ich!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:888
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:897
 msgid ""
 "My Lady ... I regret to inform we were not able to follow your orders. On "
 "our way here, the undead came at us. Apparently, the orc we were escorting "
@@ -7775,12 +7778,12 @@ msgstr ""
 "przez nas ork. Dopadli go... Nie mogliśmy nic zrobić..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:889
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:898
 msgid "Thank you ...  ... I wish it hadn’t happened ... Marbus ?"
 msgstr "Dziękuję... Ja... Żałuję, że tak się stało... Marbusie...?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:890
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:899
 msgid ""
 "Kochan.... Damn it ... There is no time to mourn my cousin ... Let’s enjoy "
 "our victory! As for me ... Well, I’ll go for a walk."
@@ -7790,7 +7793,7 @@ msgstr ""
 "się trochę."
 
 #. [then]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:911
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:920
 msgid ""
 "This Person advises not to enter that place. There is a strange smell coming "
 "from the underground ... Ethanol ... It is getting stronger and stronger ..."
@@ -10157,26 +10160,6 @@ msgstr ""
 "Żegnaj, Marbusie... Chciałbym pogratulować ci wygranej ze mną... Ale obawiam "
 "się, że skazałeś się przez to na znacznie gorszy los niż śmierć. Pozostaje "
 "ci jedynie... Dokonać wyboru."
-
-#. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:903
-msgid ""
-"You really thought, that they are different from me in this matter? Well, "
-"no. You have to kill them with your own hand. It's the only way to save your "
-"people - by killing your predecessors."
-msgstr ""
-"Naprawdę myślałeś, że tutaj zadziała to inaczej, niż w moim przypadku? Otóż "
-"nie. Musisz ich zabić własnoręcznie. Tylko w ten sposób uratujesz swój lud – "
-"zadając śmierć swoim poprzednikom."
-
-#. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:904
-msgid ""
-"Curse you... But I'll do it - I'll kill all your demons, even if I have to "
-"do it with bare hands!"
-msgstr ""
-"Niech cię... Ale zrobię to – wyrżnę twoje demony, choćbym miał to zrobić "
-"gołymi rękami!"
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:932
@@ -14043,8 +14026,16 @@ msgstr "Król nieumarłych"
 
 #. [unit_type]: id=Undead King, race=undead
 #: Marbuss_Escape\units\Undead_King.cfg:23
-msgid "Leader of undeads that attacked Marbus' clan."
-msgstr "Lider nieumarłych, którzy zaatakowali klan Marbusa."
+msgid ""
+"Leader of undead who revives every 1000 years. His goal is to destroy the "
+"orcish race. Brought into (non-)life by Lich Lords on the far, western "
+"continent. He's a being of great power, which might be too powerful for the "
+"Great Horde to defeat."
+msgstr ""
+"Odradzający się co tysiąc lat przywódca nieumarłych, który za cel obrał "
+"sobie zniszczenie rasy orków. Powołany do (nie)życia przez Władców Liczów na "
+"odległym, zachodnim kontynencie. Jest to istota o wielkiej mocy, której "
+"pokonanie może przekraczać zdolności Wielkiej Hordy."
 
 #. [attack]: type=pierce
 #: Marbuss_Escape\units\Undead_King.cfg:32
@@ -14254,6 +14245,25 @@ msgstr "Portrety"
 #: Marbuss_Escape\_main.cfg:138
 msgid "King of Gon unit graphics"
 msgstr "Grafika Króla Gonu"
+
+#~ msgid ""
+#~ "You really thought, that they are different from me in this matter? Well, "
+#~ "no. You have to kill them with your own hand. It's the only way to save "
+#~ "your people - by killing your predecessors."
+#~ msgstr ""
+#~ "Naprawdę myślałeś, że tutaj zadziała to inaczej, niż w moim przypadku? "
+#~ "Otóż nie. Musisz ich zabić własnoręcznie. Tylko w ten sposób uratujesz "
+#~ "swój lud – zadając śmierć swoim poprzednikom."
+
+#~ msgid ""
+#~ "Curse you... But I'll do it - I'll kill all your demons, even if I have "
+#~ "to do it with bare hands!"
+#~ msgstr ""
+#~ "Niech cię... Ale zrobię to – wyrżnę twoje demony, choćbym miał to zrobić "
+#~ "gołymi rękami!"
+
+#~ msgid "Leader of undeads that attacked Marbus' clan."
+#~ msgstr "Lider nieumarłych, którzy zaatakowali klan Marbusa."
 
 #~ msgid "The biggest sign"
 #~ msgstr "Największy znak..."
