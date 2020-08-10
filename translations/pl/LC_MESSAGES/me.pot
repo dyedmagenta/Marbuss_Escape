@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-10 17:39 UTC\n"
+"POT-Creation-Date: 2020-08-10 19:14 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2351,390 +2351,390 @@ msgid "From now on, death of Krull the Rock doesn't end the game."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:344
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:353
 msgid "I wonder what apes live in these halls underground... This stone village doesn't look dwarven at all..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:345
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:354
 msgid "This not dwarves’ work! This strong trolls' work! Our architecture is stylish and sophisticated, isn’t it not?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:346
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:355
 msgid "Hard to deny. It is charming."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:359
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:368
 msgid "It's the monastery! Everything here is made of marble and polished stone. IT seems a dwarven god is worshipped here. Torlof the Thundering. I'm happy that our community does not believe in such superstitions."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:360
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:369
 msgid "Watch your tongue, wolfrider. My race still worships the ancient faith and tells tales of Torlof the Thundering. He is a mighty deity and can't be ignored. You should remeber that name."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:361
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:370
 msgid "Trolls not like storm. Tor-lof be a storm master. Trolls knows. Be afraid, but don't give no offerings. Trolls be wise. All offerings go to stomach!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:370
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:379
 msgid "Plunder the larder! And what is that? Bloody liqueur made of spider berries. It's best used to warm bones in these cold halls."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:376
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:385
 msgid "Woof, woof!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:377
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:386
 msgid "Silence, Barley! You mustn't touch it."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:390
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:399
 msgid "A temple, or a museum. It's full of paitings and low reliefs. From what they depict we can say that these are the Four Gryphon Riders. The are to come and herald the coming of the Apocalypse."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:391
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:400
 msgid "Fairy tales of dwarves and children. The Apocalypse will come when the Black Waters from the west rise and flood the Great Continent, and Jormungand will surface to devour the sun and the moon."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:400
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:409
 msgid "In this village, a wedding reception was held. We probably interrupted their Red Beard Tango ... Quick! Go for the food, and then plunder the settlement!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:401
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:410
 msgid "Sure, let the wolves go there. Why leave smoked cold meat for us if wolves can be fed with it?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:402
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:411
 msgid "*Merry barking*"
 msgstr ""
 
 #. [unit]: id=Aidala, type=Aidala2
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:432
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:441
 msgid "Aidala"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:480
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:489
 msgid "Vodica"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:492
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:501
 msgid "Brussels"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:520
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:529
 msgid "What's that, for the ancestors sake!? Grab yours swords!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:521
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:530
 msgid "Trolls know the looks. Under our bridges, where we take tolls, there they often are. They are nagas. Snake-women."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:522
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:531
 msgid "Are my senses failing me? How is it possible that a once proud race of nagas settled under the ground? I remember times when our folks made one  were united, ruling the swamps and rivers on the whole continent."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:523
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:532
 msgid "Greetings, sons of the west... Or should I say: sons of the north? Her name is Aidala. And these are her daughters. This Person is their matriarch."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:524
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:533
 msgid "Yuck... For years, nobody has seen any naga! You separated from the Horde! Some of you even tried to join the Northen Alliance, mating with tritons! Don't try to deny it, snake!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:525
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:534
 msgid "Gewold, what the hell! I reminder you that I am the Great Sovereign now! Be silent when it comes to talking with someone who in our way!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:526
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:535
 msgid "Your companion's remark was spot-on, son of the north. The majority of my race would turned their backs on our tradition and the elders' beliefs. This Person, however, never got rid of her pride, never quenched the sorrow and hatred that stir in her heart... And yet... This Person couldn't fight."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:527
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:536
 msgid "Tell me what has happened, my lady."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:528
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:537
 msgid "Less than one century ago, the elders of my kin called the Great Council on which we were supposed to debate how to save Her race from the calamity... But at the council, we faced a betrayal. Young nagas, living in the most shallow waters, decided to join forces with the Nortern Alliance and murdered the vast majority of Her race. This Person fought fiercely, killing many of her daughters and sisters, but This Person couldn't save the elders."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:529
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:538
 msgid "I got sealed off with my most trusted daughters... The road to the sea was closed. And on land, crossbowmen were waiting for us. This Person could have died a grand and just death... However, it would result in that there wouldn't be any ceasing the hatred between nagas and Northern Alliance anymore. Dwarves, elves and even The Great Kingdom of Wesnoth... Everyone would start identifying Her race with something good. With something that got rid of its darkness and joined them to hunt pearls, help sailors and swim with dolphins."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:530
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:539
 msgid "This Person couldn't stand that! This Person had to live in order to hate. To bear witness to the darkness and decay, The Witness of the Snake. This Person had gathered its daughters and set off in the only dirrection where This Person could survive - to the caves. So here, in the darkness and gloom we've started to spawn, to grow stronger and wait for the moment when we could inflict the deadly blow to our enemies. This Person presumes this moment has come now."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:531
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:540
 msgid "Your story is full of passion and darkness, my lady... The enemy that is pursuing us is yet even darker. I will welcome You and Your daughters in my ranks with joy."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:532
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:541
 msgid "You should reconsider this... Not everyone who doesn’t want to attack is is our friend. They may betray us when the first opportunity occurs, joining that nagas that are on the Northern Alliance side already."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:533
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:542
 msgid "Sss... Silence, orc... Stay silent or I will make you silent forever... If it is needed, This Person will make an oath. This Person swears on the stars and snakes, on the poison and swords, on the blood of black and red, that This Person will serve your Great Sovereign and will give the whole of Herself to him!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:534
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:543
 msgid "Even in the face of the latest events I must admit, my cousin, that it sounds pretty decent."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:535
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:544
 msgid "I am glad that your humour is back, Kochan. As for the nagas... So be it. From now on you are my people as well. Together we must work our way out of this tunnels."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:536
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:545
 msgid "My hearth is full of joy knowing that we will be fighting together with the water snakes. There are no other creatures on this continent that are more stubborn, full of passion and hate born, and that didn’t leave this world into the cold hands of the death."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:537
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:546
 msgid "Trolls likes snakes. Let there is friendship between us."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:538
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:547
 msgid "My Chieftain... Let me give you an a piece of advice... The underground midgets were also influenced by the Evil Spirit that devastates this lands. They are weak... Together, we can face them and defeat them. But there is another way. Their guards are few and far between, their numbers are scarce in most of the corridors. We can reach east unnoticed if we will move carefully."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:539
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:548
 msgid "That's a good advice. Personally I would rather not participate in the fight - the terrain is not suitable for that."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:540
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:549
 msgid "Quit babbling, Kochan! We need gold and supplies and there should be plenty of it in their fortifications! If we do not kill them now, they will emerge from the caves and attack us in the least expected moment when you least expect it. To avoid open war, we must attack first!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:541
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:550
 msgid "My chieftain, this is not all. This Person knows more... In the north, in the tunnels abbandoned by the midgets... I can feel magic vibrations emanating from there... This Person and her daughters think something can be hidden there, something that might prove useful in the future. It can even have the decisive effect in the final encounter."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:542
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:551
 msgid "Treasure! Trolls want that treasure! We not forgot that trolls were good, when trolls had treasure!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:543
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:552
 msgid "I also feel something magical... There is some mighty arcane power... But different, not dwarven. I think it may have something to do with the evil that engulfs the north. We should aquire this thing."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:544
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:553
 msgid "Thank you all for your advices. Aidala... Whatever I decide, I want you to be at my side. I am really glad that we've met. And now – onwards!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:548
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:557
 msgid "Guide Marbus to the northern edge of the map"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:756
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:765
 msgid "Die, you dwarven monster! This is for all our warriors slain by your brethren!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:757
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:766
 msgid "Loot their strongholds, soldiers! I am sure they have tons of gold and supplies in there!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:762
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:771
 msgid "He's fallen! The dwarves are running to their holes! We've won this glorious victory!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:763
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:772
 msgid "My sword gives a shouts of excitation! Slay the rest! Kill everyone, don’t let anyone survive!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:764
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:773
 msgid "This Person is glad that another revenge is taken... With the gold from their treasuries we will grow stronger..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:787
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:796
 msgid "Quickly, my Horde, into these tunnels!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:788
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:797
 msgid "What!? We are to flee now, after the battle has already started!?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:789
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:798
 msgid "This Person will finally be able plunge her blade in the bodies of those whom she hates! Why do we have to cease a moment so sweet for Her?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:790
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:799
 msgid "Stop arguing with me! Move on, deeper into the caverns! Remember that our goal isn't the fight with dwarves, but getting into the other side of the mountains!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:793
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:802
 msgid "Our enemies are dead. We achieved a great victory over here. But I'm worried that soon  all nearby dwarven clans will find out about this massacre. They will seek revenge."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:794
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:803
 msgid "This indeed might become a big problem. Still, we aren't able to prevent it anymore. All what's left for us is to count on the destiny and follow the path, like we have done so far."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:795
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:804
 msgid "What are you talking about!? I rejoice that we vanquished our opponents! We should open barrels of beer and feast!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:796
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:805
 msgid "This Person thinks that staying here would be UNresonable. We would rather move as soon as possible so that we can leave these caves."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:797
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:806
 msgid "I agree with your words, Aidala. Get ready to march off! We are leaving this place!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:802
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:811
 msgid "We have made it. None of the dwarves noticed our passing. Well done, companions! Onwards, into these caves!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:803
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:812
 msgid "I'm glad that we managed to avoid unneccessary fighting. We must save our forces for more important battles."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:804
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:813
 msgid "Sss... This Person would prefer to behead all of these dwarves rather than let them live. Hatred for them is burning in our blood. But we will do what is neccesary."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:823
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:832
 msgid "For one thousand barrels of bear and a ton of pork’s sake! These are orcs! Blow into the horns! Orcs are attacking our lands!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:824
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:833
 msgid "Into The horns?! Somebody immediately start beating in the drums! To the attack!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:825
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:834
 msgid "Silence, Gewold! And now, my Horde, start beating in the drums! Slaughter them!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:826
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:835
 msgid "This Person can sees that orcish race hasn't changed since the last time she saw them."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:868
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:877
 msgid "I feel some weird energy in this place... Do not be affraid but take your steps carefully! Who knows what lurks in the darkness?"
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:869
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:875
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:878
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:884
 msgid "Be gone... Now, when you still have the chance..."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:870
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:876
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:879
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:885
 msgid "This Person feels shivers. So the demon that settled in these caves can still speak!"
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:871
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:877
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:880
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:886
 msgid "Why are you not listening to me? Be gone..."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:874
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:883
 msgid "There... This is the place from which This Person feels the strange old magic."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:890
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:899
 msgid "For the love of the orcish blades and the hatred of thousands of goblin bastards! The undead!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:891
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:900
 msgid "No... This ghost does not belong to those that plague the north, right? Who are you then?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:892
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:901
 msgid "My name is... No... It is not important for the story you are the part of... All you must know is that I am the ghost of the one that was before you - the great orcish chieftain that lived his life in the old days... Be gone..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:893
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:902
 msgid "My subordinates have senses strange magic around you. We are in a situation in which we can use any magic to help us. We are running from the undead that had started to harass the north. Help us if you are able to, ghost."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:894
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:903
 msgid "Running...? So the proud orcish race runs away from the undead souls...? Again..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:895
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:904
 msgid "Again? This Person thinks that you know more than you seem to. Everything that is happening now in the north - has this happened earlier?"
 msgstr ""
 
 #. [event]
 #. [command]
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:896
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:905
 #: Marbuss_Escape\scenarios\14A_The_Change_of_Fate.cfg:323
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:407
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:418
@@ -2745,168 +2745,168 @@ msgid ". . ."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:897
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:906
 msgid "I implore you, ghost! Know that I am the Great Sovereign of the Horde now... I have the power to command you! Answer us!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:898
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:907
 msgid "Yes... It had  happened before... But not here. In the far, far west... When the dark Wesfolk people stood in front of us tearing us out from our battle-realms... Our primal world from which we were summoned by the liches..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:899
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:908
 msgid "The old portals were opened, we used them to enter this world... This is not the end of the story... For we were betrayed... The Lich Lords found out how powerfull we were... They could not kept us in their grasp as long as their portals were opened... They used all of their power and knowledge to close them. The spells were terrible and mighty, there are no such in this world anymore and never will be again unless the second sun shines over the continent."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:900
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:909
 msgid "The portals were closed and the way to our homeland was taken from us. However, before this happened, there was something else that managed to get here from our wolrd... The name of that thing is now forgotten but it makes the sleep, the food and even the females unable to satisfy the lust for blood that we feel. This thing haunts the north now."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:901
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:910
 msgid "That story of yours is ancient, ghost... This Person dares to ask... How can we stop all that is happening now?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:902
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:911
 msgid "We've tried many things to turn the unstoppable river of the destiny around... Nothing can change the faith... Go away! I've told you enough already... Be gone and die as you like!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:913
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:922
 msgid "Get out of here... Leave the past be..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:927
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:936
 msgid "My attacks do not impress him at all!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:928
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:937
 msgid "You can't defeat me, living creatures... I'm a spiritual entity..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:936
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:945
 msgid "I... Lost..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:937
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:946
 msgid "You might as well be the ghost of a great warrior and chieftan, but in spite all of that, you still are but a ghost! And now tell us, how to deal with these undead that tyrranize in the north?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:938
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:947
 msgid "If you think that you will manage to do it... Then take my amulet... Maybe by using it you will change... The destiny... Of your people... Our people..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:965
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:974
 msgid "Look! A secret passage has opened!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:992
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1001
 msgid "This is a weird object... When I put it on, it's the first time I feel something like this... Such a... Mysticism..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:993
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1002
 msgid "I only hope that you won't speak like that ghost did. Unfinished sentences aren't in your style, cousin. We should already move forward."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:994
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1003
 msgid "This Person thinks that the Great Sovereign should keep this thing. It might turn out to be really valuable."
 msgstr ""
 
 #. [object]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:996
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1005
 msgid "Fang necklace"
 msgstr ""
 
 #. [object]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:998
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1007
 msgid "This necklace contains an inscription in an unknown language. It grants the wearer/owner/holder +20% resistance to all sources of damage."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1024
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1033
 msgid "Call the Great Sovereign over here! He should take it..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1052
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1061
 msgid "Barley! Leave it!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1053
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1062
 msgid "Owww!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1056
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1065
 msgid "Warf warf!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1057
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1066
 msgid "Leave it... Oh no, he has chewed it!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1058
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1067
 msgid "It looks like nothing has happened to the amulet. Hey, take a look! Barley's fur is shining!"
 msgstr ""
 
 #. [object]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1060
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1069
 msgid "Bite of a fang necklace"
 msgstr ""
 
 #. [object]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1062
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1071
 msgid "*Your wolf just gained +10% resistance to all sources of damage!*"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1080
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1089
 msgid "Call the Great Suverein over here! He should take it..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1099
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1108
 msgid "This Person is named Aidala... Do you want to spawn with me?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1100
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1109
 msgid "This dialogue was placed here by the autors. Actually, nagas do not spawn."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1103
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1109
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1112
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1118
 msgid "I feel a weird magic in this thing... May the Great Orc take care of it."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1115
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1124
 msgid "This thing not for trolls. We call smart orc."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1119
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1128
 msgid "A magical amulet... A weird thing it is... Let the leader of the Horde take it."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1142
+#: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:1151
 msgid "Shoo! Get out! Of all the things, I really didn't expected bats to be here."
 msgstr ""
 
@@ -3138,7 +3138,7 @@ msgstr ""
 
 #. [option]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:445
-msgid "In 2013 as the Maya clan predicted."
+msgid "In 2020 as the Maya clan predicted."
 msgstr ""
 
 #. [option]
