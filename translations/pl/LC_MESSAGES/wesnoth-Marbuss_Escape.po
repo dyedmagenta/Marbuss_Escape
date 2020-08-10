@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-10 17:39 UTC\n"
-"PO-Revision-Date: 2020-08-10 19:43+0200\n"
+"PO-Revision-Date: 2020-08-10 21:10+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -244,7 +244,7 @@ msgstr ""
 "Co? Seledynowe Miasto mieści się tylko kilka mil na południe i nigdy nie "
 "mieliśmy z ich strony żadnego aktu agresji. To placówka handlowa między "
 "Sojuszem Północy a Wesnoth. A nawet jeśli chcą się nas stąd pozbyć, dlaczego "
-"nie wysłali kogoś większego rangą!?"
+"nie wysłali kogoś większego rangą?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\01_Refugees.cfg:196
@@ -890,7 +890,7 @@ msgstr ""
 #. [event]: role=temp_undead
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:230
 msgid "Kochan, what can you see there? How many of them are left?"
-msgstr "Co widzisz, Kochan? Ilu ich tam jeszcze zostało!?"
+msgstr "Co widzisz, Kochan? Ilu ich tam jeszcze zostało?!"
 
 #. [event]: role=temp_undead
 #. [then]
@@ -919,7 +919,7 @@ msgid ""
 "What!? That is impossible... Why have we not noticed them? The march of such "
 "a big army couldn’t have stayed unnoticed!"
 msgstr ""
-"Co!? To niemożliwe... Dlaczego ich nie zauważyliśmy? Przemarsz takiej armii "
+"Co?! To niemożliwe... Dlaczego ich nie zauważyliśmy? Przemarsz takiej armii "
 "nie mógł pozostać niezauważony!"
 
 #. [event]: role=temp_undead
@@ -946,7 +946,7 @@ msgid ""
 "Were do you want to run!? Wherever we go, these corpses will hunt us down. "
 "We stand no chance to... Do... you want to lead us through Tut'anor pass?"
 msgstr ""
-"Gdzie chcesz uciekać!? Gdziekolwiek się nie udamy, te trupy nas dopadną. Nie "
+"Gdzie chcesz uciekać?! Gdziekolwiek się nie udamy, te trupy nas dopadną. Nie "
 "mamy szans, by... Ty... Chcesz przeprowadzić nas przez przełęcz Tut'anor?"
 
 #. [event]: role=temp_undead
@@ -1242,7 +1242,7 @@ msgid ""
 "easier. We just need to pass the brid.... What has happened here?"
 msgstr ""
 "Udało nam się przejść przez tę przeklętą przełęcz. Teraz droga będzie już o "
-"wiele prostsza. Wystarczy przejść przez mo.. Co tu się stało!?"
+"wiele prostsza. Wystarczy przejść przez mo.. Co tu się stało?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:206
@@ -1623,7 +1623,7 @@ msgstr "Co? Skąd się wzięła ta stara jaszczurka?"
 msgid ""
 "This is Emborgi-tarash. Our spiritual leader and the best oracle in our clan."
 msgstr ""
-"To jest Emborgi-tarash. Nasza duchowa przewodniczka i najlepsza wróżbitka w "
+"To jest Emborgi-tarasz. Nasza duchowa przewodniczka i najlepsza wróżbitka w "
 "naszym klanie."
 
 #. [command]
@@ -1764,7 +1764,7 @@ msgid ""
 msgstr ""
 "Okazało się jednak, że te dwie odmienne rasy mogą żyć w zgodzie. W obliczu o "
 "wiele bardziej poważnego zagrożenia byli zdolni zapomnieć o dzielących ich "
-"różnicach i ramię w ramię stanęli do boju, który niechybnie przegraliby "
+"różnicach i ramię w ramię stanęli do boju, który niechybnie przegraliby, "
 "działając osobno."
 
 #. [part]
@@ -1939,7 +1939,7 @@ msgstr ""
 #. [event]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:176
 msgid "What is this?! Who dares enter my home uninvited?"
-msgstr "Cóż to!? Kto śmie przychodzić w moje progi nieproszony!?"
+msgstr "Cóż to?! Kto śmie przychodzić w moje progi nieproszony?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:177
@@ -2403,7 +2403,7 @@ msgid ""
 "will get thrown to the pot himself if there is a need to do so! Just as his "
 "warriors who we caught!"
 msgstr ""
-"Słyszeliście go, chłopcy!? Temu staremu capowi wydaje się, że może nas od "
+"Słyszeliście go, chłopcy?! Temu staremu capowi wydaje się, że może nas od "
 "tak okłamywać! Sami wrzucimy go do gara, jeśli będzie trzeba! Tak samo jak "
 "jego wojowników, których złapaliśmy!"
 
@@ -2429,7 +2429,7 @@ msgstr "Inny ork?"
 #. [event]
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:326
 msgid "Who the hell are you?"
-msgstr "Kim ty do diabła jesteś!?"
+msgstr "Kim ty do diabła jesteś?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:327
@@ -2721,7 +2721,7 @@ msgid ""
 "arriving at their old home. In the end, however,  they had to set off to "
 "Gelu'Aben, leaving rescued Saurians behind."
 msgstr ""
-"Czarodzieje i ich potężna magia upadła pod naciskiem orkowych mieczy. Mroźna "
+"Czarodzieje i ich potężna magia upadli pod naciskiem orkowych mieczy. Mroźna "
 "północ okazała się złym miejscem na ćwiczenia magiczne i ludzką pychę, a "
 "uciskana rasa jaszczurów jeszcze raz pokazała, ile jest warta. W podbitych "
 "fortyfikacjach orkowie znaleźli sporo kosztowności, żywności oraz opału. "
@@ -2762,12 +2762,12 @@ msgid ""
 "destruction of Celadon City."
 msgstr ""
 "Droga do orkowej stolicy usiana była trudnościami. Wprawdzie zwiadowcy nie "
-"donosili już o pojawiających się upiorach, jednak pojawiło się nowe "
-"zagrożenie: patrole ludzi, elfów i krasnoludów. Sojusz Północy co prawda "
-"istniał, a niektóre orkowe plemiona cieszyły się jego szacunkiem, niemniej "
-"był to zbyt słaby argument, by nie zaatakować przemieszczającego się, "
-"osłabionego klanu Marbusa. Możliwe było też, że ktoś skojarzy sam klan ze "
-"zniszczeniem Seledynowego Miasta."
+"donosili już o upiorach, jednak pojawiło się nowe zagrożenie - patrole "
+"ludzi, elfów i krasnoludów. Sojusz Północy co prawda istniał, a niektóre "
+"orkowe plemiona cieszyły się jego szacunkiem, niemniej był to zbyt słaby "
+"argument, by nie zaatakować przemieszczającego się, osłabionego klanu "
+"Marbusa. Możliwe było też, że ktoś skojarzy sam klan ze zniszczeniem "
+"Seledynowego Miasta."
 
 #. [part]
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:46
@@ -3230,7 +3230,7 @@ msgstr ""
 #. [then]
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:654
 msgid "Silence, silence Barley... They are enemies."
-msgstr "Cicho, cicho Jęczmień... To wrogowie."
+msgstr "Cicho, cicho, Jęczmień... To wrogowie."
 
 #. [then]
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:655
@@ -3571,7 +3571,7 @@ msgid ""
 "off a nasty, acrid smell. That's how their journey through the deeps began."
 msgstr ""
 "Horda Marbusa wkroczyła w końcu w ciemne i wilgotne korytarze krasnoludów. "
-"Ostatni z orków: starcy i kobiety, które wlokły za sobą niewielkie wózki z "
+"Ostatni z orków, starcy i kobiety, które wlokły za sobą niewielkie wózki z "
 "dobytkiem i pożywieniem, a także nieliczne zwierzęta hodowlane, takie jak "
 "kozy i kurczaki, zostawili za sobą blade światło poranka. Od teraz ich drogę "
 "miały rozświetlać jedynie pochodnie oraz fosforyzujące grzyby, które rosły "
@@ -3698,7 +3698,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:313
 msgid "From now on, death of Emborgi-Tarash doesn't end the game."
-msgstr "Od teraz śmierć Emborgi-Tarash nie kończy gry."
+msgstr "Od teraz śmierć Emborgi-tarasz nie kończy gry."
 
 #. [message]: speaker=narrator
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:323
@@ -3842,7 +3842,7 @@ msgstr "Brussels"
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:520
 msgid "What's that, for the ancestors sake!? Grab yours swords!"
-msgstr "A cóż to, na przodków!? Chwyćcie za miecze!"
+msgstr "A cóż to, na przodków?! Chwyćcie za miecze!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:521
@@ -3945,7 +3945,7 @@ msgstr ""
 "wielką, słuszną śmiercią. To jednak sprawiłoby, że nie byłoby już nienawiści "
 "wśród nag i Sojuszu Północy. Krasnoludowie, elfowie a nawet Wielkie "
 "Królestwo Wesnoth... Wszyscy zaczęliby utożsamiać rasę Tej Osoby z czymś "
-"dobrym. Z czymś, co wyzbyło się mroku  dołączyło do nich, by łowić perły, "
+"dobrym. Z czymś, co wyzbyło się mroku, dołączyło do nich, by łowić perły, "
 "pomagać żeglarzom i płynąć z delfinami."
 
 #. [event]
@@ -3963,8 +3963,8 @@ msgstr ""
 "świadectwo mroku i zepsucia, Świadectwo Węża. Ta Osoba zebrała wszystkie "
 "swoje córy i ruszyła w jedyne miejsce, gdzie mogła przetrwać – do jaskiń. "
 "Tutaj więc, w mroku i ciemnościach, zaczęłyśmy składać skrzek, rosnąć w siłę "
-"i czekając chwili, w której mogłybyśmy zadać śmiertelny cios naszym wrogom. "
-"Ta Osoba sądzi, że ta chwila nadeszła."
+"i wyczekiwać chwili, w której mogłybyśmy zadać śmiertelny cios naszym "
+"wrogom. Ta Osoba sądzi, że ta chwila nadeszła."
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:531
@@ -4179,7 +4179,7 @@ msgstr "Szybko, moja Hordo, do tych tuneli!"
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:788
 msgid "What!? We are to flee now, after the battle has already started!?"
-msgstr "Co!? Mamy uciekać teraz, gdy już rozgorzała walka!?"
+msgstr "Co?! Mamy uciekać teraz, gdy już rozgorzała walka?!"
 
 #. [then]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:789
@@ -4228,7 +4228,7 @@ msgid ""
 "What are you talking about!? I rejoice that we vanquished our opponents! We "
 "should open barrels of beer and feast!"
 msgstr ""
-"O czym wy mówicie!? Cieszę się, że rozgromiliśmy naszych przeciwników! "
+"O czym wy mówicie?! Cieszę się, że rozgromiliśmy naszych przeciwników! "
 "Powinniśmy otworzyć beczułki z piwem i świętować!"
 
 #. [else]
@@ -4580,7 +4580,7 @@ msgid ""
 "This necklace contains an inscription in an unknown language. It grants the "
 "wearer/owner/holder +20% resistance to all sources of damage."
 msgstr ""
-"*Naszyjnik zawiera inskrypcję w nieznanym języku. Zapewnia posiadaczowi +20% "
+"Naszyjnik zawiera inskrypcję w nieznanym języku. Zapewnia posiadaczowi +20% "
 "odporności na każdy rodzaj obrażeń."
 
 #. [else]
@@ -4697,7 +4697,7 @@ msgstr ""
 "przychodziło przedzierać się przez zalane podziemne przejścia bądź szukać "
 "alternatywnej drogi poprzez podmokłe tereny. Kobiety te były tajemnicze, "
 "zabójcze, a w ich ruchach i sposobie bycia można było dostrzec coś "
-"mistycznego, co fascynowało poszczególnych orków, a innych napawało lękiem."
+"mistycznego, co fascynowało niektórych orków, a innych napawało lękiem."
 
 #. [part]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:38
@@ -5036,7 +5036,7 @@ msgstr ""
 #. [option]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:445
 msgid "In 2013 as the Maya clan predicted."
-msgstr "W 2013 roku, jak przepowiedział Klan Majów."
+msgstr "W 2020 roku, jak przepowiedział Klan Majów."
 
 #. [option]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:448
@@ -5208,7 +5208,7 @@ msgid ""
 "glad to be able to see the magnificence of your cities, corridors and mines "
 "again."
 msgstr ""
-"Witajcie krasnoludowie! Chylę głowę przed wspaniałością I długowiecznością "
+"Witajcie krasnoludowie! Chylę głowę przed wspaniałością i długowiecznością "
 "waszego rodu. Rada jestem, że znów przyszło mi oglądać wspaniałości waszych "
 "miast, korytarzy i kopalń."
 
@@ -5379,7 +5379,7 @@ msgstr "Pfffffaaaa!"
 #. [event]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:805
 msgid "For the Horde’s sake! What is that?"
-msgstr "Na Hordę! Cóż to jest!?"
+msgstr "Na Hordę! Cóż to jest?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:806
@@ -5502,7 +5502,7 @@ msgid ""
 "close."
 msgstr ""
 "Po wielu dniach marszu przez ciemne, wilgotne jaskinie krasnoludów, Marbus "
-"wyprowadził w końcu Wielka Hordę na powierzchnie. Wędrówka pochłonęła wiele "
+"wyprowadził w końcu Wielka Hordę na powierzchnię. Wędrówka pochłonęła wiele "
 "żyć. W podziemnych korytarzach spoczęły ciała nie tylko dzielnych "
 "wojowników, którzy ciągle liczyli się ze śmiercią, ale także dziesiątek "
 "kobiet i dzieci. W ostatnich dniach marszu nie było już wśród orków ani "
@@ -5526,13 +5526,13 @@ msgid ""
 "the orcs, they instilled dread in them, and warriors being on guard duty "
 "near the underground lakes never allowed themselves to close their eyes."
 msgstr ""
-"Ciemne korytarze, podziemne jeziora i urwiska budziły lek w orkach, jednak "
+"Ciemne korytarze, podziemne jeziora i urwiska budziły lęk w orkach, jednak "
 "okazały się prawdziwą udręką dla wielu żołnierzy jaszczurów. Lud ten był "
 "przystosowany do życia na rozległych równinach bagien, gdzie każdy powiew "
 "wiatru niósł ze sobą nowe informacje – czasem o zmianie pogody, czasem o "
 "zbliżającym się niebezpieczeństwie. Pod ziemią nie było wiatru, a jedynie "
 "wszechogarniająca pustka i ciasne korytarze, które przyprawiały jaszczury w "
-"klaustrofobiczne fobie. Gdyby nie twarda ręka Emborgi-tarash, wielu padłoby "
+"klaustrofobiczne fobie. Gdyby nie twarda ręka Emborgi-tarasz, wielu padłoby "
 "ofiarą obłędu. Jedynie Nagi czuły się tu pewnie, niekiedy odłączając się od "
 "grupy i podróżując samotnie przez mlecznobiałe, nieprzyjemnie pachnące "
 "podziemne rzeki. Nie opłakiwały swoich poległych sióstr, były niczym ciche "
@@ -5593,8 +5593,8 @@ msgid ""
 "Marbus of leaving them behind their enemies and of not being fit to rule. "
 "The tired warriors and their families had a different opinion on that issue."
 msgstr ""
-"Bezkrwawa ucieczka z jaskiń została odebrana różnie przez różnych "
-"przedstawicieli Hordy. Wielu byłych przywódców zarzuciło Marbusowi, ze "
+"Bezkrwawa ucieczka z jaskiń została odebrana rozmaicie przez różnych "
+"przedstawicieli Hordy. Wielu byłych przywódców zarzuciło Marbusowi, że "
 "zostawia za ich plecami wrogów oraz nie nadaje się do dzierżenia władzy. "
 "Inne zdanie na ten temat mieli sfatygowani marszem wojownicy oraz ich "
 "rodziny."
@@ -5624,10 +5624,10 @@ msgid ""
 msgstr ""
 "W końcu Wielka Horda wynurzyła się na powierzchnię, jednak Pola Kalindorskie "
 "nie powitały wojowników ani promieniami słońca, ani perspektywą rychłego "
-"końca problemow. Przed armią Marbusa rozciągały się bowiem ogromne połacie "
+"końca problemów. Przed armią Marbusa rozciągały się bowiem ogromne połacie "
 "jałowych pól, na których z rzadka można było dostrzec jakieś drzewo bądź "
-"inne oznaki życia. Nad całym zaś terenem unosiła się nieprzenikniona, "
-"mlecznobiała mgłą, która wypełniała płuca lodowym powietrzem pustkowi."
+"oznaki życia. Nad całym zaś terenem unosiła się nieprzenikniona, "
+"mlecznobiała mgła, która wypełniała płuca orków lodowym powietrzem pustkowi."
 
 #. [part]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:83
@@ -5644,7 +5644,7 @@ msgstr ""
 "Pierwsze dwie noce orkowie spędzili bez ognisk, przy których mogliby się "
 "ogrzać. Drewna wystarczało bowiem tylko na rozpalanie niewielkiego ognia pod "
 "garnkami, w których warzono gulasze z mięsa kretów, polnych myszy i "
-"nielicznych, jadalnych korzeni. Nawet najsilniejsi z orków byli już na "
+"nielicznych jadalnych korzeni. Nawet najsilniejsi z orków byli już na "
 "krawędzi swoich sił. Dopiero trzeciej nocy, gdy mgła nieco opadła, a światło "
 "księżyca w nowiu pozwoliło lepiej przyjrzeć się otoczeniu, rozpoznano "
 "kształt starożytnej, kamiennej twierdzy na horyzoncie. Nie czekając na świt, "
@@ -6017,7 +6017,7 @@ msgid ""
 msgstr ""
 "Jest ich zbyt wielu... Po jednej stronie duchy i widma, po drugiej "
 "kawaleria... Obie armie dysponują mobilnymi jednostkami, które mogą z "
-"łatwością do nas dotrzeć i nas wyeliminować."
+"łatwością tutaj dotrzeć i nas wyeliminować."
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:716
@@ -6026,10 +6026,10 @@ msgid ""
 "luck is on our side, we won’t draw much attention. We should move our units "
 "forward and form a wall which would protect the wounded."
 msgstr ""
-"Ciągle mamy to szczęście, że nieumarli i ludzie walczą także między sobą. "
-"Przy sprzyjających wiatrach nie będziemy wzbudzać ich większej uwagi... "
-"Powinniśmy wysunąć na przód nasze najsilniejsze oddziały i stworzyć z nich "
-"mur, za którym mogliby się schronić ranni."
+"Ciągle mamy to szczęście, że nieumarli i ludzie walczą także między sobą. W "
+"sprzyjających warunkach nie będziemy wzbudzać ich większego "
+"zainteresowania... Powinniśmy wysunąć na przód nasze najsilniejsze oddziały "
+"i stworzyć z nich mur, za którym mogliby się schronić ranni."
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:717
@@ -6154,7 +6154,7 @@ msgid ""
 "Remarkable!"
 msgstr ""
 "Tak... Nie sądziłem, że przyjdzie mi kiedyś dowodzić armią razem z "
-"goblinem... Muszę przyznać, że przez tą całą podróż i naszą ostatnią bitwę, "
+"goblinem... Muszę przyznać, że przez tę całą podróż i naszą ostatnią bitwę "
 "wiele się dowiedziałem o waszej rasie... Nawet was podziwiam. To, w jaki "
 "sposób dosiadacie wilków, jak sprawnie posługujecie się łukiem i strzałą... "
 "Niebywałe!"
@@ -6204,7 +6204,7 @@ msgid ""
 "wagons."
 msgstr ""
 "Marbus! Cieszę się, że wróciłeś... Niemniej, jak widzisz, nie bardzo możemy "
-"spełnić twoje wymagania. Zostaliśmy otoczeni, nie przebijemy się przez "
+"spełnić twoje życzenie. Zostaliśmy otoczeni, nie przebijemy się przez "
 "pierścień nieumarłych. Może w grupie naszych najlepszych żołnierzy... Jednak "
 "nie ze starcami, dziećmi i kobietami... Nie licząc już wozów z żywnością."
 
@@ -6254,7 +6254,7 @@ msgid ""
 "Cousin! What are you doing! I have not granted you permission! If you go, "
 "better be ready to face the consequences!"
 msgstr ""
-"Kuzynie! Co Ty wyprawiasz!? Nie dałem ci na to przyzwolenia! Jeśli "
+"Kuzynie! Co ty wyprawiasz?! Nie dałem ci na to przyzwolenia! Jeśli "
 "wyruszysz, możesz się liczyć z konsekwencjami!"
 
 #. [event]
@@ -6346,7 +6346,7 @@ msgstr ""
 "biec. Z bijącym mocno sercem rzuciłem się do zagrody, w której trzymaliśmy "
 "wilki. Zwierzęta znały mnie, choć nigdy nie ośmieliłem się żadnego z nich "
 "dotknąć. Jeszcze przed moim narodzeniem matka zdecydowała, że będę "
-"kusznikiem a nie jeźdźcem. Wtedy wszystko się zmieniło..."
+"kusznikiem, a nie jeźdźcem. Wtedy wszystko się zmieniło..."
 
 #. [part]
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:29
@@ -6466,7 +6466,7 @@ msgid ""
 "the local people will stop the undead long enough for us to manage to "
 "escape. I am starting to believe we may walk away from it in one piece."
 msgstr ""
-"Zdaje mi się, że wkraczamy na bardziej zamieszkane tereny. Jest szansa, że "
+"Zdaje mi się, że wkraczamy na bardziej zaludnione tereny. Jest szansa, że "
 "tutejsi mieszkańcy zatrzymają nieumarłych na tyle długo, byśmy zdążyli "
 "uciec. Zaczynam wierzyć, że uda nam się wyjść z tego cało."
 
@@ -6528,7 +6528,7 @@ msgid ""
 "him to run  ... We sense the heart pounding ... And we wish to tear it from "
 "the chest ..."
 msgstr ""
-"Czujemy desperację i determinację... Czujemy instynkt nakazujący ucieczki... "
+"Czujemy desperację i determinację... Czujemy instynkt nakazujący ucieczkę... "
 "Czujemy bijące szaleńczo serce... I pragniemy wyrwać je z piersi..."
 
 #. [event]
@@ -6557,7 +6557,7 @@ msgid ""
 "Look, my brothers, what is swimming in our direction! Let’s spear this pup "
 "and fill our duty for the Northern Alliance!"
 msgstr ""
-"Patrzcie, co do nas podpływa, bracia! Nadziejmy te orkowe szczenię na "
+"Patrzcie, co do nas podpływa, bracia! Nadziejmy to orkowe szczenię na "
 "włócznię i wypełnijmy swój obowiązek wobec Sojuszu Północy!"
 
 #. [event]
@@ -6853,7 +6853,7 @@ msgid ""
 "Marbus ... won’t let us down ... He is different from the rest ... He’s "
 "united all the clans ... We will not fall ..."
 msgstr ""
-"Marbus... Nas nie zawiedzie... On jest inny, niż reszta... Zjednoczył "
+"Marbus... Nas nie zawiedzie... On jest inny niż reszta... Zjednoczył "
 "wszystkie klany... Nie upadniemy..."
 
 #. [command]
@@ -6895,7 +6895,7 @@ msgstr ""
 "wyobrazić. Przeżyłem atak nieumarłych, odbiłem z rąk Sojuszu Północy naszą "
 "stolicę, by następnie ją spalić i wkroczyć w sam środek kopalń krasnoludów, "
 "z których się wydostałem! Na końcu zdołałem uciec tysiącom goniących mnie "
-"upiorów, a ty twierdzisz, że jesteś w stanie mnie zabić!?"
+"upiorów, a ty twierdzisz, że jesteś w stanie mnie zabić?!"
 
 #. [command]
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:478
@@ -6986,7 +6986,7 @@ msgstr ""
 "Brawurowa jazda Kochana i wycofanie się wojsk Sojuszu Północy pozwoliły "
 "orkom ruszyć na północ. Tak zaczęła się kolejna szaleńcza ucieczka przez "
 "nieznane i nieprzyjazne tereny. Marbus, wraz ze swoimi najlepszymi "
-"żołnierzami, pędził na przedzie. Za nim zaś rozciągała się długa, poszarpana "
+"żołnierzami, pędził na czele. Za nim zaś rozciągała się długa, poszarpana "
 "linia orków, którzy kiedyś zwać się mogli Wielką Hordą. Teraz wyglądali nie "
 "lepiej niż ubodzy, wykończeni wojną uchodźcy, którzy nikomu nie mogli już "
 "zagrozić."
@@ -7252,7 +7252,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:252
 msgid "Repel forces of Northern Alliance and Elvish Jarls as long as possible"
 msgstr ""
-"Odpieraj siły Sojuszu Północy i Elfickich Jarlów tak długo jak to możliwe"
+"Odpieraj siły Sojuszu Północy i Elfickich Jarlów tak długo, jak to możliwe"
 
 #. [objective]: condition=lose
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:258
@@ -7675,7 +7675,7 @@ msgid ""
 "show you how a dwarwish ... Hic! Regiment fights! Give them to me! Hammers! "
 "Hit the hammers on their skeletons!"
 msgstr ""
-"Gdy!? Gdy co!? Nie wymądrzaj się, Ir... Hyk!... Ick... Zaraz pokażę wam, jak "
+"Gdy?! Gdy co?! Nie wymądrzaj się, Ir... Hyk!... Ick... Zaraz pokażę wam, jak "
 "walczy... Hyk!... Krasnoludzki hufiec! Tylko mi ich dajcie! Młotami! Młotami "
 "po szkieletach!"
 
@@ -8043,7 +8043,7 @@ msgid ""
 "descendant of the Great Landar, the Red Riding Hood (nie pamiętam jak to "
 "wcześniej tłumaczyłem?), the ruler of the Blood Elves!"
 msgstr ""
-"Nasi Jarlowie? Nasi!? O nie... My nie podlegamy władzy jarlów, wróżek bądź "
+"Nasi Jarlowie? Nasi?! O nie... My nie podlegamy władzy jarlów, wróżek bądź "
 "lordów! Jesteśmy całkowicie wolni! Stoisz przed potomkinią wielkiego "
 "Landara, przed Czerwonym Kapturkiem, władczynią Krwawych Elfów!"
 
@@ -8124,7 +8124,7 @@ msgid ""
 "not going to change this tradition. We will slaughter you! Arrows on the "
 "bowstrings!"
 msgstr ""
-"Co? Ty mi darujesz!? Od wieków nasze rasy walczyły ze sobą, a ja nie mam "
+"Co? Ty mi darujesz?! Od wieków nasze rasy walczyły ze sobą, a ja nie mam "
 "zamiaru zmieniać tej tradycji. Wyrżniemy was! Strzały na cięciwy!"
 
 #. [event]
@@ -8134,7 +8134,7 @@ msgid ""
 "courage to kill an elvish girl, do you?"
 msgstr ""
 "Auu... Psia krew! No dalej, zrób to! Na co mam czekać? A może nie masz "
-"odwagi, by zabić elfią dziewczynę, co!?"
+"odwagi, by zabić elfią dziewczynę, co?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:227
@@ -8406,7 +8406,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:507
 msgid "What the ...? A stone? Some magical contraption ... I may be useful."
 msgstr ""
-"Co do...!? Kamień! Jakieś magiczne ustrojstwo... Pewnie będzie nam potrzebne."
+"Co do...?! Kamień! Jakieś magiczne ustrojstwo... Pewnie będzie nam potrzebne."
 
 #. [scenario]: id=11_Gjallarhorn
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:508
@@ -8518,7 +8518,7 @@ msgid ""
 "and unblock the passage for us?"
 msgstr ""
 "Więc co mamy robić? Wezwać elfią wróżkę, by rzuciła zaklęcia i odblokowała "
-"dla nas przejście!?"
+"dla nas przejście?!"
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:617
@@ -8834,7 +8834,7 @@ msgstr "Ostrzyć miecze! Teraz mamy szansę! Wyrwać drzewca z korzeniami!"
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:921
 msgid "What ... what ...? What!? Who dares enter Clubs’s dwelling!?"
-msgstr "Omomo... Co... Co...? Co!? Kto śmie wdzierać się do siedziby Trefla!?"
+msgstr "Omomo... Co... Co...? Co?! Kto śmie wdzierać się do siedziby Trefla?!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:922
@@ -8946,7 +8946,7 @@ msgid ""
 "You think it is so easy? Before you the the Gjallarhorn, first you have to "
 "defeat me!"
 msgstr ""
-"Myślicie, że to takie proste!? By zabrać Róg Gjallarhorn, najpierw musicie "
+"Myślicie, że to takie proste?! By zabrać Róg Gjallarhorn, najpierw musicie "
 "pokonać mnie!"
 
 #. [event]
@@ -9399,7 +9399,7 @@ msgid ""
 "them all!"
 msgstr ""
 "Co?! Więc ratowaliśmy ich życia tylko po to, by później odesłać ich do domu "
-"i nie otrzymać żadnej pomocy w walce z Dzikim Gonem!? Nie pozwolę na to! Już "
+"i nie otrzymać żadnej pomocy w walce z Dzikim Gonem?! Nie pozwolę na to! Już "
 "wolę ich wszystkich wyrżnąć!"
 
 #. [event]
@@ -9991,7 +9991,7 @@ msgstr ""
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:783
 msgid "Why he is still here? He should disappear, when you destroyed him!"
-msgstr "Dlaczego on jeszcze tu jest!? Powinien zniknąć, gdy go zniszczyłeś!"
+msgstr "Dlaczego on jeszcze tu jest?! Powinien zniknąć, gdy go zniszczyłeś!"
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:784
@@ -13230,7 +13230,7 @@ msgid ""
 "who dared to discriminate them. Soon their race regained their power and "
 "became equally as strong as orcs."
 msgstr ""
-"Emborgi-tarash brała udział w najważniejszych bitwach Wielkiej Hordy oraz "
+"Emborgi-tarasz brała udział w najważniejszych bitwach Wielkiej Hordy oraz "
 "wielu tych, o których się nie mówiło. Choć przewidziała swoją śmierć na polu "
 "walki, nie znalazła jej. Przynajmniej nie za panowania Marbusa. Pod jej "
 "przewodnictwem jaszczury odnowiły swoje sabaty i wierzenia, a także "
@@ -13248,7 +13248,7 @@ msgid ""
 "for good, and terrible fate awaited anyone who dared to discriminate them. "
 "Soon their race regained their power and became equally as strong as orcs."
 msgstr ""
-"Emborgi-tarash odnalazła swoją śmierć na polu bitwy, tak jak przepowiedziała "
+"Emborgi-tarasz odnalazła swoją śmierć na polu bitwy, tak jak przepowiedziała "
 "wiele wieków temu. Jej rasa wznosiła modły, odprawiała rytuały i śpiewy, a w "
 "końcu podniosła się z żałoby. Pod przewodnictwem Marbusa jaszczury odzyskały "
 "dawną chwałę, odnowiły swoje sabaty i wierzenia, a także zaludniły północ. "
@@ -14132,7 +14132,7 @@ msgstr "Śmierć Kochana"
 #. [objective]: condition=lose
 #: Marbuss_Escape\utils\deaths.cfg:213
 msgid "Death of Emborgi-Tarash"
-msgstr "Śmierć Emborgi-Tarash"
+msgstr "Śmierć Emborgi-tarasz"
 
 #. [objective]: condition=lose
 #: Marbuss_Escape\utils\deaths.cfg:225
