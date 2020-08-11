@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-10 19:14 UTC\n"
-"PO-Revision-Date: 2020-08-10 21:15+0200\n"
+"POT-Creation-Date: 2020-08-11 14:11 UTC\n"
+"PO-Revision-Date: 2020-08-11 16:11+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -95,7 +95,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:38
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:51
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:42
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:62
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:60
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:47
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:122
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:61
@@ -456,7 +456,7 @@ msgstr "Natura"
 
 #. [event]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:156
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:145
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:143
 #: Marbuss_Escape\scenarios\04B_The_Madness_of_Hunger.cfg:229
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:355
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:217
@@ -716,7 +716,7 @@ msgstr ""
 msgid ""
 "Winter turned out to be even worse than expected. What is more, everything "
 "was surrounded by odd, worrying fog. Fear aroused in orcish hearts and was "
-"creeping into their dreams. Not so long after that, a rumour appeared  that "
+"creeping into their dreams. Not so long after that, a rumour appeared that "
 "the forests were not safe anymore. A number of those who entered them, "
 "perished forever. Thus, the dwellers started to get wood in the close "
 "proximity to the villages. Soon after they had run out of it, the wooden "
@@ -896,7 +896,7 @@ msgstr "Co widzisz, Kochan? Ilu ich tam jeszcze zostało?!"
 #. [then]
 #. [event]
 #: Marbuss_Escape\scenarios\02_Bone_Tempest.cfg:231
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:259
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:257
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:656
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:358
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:448
@@ -1286,8 +1286,8 @@ msgstr ""
 msgid ""
 "The wolf raider is right, orcish lord. Almost a year ago, I and my brothers "
 "were banished by human mages from the swamps in the west. We stayed here. We "
-"were on good terms with  the orcs from the settlement. Soon, trade between "
-"us started to flourish. We gave them medications  and they gave us metals... "
+"were on good terms with the orcs from the settlement. Soon, trade between us "
+"started to flourish. We gave them medications and they gave us metals... "
 "Everything changed a month ago."
 msgstr ""
 "Jeździec wilka ma rację, wodzu orków... Niecały rok temu ja i moi bracia "
@@ -1725,7 +1725,7 @@ msgid "No! Without the help of the saurians we won't defeat the undead."
 msgstr "Nie! Bez pomocy jaszczurów nie pokonamy nieumarłych."
 
 #. [part]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:8
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:6
 msgid ""
 "A recent danger, the mighty undead, feared by children and women, in front "
 "of whom orcs had been falling ... has been defeated. Even though it happened "
@@ -1740,7 +1740,7 @@ msgstr ""
 "najstraszliwsze demony mogą zostać pokonane..."
 
 #. [part]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:12
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:10
 msgid ""
 "They managed to do it only thanks to the help of Saurians. When years ago "
 "sovereign Gewold refused them to help and shelter them, everyone was "
@@ -1755,7 +1755,7 @@ msgstr ""
 "nigdy nie doszło."
 
 #. [part]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:16
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:14
 msgid ""
 "Yet it even turned out that these two races could live in harmony. In face "
 "of much more serious danger they were able to forget separating them their "
@@ -1768,7 +1768,7 @@ msgstr ""
 "działając osobno."
 
 #. [part]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:20
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:18
 msgid ""
 "Saurian units, salted in battles and disciplined, joined Marbus's forces. "
 "They were commanded by an old Saurian Oracle, Emborgi-tarash - mysterious "
@@ -1783,7 +1783,7 @@ msgstr ""
 "jednak ona zaczęła do nich należeć niemal natychmiast, gdy się pojawiła."
 
 #. [part]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:24
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:22
 msgid ""
 "After a two-days march, Marbus's army reached the place where they were to "
 "face way a less terrifying opponent. It was a school of magi in the north. "
@@ -1808,52 +1808,52 @@ msgstr ""
 "skarbów? Więc czego...? Duszy...?"
 
 #. [scenario]: id=04A_Steel_and_Magic
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:46
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:44
 msgid "Steel and Magic"
 msgstr "Magia i Stal"
 
 #. [side]: id=Umberg, type=Arch Mage
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:79
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:77
 msgid "Honorable Umberg"
 msgstr "Wielmożny Umberg"
 
 #. [side]: id=Tambaros, type=White Mage
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:103
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:101
 msgid "Scribe Tambaros"
 msgstr "Skryba Tambaros"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:146
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:144
 msgid "The Mage Stronghold"
 msgstr "Twierdza Magów"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:147
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:145
 msgid "The University"
 msgstr "Uniwersytet"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:148
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:146
 msgid "Southern Watchtower"
 msgstr "Strażnica Południowa"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:149
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:147
 msgid "Northern Watchtower"
 msgstr "Strażnica Północna"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:150
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:148
 msgid "Western Watchtower"
 msgstr "Strażnica Zachodnia"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:151
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:149
 msgid "Reptile Ruins"
 msgstr "Jaszczurze Ruiny"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:156
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:154
 msgid ""
 "It‘s an unpleasant place. Swamps and quags. At least it's warmer here than "
 "near the river."
@@ -1862,7 +1862,7 @@ msgstr ""
 "przy rzece."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:157
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:155
 msgid ""
 "Sometimes, I had a feeling that the shamaness lead us into such a terrain on "
 "purpose. If it was a Saurian ambush, we wouldn't be able to defend here. On "
@@ -1875,7 +1875,7 @@ msgstr ""
 "natomiast zimnokrwiści zdają się być w swoim żywiole."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:158
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:156
 msgid ""
 "I don't fear the confrontation with lizards. There are too few of them to "
 "threaten us. Also, there is no reason not to trust them. Now silence, their "
@@ -1886,7 +1886,7 @@ msgstr ""
 "tutaj ich przywódczyni."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:159
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:157
 msgid ""
 "Lord of orcs, we have arrived in our homeland. I can smell the odour of the "
 "human-scum. The odour of their coloured clothes, their elixirs, their magic! "
@@ -1897,7 +1897,7 @@ msgstr ""
 "zostać przepędzeni!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:160
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:158
 msgid ""
 "We will keep our promise, shamaness. But please, tell me, what help shall I "
 "expect from you?"
@@ -1906,7 +1906,7 @@ msgstr ""
 "z waszej strony?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:161
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:159
 msgid ""
 "You will be able to recruit our best fighters and shamen. They are fast and "
 "dexterous, so they will easily kill anyone who sets their feet at the swamp."
@@ -1915,7 +1915,7 @@ msgstr ""
 "zwinni, z łatwością zabiją każdego, kto postawi stopę na bagnach."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:162
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:160
 msgid ""
 "Apart from that, on these cursed humans' territories, there are some "
 "settlements of our brothers left. Among them, you'll find good old warriors. "
@@ -1924,11 +1924,11 @@ msgid ""
 msgstr ""
 "Prócz tego na terenie tych przeklętych ludzi ostało się kilka osad z naszymi "
 "braćmi. Wśród nich znajdziesz starych, dobrych wojowników. Ich pomoc może "
-"być dla Ciebie nieopisanym wsparciem w tej bitwie, przesądzając nawet o jej "
+"być dla ciebie nieopisanym wsparciem w tej bitwie, przesądzając nawet o jej "
 "wyniku."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:175
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:173
 msgid ""
 "Our wolves should quickly reach the rebels and inform them about the battle. "
 "We should..."
@@ -1937,12 +1937,12 @@ msgstr ""
 "Powinniśmy..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:176
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:174
 msgid "What is this?! Who dares enter my home uninvited?"
 msgstr "Cóż to?! Kto śmie przychodzić w moje progi nieproszony?!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:177
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:175
 msgid ""
 "These are orcs, Master. I can also see some Saurians among them. Probably, "
 "they hope to regain these lands. They seem freezing cold and exhausted "
@@ -1953,7 +1953,7 @@ msgstr ""
 "stawiać oporu zbyt długo."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:178
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:176
 msgid ""
 "As I thought... Every orc should die by the sword and every lizard should "
 "crawl under our feet. Call our adepts and soldiers, kill them all! When they "
@@ -1965,7 +1965,7 @@ msgstr ""
 "ruszymy za nimi w pościg."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:179
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:177
 msgid ""
 "Like after aurochs? Unfortunately, these animals won't provide us with such "
 "expensive trophies...Oh well, at least our adepts will practise their spells."
@@ -1974,7 +1974,7 @@ msgstr ""
 "cenne trofeum. No cóż, przynajmniej nasi adepci poćwiczą zaklęcia."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:180
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:178
 msgid ""
 "Humans' pride has never had any boundaries. These people were always filled "
 "with it. Pride and arrogance poured into them when Haldric I touched the "
@@ -1988,12 +1988,12 @@ msgstr ""
 "wiedzy i siły. A jest to głód potężny, którego nic nie ugasi."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:181
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:179
 msgid "Hum? How can you know such things?"
 msgstr "Hę? Skąd wiesz takie rzeczy?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:182
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:180
 msgid ""
 "Tribes pass away, kings replace kings. Yet we live and remember. And we get "
 "our knowledge across. Although my eyes turned pale many years ago, I still "
@@ -2004,7 +2004,7 @@ msgstr ""
 "pamiętam jeszcze wspaniałe miasto Saurgath..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:183
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:181
 msgid ""
 "I don't mean to break your conversation, but the battle is coming. Your "
 "knowledge is amazing, but how about your arms? Are they worth anything?"
@@ -2013,7 +2013,7 @@ msgstr ""
 "zadziwiająca, ale jak jest z orężem? Jest coś wart?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:184
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:182
 msgid ""
 "Sssonsss! To armsss! Show them the power slumbering in our boiling blood! "
 "Let's reclaim our homeland!"
@@ -2022,52 +2022,52 @@ msgstr ""
 "Odbijmy naszą ojczyznę!"
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:188
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:186
 msgid "Defeat Umberg"
 msgstr "Pokonaj Umberga i Tambarosa"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:211
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:209
 msgid "Swashbuckling Ashenvol"
 msgstr "Zawadiaka Ashenvol"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:212
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:210
 msgid "Eshanvel, Son of Ashenvol"
 msgstr "Eshanvel, Syn Ashenvola"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:213
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:211
 msgid "Warriors! Grab your spears, it's time to get our lands back!"
 msgstr "Wojownicy! Chwyćcie za swoje włócznie, pora odzyskać nasze ziemie!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:214
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:212
 msgid "I report that more Saurians joined our forces!"
 msgstr "Melduję, że kolejne jaszczurki dołączyły do naszych sił!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:223
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:221
 msgid "Kira-Suki the Fastfeet"
 msgstr "Szybkostopy Kira-Suki"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:224
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:222
 msgid "Elgradesh"
 msgstr "Elgradesz"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:225
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:223
 msgid "Ondriagashi"
 msgstr "Ondriagaszi"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:226
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:224
 msgid "Nenuki the Blind"
 msgstr "Ślepy Nenuki"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:227
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:225
 msgid ""
 "These are the main forces of our rebels. Come on, come to me, children! "
 "Slaughter this human-scum!"
@@ -2076,32 +2076,32 @@ msgstr ""
 "ludzkie ścierwo!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:228
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:226
 msgid "Indeed... Their forces look impressive."
 msgstr "Rzeczywiście... Ich siły wyglądają imponująco."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:229
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:227
 msgid "We'll admire them later, now let's focus on our enemy."
 msgstr "Będziemy zachwycać się nimi później, teraz skupmy się na przeciwniku."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:238
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:236
 msgid "Brother Eriskuri"
 msgstr "Brat Eriskuri"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:239
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:237
 msgid "Brother Obenshiru"
 msgstr "Brat Obensziru"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:240
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:238
 msgid "For the great Saurgath! I can sense here the Ancient..."
 msgstr "Za wielki Saurgath! Wyczuwam tutaj Starożytną..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:241
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:239
 msgid ""
 "You sense well, my child. Now dress your battle clothes, let's push human-"
 "ssscum into swamps!"
@@ -2110,19 +2110,19 @@ msgstr ""
 "zepchnijmy ludzkie śśśścierwo w bagna!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:258
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:256
 msgid ""
 "What is it...? Am I bleeding? Master... Master, I'm dying! Save me, master!"
 msgstr ""
 "Cóż to...? Czy krwawię? Mistrzu... Mistrzu, umieram! Ratuj mnie, Mistrzu!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:260
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:258
 msgid "Master! You...?!"
 msgstr "Mistrzu! Czy ty...?!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:261
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:259
 msgid ""
 "As you didn't manage to beat a few orcs, you aren't worthy of my help, "
 "Tambaros. I am sorry."
@@ -2131,28 +2131,28 @@ msgstr ""
 "Tambarosie. Przykro mi."
 
 #. [then]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:262
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:260
 msgid "This is the end..."
 msgstr "To koniec..."
 
 #. [else]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:265
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:263
 msgid "Argh! I can't believe it!"
 msgstr "Argh! Nie mogę w to uwierzyć!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:277
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:275
 msgid ""
-"Who... ekhh... Who was able to beat me? Me... the mighty... Umberg...  "
-"Umberg the Brave from the house of... Enlightened? Anyway... I don't care. I "
-"won't die here... I summon the powerful spirits... May they heal my wounds."
+"Who... ekhh... Who was able to beat me? Me... the mighty... Umberg... Umberg "
+"the Brave from the house of... Enlightened? Anyway... I don't care. I won't "
+"die here... I summon the powerful spirits... May they heal my wounds."
 msgstr ""
 "Kto... Ekhe... Kto był w stanie mnie pokonać? Mnie... Wielmożnego... "
 "Umberga... Umberga Śmiałego z rodu... Światłych? Zresztą... To nieważne. Nie "
 "umrę tutaj... Wzywam potężne duchy... Niech uleczą moje rany."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:278
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:276
 msgid ""
 "I've already heard about it. However, only necromancers are able to do it. "
 "Ressurect. This is a great feat. If this mage resurrects again, we will be "
@@ -2163,7 +2163,7 @@ msgstr ""
 "w niezłych opałach. Nie uda nam się wygrać takiej bitwy po raz drugi."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:279
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:277
 msgid ""
 "Sss... I summon the spirits of this place. The spirits of marshes that "
 "guided us and our ancestors through ages. Come forth, ancient sages! May the "
@@ -2175,23 +2175,23 @@ msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:307
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:311
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:315
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:324
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:328
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:332
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:305
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:309
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:313
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:322
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:326
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:330
 msgid ""
 "May the power of your voices push this human into the abysses of nihility!"
 msgstr "Niech siły waszych głosów zepchną tego człowieka w czeluści nicości!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:342
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:340
 msgid "Argh! Nooo... Nooooooo!"
 msgstr "Argh! Niee... Nieeeeeee!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:354
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:352
 msgid ""
 "These are very powerful spells. I didn't expect to see something like that. "
 "You are an amazing augur, Emborgi-Tarash."
@@ -2200,7 +2200,7 @@ msgstr ""
 "Jesteś niesamowitą wróżbitką, Emborgi-tarash."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:355
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:353
 msgid ""
 "This spell costed me much energy. The walls and fortifications of humans "
 "will remain in the swamps for ages. At least one hundred years need to pass "
@@ -2213,12 +2213,12 @@ msgstr ""
 "wróżbici."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:356
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:354
 msgid "Other augurs? What do you mean?"
 msgstr "Inni wróżbici? Co masz na myśli, wróżbitko?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:357
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:355
 msgid ""
 "In my visions, I have seen the chronology of the fate's threads, young "
 "ruler. My destiny is to follow you, leading my brothers and sisters. This is "
@@ -2229,7 +2229,7 @@ msgstr ""
 "nasz praojciec i tak też uczynię."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:358
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:356
 msgid ""
 "Fine, augur. With your and your Saurians‘ help we'll quickly reach Gelu'Aben."
 msgstr ""
@@ -2237,7 +2237,7 @@ msgstr ""
 "dotrzeć do Gelu'Aben."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:359
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:357
 msgid ""
 "The surviving mages are running away through the marches. I don't expect "
 "them to escape our wolves. The humans had quite a lot of supplies here."
@@ -2246,7 +2246,7 @@ msgstr ""
 "wilkami. Ludzie mieli tutaj całkiem dużo zapasów."
 
 #. [event]
-#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:360
+#: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:358
 msgid ""
 "Command our orcs and Saurians to take all the supplies and the most "
 "necessary things. We'll stock up and rest. We are going to leave this place "
@@ -2535,7 +2535,7 @@ msgid ""
 "anyway... Turmoil, hunger... It will destroy you, just like it destroyed "
 "me..."
 msgstr ""
-"Grr... Dobry z Ciebie wojownik... Marbus... Ale i tak nie masz szans... "
+"Grr... Dobry z ciebie wojownik... Marbus... Ale i tak nie masz szans... "
 "Zawierucha, głód... Wykończy cię to, tak jak wykończyło mnie..."
 
 #. [event]
@@ -2718,7 +2718,7 @@ msgid ""
 "worth. Inside the conquered fortifications, the orcs found many treasures, "
 "much food and fuel. So that they could feast during the whole week, warming "
 "up by fireplaces. Simultaneously newer and newer reptile tribes were "
-"arriving at their old home. In the end, however,  they had to set off to "
+"arriving at their old home. In the end, however, they had to set off to "
 "Gelu'Aben, leaving rescued Saurians behind."
 msgstr ""
 "Czarodzieje i ich potężna magia upadli pod naciskiem orkowych mieczy. Mroźna "
@@ -2942,7 +2942,7 @@ msgstr ""
 msgid ""
 "Oh hell... This is Marbus... I didn't expect to see him here... Marbus! Why "
 "the hell did you come here? As you can see, I am doing very well. I brought "
-"here both the  Alliance and the dwarves. I don't have to go after them, I'll "
+"here both the Alliance and the dwarves. I don't have to go after them, I'll "
 "kill both of them in front of my stronghold!"
 msgstr ""
 "Zaraza... To Marbus... Nie sądziłem, że go tutaj zobaczę... Marbus! Po co "
@@ -3187,7 +3187,7 @@ msgstr ""
 #. [then]: id=s25Yeti
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:632
 msgid ""
-"Haha...  Meet the White God, Gewold! It seems our friends from the pass have "
+"Haha... Meet the White God, Gewold! It seems our friends from the pass have "
 "come to help us!"
 msgstr ""
 "Hahaha... Poznaj Białego Boga, Gewoldzie! Zdaje się, że nasi przyjaciele z "
@@ -3203,7 +3203,7 @@ msgstr "Co? Elfy! Ale skąd..."
 msgid ""
 "What have you been doing in the south, Marbus? The Northern Alliance has "
 "been joined by almost every race, even the drakes and... ugh, some orcish "
-"tribes... They constitute the greatest military force now  and are competing "
+"tribes... They constitute the greatest military force now and are competing "
 "with Knalga for the economy..."
 msgstr ""
 "Co wyście robili na tym południu, Marbus? Do Sojuszu Północy przyłączyły się "
@@ -3383,8 +3383,8 @@ msgid ""
 "they managed to dress their wounds, say goodbye to the dead and feed the "
 "hungry. The orcish elders decided to take out the last supplies out of the "
 "granaries and a great feast was held, with Marbus as the guest of honour. "
-"Everybody's happiness lasted the whole day. The one day  when they managed "
-"to forget about the winter, the hordes of undead and about the Northern "
+"Everybody's happiness lasted the whole day. The one day when they managed to "
+"forget about the winter, the hordes of undead and about the Northern "
 "Alliance running rampant."
 msgstr ""
 "Siły krasnoludów i Sojuszu Północy zostały rozgromione, a klan Marbusa "
@@ -3440,7 +3440,7 @@ msgid ""
 "And then the elders spoke up – there was an abandoned fortress in the east, "
 "over the mountains. It was situated in the mysterious Kalindor Fields. There "
 "are supposed to be Ancient orcish writings containing knowledge on how to "
-"survive such an apocalypse  were to be found over there. which contain "
+"survive such an apocalypse were to be found over there. which contain "
 "knowledge about how to survive such apocalypse. The whole plan seemed to be "
 "based on tales and myths, but in the current situation, no one could come up "
 "with a better solution. Moreover, no one could figure out how to get through "
@@ -3582,7 +3582,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:294
 msgid ""
 "Yuck! These mushrooms stink so terribly that even our wargs start to yelp. I "
-"start to doubt in the point of our journey, Marbus. We have  already been "
+"start to doubt in the point of our journey, Marbus. We have already been "
 "walking for a few hours, and the tunnels are becoming narrower and narrower."
 msgstr ""
 "Fuj! Te grzyby śmierdzą tak strasznie, że nawet nasze wargi zaczynają "
@@ -3857,7 +3857,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:531
 msgid ""
 "Are my senses failing me? How is it possible that a once proud race of nagas "
-"settled under the ground? I remember times when our folks made one  were "
+"settled under the ground? I remember times when our folks made one were "
 "united, ruling the swamps and rivers on the whole continent."
 msgstr ""
 "Czyż nie mylą mnie zmysły? Jakże to możliwe, że dumna niegdyś rasa nag "
@@ -4204,7 +4204,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:802
 msgid ""
 "Our enemies are dead. We achieved a great victory over here. But I'm worried "
-"that soon  all nearby dwarven clans will find out about this massacre. They "
+"that soon all nearby dwarven clans will find out about this massacre. They "
 "will seek revenge."
 msgstr ""
 "Nasi wrogowie już nie żyją. Odnieśliśmy tutaj piękne zwycięstwo. Martwi mnie "
@@ -4432,7 +4432,7 @@ msgstr ""
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:907
 msgid ""
-"Yes... It had  happened before... But not here. In the far, far west... When "
+"Yes... It had happened before... But not here. In the far, far west... When "
 "the dark Wesfolk people stood in front of us tearing us out from our battle-"
 "realms... Our primal world from which we were summoned by the liches..."
 msgstr ""
@@ -4901,8 +4901,8 @@ msgstr ""
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:390
 msgid ""
 "Do not make hasty judgements... Remember that the Northern Alliance recruits "
-"orcs into their army. We can pass ourselves off as them and  get to the "
-"other side of the caves."
+"orcs into their army. We can pass ourselves off as them and get to the other "
+"side of the caves."
 msgstr ""
 "Nie sądźmy pochopnie... Pamiętajmy o tym, że Sojusz Północy ma w swojej "
 "armii orków. Możemy się za nich podać, by przejść na drugą stronę jaskiń."
@@ -5228,7 +5228,7 @@ msgid ""
 "of the danger that emerged from the north we are all equal, my child... "
 "There is no sense in fighting each other anymore. Let us pass."
 msgstr ""
-"Bo w istocie tak się stało... Horda zrozumiała swoje błędy...  W obliczu "
+"Bo w istocie tak się stało... Horda zrozumiała swoje błędy... W obliczu "
 "zagrożenia, które pojawiło się na północy, wszyscy jesteśmy równi, moje "
 "dziecko... Nie ma sensu dalej ze sobą walczyć. Pozwólcie nam przejść."
 
@@ -5324,9 +5324,9 @@ msgstr ""
 #. [command]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:576
 msgid ""
-"So the Horde has gathered again? I may have few soldiers, but  we will "
-"oppose you - your journey ends here! Come, brothers! Make this corridors "
-"flood with the blood of the orcish dogs!"
+"So the Horde has gathered again? I may have few soldiers, but we will oppose "
+"you - your journey ends here! Come, brothers! Make this corridors flood with "
+"the blood of the orcish dogs!"
 msgstr ""
 "A więc Horda znów się zebrała? Choć mam niewielu żołnierzy, stawimy wam "
 "opór! Dalej, bracia! Niech nasze korytarze spłyną krwią orkowych psów!"
@@ -6525,7 +6525,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:267
 msgid ""
 "We sense the desperation and determination ... We sense the instinct urging "
-"him to run  ... We sense the heart pounding ... And we wish to tear it from "
+"him to run ... We sense the heart pounding ... And we wish to tear it from "
 "the chest ..."
 msgstr ""
 "Czujemy desperację i determinację... Czujemy instynkt nakazujący ucieczkę... "
@@ -6646,7 +6646,7 @@ msgid ""
 "Peace to you, wolf rider. I’ve seen your struggles in the battle with the "
 "undead. You’ve managed to find a sheltered place. Out magic barrier can be "
 "crossed only by those who has my people’s permission, or a person with a "
-"pure heart  not tarnished with hate. Until now, no orc has been able to do "
+"pure heart not tarnished with hate. Until now, no orc has been able to do "
 "that. You are the first one."
 msgstr ""
 "Pokój ci, jeźdźcze wilka. Dostrzegłam twoje zmagania w walce z nieumarłymi. "
@@ -6995,7 +6995,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:26
 msgid ""
 "Minutes became hours, and the hours became days. The ones who had horses "
-"could afford a moment of luxury  while sleeping in a saddle. The other set "
+"could afford a moment of luxury while sleeping in a saddle. The other set "
 "provisional camps, hid in the bush and promised to follow the march once "
 "they had a nap. It was clear that at least half of them would not return. A "
 "lot of them desired for a stop, but Marbus continuously pressed north, "
@@ -7238,7 +7238,7 @@ msgstr ""
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:247
 msgid ""
-"It’s true they do not approve of us, but their stubbornness  might come in "
+"It’s true they do not approve of us, but their stubbornness might come in "
 "handy. If their commanders die, then the undead will flood the whole north, "
 "and it will be too late for us to be saved... No! Fight so that neither the "
 "Great Lord nor the Jarl die! And now ... Attack!"
@@ -7312,7 +7312,7 @@ msgid ""
 "and rip their guts!"
 msgstr ""
 "Dalej, moje córki! Wciągajcie ich pod wodę, utulcie swoimi kobiecymi "
-"ciałami, pocałujcie niczym kochanków, a następnie zatopcie swe miecze w ich "
+"ciałami, pocałujcie niczym kochanki, a następnie zatopcie swe miecze w ich "
 "ciałach i wyprujcie im flaki!"
 
 #. [event]
@@ -7323,8 +7323,8 @@ msgid ""
 "there. It is truly unsafe here and ..."
 msgstr ""
 "Łucznicy, strzelać w szyje! W szyje celować... Och... Pani... Wielka "
-"Beatrycze, obawiam się, że to nie miejsce dla ciebie. Proszę udać się na "
-"północ i ukryć. Tutaj jest naprawdę niebezpiecznie..."
+"Beatrycze, obawiam się, że to nie miejsce dla ciebie. Proszę ukryć się na "
+"północy. Tutaj jest naprawdę niebezpiecznie..."
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:348
@@ -7600,7 +7600,7 @@ msgstr "Śmierć Wielkiego Lorda Diracka"
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:564
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:804
 msgid "Beatrice's Death"
-msgstr "Śmierć Beatrice"
+msgstr "Śmierć Beatrycze"
 
 #. [note]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:568
@@ -7671,7 +7671,7 @@ msgstr ""
 #. [event]: id=WilhelmIronhand
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:782
 msgid ""
-"When!? When what? Don’t play the smart guy here, Ir ... Hic!  ick ... I will "
+"When!? When what? Don’t play the smart guy here, Ir ... Hic! ick ... I will "
 "show you how a dwarwish ... Hic! Regiment fights! Give them to me! Hammers! "
 "Hit the hammers on their skeletons!"
 msgstr ""
@@ -7724,7 +7724,7 @@ msgid ""
 "A devastating defeat was inflicted on the enemy here, but I fear it’s not "
 "the end. The will come back. With doubled strength. We have to be ready. "
 "Renew the magical barriers, patch up the walls. In the west, impassable "
-"mountains stretch away,  and in the east thick woods. This is the only place "
+"mountains stretch away, and in the east thick woods. This is the only place "
 "through which you can get further north. You know, not including the "
 "dwarwish mines, but they ..."
 msgstr ""
@@ -7743,7 +7743,7 @@ msgid ""
 "the underground before my coronation. Today, you wouldn’t make it in one "
 "piece."
 msgstr ""
-"...są bezpieczne, jak cnota mojej córki. Połowa moich sił pilnuje naszych "
+"...są bezpieczne jak cnota mojej córki. Połowa moich sił pilnuje naszych "
 "korytarzy. A druga połowa jest ze mną. Masz szczęście, orku, że wyszedłeś z "
 "podziemi przed moją koronacją. Dzisiaj nie udałoby ci się to w jednym "
 "kawałku."
@@ -7779,7 +7779,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:898
-msgid "Thank you ...  ... I wish it hadn’t happened ... Marbus ?"
+msgid "Thank you ... I wish it hadn’t happened ... Marbus ?"
 msgstr "Dziękuję... Ja... Żałuję, że tak się stało... Marbusie...?"
 
 #. [event]
@@ -7865,7 +7865,7 @@ msgid ""
 "darkness."
 msgstr ""
 "Po dwóch tygodniach od bitwy, Marbus i jego armia stali już przed wejściem "
-"do jaskini, w której skrywać się miał Róg Gjallarhorn. Nie oczekując zbyt "
+"do jaskini, w której miał się skrywać Róg Gjallarhorn. Nie oczekując zbyt "
 "wielu niebezpieczeństw i nie chcąc wkraczać zbyt licznym oddziałem wgłąb "
 "pieczary, Wielki Suweren zebrał swoich najbardziej oddanych wojowników i "
 "wkroczył w ciemność."
@@ -7909,7 +7909,7 @@ msgid ""
 msgstr ""
 "A więc to jest miejsce, w którym ukryty jest Róg Gjallarhorn. Czas "
 "zdecydowanie go nie oszczędzał – w wielu miejscach grunt jest podmokły i "
-"niestabilny. Przypomina to bardziej jakąś elfią świątynię, niż katakumby, "
+"niestabilny. Przypomina to bardziej jakąś elfią świątynię niż katakumby, "
 "które zwiedzałem."
 
 #. [event]
@@ -7966,7 +7966,7 @@ msgid ""
 "the elven one. We ought to simply be careful, we might get around without "
 "any killing."
 msgstr ""
-"Podział na jarlów panuję tu od niedawna. Choć elfy zdają się wam bardzo "
+"Podział na jarlów panuje tu od niedawna. Choć elfy zdają się wam bardzo "
 "ułożoną rasą, ja żyję na tym padole łez znacznie dłużej i powiadam wam – nie "
 "znajdziecie bardziej skłóconej rodziny niźli rodzina elfów. Po prostu "
 "uważajmy, może obejdzie się bez zabijania."
@@ -8020,7 +8020,7 @@ msgstr "Co do...?!"
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:209
 msgid ""
 "Haha! You have come right into my trap, fools! You even haven’t taken more "
-"troops  ... Simpletons!"
+"troops ... Simpletons!"
 msgstr ""
 "Haha! Wpadliście prosto w moją pułapkę, głupcy! Nawet nie zabraliście ze "
 "sobą większego oddziału... Naiwni!"
@@ -8039,7 +8039,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:211
 msgid ""
 "Our Yarls? Our? Ah no ... We do not fall under the yarls’ command, neither "
-"the witches nor the lords! We are absolutely free!  You stand before the "
+"the witches nor the lords! We are absolutely free! You stand before the "
 "descendant of the Great Landar, the Red Riding Hood (nie pamiętam jak to "
 "wcześniej tłumaczyłem?), the ruler of the Blood Elves!"
 msgstr ""
@@ -8088,8 +8088,8 @@ msgstr ""
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:216
 msgid ""
 "It doesn’t matter anymore ... Coming back to the main story: we weren’t "
-"going to surrender without  a fight. We didn’t think of losing at all. And "
-"we won, having only our hunting bows and skinnig knives on us. We defeated a "
+"going to surrender without a fight. We didn’t think of losing at all. And we "
+"won, having only our hunting bows and skinnig knives on us. We defeated a "
 "pack of wargs, and when we finished ... our hoods were red with blood. That "
 "thus my nickname."
 msgstr ""
@@ -8219,7 +8219,7 @@ msgstr ""
 #. [command]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:262
 msgid ""
-"Foolishness! If  I were in command of the Great Horde, such an excess "
+"Foolishness! If I were in command of the Great Horde, such an excess "
 "wouldn’t happen! This only shows that even elvish pups can oppose us without "
 "any consequences!"
 msgstr ""
@@ -8352,8 +8352,8 @@ msgid ""
 msgstr ""
 "Chciałbym wierzyć, że prawdziwa jest druga opcja... Nigdy nie podejrzewałem, "
 "że mój lud ma tak barwną historię... Potężne fortece orków, klątwa Dzikiego "
-"Gonu, Róg Gjallarhorn... Nigdy bym nie podejrzewał, że natknę się na coś "
-"takiego... Że stanę na czele Wielkiej Hordy."
+"Gonu, Róg Gjallarhorn... Nigdy nie sądziłem, że natknę się na coś takiego... "
+"Że stanę na czele Wielkiej Hordy."
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:462
@@ -8363,7 +8363,7 @@ msgid ""
 "is the new rule ... It only depends on you how you will use it."
 msgstr ""
 "Czasem życie płata nam figle, Marbusie. Musimy nauczyć się przyjmować "
-"zmiany, jakie by nie były, a następnie żyć wedle nowych zasad. Ta sadzawka, "
+"zmiany, jakie by nie były, a następnie żyć wedle nowych zasad. Ta sadzawka "
 "to właśnie nowa zasada... Od ciebie zależy, jak ją wykorzystasz."
 
 #. [then]
@@ -8371,7 +8371,7 @@ msgstr ""
 msgid ""
 "You are right. Created by orcs or not ... It will serve to hea our warriors."
 msgstr ""
-"Masz rację... Stworzona przez orków, czy nie... Posłuży do leczenia naszych "
+"Masz rację... Stworzona przez orków czy nie... Posłuży do leczenia naszych "
 "wojowników."
 
 #. [else]
@@ -9035,7 +9035,7 @@ msgid ""
 "After a few hours, Marbus and his bravest warriors emerged from an ancient "
 "orcish cave wielding the Gjallarhorn. They were greeted with cheering, "
 "welcoming shorts and shouts of joy as well as with good wine and fare. It "
-"seemed the tension accompanying  the warriors of the Great Horde had "
+"seemed the tension accompanying the warriors of the Great Horde had "
 "relieved, or at least decreased."
 msgstr ""
 "Po kilku godzinach Marbus i jego najdzielniejsi żołnierze wyłonili się z "
@@ -9089,7 +9089,7 @@ msgstr ""
 "Orkowie nie mieli zostać jednak pozbawieni pomocy. Na zachodniej granicy "
 "Sojuszu Północy szybko rozchodziła się wieść, jakoby nieliczne oddziały "
 "truposzy zaczęły szturmować tamtejsze wsie w celu zwiększenia liczby "
-"nieumarłych wojsk. Ludzie i elfy wysłali swoje oddziały w celu powstrzymania "
+"nieumarłych wojsk. Ludzie i elfy wysłali swoje oddziały żeby powstrzymać "
 "wroga, jednak żaden oddział nie powrócił."
 
 #. [part]
@@ -9116,7 +9116,7 @@ msgstr "Kapitan Rylis"
 #. [event]
 #. [else]
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:193
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:547
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:558
 msgid "Elvish Jarl's Camp"
 msgstr "Obóz Elfickiego Jarla"
 
@@ -9249,7 +9249,7 @@ msgstr ""
 #. [event]
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:307
 msgid "I .... Well, so be it. My people are now under your command."
-msgstr "Ja... Cóż, niech tak będzie. Moi ludzie są teraz pod Twoją komendą."
+msgstr "Ja... Cóż, niech tak będzie. Moi ludzie są teraz pod twoją komendą."
 
 #. [objective]: condition=win
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:347
@@ -9325,10 +9325,10 @@ msgid ""
 "passing moment costs you the life of one of your warriors. Remember about "
 "that!"
 msgstr ""
-"Owszem, mamy róg. Nie użyjemy go jednak przed czasem a dopiero wtedy, gdy "
+"Owszem, mamy róg. Nie użyjemy go jednak przed czasem, a dopiero wtedy, gdy "
 "nadejdzie na to pora. Muszę przejąć dowództwo nad twoim oddziałem, by was "
-"uratować. Każda chwila zwłoki, to życie jednego z twoich wojowników. "
-"Pamiętaj o tym!"
+"uratować. Każda chwila zwłoki to życie jednego z twoich wojowników. Pamiętaj "
+"o tym!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:425
@@ -9383,7 +9383,7 @@ msgstr ""
 msgid ""
 "This Person thinks we shouldn’t leave so hastily, Marbus. We managed to save "
 "Yarl Oferiu’s and Captain Rylis’s forces. However, there are warriors who "
-"are wounded or unable to fight  among them. I believe taking both armies "
+"are wounded or unable to fight among them. I believe taking both armies "
 "together won’t be the best idea."
 msgstr ""
 "Ta Osoba myśli, że nie powinniśmy tak pochopnie odchodzić, Marbusie. Udało "
@@ -9601,7 +9601,7 @@ msgid ""
 "it. After that, the Great Sovereign blew the Gjallarhorn , and its echo "
 "reverberated around. It might seem that the sound was heard in all the "
 "northern lands: Beatrice could hear it while watching the battle from her "
-"balcony of her Princess Tower, the  saurians on the marshes could hear it as "
+"balcony of her Princess Tower, the saurians on the marshes could hear it as "
 "well while defending themselves against the undead, the dwarves could hear "
 "it, too, in the farthest corners of Knalga. The horn's sound made the "
 "corpses of the residents of the Celadon City tremble. The whole north stood "
@@ -9674,20 +9674,26 @@ msgid "Earth trembles... Trolls do not like such things... Whelps scared..."
 msgstr ""
 "Ziemia dygoce... Trolle nie lubią takie rzeczy... Szczenięta się bać..."
 
-#. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:324
+#. [then]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:329
 msgid ""
-"Everyone on positions! The King of Gon and his army will come soon. Jarl, "
-"are your soldiers ready? *** Everyone on positions!  The King of Gon and his "
-"army will come soon! Leader, are your soldiers ready?"
+"Everyone on positions! The King of Gon and his army will come soon! "
+"Commander, are your soldiers ready?"
 msgstr ""
 "Wszyscy, na stanowiska! Niedługo zjawi się Król Gonu wraz ze swoją armią! "
-"Jarlu, czy twoi żołnierze są już gotowi?   *** Wszyscy, na stanowiska! "
-"Niedługo zjawi się Król Gonu wraz ze swoją armią! Dowódco, czy twoi "
-"żołnierze są już gotowi?"
+"Dowódco, czy twoi żołnierze są już gotowi?"
+
+#. [else]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:332
+msgid ""
+"Everyone on positions! The King of Gon and his army will come soon. Jarl, "
+"are your soldiers ready?"
+msgstr ""
+"Wszyscy, na stanowiska! Niedługo zjawi się Król Gonu wraz ze swoją armią! "
+"Jarlu, czy twoi żołnierze są już gotowi?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:325
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:336
 msgid ""
 "After a whole night of digging pitfalls, repairing the walls and eating the "
 "last supply of that stinking pea soup? Dirty, covered in sweat, and a bit "
@@ -9698,7 +9704,7 @@ msgstr ""
 "wstawieni, ale zdecydowanie gotowi na roztrzaskanie kilku kości!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:326
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:337
 msgid ""
 "My soldiers were born for this task, Sovereign! Many beloved friends died "
 "fighting the undead. Even though each elf feels the burden of the steel, we "
@@ -9710,7 +9716,7 @@ msgstr ""
 "lasy należą do żywych!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:332
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:343
 msgid ""
 "Your soldiers are behaving worse than the trolls! All that was left of the "
 "pea soup was poured into the river! To a place where we will fight! This "
@@ -9723,7 +9729,7 @@ msgstr ""
 "lekcja miała spotkać i was?"
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:333
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:344
 msgid ""
 "I liked their pea soup! By the way, I have never thought that the Northern "
 "Alliance has such good gyus in its ranks. And the moonshine they make is "
@@ -9734,7 +9740,7 @@ msgstr ""
 "całkiem znośny..."
 
 #. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:336
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:347
 msgid ""
 "Nagas as well as elves also feel the burden of the steel. Its touch feels "
 "like a salty water rinsing a fresh wound. Despite that, This Person will "
@@ -9745,7 +9751,7 @@ msgstr ""
 "walczyć z całych sił. Dla ciebie, Marbusie!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:337
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:348
 msgid ""
 "I don't like the idea of fighting by the elves, but it's too late to give "
 "up. The only thing we can do is to sharpen our blades."
@@ -9754,29 +9760,29 @@ msgstr ""
 "Jedyne, co możemy teraz zrobić, to solidnie naostrzyć miecze."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:340
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:351
 msgid "*Ruffling its hair on the neck*"
 msgstr "*Jeży mu się sierść na karku.*"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:341
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:352
 msgid "Look! I think I can see him coming!"
 msgstr "Patrzcie, chyba go widzę, przybywa!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:366
-msgid "Greeting Marbus ...  I was wondering when you would summon me..."
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:377
+msgid "Greeting Marbus ... I was wondering when you would summon me..."
 msgstr "Witaj, Marbusie... Zastanawiałem się, kiedy mnie wezwiesz..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:375
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:386
 msgid "He seems dangerous ... Let's attack now until he summons his army!"
 msgstr ""
 "Wygląda na groźnego... Atakujmy teraz, póki jeszcze nie przywołał swojej "
 "armii!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:376
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:387
 msgid ""
 "I don't know yet if it is a good plan... Maybe we shall act defensively "
 "first? But first, How do you know my name, spectral creature?!"
@@ -9785,7 +9791,7 @@ msgstr ""
 "się defensywnie? Ale najpierw... Skąd znasz moje imię, widmowy stworze?!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:377
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:388
 msgid ""
 "A funny question ... I know everyone, Sovereign. I know them by their names, "
 "and also by the date of their deaths. Yours is coming! Do you want to know "
@@ -9798,7 +9804,7 @@ msgstr ""
 "ci niezmiernie bliski?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:378
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:389
 msgid ""
 "Your words mean nothing to me, demon! The undead armies slaughtered many of "
 "my friends, and forced us to destroy Gelu'Aben and to flee! You nearly "
@@ -9809,7 +9815,7 @@ msgstr ""
 "Niemalże całkowicie zniszczyliście Wielką Hordę! Zapłacicie nam za to!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:379
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:390
 msgid ""
 "You really think this will end like that? That after destroying me you will "
 "find peace? No, you don't understand. I am not an undead necromancer who "
@@ -9825,7 +9831,7 @@ msgstr ""
 "wy!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:380
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:391
 msgid ""
 "Nevertheless, we can get rid fo you! We've acquired the Gjallarhorn, and "
 "Clubs told us the story of your creation. You have to stand and fight "
@@ -9837,7 +9843,7 @@ msgstr ""
 "a gdy wygramy, wówczas przepadniesz na kolejne tysiąc lat!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:381
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:392
 msgid ""
 "You speak with the confidence you don't have ... But I will now refuse you "
 "the right to fight. Your death ... the death of every one of you ... is "
@@ -9848,74 +9854,74 @@ msgstr ""
 "niedługo zbiorę swoje żniwo..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:382
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:393
 msgid "Attack! Release the wolves!"
 msgstr "Atak! Już! Wypuścić wilki!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:383
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:394
 msgid "To arms! To arms! Mount the horses! Charge them, dammit!"
 msgstr "Do broni! Do broni i na koń! Szarżą ich weźmiemy, psia krew!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:384
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:395
 msgid ""
 "On my command! Draw the bowstrings! Let the outriders mount their horses!"
 msgstr ""
 "Na moją komendę! Strzały na cięciwy! Niech forysie dosiądą wierzchowców!"
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:527
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:538
 msgid "Defeat the King of Wild Gon"
 msgstr "Pokonaj Króla Dzikiego Gonu"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:533
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:544
 msgid "The Great Marbus's Camp"
 msgstr "Wielki obóz Marbusa"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:534
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:545
 msgid "Gewold's Camp"
 msgstr "Obóz Gewolda"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:535
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:546
 msgid "The Tower of Grief"
 msgstr "Twierdza Żalu"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:536
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:547
 msgid "The Tower of Sorrow"
 msgstr "Twierdza Smutku"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:537
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:548
 msgid "The Tower of Despair"
 msgstr "Twierdza Rozpaczy"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:538
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:549
 msgid "The House of the Undead"
 msgstr "Dom Umarłych"
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:544
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:555
 msgid "The Northern Alliance Camp"
 msgstr "Obóz Sojuszu Północy"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:556
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:567
 msgid "Morrigan"
 msgstr "Morrigan"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:570
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:581
 msgid "Govannon"
 msgstr "Govannon"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:596
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:607
 msgid ""
 "I think we should add variety to the fight. I will show you what might "
 "creatures the Great Horde once owned."
@@ -9924,19 +9930,19 @@ msgstr ""
 "potężnymi istotami władała kiedyś Wielka Horda."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:601
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:612
 msgid "For the smouldered Gelu'Aben's sake! What the hell is that?!"
-msgstr "Na spalone Gelu'Aben... Co to jest na Hordę?!"
+msgstr "Na spalone Gelu'Aben... Co to jest, na Hordę?!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:602
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:613
 msgid "Damn! This battle may turn out harder than we expected!"
 msgstr ""
 "Psia krew! Ta bitwa może okazać się znacznie trudniejsza, niż "
 "przewidywaliśmy!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:662
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:673
 msgid ""
 "I'm dying, Marbus! And I live again! Isn't it beautiful, Marbus? Only the "
 "Sovereign of the Great Horde can defeat me! This is literal! None of your "
@@ -9947,7 +9953,7 @@ msgstr ""
 "twoich ludzi nie może cię zastąpić w tym czynie!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:663
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:674
 msgid ""
 "You cursed demon! Why didn't you tell me about it earlier? We could have "
 "settled the dispute in two, without exposing the lives of my warriors to "
@@ -9958,7 +9964,7 @@ msgstr ""
 "wojowników, by cię zniszczyć!"
 
 #. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:664
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:675
 msgid ""
 "And destroy your battle frenzy like this? Haven't you been waiting for my "
 "armies to attack the southern border, before using the horn? Haven't you "
@@ -9971,12 +9977,12 @@ msgstr ""
 "musiało się stać."
 
 #. [else]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:665
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:676
 msgid "And now, come for me, if you are strong enogh."
 msgstr "A teraz przyjdź po mnie, jeśli starczy ci sił."
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:770
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:781
 msgid ""
 "Well well... Your blade has almost deprived me of my power... For the next "
 "thousand of years, at the very least. Do you see the warriors, who have just "
@@ -9989,12 +9995,12 @@ msgstr ""
 "skończyli dobrze. Nie powiodło się im."
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:783
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:794
 msgid "Why he is still here? He should disappear, when you destroyed him!"
 msgstr "Dlaczego on jeszcze tu jest?! Powinien zniknąć, gdy go zniszczyłeś!"
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:784
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:795
 msgid ""
 "I wish I knew, Gewold... It must be connected to these here... I have not "
 "seen them earlier in battle."
@@ -10003,7 +10009,7 @@ msgstr ""
 "tutaj... Nie widziałem ich wcześniej w czasie bitwy."
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:785
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:796
 msgid ""
 "You know, what happened to Sovereigns, that tried to destroy me? Their souls "
 "were attracted by darkness. They became part of the curse, whose essence is "
@@ -10015,7 +10021,7 @@ msgstr ""
 "śmierci."
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:786
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:797
 msgid ""
 "I understand... It seems we have no choice. Soldiers, surround these "
 "shadows! Their destruction is crucial for our victory!"
@@ -10024,12 +10030,12 @@ msgstr ""
 "zniszczenie jest kluczowe, byśmy zwyciężyli!"
 
 #. [then]: id=S13_Ghost_1, id=S13_Ghost_2, id=S13_Ghost_3
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:787
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:798
 msgid "This Person will do this with pleasure..."
 msgstr "Ta Osoba uczyni to z rozkoszą..."
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:798
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:809
 msgid ""
 "Die! Argh... Finally I managed to beat you... We won! The Great Horde has "
 "prevailed!"
@@ -10038,7 +10044,7 @@ msgstr ""
 "Horda wygrała!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:799
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:810
 msgid ""
 "You succeeded... I look at your faces and see joy on them. You rejoice over "
 "end of your ordeal... Your escape. Your, Marbus... You don't know... You "
@@ -10049,10 +10055,10 @@ msgstr ""
 "bo oto nadszedł kres waszej katorgi... Waszej ucieczki. Twojej ucieczki, "
 "Marbus... Ale nie wiesz... Nie rozumiesz... Że to nie koniec. To dopiero "
 "początek, bo oto ciężar waszego przeznaczenia nie spoczywa już na moich "
-"barkach... Tylko na Twoich."
+"barkach... Tylko na twoich."
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:800
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:811
 msgid ""
 "I reunited the Great Horde and led it to victory. I'll make it great again. "
 "Orcs will no longer be thieves and bandits, we'll create our own nation... "
@@ -10063,7 +10069,7 @@ msgstr ""
 "stworzymy własny naród, własną nację... Przyszłość uśmiecha się do nas!"
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:801
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:812
 msgid ""
 "North... North is dispersed. Knalga, Northern Alliance, Elvish Jarls... All "
 "of them will turn agains you. Because who should they blame, if not orcs? "
@@ -10078,7 +10084,7 @@ msgstr ""
 "czym myślisz."
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:802
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:813
 msgid ""
 "You want to keep reins on the Great Horde, make it equal to Northern "
 "Alliance and other powers of these lands. You think that you saved this "
@@ -10093,7 +10099,7 @@ msgstr ""
 "dzięki któremu tu jesteś... Został zamordowany... Przez elfy."
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:803
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:814
 msgid ""
 "No! You lie! You want to stir me up with Jarls, to make us betray them, kill "
 "them all while they are dispersed... But it would cause things to remain "
@@ -10106,7 +10112,7 @@ msgstr ""
 "destrukcyjną siłą, która nie jest w stanie odmienić swojego losu!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:808
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:819
 msgid ""
 "Your cousin... Before death he compared elves to orcs... He stated, that "
 "you're the same... Thirsting for blood, power, possibilities... Every nation "
@@ -10121,7 +10127,7 @@ msgstr ""
 "ja... Ja wiem o tym najlepiej."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:812
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:823
 msgid ""
 "Your cousin... Before death he threatened elves with all his might. He took "
 "hidden venom from his heart and used its power... Unfortunately he run out "
@@ -10136,7 +10142,7 @@ msgstr ""
 "on twoją siłą w walce z żywymi... Tak, jak stał się nią w walce ze mną."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:816
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:827
 msgid ""
 "Your cousin... Before death begged elves for mercy. He tried to reach their "
 "sense, putting all his will in effort to change his fate... He hoped to "
@@ -10151,7 +10157,7 @@ msgstr ""
 "strony, może powinieneś kontynuować to, co zaczął."
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:819
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:830
 msgid ""
 "Farewell, Marbus... I wanted to congratulate you on your victory against "
 "me... But I'm afraid, that you only condemned yourself to fate worse than "
@@ -10162,13 +10168,13 @@ msgstr ""
 "ci jedynie... Dokonać wyboru."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:932
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:943
 msgid "Go to abyss you came from, moster! Get out of my sight!"
 msgstr ""
 "Odejdź w otchłań, z której tu przyszedłeś, potworze! Precz z moich oczu!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:933
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:944
 msgid ""
 "One less! Two left! And then King of Gon. Have I mentioned constantly "
 "arriving undead hordes? These on south are probably fighting only with "
@@ -10179,17 +10185,17 @@ msgstr ""
 "oddziałem zwiadowczym, a trzon wszystkich ich sił przysłano tutaj!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:934
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:945
 msgid "Gewold..."
 msgstr "Gewold..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:935
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:946
 msgid "Me? Ugh..."
 msgstr "Ja? Uhh..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:936
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:947
 msgid ""
 "I know you, because you were called a Great Sovereign too. You ruled over "
 "the Great Horde... I reappeared on this world during your reign. And I know "
@@ -10200,12 +10206,12 @@ msgstr ""
 "kolejny. I znam cię lepiej niż ktokolwiek inny..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:937
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:948
 msgid "Go away from me, demon! Begone!"
 msgstr "Odejdź ode mnie, demonie! Przepadnij!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:938
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:949
 msgid ""
 "I know your thoughts... You think why it's not you, who fights against me. "
 "Why the Great Horde listens to Marbus's orders, not yours. You're jealous... "
@@ -10222,7 +10228,7 @@ msgstr ""
 "Sojuszu Północy."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:939
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:950
 msgid ""
 "Shut up, you devil! Get away from me! I'm loyal to my Sovereign, my army! "
 "Loyal to Great Gorde!"
@@ -10231,7 +10237,7 @@ msgstr ""
 "armii! Wierny Wielkiej Hordzie!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:940
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:951
 msgid ""
 "You're too weak to be my rival... But I know your plans... Even if you try "
 "to hide it from yourself, stigma of orcish nature is imprinted deep inside "
@@ -10242,22 +10248,22 @@ msgstr ""
 "bardzo mocno. Ulegniesz mu. Ulegniesz swojej naturze..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:945
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:956
 msgid "Another one... Ugh... Down..."
 msgstr "Kolejny... Ugh... Pokonany..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:946
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:957
 msgid "Marbus! Are you alright...?"
 msgstr "Marbusie! Trzymasz się...?"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:947
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:958
 msgid "Ye...s... It's... I just have to take a breath for a moment..."
 msgstr "Ta-ak... To... Po prostu muszę na sekundę odetchnąć..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:948
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:959
 msgid ""
 "Aidala... Or rather Queen Tesh'Sebet, Mother of Cursed Sisters, Demon of the "
 "Ocean... Yes, I know you... The race of nagas never gave birth to more "
@@ -10269,12 +10275,12 @@ msgstr ""
 "jadowitej istoty niż ty. To zaszczyt w końcu spotkać cię w bitwie."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:949
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:960
 msgid "Queen...?"
 msgstr "Królowa...?"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:950
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:961
 msgid ""
 "This Person prefers not to talk about it... It's a very old story... Sunken "
 "deep in a sea of reminiscences..."
@@ -10283,7 +10289,7 @@ msgstr ""
 "wspomnień..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:951
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:962
 msgid ""
 "A story about daughter of great king murdered her family to take the "
 "throne... How she was hated, betrayed, and then exiled by her nation... And "
@@ -10293,10 +10299,10 @@ msgstr ""
 "Historia o tym, jak córka wielkiego króla morduje swoją rodzinę, by sama "
 "zasiąść na tronie... Jak zostaje zdradzona i znienawidzona, a następnie "
 "wygnana przez swój lud... I odeszła... Ale najpierw wyrżnęła ze swoimi "
-"fanatyczkami całe królestwo... Jak Ty je nazywasz? Córki?"
+"fanatyczkami całe królestwo... Jak ty je nazywasz? Córki?"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:952
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:963
 msgid ""
 "These fools deserved to die! And daughters of her... They are loyal to me... "
 "This Person loves them as own children."
@@ -10305,7 +10311,7 @@ msgstr ""
 "kocha je jak własne dzieci."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:953
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:964
 msgid ""
 "Children, you'll never have. You won't procreate. Not with him. He won't "
 "even fall in love with you... Because who could? Even orcs fear to look at "
@@ -10320,7 +10326,7 @@ msgstr ""
 "Wielką Hordą a także z nim."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:954
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:965
 msgid ""
 "That's enough! This Person promises to destroy you! Even if I had to sunk "
 "this whole continent under ocean's waves, I'll do it! Die, begone! Go away!"
@@ -10329,7 +10335,7 @@ msgstr ""
 "kontynent wodami oceanu, zrobię to! Zgiń, przepadnij! Precz!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:959
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:970
 msgid ""
 "Die! This is... the last one... Now it's your turn, demon... You'll die just "
 "like your guardians. You know, that this battle is over already."
@@ -10338,7 +10344,7 @@ msgstr ""
 "twoi obrońcy. Wiesz, że ta bitwa jest już przesądzona."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:960
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:971
 msgid ""
 "To finish it, you have to kill me. And you know, it's not so easy. Aren't "
 "you out of breath already? Even if you ran all across the battlefield to "
@@ -10351,7 +10357,7 @@ msgstr ""
 "tematu... Chcesz wiedzieć, co dzieje się teraz na południu?"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:961
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:972
 msgid ""
 "We're not intrested about south, demon! It only matters what is happening "
 "here and now. Don't listen to him, Marbus, he's only trying to buy some "
@@ -10362,7 +10368,7 @@ msgstr ""
 "Zakończ to!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:962
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:973
 msgid ""
 "Your defense line has fallen an hour ago... Dwarvish king, that was to unite "
 "the Knalga, is drunkard and berserk, but when things got heated, he "
@@ -10377,7 +10383,7 @@ msgstr ""
 "ciosów nieumarłych."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:963
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:974
 msgid ""
 "Great Lord Dirack was more brave... When he realized, that things turned at "
 "his disadvantage, he called his banners... Northern Alliance's cavalry once "
@@ -10391,7 +10397,7 @@ msgstr ""
 "jedynego syna."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:964
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:975
 msgid ""
 "No... no! You liar! It couldn't happen, it just couldn't... Northern "
 "Alliance... Couldn't fell!"
@@ -10400,7 +10406,7 @@ msgstr ""
 "Sojusz Północy... Nie mógł paść!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:965
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:976
 msgid ""
 "Of course, there were also elves. Fierce, willing for revenge, and casting "
 "their spells... And in their foreground Beatrice... Her magical barrier "
@@ -10415,7 +10421,7 @@ msgstr ""
 "to jednak nie dało."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:966
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:977
 msgid ""
 "No... No, no! And hunred times more no! Beatrice... Jarls... For Sacred "
 "Trees, my daughter was there!"
@@ -10424,7 +10430,7 @@ msgstr ""
 "tam była moja córka!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:967
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:978
 msgid ""
 "The defence fell... The few remaining troops that managed to flee are soon "
 "to be crushed by me. And it's all your fault, Marbus. Your defection. It "
@@ -10441,7 +10447,7 @@ msgstr ""
 "upadli orkowie pod twoim dowództwem..."
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:968
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:979
 msgid ""
 "Even if you say the truth, we can still defead you... If we win this battle, "
 "all undeads will crumble into ashes. They will be gone along you. Every "
@@ -10455,7 +10461,7 @@ msgstr ""
 "własnoręcznie rozłupać mu czaszkę!"
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:969
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:980
 msgid ""
 "That's what I was hoping for... But now, that Beatrice's barrier is broken, "
 "I can finally summon the core of my army... I summon you, my undeads!"
@@ -10464,19 +10470,19 @@ msgstr ""
 "wreszcie przywołać trzon mojej armii... Przyzywam was, nieumarli!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:997
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1008
 msgid ""
 "Marbus... The Great Sovereign... Kochan has been killed by elves. I know "
 "that this message is hard for you, but we ought to act. Now we know that we "
 "cannot trust them. North is in dispersion, if we attack quickly enough..."
 msgstr ""
 "Marbusie... Wielki Suwerenie... Kochan zginął przez elfy. Wiem, że ta "
-"wiadomość jest dla Ciebie ciężka, ale musimy zacząć działać. Teraz wiemy, że "
-"nie można im ufać. Północ jest w rozsypce, jeśli zaatakujemy wystarczająco "
+"wiadomość jest dla ciebie ciężka, ale musimy zacząć działać. Teraz wiemy, że "
+"nie można im ufać. Północ jest w rozsypce. Jeśli zaatakujemy wystarczająco "
 "szybko..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:998
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1009
 msgid ""
 "You want to attack the North? This Person thinks, that alliance with other "
 "nations living on this lands is possible. Hard, but achievable. If we attack "
@@ -10490,7 +10496,7 @@ msgstr ""
 "Wszyscy nas znienawidzą."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:999
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1010
 msgid ""
 "Trust those who killed my cousin, or seize whole North for my people? Both "
 "solutions are risky. First is denying everything we are. Changing our fate "
@@ -10499,14 +10505,14 @@ msgid ""
 "follows this decision... And the time is running out..."
 msgstr ""
 "Zaufać tym, którzy zabili mojego kuzyna, czy też zagarnąć całą północ dla "
-"mojego ludu? Oba rozwiązania są ryzykowne. Pierwsze, to zaprzeczenie "
+"mojego ludu? Oba rozwiązania są ryzykowne. Pierwsze to zaprzeczenie "
 "wszystkiemu, czym jesteśmy. Zmiana naszego przeznaczenia i podążenie nową, "
 "niepewną drogą. Drugie oznacza powrót do dawnej chwały, zdobywanie ziemi i "
-"bogactwa poprzez przemoc. Tak wielka odpowiedzialność spoczywa na tej "
-"decyzji... A mam tak mało czasu, by ją podjąć...."
+"bogactwa poprzez przemoc. Tak wielka odpowiedzialność spoczywa na moich "
+"barkach... A mam tak mało czasu, by ją podjąć...."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1000
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1011
 msgid ""
 "Warning! You're going to face the decesive choice, which is going to change "
 "the last scenario of this campaign. Every decision, that you made during "
@@ -10522,7 +10528,7 @@ msgstr ""
 "postąpisz inaczej."
 
 #. [message]: speaker=Marbus
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1003
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1014
 msgid ""
 "This isn't an easy decision, but as a Great Sovereign I ought to make a "
 "choice. Now I'll announce my will... I choose..."
@@ -10531,12 +10537,12 @@ msgstr ""
 "wyboru. Niech więc stanie się moja wola... Wybieram..."
 
 #. [option]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1005
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1016
 msgid "Alliance with the North."
 msgstr "Sojusz z północą."
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1007
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1018
 msgid ""
 "Even if there's a lot of differences, I still believe that we can change. "
 "Not only us, orcs. I think the whole North learned something. Battle of Five "
@@ -10553,7 +10559,7 @@ msgstr ""
 "razem jednak... Nie poprzez głód krwi."
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1008
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1019
 msgid ""
 "This Person thinks, that this choice is bound to be followed by huge "
 "consequences. Battles are unavoidable... Regardless of it, whatever your way "
@@ -10564,7 +10570,7 @@ msgstr ""
 "twoja droga, Ta Osoba popłynie za tobą."
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1009
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1020
 msgid ""
 "So this is your decision... Alliance. Same as back then, when we gathered "
 "our forces on Jarl's territories? Humilliated and treated as wild dogs? "
@@ -10575,12 +10581,12 @@ msgstr ""
 "Cóż... Dokonałeś wyboru... A teraz ja dokonam swojego..."
 
 #. [option]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1019
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1030
 msgid "Attacking the North."
 msgstr "Zaatakowanie północy."
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1021
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1032
 msgid ""
 "I want you to be strong. To have to flee no more, never again. We defeated "
 "the King of Gon. We destroyed the threat, that bothered the whole North. And "
@@ -10595,7 +10601,7 @@ msgstr ""
 "prosto w plecy Jarlów!"
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1022
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1033
 msgid ""
 "So this Person won't be able to stop fighting. However, my people swore "
 "loyalty to you, Marbus. Nagas are a part of the Great Horde and will follow "
@@ -10608,7 +10614,7 @@ msgstr ""
 "zaoferowania północ. Ta Osoba sięgnie po taką władzę."
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1023
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1034
 msgid ""
 "I'm glad you say so, the Great Sovereign. I got to admit... I didn't expect "
 "you to do that. You has become silent, shut inside and serious. But still "
@@ -10621,17 +10627,17 @@ msgstr ""
 "w bój ja i każdy z moich żołnierzy! Ostrzyć miecze, już!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1041
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1052
 msgid "Argh... Damned... Damned undead..."
 msgstr "Argh... Przeklęci... Przeklęci nieumarli..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1042
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1053
 msgid "Jarl! Medic, call the medic!"
 msgstr "Jarlu! Medyka, wezwać medyka!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1043
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1054
 msgid ""
 "It's too late... Sovereign... But it's no dishonour to fall in such a "
 "battle... My soldiers are going to fight to the end... They must win. This "
@@ -10642,17 +10648,17 @@ msgstr ""
 "zależy los nas wszystkich..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1044
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1055
 msgid "That's how I will do, elven Jarl... That's how I will do..."
 msgstr "Tak zrobię, elfi Jarlu, tak zrobię..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1052
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1063
 msgid "Damn it! I got hit! Ugh..."
 msgstr "Psia krew! Dostałem! Ugh... Zaraza!"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1053
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1064
 msgid ""
 "I'm afraid you won't make it, human... It was good to fight along somebody "
 "from the Northern Alliance."
@@ -10661,7 +10667,7 @@ msgstr ""
 "u boku kogoś z Sojuszu Północy."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1054
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1065
 msgid ""
 "Yes... It was good to fight along you too... Don't fail in this battle... "
 "Neither the thing after it... Maybe the Great Horde will become a part of "
@@ -10672,22 +10678,22 @@ msgstr ""
 "częścią Sojuszu Północy?"
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1055
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1066
 msgid "Maybe, maybe... Farewell, Captain."
 msgstr "Może tak się stanie... Żegnaj, Kapitanie."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1064
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1075
 msgid ""
 "You killed one of my bravest warriors... Nobody handled bow and arrow as "
 "good as Morrigan... When she was alive, she was a powerful elvish huntress..."
 msgstr ""
 "Zniszczyłeś jedną z moich najdzielniejszych wojowniczek... Nikt nie władał "
-"łukiem i strzałą tak, jak Morrigan... Za życia była potężną, elfią "
+"łukiem i strzałą tak jak Morrigan... Za życia była potężną, elfią "
 "łowczynią..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1065
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1076
 msgid ""
 "In your story there was someone similar... A woman in red coat, obsessed "
 "with vengeance... Her fate is intertwined with your decisions..."
@@ -10696,7 +10702,7 @@ msgstr ""
 "pałająca żądzą zemsty... Jej los zależny jest od twoich wyborów..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1073
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1084
 msgid ""
 "Govannon was once the best of dwarvish blackmiths... He could forge magical, "
 "runical weapons, able to hurt orcs better than steel hurts elves or nagas. "
@@ -10711,7 +10717,7 @@ msgstr ""
 "rzeki krasnoludów... Służył mi wiernie..."
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1074
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1085
 msgid ""
 "Orcs did much more harm to dwarves than a hundred of Govannons could do in a "
 "hundred of years! I see, that you're going the same way... the Snowfeet "
@@ -10791,7 +10797,7 @@ msgstr ""
 "północnych krain. W stosunkowo krótkim czasie Wielka Horda zyskała szacunek "
 "w oczach innych ludów, a jeszcze później – także ich przyjaźń. Choć mieli "
 "nad innymi zdecydowaną przewagę, nie wykorzystali jej do zadania północy "
-"ciosu a do tego, by pomóc jej podnieść się z kolan. Odpokutowali za grzechy "
+"ciosu, a do tego, by pomóc jej podnieść się z kolan. Odpokutowali za grzechy "
 "przeszłości, zmienili swoje przeznaczenie."
 
 #. [part]
@@ -10930,7 +10936,7 @@ msgid ""
 msgstr ""
 "To... To nieistotne! Nawet, jeśli wszyscy sądzą, że to się nie uda, ja dalej "
 "w to wierzę! Do tej pory wszystko szło po mojej myśli. Dlaczego miałoby się "
-"to skończyć. Z powodu twojego buntu?"
+"to skończyć? Z powodu twojego buntu?"
 
 #. [event]
 #: Marbuss_Escape\scenarios\14A_The_Change_of_Fate.cfg:326
@@ -10943,7 +10949,7 @@ msgid ""
 msgstr ""
 "Mój bunt jest konieczny, Marbus. Przywiodłeś nas tutaj i jestem ci "
 "wdzięczny. Ale popełniłeś błąd. Gdy pokonaliśmy Króla Gonu, powinieneś "
-"poprowadzić nas do zwycięstwa a teraz... A teraz już za późno. Krasnoludy, "
+"poprowadzić nas do zwycięstwa, a teraz... A teraz już za późno. Krasnoludy, "
 "elfy, ludzie... Znów są potężni, znów są zjednoczeni. Nie jesteśmy w stanie "
 "ich pokonać. Nawet jeśli nie uderzą na nas zbrojnie, ciągle będziemy ich "
 "popychadłami, nie widzisz tego?"
@@ -11025,7 +11031,7 @@ msgstr "Marbus!"
 #: Marbuss_Escape\scenarios\14A_The_Change_of_Fate.cfg:384
 msgid "This Person feels elves, coming from all sides... Something's wrong..."
 msgstr ""
-"Ta Osoba czuję zapach elfów, zbliżają się z każdej strony... Coś jest nie "
+"Ta Osoba czuje zapach elfów, zbliżają się z każdej strony... Coś jest nie "
 "tak..."
 
 #. [event]
@@ -11086,7 +11092,7 @@ msgid ""
 "I'm afraid that I'm far from this powdered up sorceress, singing ballads to "
 "the moon. I prefer to kill, not to play political games with enemies."
 msgstr ""
-"Obawiam się, że daleko mi od tej wypudrowanej czarodziejki śpiewającej "
+"Obawiam się, że daleko mi do tej wypudrowanej czarodziejki śpiewającej "
 "ballady do księżyca. Ja wolę po prostu zabijać, a nie bawić się w polityczne "
 "gierki z wrogami."
 
@@ -11541,8 +11547,8 @@ msgstr ""
 "sprzymierzeńców, Marbus natarł na nich całą swoją siłą. Ostatnie bastiony "
 "Sojuszu Północy, Elfickich Jarlów i Knalgi zaczęły upadać jeden po drugim... "
 "Razem z odejściem Dzikiego Gonu rozpoczęła się odwilż, która jeszcze "
-"bardziej przyspieszyła ów proces. Orkowie mordowali, łupili, podbijali... "
-"Ogarnął ich szał, dzięki któremu zdawali się być jeszcze potężniejsi i "
+"bardziej przyspieszyła ten proces. Orkowie mordowali, łupili, podbijali... "
+"Ogarnął ich szał, dzięki któremu zdawali się jeszcze potężniejsi i "
 "groźniejsi. Wkrótce cała północ tonęła już we własnej krwi."
 
 #. [part]
@@ -11607,7 +11613,7 @@ msgid ""
 "that Wild Gon mess."
 msgstr ""
 "Na wszystkie krasnoludzkie skarby, które złupiliśmy! Czuję, że ta magiczna "
-"bariera wreszcie pęka! Zaraz się okażę, ilu tak naprawdę trzymają tam "
+"bariera wreszcie pęka! Zaraz się okaże, ilu tak naprawdę trzymają tam "
 "żołnierzy... Spodziewam się prawdziwej bitwy, jak przed dwudziestoma laty, "
 "jeszcze przed tym całym zamieszaniem z Dzikim Gonem."
 
@@ -11653,7 +11659,7 @@ msgstr ""
 "Nie mówiąc już o magach i innych odgałęzieniach Sojuszu Północy... Porzucają "
 "swoje twierdze i uciekają na południe, gdzie Królestwo Wesnoth udziela im "
 "schronienia... Cóż, może niedługo sami nas zaatakują? No, ale tym zajmiemy "
-"się później... Póki co, pora zniszczyć ostatnią twierdzę elfów!"
+"się później... Póki co pora zniszczyć ostatnią twierdzę elfów!"
 
 #. [event]
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:292
@@ -11679,7 +11685,7 @@ msgid ""
 "one will flee from this pogrom, no one will survive!"
 msgstr ""
 "Zdaje się, że wreszcie możemy przekroczyć linię drzew. Obawiam się jednak, "
-"iż wszystko zasnuwa mgła... Przeklęte elfie czary! Nic im nie dadzą! Nasze "
+"że wszystko zasnuwa mgła... Przeklęte elfie czary! Nic im nie dadzą! Nasze "
 "wilki wyczują zapach elfów, ludzi bądź krasnoludów na kilometr! Nikt nie "
 "ucieknie z tego pogromu, nikt nie przeżyje!"
 
@@ -11712,9 +11718,9 @@ msgstr ""
 "Chciałbym przyznać ci rację, jednak nie mogę. Nawet, jeśli jakimś cudem uda "
 "wam się stawić nam opór, jeśli z nieba spadną na nas smoki, z południa "
 "zaatakuje Królestwo Wesnoth, a z najgłębszych podziemnych korytarzy wynurzą "
-"się nieumarli... Nawet wówczas, Wielka Horda wciąż będzie niezrównaną "
-"potęgą. Myślisz, że zaatakowałem was całością swoich sił? Panuję nad całą "
-"północą! To zaledwie ułamek mojej armii."
+"się nieumarli... Nawet wówczas Wielka Horda będzie niezrównaną potęgą. "
+"Myślisz, że zaatakowałem was całością swoich sił? Panuję nad całą północą! "
+"To zaledwie ułamek mojej armii."
 
 #. [event]
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:316
@@ -11804,7 +11810,7 @@ msgid ""
 "knight's horse is mine!"
 msgstr ""
 "Uchowała się tu jeszcze konina! Ci są moi! Wojownicy, miecze w dłoń! A koń, "
-"na którym paraduje ten rycerz ma być mój!"
+"na którym paraduje ten rycerz, ma być mój!"
 
 #. [event]: id=Weriel
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:372
@@ -11971,7 +11977,7 @@ msgid ""
 "filled with his hatred, his ideals, his..."
 msgstr ""
 "Nie! Ja się nie kłaniam, ja nie mam panów! Jestem potomkinią Landara, "
-"przesycona jego nienawiścią, jego ideałami, jego..."
+"przesyconą jego nienawiścią, jego ideałami, jego..."
 
 #. [command]
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:410
@@ -11982,7 +11988,7 @@ msgid ""
 "end? Or rather he'd like her only descendant to die pointless death "
 "protecting the Highest Priestess, that didn't even remembered her?"
 msgstr ""
-"Wiesz, że dotrzymam słowa. Nienawidzisz mnie tak samo, jak Jarlów. Pod moją "
+"Wiesz, że dotrzymam słowa. Nienawidzisz mnie tak samo jak Jarlów. Pod moją "
 "pieczą Krwawe Elfy nareszcie staną się ważne. Landar wreszcie pokona "
 "Kalenza, po tylu wiekach... Nie zasłużył na to? Nie chciałby takiego końca? "
 "Czy raczej wolałby, żeby jego jedyna potomkini zginęła bezsensowną śmiercią "
@@ -12581,7 +12587,7 @@ msgstr ""
 "Krasnoludy przybyły do mnie jakiś czas temu, negocjując warunki poddania "
 "się. Te cwane kurduple potrafią walczyć słowem, jednak dosyć niechętnie "
 "przyznają się do tego, ile tak naprawdę złota mają w skarbcach. Połowę dóbr "
-"oddali mi się sami, a po drugą połowę zjawiłem się niebawem. Z wojskiem."
+"oddali mi sami, a po drugą połowę zjawiłem się niebawem. Z wojskiem."
 
 #. [else]
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:858
@@ -12660,9 +12666,9 @@ msgid ""
 "really care about it. Same goes for talking with you... Farewell, Jarl... I "
 "wish you won't be so bitter old greybeard in the afterlife."
 msgstr ""
-"Cóż, większość osób ma o nas takie zdanie. Problem jest taki, iż niewiele "
+"Cóż, większość osób ma o nas takie zdanie. Problem jest taki, że niewiele "
 "nas ono interesuje. Tak, jak rozmowa z tobą... Żegnaj, Jarlu... Mam "
-"nadzieję, że w zaświatach staniesz się mniej zgorzkniałym starcem."
+"nadzieję, że w zaświatach staniesz się mniej zgorzkniały."
 
 #. [then]
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:941
@@ -12845,10 +12851,10 @@ msgstr ""
 "Świat nigdy nie poznał prawdy o dniu, w którym nadzieje Wielkiej Hordy "
 "zostały obrócone w pył. Powszechnie mówiło się o zdradzie Gewolda oraz "
 "pułapce, jaką przygotował dla Wielkiego Suwerena. Z masakry miał nie ostać "
-"się żaden wojownik, zaś władcy północy jednogłośnie uznali, iż Marbus zginął "
+"się żaden wojownik, zaś władcy północy jednogłośnie uznali, że Marbus zginął "
 "chwalebną śmiercią, za którą należy mu się cześć i chwała. Został on uznany "
 "za wielkiego bohatera, a jego wizerunek posłużył do tego, by stopniowo "
-"narzucać pęta na rasę orków i przejmować coraz to większą nad nią kontrolę."
+"narzucać pęta na rasę orków i przejmować coraz to większą nad nimi kontrolę."
 
 #. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:21
@@ -12880,7 +12886,7 @@ msgid ""
 msgstr ""
 "Córki Aidali znały jednak prawdę. Przysięgły zemstę na Elfich Jarlach i "
 "przez kolejne lata skutecznie walczyły z nimi na morzu i w innych "
-"zbiornikach wodnych. Zemsta jednak nie opłaciła im się- szybko zostały "
+"zbiornikach wodnych. Zemsta jednak nie opłaciła im się - szybko zostały "
 "uznane za zdrajczynie i wrogów północy. Bez sojusznika w postaci orków, nagi "
 "stały się łatwym celem dla łowców głów i najemników. Ich rasa zaczęła "
 "karleć, by w końcu odejść w zapomnienie."
@@ -12915,7 +12921,7 @@ msgstr ""
 "Wielkiej Hordy, trolle ciągle były uważane za dzikie, wrogo nastawione "
 "stworzenia, które trzeba wytępić. Ich plemiona coraz skuteczniej były "
 "spychane pod ziemię bądź na najodleglejszą północ, gdzie klimat wybijał je "
-"równie skutecznie, co krasnoludzkie młoty. W niedługim czasie rasa odeszła w "
+"równie skutecznie, co krasnoludzkie młoty. W niedługim czasie odeszli w "
 "zapomnienie i tylko stare niańki opowiadały przy ogniskach niestworzone "
 "historie o olbrzymach z kamienia."
 
@@ -13024,9 +13030,9 @@ msgstr ""
 "największych sił militarnych północy. Przynajmniej do czasu, aż rozprawili "
 "się już ze wszystkimi potencjalnymi zagrożeniami. Po kilku latach walk na "
 "każdym możliwym froncie, potomkini Landara zaczęła walczyć o należne sobie "
-"prawa. Jak łatwo można się było domyślić- bezskutecznie. Szybko zyskała "
+"prawa. Jak łatwo można się było domyślić - bezskutecznie. Szybko zyskała "
 "sobie przydomek ''buntowniczki bez powodu'' i po kilku próbach wzniecenia "
-"buntu wśród elfów, została w końcu skazana na wygnanie."
+"buntu wśród elfów została w końcu skazana na wygnanie."
 
 #. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:81
@@ -13061,7 +13067,7 @@ msgstr ""
 "zobaczyć przez następne tysiąc lat. Dopiero wówczas miano pozwolić na to, by "
 "wybrać wśród orków Wielkiego Suwerena. Oczywiście tym razem byłaby to osoba "
 "odpowiednio wyselekcjonowana przez władców północy, by nie ważyła się im "
-"sprzeciwić oraz nakłonić swoją rasę do buntu."
+"sprzeciwić oraz nakłonić swojej rasy do buntu."
 
 #. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:105
@@ -13216,7 +13222,7 @@ msgstr ""
 "się na to, by ich za to piętnować. Wkrótce nagi zalały całą północ, a posągi "
 "Aidali, matki nag, wypełniły podwodne zbiorniki i stawiane były u ujścia "
 "rzek. Choć jej córki wreszcie były wolne, żadna nie wyrzekła się swojej "
-"matki. Wręcz przeciwnie- zdawać by się mogło, że oddają jej wręcz nabożną "
+"matki. Wręcz przeciwnie - zdawać by się mogło, że oddają jej wręcz nabożną "
 "cześć."
 
 #. [part]
@@ -13400,10 +13406,10 @@ msgid ""
 "about Kochan and was a support in hard times. He was a father of dozens of "
 "cubs, each one of them later becoming a mount for best goblin riders."
 msgstr ""
-"Jęczmień do końca swych dni został u boku Marbusa. Przypominał mu o Kochanie "
-"i był podporą w trudnych chwilach. Stał się ojcem dla kilkudziesięciu "
-"wilcząt, z których każde stało się w przyszłości wierzchowcem dla "
-"najlepszych goblińskich jeźdźców."
+"Jęczmień do końca swych dni został u boku Marbusa. Przypominał mu Kochana i "
+"był podporą w trudnych chwilach. Stał się ojcem dla kilkudziesięciu wilcząt, "
+"z których każde stało się w przyszłości wierzchowcem dla najlepszych "
+"goblińskich jeźdźców."
 
 #. [part]
 #: Marbuss_Escape\scenarios\Epilogue.cfg:243
