@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-11 14:11 UTC\n"
+"POT-Creation-Date: 2020-08-25 11:45 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -259,7 +259,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:17
-msgid "In orcish stories you may often hear an old saying: 'Do not feel fear of anything that bleeds'. However Marbus's clan had to face an enemy that had no blood, neither feeling nor life. Thus, the clan's leader had no choice but to escape..."
+msgid "In orcish stories you may often hear an old saying: 'Do not feel fear of anything that bleeds'. However, Marbus's clan had to face an enemy that had no blood, neither feeling nor life. Thus, the clan's leader had no choice but to escape..."
 msgstr ""
 
 #. [part]
@@ -316,7 +316,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:178
-msgid "The wolves are growing calmer. I’ve no idea whether we are safe here nor not, but it seems the undead ceased pursuing us."
+msgid "The wolves are growing calmer. I’ve no idea whether we are safe here or not, but it seems the undead ceased pursuing us."
 msgstr ""
 
 #. [event]
@@ -336,12 +336,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:192
-msgid "What the heck! These are ogres! I didn’t think I would have ever met them. This is the only race which refused cooperation with any of the northern forces. Even the Alliance has no army of its own."
+msgid "What the heck! These are ogres! I didn’t think I would have ever met them. This is the only race which refused cooperation with any of the northern forces. Even the Alliance doesn't have them among their forces."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:193
-msgid "It’s true. It’s widely believed that they have died out. I’m more concerned about the “White God” he mentioned. Ogres are not especially religious. Hopefully you won’t meet anything more dangerous than them."
+msgid "It’s true. It’s widely believed that they have died out. I’m more concerned about the “White God” he mentioned. Ogres are not especially religious. Hopefully we won’t meet anything more dangerous than them."
 msgstr ""
 
 #. [objective]: condition=win
@@ -376,7 +376,7 @@ msgstr ""
 
 #. [message]: speaker=Marbus
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:233
-msgid "We’ve managed to bring such a dangerous and rare thing. We’re now left with deciding what to do next... I think, that..."
+msgid "We’ve managed to bring down such a dangerous and rare thing. We’re now left with deciding what to do next... I think, that..."
 msgstr ""
 
 #. [option]
@@ -396,7 +396,7 @@ msgstr ""
 
 #. [object]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:415
-msgid "Marbus gained the trait 'Yeti Slayer'. All resistance increased by 10%."
+msgid "Marbus gained the trait 'Yeti Slayer'. All his resistances increased by 10%."
 msgstr ""
 
 #. [option]
@@ -406,7 +406,7 @@ msgstr ""
 
 #. [command]
 #: Marbuss_Escape\scenarios\02+_Tut-anor_Pass.cfg:439
-msgid "This creature can do us no harm. The Pass is malicious, if we kill someone for no reason, we can be cursed, and I’d prefer to avoid such situation. Let’s get going before the undead start following our footsteps."
+msgid "This creature can do us no harm. The Pass is malicious. Killing someone for no reason can bring a curse upon us. Let's get going before the undead start following our footsteps."
 msgstr ""
 
 #. [scenario]: id=02_Bone_Tempest
@@ -776,12 +776,12 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:17
-msgid "After numerous struggles and meeting the White God face to face, Marbus managed to lead most of his clan through the pass in one piece. It seemed the first and and the hardest part of their journey was over."
+msgid "After numerous struggles and meeting the White God face to face, Marbus managed to lead most of his clan through the pass in one piece. It looked like the first and the hardest part of their journey was over."
 msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\03_The_River_of_the_Dead.cfg:21
-msgid "The undead weren’t been chasing the orcs who eventually walked out from the pass. The clan was soon to meet a new challenge. Their way to Gelu'Aben was cut by a torrent that could be crossed only over a bridge. An unpleasant surprise was awaiting the orcs..."
+msgid "The undead weren't chasing the orcs who eventually walked out from the pass. The clan was soon to meet a new challenge. Their way to Gelu'Aben was cut by a torrent that could only be crossed by a bridge. An unpleasant surprise was awaiting the orcs..."
 msgstr ""
 
 #. [side]: id=Ashuran, type=Saurian Ambusher
@@ -1142,17 +1142,17 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:10
-msgid "They managed to do it only thanks to the help of Saurians. When years ago sovereign Gewold refused them to help and shelter them, everyone was expecting the war. In the far north the great battle between the orcish clans and Saurians was supposed to break out. Two kinds of blood would flood the dry hills and the swampy marches. However, this battle never happened."
+msgid "They managed to do it only thanks to the help of Saurians. When years ago sovereign Gewold refused to help and shelter them, everyone was expecting the war. In the far north the great battle between the orcish clans and Saurians was supposed to break out. Two kinds of blood would flood the dry hills and the swampy marches. However, this battle never happened."
 msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:14
-msgid "Yet it even turned out that these two races could live in harmony. In face of much more serious danger they were able to forget separating them their differences and stood together into combat, which would they certainly lose if acted separately."
+msgid "Yet it even turned out that these two races could live in harmony. In face of much more serious danger they were able to forget their differences and stood together into combat, which would they certainly lose if acted separately."
 msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:18
-msgid "Saurian units, salted in battles and disciplined, joined Marbus's forces. They were commanded by an old Saurian Oracle, Emborgi-tarash - mysterious and taciturn, with a nearly blind gaze. She was foreseeing and auguring. Marbus didn't know many people whom he respected, but was counted in them as soon as she appeared."
+msgid "Saurian units, salted in battles and disciplined, joined Marbus's forces. They were commanded by an old Saurian Oracle, Emborgi-tarash - mysterious and taciturn, with a nearly blind gaze. She was foreseeing and auguring. Marbus didn't know many people whom he respected, but she was counted in them as soon as she appeared."
 msgstr ""
 
 #. [part]
@@ -1237,7 +1237,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:160
-msgid "Apart from that, on these cursed humans' territories, there are some settlements of our brothers left. Among them, you'll find good old warriors. They would be an invaluable help in this battle, even determinig the outcome of the battle."
+msgid "Apart from that, on these cursed humans' territories, there are some settlements of our brothers left. Among them, you'll find good old warriors. They would be an invaluable help in this battle, even determining the outcome of the battle."
 msgstr ""
 
 #. [event]
@@ -1262,7 +1262,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\04A_Steel_and_Magic.cfg:177
-msgid "Like after aurochs? Unfortunately, these animals won't provide us with such expensive trophies...Oh well, at least our adepts will practise their spells."
+msgid "Like after aurochs? Unfortunately, these animals won't provide us with such expensive trophies... Oh well, at least our adepts will practise their spells."
 msgstr ""
 
 #. [event]
@@ -1810,7 +1810,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:42
-msgid "The road to the orcish capital was full of difficulties. Although it was true that the scouts didn't report any appearance of wraiths anymore, a new danger came up: human, elvish and dwarfish patrols. Northern Alliance did exist, and even some orcish tribes were respected by it, nonetheless, it wasn’t enough not to the weakened Marbus's clan which was on its way. It was also possible that someone could have connected the clan with the destruction of Celadon City."
+msgid "The road to the orcish capital was full of difficulties. Although it was true that the scouts didn't report any appearance of wraiths anymore, a new danger came up: human, elvish and dwarfish patrols. Northern Alliance did exist, and even some orcish tribes were respected by it, nonetheless, it wasn’t enough to not the weakened Marbus's clan which was on its way. It was also possible that someone could have connected the clan with the destruction of Celadon City."
 msgstr ""
 
 #. [part]
@@ -1863,7 +1863,7 @@ msgstr ""
 
 #. [message]: role=GewoldsServant
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:388
-msgid "Great Sovereign! Some units appeared in the south! They seem... They are orcs!"
+msgid "Great Sovereign! Some troops appeared in the south! They seem... They are orcs!"
 msgstr ""
 
 #. [message]: speaker=Gewold
@@ -1936,7 +1936,7 @@ msgstr ""
 
 #. [message]: speaker=Marbus
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:456
-msgid "Nevertheless, leave me some of these greenhorns for me. My wargs will feed themselves on their meat!"
+msgid "Nevertheless, leave me some of these greenhorns. My direwolves will feed themselves on their meat!"
 msgstr ""
 
 #. [message]: speaker=Raslav
@@ -1946,12 +1946,12 @@ msgstr ""
 
 #. [message]: speaker=Helias
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:464
-msgid "It doesn't matter... The Northern Alliance forces are able to with any danger."
+msgid "It doesn't matter... The Northern Alliance forces are able to deal with any danger."
 msgstr ""
 
 #. [message]: speaker=Raslav
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:468
-msgid "Really? You can easily hear a lot of rumours about the Alliance's failures among our clans. The latest undead attacks even made you completely separated from Wesnoth. No unit which was supposed to cross the Great River hasn't come back."
+msgid "Really? You can easily hear a lot of rumours about the Alliance's failures among our clans. The latest undead attacks even made you completely separated from Wesnoth. No unit which was supposed to cross the Great River has returned."
 msgstr ""
 
 #. [message]: speaker=Kochan
@@ -2051,7 +2051,7 @@ msgstr ""
 
 #. [then]: id=s25Yeti
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:629
-msgid "Can you hear that sound? It's something like ... A roar. I've heard it somwhere before..."
+msgid "Can you hear that sound? It's something like ... A roar. I've heard it somewhere before..."
 msgstr ""
 
 #. [then]: id=s25Yeti
@@ -2133,7 +2133,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\05_Miracle_of_Gelu-Aben.cfg:697
-msgid "Oh shut up alrerady! Bring me his head on a tray!"
+msgid "Oh shut up already! Bring me his head on a tray!"
 msgstr ""
 
 #. [event]
@@ -2198,17 +2198,17 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:22
-msgid "At the council, twelve people came along: clans' representatives and the elders. Everybody tried to enforce their standpoint, and all of them were based on one clear concept: to stay in the fortress and wait everything out. Only Marbus thought that by doing so way they wouldn’t survive. After slamming his hand on the table and putting orcs in order, he managed to convince them that all that awaits them here is death. Gewold was the first person to oppose Marbus – an escape isn't an option, because where would they escape into? are they supposed to go?"
+msgid "At the council, twelve people came along: clans' representatives and the elders. Everybody tried to enforce their standpoint, and all of them were based on one clear concept: to stay in the fortress and wait everything out. Only Marbus thought that by doing so way they wouldn’t survive. After slamming his hand on the table and putting orcs in order, he managed to convince them that all that awaits them here is death. Gewold was the first person to oppose Marbus – an escape isn't an option, because where would they escape into? Where are they supposed to go?"
 msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:25
-msgid "And then the elders spoke up – there was an abandoned fortress in the east, over the mountains. It was situated in the mysterious Kalindor Fields. There are supposed to be Ancient orcish writings containing knowledge on how to survive such an apocalypse were to be found over there. which contain knowledge about how to survive such apocalypse. The whole plan seemed to be based on tales and myths, but in the current situation, no one could come up with a better solution. Moreover, no one could figure out how to get through the mountains."
+msgid "And then the elders spoke up – there was an abandoned fortress in the east, over the mountains. It was situated in the mysterious Kalindor Fields. Ancient orcish writings containing knowledge on how to survive such an apocalypse were supposed to be found over there. The whole plan seemed to be based on tales and myths, but in the current situation, no one could come up with a better solution. Moreover, no one could figure out how to get through the mountains."
 msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:28
-msgid "Marbus, who had already decided to get in the Kalindor Fields, suggested to leading the orcs through the dwarven tunnels. Although Gelu'Aben was within a stone's throw from them, no orc has crossed the entrance to dwarven caverns for years. A once warlike race started to fear the power which Knalga had become."
+msgid "Marbus, who had already decided to get in the Kalindor Fields, suggested leading the orcs through the dwarven tunnels. Although Gelu'Aben was within a stone's throw from them, no orc has crossed the entrance to dwarven caverns for years. A once warlike race started to fear the power which Knalga had become."
 msgstr ""
 
 #. [part]
@@ -2287,7 +2287,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:294
-msgid "Yuck! These mushrooms stink so terribly that even our wargs start to yelp. I start to doubt in the point of our journey, Marbus. We have already been walking for a few hours, and the tunnels are becoming narrower and narrower."
+msgid "Yuck! These mushrooms stink so terribly that even our direwolves start to yelp. I start to doubt in the point of our journey, Marbus. We have already been walking for a few hours, and the tunnels are becoming narrower and narrower."
 msgstr ""
 
 #. [event]
@@ -2307,7 +2307,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:298
-msgid "I must admit, however, that I feel uneasy as well, cousin. And it's not just about the tunnels, but about the lack of any signs of dwarves. I believed that we would force our way to the other side over their corpses, having a precisely marked out path. If we get lost here, then neither starts, nor winds, nor wolves... Nothing will show us the way."
+msgid "I must admit, however, that I feel uneasy as well, cousin. And it's not just about the tunnels, but about the lack of any signs of dwarves. I believed that we would force our way to the other side over their corpses, having a precisely marked out path. If we get lost here, then neither stars, nor winds, nor wolves... Nothing will show us the way."
 msgstr ""
 
 #. [event]
@@ -2322,12 +2322,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:301
-msgid "You see, then? We have nothing to be afraid of. Since when those undead appeared in the north, I feel like if an mysterious force leadead us by the hand. Although it might be an old orcsess' superstition, I believe in the destiny. And dying in this place isn't our destiny."
+msgid "You see, then? We have nothing to be afraid of. Since when those undead appeared in the north, I feel like if an mysterious force led us by the hand. Although it might be an old orcsess' superstition, I believe in the destiny. And dying in this place isn't our destiny."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:302
-msgid "Silence! Calm down these wargs right now! Can you hear that? It's the burble of a river."
+msgid "Silence! Calm down these direwolves right now! Can you hear that? It's the burble of a river."
 msgstr ""
 
 #. [event]
@@ -2397,7 +2397,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:399
-msgid "A temple, or a museum. It's full of paitings and low reliefs. From what they depict we can say that these are the Four Gryphon Riders. The are to come and herald the coming of the Apocalypse."
+msgid "A temple, or a museum. It's full of paitings and low reliefs. From what they depict we can say that these are the Four Gryphon Riders. They are to come and herald the coming of the Apocalypse."
 msgstr ""
 
 #. [event]
@@ -2447,7 +2447,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:531
-msgid "Are my senses failing me? How is it possible that a once proud race of nagas settled under the ground? I remember times when our folks made one were united, ruling the swamps and rivers on the whole continent."
+msgid "Are my senses failing me? How is it possible that a once proud race of nagas settled under the ground? I remember times when our folks were united, ruling the swamps and rivers on the whole continent."
 msgstr ""
 
 #. [event]
@@ -2487,7 +2487,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:539
-msgid "This Person couldn't stand that! This Person had to live in order to hate. To bear witness to the darkness and decay, The Witness of the Snake. This Person had gathered its daughters and set off in the only dirrection where This Person could survive - to the caves. So here, in the darkness and gloom we've started to spawn, to grow stronger and wait for the moment when we could inflict the deadly blow to our enemies. This Person presumes this moment has come now."
+msgid "This Person couldn't stand that! This Person had to live in order to hate. To bear witness to the darkness and decay, The Witness of the Snake. This Person had gathered its daughters and set off in the only direction where This Person could survive - to the caves. So here, in the darkness and gloom we've started to spawn, to grow stronger and wait for the moment when we could inflict the deadly blow to our enemies. This Person presumes this moment has come now."
 msgstr ""
 
 #. [event]
@@ -2497,7 +2497,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:541
-msgid "You should reconsider this... Not everyone who doesn’t want to attack is is our friend. They may betray us when the first opportunity occurs, joining that nagas that are on the Northern Alliance side already."
+msgid "You should reconsider this... Not everyone who doesn’t want to attack us is our friend. They may betray us when the first opportunity occurs, joining the nagas that are on the Northern Alliance side already."
 msgstr ""
 
 #. [event]
@@ -2512,7 +2512,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:544
-msgid "I am glad that your humour is back, Kochan. As for the nagas... So be it. From now on you are my people as well. Together we must work our way out of this tunnels."
+msgid "I am glad that your humour is back, Kochan. As for the nagas... So be it. From now on you are my people as well. Together we must work our way out of these tunnels."
 msgstr ""
 
 #. [event]
@@ -2527,7 +2527,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:547
-msgid "My Chieftain... Let me give you an a piece of advice... The underground midgets were also influenced by the Evil Spirit that devastates this lands. They are weak... Together, we can face them and defeat them. But there is another way. Their guards are few and far between, their numbers are scarce in most of the corridors. We can reach east unnoticed if we will move carefully."
+msgid "My Chieftain... Let me give you a piece of advice... The underground midgets were also influenced by the Evil Spirit that devastates this lands. They are weak... Together, we can face them and defeat them. But there is another way. Their guards are few and far between, their numbers are scarce in most of the corridors. We can reach north unnoticed if we will move carefully."
 msgstr ""
 
 #. [event]
@@ -2718,7 +2718,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:902
-msgid "My subordinates have senses strange magic around you. We are in a situation in which we can use any magic to help us. We are running from the undead that had started to harass the north. Help us if you are able to, ghost."
+msgid "My subordinates have sensed strange magic around you. We are in a situation in which we can use any magic to help us. We are running from the undead that had started to harass the north. Help us if you are able to, ghost."
 msgstr ""
 
 #. [event]
@@ -2761,7 +2761,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:909
-msgid "The portals were closed and the way to our homeland was taken from us. However, before this happened, there was something else that managed to get here from our wolrd... The name of that thing is now forgotten but it makes the sleep, the food and even the females unable to satisfy the lust for blood that we feel. This thing haunts the north now."
+msgid "The portals were closed and the way to our homeland was taken from us. However, before this happened, there was something else that managed to get here from our world... The name of that thing is now forgotten but it makes the sleep, the food and even the women unable to satisfy the lust for blood that we feel. This thing haunts the north now."
 msgstr ""
 
 #. [event]
@@ -2801,7 +2801,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\06_By_the_Tunnels.cfg:947
-msgid "If you think that you will manage to do it... Then take my amulet... Maybe by using it you will change... The destiny... Of your people... Our people..."
+msgid "If you think that you will manage to do it... Then take my necklace... Maybe by using it you will change... The destiny... Of your people... Our people..."
 msgstr ""
 
 #. [event]
@@ -2932,7 +2932,7 @@ msgstr ""
 
 #. [part]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:44
-msgid "On these grim days Aidala proved to be a real solace for Marbus. This Person was always ready to give him advice or lend an ear when he just needed to talk. It was unacceptable for some of his advisors who still didn't trust the nagas and were afraid of their way of life. However, with days passing, fewer and fewer people had an influence on the Great Sovereign’s decisions, who seemed to be getting older and more rigorous with every day. The journey through the undergrounds had an such influence on most of the orcs."
+msgid "On these grim days Aidala proved to be a real solace for Marbus. This Person was always ready to give him advice or lend an ear when he just needed to talk. It was unacceptable for some of his advisors who still didn't trust the nagas and were afraid of their way of life. However, with days passing, fewer and fewer people had an influence on the Great Sovereign’s decisions, who seemed to be getting older and more rigorous with every day. The journey through the undergrounds had such an influence on most of the orcs."
 msgstr ""
 
 #. [part]
@@ -3390,7 +3390,7 @@ msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\07_Lake_of_Blood.cfg:821
-msgid "Thank you for helping us get tot he surface, dwarves. This gesture will never be forgotten."
+msgid "Thank you for helping us get to the surface, dwarves. This gesture will never be forgotten."
 msgstr ""
 
 #. [case]
@@ -3555,7 +3555,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:531
-msgid "Quick! If we hurry, we can make it to the stronghold before sunrise! Who know what we will come across inside. There may be firewood, and in the warehouses there may be some food left. We have tot hink positive."
+msgid "Quick! If we hurry, we can make it to the stronghold before sunrise! Who know what we will come across inside. There may be firewood, and in the warehouses there may be some food left. We have to think positive."
 msgstr ""
 
 #. [event]
@@ -3565,7 +3565,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:573
-msgid "Finally! Search the chambers, go to the granaries, entert he cellars! I hope to stay here longer and recover our strength."
+msgid "Finally! Search the chambers, go to the granaries, enter the cellars! I hope to stay here longer and recover our strength."
 msgstr ""
 
 #. [event]
@@ -3590,17 +3590,17 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:612
-msgid "This Person agrees ... Over the years, the nagas have fought alongside the Great Horde and shared its secrests. The stronghold we are in is an ancient and mistical place. If anywhere there are any asnwers for us, this is the place."
+msgid "This Person agrees ... Over the years, the nagas have fought alongside the Great Horde and shared its secrests. The stronghold we are in is an ancient and mystical place. If anywhere there are any asnwers for us, this is the place."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:613
-msgid "I, too, think that you should search the chambers yourself. You are not the Great Sovereign – this title not only comes with great power, but also gives acces to what is hidden."
+msgid "I, too, think that you should search the chambers yourself. You are not the Great Sovereign – this title not only comes with great power, but also gives access to what is hidden."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:614
-msgid "What do you have in mind, water witch? If Marbus takes on studying the tomes, who will lead the defence oft he stronghold then? Why is it so important that he does it himself? It is the elders‘ task! If necessary, I will send the most suitable candidates for the task."
+msgid "What do you have in mind, water witch? If Marbus takes on studying the tomes, who will lead the defence of the stronghold then? Why is it so important that he does it himself? It is the elders‘ task! If necessary, I will send the most suitable candidates for the task."
 msgstr ""
 
 #. [event]
@@ -3610,17 +3610,17 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:616
-msgid "Marbus is our leader now. Only he wull be able to find the hidden scrolls and magic tomes. Assumig there some have survived. We will have to buy him some time."
+msgid "Marbus is our leader now. Only he will be able to find the hidden scrolls and magic tomes. Assuming that some have survived. We will have to buy him time."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:625
-msgid "If you are telling the truth, we have no other choice. I myself need to go into the heart oft he stronghold. Tell all the people able to fight to go outside the walls and search the outbuildings. We might get some food. As fort he defence ..."
+msgid "If you are telling the truth, we have no other choice. I myself need to go into the heart of the stronghold. Tell all the people able to fight to go outside the walls and search the outbuildings. We might get some food. As for the defence ..."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:626
-msgid "During the battle Kochan and Gewold will lead the army. Be unanimous and don’t let the enemy entert he stronghold. I am counting on you two!"
+msgid "During the battle Kochan and Gewold will lead the army. Be unanimous and don’t let the enemy enter the stronghold. I am counting on you two!"
 msgstr ""
 
 #. [event]
@@ -3655,7 +3655,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:683
-msgid "Go to hell with those bastards! We need stron warriors, muscular arms, heavy swords! It’s the only way to defeat the enemy!"
+msgid "Go to hell with those bastards! We need strong warriors, muscular arms, heavy swords! It’s the only way to defeat the enemy!"
 msgstr ""
 
 #. [event]
@@ -3670,12 +3670,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:700
-msgid "Put on your chainmails, grab your spears! We‘ve managed to get out of the deeps, and now it’s time show them what we are really capable of!"
+msgid "Put on your chainmails, grab your spears! We‘ve managed to get out of the deeps, and now it’s time to show them what we are really capable of!"
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:701
-msgid "Quick and swift units. With such an army we will definitely manage to defend the stronghod. If, of course, Gewold doesn’t interefere in the command more than necessary."
+msgid "Quick and swift units. With such an army we will definitely manage to defend the stronghold. If, of course, Gewold doesn’t interefere in the command more than necessary."
 msgstr ""
 
 #. [event]
@@ -3690,7 +3690,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:715
-msgid "There are too many oft hem. On one side ghosts and spectres, and on the other the cavalry. Both sides have mobile units at their disposal, which can easily reach and eliminate us."
+msgid "There are too many of them. On one side ghosts and spectres, and on the other the cavalry. Both sides have mobile units at their disposal, which can easily reach and eliminate us."
 msgstr ""
 
 #. [event]
@@ -3705,7 +3705,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:718
-msgid "Foolish dwarf! I’m not surprised the goblins are not esteemed in the Horde. You know next to nothing about warfare!"
+msgid "Foolish midget! I’m not surprised the goblins are not esteemed in the Horde. You know next to nothing about warfare!"
 msgstr ""
 
 #. [event]
@@ -3720,17 +3720,17 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:725
-msgid "The orcs who came tot he ruined stronghold are still defending themselves. Their obstinacy won’t last long, the undead are still groiwng in strength. It’s just a matter of time before they are decimated."
+msgid "The orcs who came to the ruined stronghold are still defending themselves. Their obstinacy won’t last long, the undead are still growing in strength. It’s just a matter of time before they are decimated."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:726
-msgid "In the beginning, I planned to get rid oft hem fast, however, now I can’t see any chance of retreat. We can’t do more here, it’s time to fall back deep into our lands. Orcs‘ presence will slow down the undead pursuit and will minimise the losses. I’ve made up my mind, we are falling back!"
+msgid "In the beginning, I planned to get rid of them fast, however, now I can’t see any chance of retreat. We can’t do more here, it’s time to fall back deep into our lands. Orcs‘ presence will slow down the undead pursuit and will minimise the losses. I’ve made up my mind, we are falling back!"
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:727
-msgid "What? Cowards! They are running away hoping to slow down their retreat! Now all oft he undead forces will focus on us!"
+msgid "What? Cowards! They are running away hoping to slow down their retreat! Now all of the undead forces will focus on us!"
 msgstr ""
 
 #. [event]
@@ -3740,7 +3740,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:729
-msgid "This Person ordered the daughters to check out the underwater tunnels around. The lie oft he land does not indicate that there may be any underground escape route or deep catacombs. We cannot save ourselves by disappearing underground."
+msgid "This Person ordered the daughters to check out the underwater tunnels around. The lay of the land does not indicate that there may be any underground escape route or deep catacombs. We cannot save ourselves by disappearing underground."
 msgstr ""
 
 #. [event]
@@ -3755,7 +3755,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:757
-msgid "Yes ... I would never have thought that I’d have the chance to command and army with a goblin. I must admit I have learned a lot about your race throughtout the journey and in the last battle. I must admit I even admire you. The way you mount wolves, how agile your are with a bow and an arrow. Remarkable!"
+msgid "Yes ... I would never have thought that I’d have the chance to command an army with a goblin. I must admit I have learned a lot about your race throughout the journey and in the last battle. I must admit I even admire you. The way you mount wolves, how agile your are with bow and arrow. Remarkable!"
 msgstr ""
 
 #. [event]
@@ -3765,7 +3765,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:759
-msgid "This Person is sorry to interrupt this moment of emotion, butthe Great Sovereign is coming back..."
+msgid "This Person is sorry to interrupt this moment of emotion, but the Great Sovereign is coming back..."
 msgstr ""
 
 #. [event]
@@ -3780,7 +3780,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:768
-msgid "It’s not all true. Even though the ring oft he undead is closing down on us, their numbers stopped growing. We could send someone to distract the main forces oft he enemy and give the rest of us a chance to escape."
+msgid "It’s not all true. Even though the ring of the undead is closing down on us, their numbers stopped growing. We could send someone to distract the main forces of the enemy and give the rest of us a chance to escape."
 msgstr ""
 
 #. [event]
@@ -3805,12 +3805,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:773
-msgid "Forgive me, Marbus, but what cosequences there are for a dead man? Ido not expect to come back from this ride. It’s my decision. Respect it, please, and let’s part as friends."
+msgid "Forgive me, Marbus, but what consequences there are for a dead man? I do not expect to come back from this ride. It’s my decision. Respect it, please, and let’s part as friends."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:774
-msgid "You really want to do this? Dying in battle is one thing, but such a sacrifice... In the whole history of all the clans, there have’t been many golbins who went down in the history so much, but I swear to you, if we survive this war, this what will happen to you, Kochan."
+msgid "You really want to do this? Dying in battle is one thing, but such a sacrifice... In the whole history of all the clans, there have’t been many goblins who went down in the history so much, but I swear to you, if we survive this war, this is what will happen to you, Kochan."
 msgstr ""
 
 #. [event]
@@ -3929,7 +3929,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:180
-msgid "There is no other way nut forward. Fighting them is out of the question. Stop complaining, we need to buy the Horde some time!"
+msgid "There is no other way but forward. Fighting them is out of the question. Stop complaining, we need to buy the Horde some time!"
 msgstr ""
 
 #. [event]
@@ -3988,228 +3988,228 @@ msgid "That tree spoke of elves. I hope they won’t send arrows on us from the 
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:349
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:576
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:354
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:581
 msgid "Ugh... Who will drive the undead away?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:350
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:355
 msgid "Darn! I’m sure that if I run into the forest, I’ll lose the undead. Elvish magic will stop them long enough. And the elves ... Well, they might have all gone to war and no one is guarding the forest paths? This matters not, I prefer the elvish bows than the dead claws of these creatures!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:359
-msgid "I am probably safe. The udead ceased their pursuit. What the ...?!"
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:364
+msgid "I am probably safe. The undead ceased their pursuit. What the ...?!"
 msgstr ""
 
 #. [unit]: id=Beatrice, type=Elvish Shyde
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:367
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:372
 msgid "Beatrice"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:384
-msgid "Peace to you, wolf rider. I’ve seen your struggles in the battle with the undead. You’ve managed to find a sheltered place. Out magic barrier can be crossed only by those who has my people’s permission, or a person with a pure heart not tarnished with hate. Until now, no orc has been able to do that. You are the first one."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:385
-msgid "Me? But ... Anyway, we don’t have to fight. I am no threat to you. Let me leave."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:386
-msgid "I will ... As I said, you have a pure heart. Although most of my people feel hate towards you, I cannotand I won’t harm anyone who manages to cross the magic barrier. We have’t seen an orc here for a long time. It seems the evil and darkness coming from the north is after your people."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:387
-msgid "After the Horde? That would explain a lot. Since the undead appeared, everything has been happening not like it should have. We’ve been running for some time, managing to survive. Marbus found some old scriptures in the abandoned stronghold in the Kalindor Fields. Maybe they will help ..."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:388
-msgid "The stronghold in the Kalidor Fields? It is an ancient old place. You’ve picked my interest. Tell me everything. From the very beginning."
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:389
+msgid "Peace to you, wolf rider. I’ve seen your struggles in the battle with the undead. You’ve managed to find a sheltered place. Our magic barrier can be crossed only by those who has my people’s permission, or a person with a pure heart not tarnished with hate. Until now, no orc has been able to do that. You are the first one."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:390
+msgid "Me? But ... Anyway, we don’t have to fight. I am no threat to you. Let me leave."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:391
+msgid "I will ... As I said, you have a pure heart. Although most of my people feel hate towards you, I cannot and I won’t harm anyone who manages to cross the magic barrier. We have’t seen an orc here for a long time. It seems the evil and darkness coming from the north is after your people."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:392
+msgid "After the Horde? That would explain a lot. Since the undead appeared, everything has been happening not like it should have. We’ve been running for some time, managing to survive. Marbus found some old scriptures in the abandoned stronghold in the Kalindor Fields. Maybe they will help ..."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:393
+msgid "The stronghold in the Kalidor Fields? It is an ancient old place. You’ve picked my interest. Tell me everything. From the very beginning."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:395
 msgid "Two hours later..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:426
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:431
 msgid "... and that is how I am here."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:427
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:432
 msgid "I see ... Now it all starts to make sense. But, if your friends headed north, they will fall into the main line of defence of the Northern Alliance! We need to go there and tell everyone there is no point fighting against each other. It’s time to unite and defeat the undead enemy."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:428
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:433
 msgid "So ... Will you help us, my lady? I don’t know what to say. I would have never thought that we could become allies with the people who we’ve been waging a war with for ages."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:429
-msgid "Everything changes. The Northern Alliance is losing its strength, the elvish gates are crossed by orcs, and the ony hope for winning the war for the north is the Great Sovereign of the Horde. But enough with that: I must head for the front line as soon as possible. Maybe it’s not too late."
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:434
+msgid "Everything changes. The Northern Alliance is losing its strength, the elvish gates are crossed by orcs, and the only hope for winning the war for the north is the Great Sovereign of the Horde. But enough with that: I must head for the front line as soon as possible. Maybe it’s not too late."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:430
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:435
 msgid "And what about me, my lady?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:438
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:443
 msgid "I’m leaving you under my best archers’ care. When you come round you can join your friends. My soldiers will guide you along the paths through the forests where the undead threat is low."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:439
-msgid "Thank you, my lady! I ahve so much to say ... But I can’t stop you. Have a safe journey!"
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:453
-msgid "I would have never imagined myslef travelling with the elves in no ther way than chained."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:454
-msgid "And you were right. You won’t be travelling with us ..."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:455
-msgid "What?!"
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:456
-msgid "Our Lady is noble, yet naive. We don’t believe our races are able to live in peace ... Besides ... Plenty of our people died at your hands. It’s time for vengeance."
-msgstr ""
-
-#. [event]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:457
-msgid "But ... You can’t ... You received orders!"
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:444
+msgid "Thank you, my lady! I have so much to say ... But I can’t stop you. Have a safe journey!"
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:458
+msgid "I would have never imagined myself travelling with the elves in other way than chained."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:459
+msgid "And you were right. You won’t be travelling with us ..."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:460
+msgid "What?!"
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:461
+msgid "Our Lady is noble, yet naive. We don’t believe our races are able to live in peace ... Besides ... Plenty of our people died at your hands. It’s time for vengeance."
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:462
+msgid "But ... You can’t ... You received orders!"
+msgstr ""
+
+#. [event]
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:463
 msgid "I can’t? Then look!"
 msgstr ""
 
 #. [message]: speaker=Kochan
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:461
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:466
 msgid "You...!"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:463
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:468
 msgid "Elves are the same as orcs!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:465
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:470
 msgid "Maybe you will win ... Maybe you will defeat my people ... But you are not better than us! There is as much cruelty in you as in us!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:466
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:471
 msgid "Maybe... Have you not heard that the history is written by the victors? Even if an alliance is formed between our races, I will tell everyone that the undead came at us among the forest paths. And you, unaware of the land and stupefied after the run, fell right into their trap. The same as you fell in our ..."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:467
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:472
 msgid "Marbus ... won’t let us down ... He is different from the rest ... He’s united all the clans ... We will not fall ..."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:468
-msgid "You will die, because you are destined to! I’m so bored with this taling ... Die! Die under my boot! And may the last thing you see before you die be our eyes! Te eyes of elves – the race of masters!"
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:473
+msgid "You will die, because you are destined to! I’m so bored with this talking ... Die! Die under my boot! And may the last thing you see before you die be our eyes! Te eyes of elves – the race of masters!"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:473
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:478
 msgid "Try to kill and I will wipe you out!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:475
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:480
 msgid "Hahahaha... You think you can kill me? A good one, I must say!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:476
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:481
 msgid "What ...? What is so funny?!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:477
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:482
 msgid "Since my birth, I have lived in conditions you would have never imagined. I’ve survived the undead attack, I’ve retaken our capital from the Northern Alliance so as to burn it to the ground and enter the dwarven mines which I have got out from. At the end, I’ve managed to escape thousands of monsters, and you say that you are able to kill me?"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:478
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:483
 msgid "Archers! Draw the strings! We’ve got a madman here!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:479
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:484
 msgid "I won’t give up so easily!"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:484
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:489
 msgid "No, please, don’t kill me!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:486
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:491
 msgid "But ... I am no threat to you. I can barely stand. I am left all alone on a foreign land and chased by the undead. You don’t have to kill me here."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:487
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:492
 msgid "This is true. Your death is inevitable. In fact, we don’t have to waste any arrows on you, but ... We are pleased with your suffering."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:488
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:493
 msgid "No! Please!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:489
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:494
 msgid "Squeal! Squeal like a piglet! Now ... Kill him!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:508
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:513
 msgid "Break free"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:599
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:604
 msgid "Argh ...! If only ... the Horde ... survives ..."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:604
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:609
 msgid "Ugh! Run, you fools!"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:609
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:614
 msgid "My life is not a high price ... for tricking a legion ... of the undead ..."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:614
+#: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:619
 msgid "Ugh! The Horde will win!"
 msgstr ""
 
@@ -4280,12 +4280,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:232
-msgid "It seems we would not be able to run through these fields. We must hide behind the tree line, there the undead will not be able to pass so quickly through."
+msgid "It seems we would not be able to run through these fields. We must hide behind the tree line, where the undead will not be able to pass so quickly through."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:233
-msgid "The undead may not move well through the woods, but you forget about one important things ... We do not move well either! Besides, this place reeks of elves!"
+msgid "The undead may not move well through the woods, but you forget about one important thing ... We do not move well either! Besides, this place reeks of elves!"
 msgstr ""
 
 #. [event]
@@ -4295,7 +4295,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:235
-msgid "Most of my scars have been made by the elvish steel. I would gladly break a few skulls and taste their flesh, but I fear for the Great Horde. We are broken, and if we think our ranks even more, the elves will slaughter us like ducks."
+msgid "Most of my scars have been made by the elvish steel. I would gladly break a few skulls and taste their flesh, but I fear for the Great Horde. We are broken, and if we thin our ranks even more, the elves will slaughter us like ducks."
 msgstr ""
 
 #. [event]
@@ -4305,7 +4305,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:237
-msgid "We have no choice. We need to get to the caves where the Gjallarhorn is. As for the elves, look north! It look like we are going to face them now!"
+msgid "We have no choice. We need to get to the caves where the Gjallarhorn is. As for the elves, look north! It looks like we are going to face them now!"
 msgstr ""
 
 #. [event]
@@ -4481,7 +4481,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:362
-msgid "Rightly so, but not on the battlefield. I trust my chambers on Lord Dirack’s court and clean and fresh, aren’t they?"
+msgid "Rightly so, but not on the battlefield. I trust my chambers on Lord Dirack’s court are clean and fresh, aren’t they?"
 msgstr ""
 
 #. [event]
@@ -4491,7 +4491,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:482
-msgid "... so I believe that if we obatin the Gjallarhorn, it will lead to a battle during which we will kill the King of Gon and get rid of the threat."
+msgid "... so I believe that if we obtain the Gjallarhorn, it will lead to a battle during which we will kill the King of Gon and get rid of the threat."
 msgstr ""
 
 #. [event]
@@ -4617,7 +4617,7 @@ msgstr ""
 
 #. [event]: id=WilhelmIronhand
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:780
-msgid "This Person thinks otherwise ... He reeks of booze. His all regiment reeks of booze ... For the Drowned Godess’s sake, they can barely keep their balance!"
+msgid "This Person thinks otherwise ... He reeks of booze. His entire regiment reeks of booze ... For the Drowned Goddess’s sake, they can barely keep their balance!"
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
@@ -4627,7 +4627,7 @@ msgstr ""
 
 #. [event]: id=WilhelmIronhand
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:782
-msgid "When!? When what? Don’t play the smart guy here, Ir ... Hic! ick ... I will show you how a dwarwish ... Hic! Regiment fights! Give them to me! Hammers! Hit the hammers on their skeletons!"
+msgid "When!? When what? Don’t play the smart guy here, Ir ... Hic! ick ... I will show you how a dwarvish ... Hic! Regiment fights! Give them to me! Hammers! Hit the hammers on their skeletons!"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -4657,7 +4657,7 @@ msgstr ""
 
 #. [message]: role=farseer
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:854
-msgid "The undead are fleeting!"
+msgid "The undead are fleeing!"
 msgstr ""
 
 #. [event]
@@ -4697,7 +4697,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:899
-msgid "Kochan.... Damn it ... There is no time to mourn my cousin ... Let’s enjoy our victory! As for me ... Well, I’ll go for a walk."
+msgid "Kochan.... Damn it ... There is no time to mourn my cousin ... Let’s enjoy our victory! As for me ... I’ll go for a walk."
 msgstr ""
 
 #. [then]
@@ -4787,12 +4787,12 @@ msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:125
-msgid "Calm down, Gewold! The elves want to retrieve the horn as much as we do. They wouldn’t turn their backs on us in such a moment. All the yarls have pledged not to be a threat to us."
+msgid "Calm down, Gewold! The elves want to retrieve the horn as much as we do. They wouldn’t turn their backs on us in such a moment. All the jarls have pledged not to be a threat to us."
 msgstr ""
 
 #. [then]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:126
-msgid "The division into yarls has existed here for not too long. Even though the elves seem to be quite a sensible race, I have lived on this vale of tears much longer and I tell you: you will not find a more quarrelsome family than the elven one. We ought to simply be careful, we might get around without any killing."
+msgid "The division into jarls has existed here for not too long. Even though the elves seem to be quite a sensible race, I have lived on this vale of tears much longer and I tell you: you will not find a more quarrelsome family than the elven one. We ought to simply be careful, we might get around without any killing."
 msgstr ""
 
 #. [then]
@@ -4827,17 +4827,17 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:209
-msgid "Haha! You have come right into my trap, fools! You even haven’t taken more troops ... Simpletons!"
+msgid "Haha! You have come right into my trap, fools! You haven’t even taken more troops ... Simpletons!"
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:210
-msgid "Your Yarls promised us safety! You’ve betrayed us! Do you really want to squander your only chance to defeat the undead only to get rid of us?!"
+msgid "Your Jarls promised us safety! You’ve betrayed us! Do you really want to squander your only chance to defeat the undead only to get rid of us?!"
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:211
-msgid "Our Yarls? Our? Ah no ... We do not fall under the yarls’ command, neither the witches nor the lords! We are absolutely free! You stand before the descendant of the Great Landar, the Red Riding Hood (nie pamiętam jak to wcześniej tłumaczyłem?), the ruler of the Blood Elves!"
+msgid "Our Jarls? Our? Ah no ... We do not fall under the jarls’ command, neither the witches nor the lords! We are absolutely free! You stand before the descendant of the Great Landar, the Red Riding Hood, the ruler of the Blood Elves!"
 msgstr ""
 
 #. [event]
@@ -4857,12 +4857,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:215
-msgid "One night my former Yarl sent me and my unit to hunt. The fool wanted some deer meat, and we, little dogs, had to rush and hunt some for him. We didn’t expect to be attacked by wolves, or rather your stunted brothers on wolves. Supposedly one of them lead to your wandering our forests now, and we can’t slaughter you like ducks!"
+msgid "One night my former Jarl sent me and my unit to hunt. The fool wanted some deer meat, and we, little dogs, had to rush and hunt some for him. We didn’t expect to be attacked by wolves, or rather your stunted brothers on wolves. Supposedly one of them lead to your wandering our forests now, and we can’t slaughter you like ducks!"
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:216
-msgid "It doesn’t matter anymore ... Coming back to the main story: we weren’t going to surrender without a fight. We didn’t think of losing at all. And we won, having only our hunting bows and skinnig knives on us. We defeated a pack of wargs, and when we finished ... our hoods were red with blood. That thus my nickname."
+msgid "It doesn’t matter anymore ... Coming back to the main story: we weren’t going to surrender without a fight. We didn’t think of losing at all. And we won, having only our hunting bows and skinnig knives on us. We defeated a pack of direwolves, and when we finished ... our hoods were red with blood. That thus my nickname."
 msgstr ""
 
 #. [event]
@@ -5855,12 +5855,12 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:377
-msgid "Greeting Marbus ... I was wondering when you would summon me..."
+msgid "Greeting Marbus ... I was wondering when would you summon me..."
 msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:386
-msgid "He seems dangerous ... Let's attack now until he summons his army!"
+msgid "He seems dangerous ... Let's attack now before he summons his army!"
 msgstr ""
 
 #. [event]
@@ -5875,7 +5875,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:389
-msgid "Your words mean nothing to me, demon! The undead armies slaughtered many of my friends, and forced us to destroy Gelu'Aben and to flee! You nearly destriyed the Great Horde! You will pay for that!"
+msgid "Your words mean nothing to me, demon! The undead armies slaughtered many of my friends, and forced us to destroy Gelu'Aben and to flee! You nearly destroyed the Great Horde! You will pay for that!"
 msgstr ""
 
 #. [event]
