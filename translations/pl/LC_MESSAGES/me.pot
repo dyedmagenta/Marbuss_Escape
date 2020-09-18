@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-09-18 16:13 UTC\n"
+"POT-Creation-Date: 2020-09-18 21:41 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6932,7 +6932,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\14B_Elvish_Blood.cfg:331
-msgid "Don't worry, Jarl. I will keep mine. I promise that no onewill touch your body... Except my daughters, that will cut it after the battle..."
+msgid "Don't worry, Jarl. I will keep mine. I promise that no one will touch your body... Except my daughters, that will cut it after the battle..."
 msgstr ""
 
 #. [event]
