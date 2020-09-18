@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 11:45 UTC\n"
+"POT-Creation-Date: 2020-09-18 16:13 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,7 +55,7 @@ msgstr ""
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:49
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:392
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:400
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:575
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:576
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:45
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:47
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:311
@@ -3481,8 +3481,8 @@ msgstr ""
 #. [side]
 #. [side]: type=General, id=Rylis
 #: Marbuss_Escape\scenarios\08_The_Storm.cfg:125
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:199
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:269
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:155
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:181
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:79
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:126
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:174
@@ -3503,9 +3503,9 @@ msgstr ""
 #. [side]: type=Undead King, id=King_of_the_Wild_Hunt
 #. [side]: type=Skeletal Dragon
 #. [side]: type=Spectre
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:341
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:394
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:447
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:209
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:239
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:269
 #: Marbuss_Escape\scenarios\09_The_Run_of_the_Wolves.cfg:65
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:194
 #: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:204
@@ -3518,313 +3518,313 @@ msgid "Undead"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:497
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:295
 msgid "Ancient Orcish Stronghold"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:498
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:499
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:296
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:297
 msgid "Kalidor Bridges"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:500
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:501
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:502
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:298
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:299
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:300
 msgid "Destroyed Kalindor Stronghold"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:503
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:504
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:505
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:301
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:302
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:303
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:192
 msgid "The Northern Alliance's Camp"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:506
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:304
 msgid "Kalindor Lake"
 msgstr ""
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:517
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:315
 msgid "Enter the fortress"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:531
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:329
 msgid "Quick! If we hurry, we can make it to the stronghold before sunrise! Who know what we will come across inside. There may be firewood, and in the warehouses there may be some food left. We have to think positive."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:532
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:330
 msgid "This Person smells a lake ... Water means fish. Soon, we will all fill our bellies with fish."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:573
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:371
 msgid "Finally! Search the chambers, go to the granaries, enter the cellars! I hope to stay here longer and recover our strength."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:579
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:377
 msgid "This may not be so ... You can see more from the watch tower than from the castle walls, look!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:609
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:407
 msgid "Curse them! Their armies are really numerous. It’s just a matter of time before they come here and attack us with all their might. There’s no point defending the stronghold ... Gelu’Aben was much better prepared for a long-lasting siege, and without your help we would have been defeated."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:610
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:408
 msgid "This stronhold was our last resort ...We were to find shelter here and come up with a way to defeat the undead! These walls were to be our salvation!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:611
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:409
 msgid "It’s not all lost yet, cousin. Even if the didn’t find shelter here, we could still find a hint on how to win this war. We should search the catacombs and the temple and the library ... There were the places where the elder and the wisest shamen of our clans assembled and pondered. They must have left something in case of coming across the undead legions."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:612
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:410
 msgid "This Person agrees ... Over the years, the nagas have fought alongside the Great Horde and shared its secrests. The stronghold we are in is an ancient and mystical place. If anywhere there are any asnwers for us, this is the place."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:613
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:411
 msgid "I, too, think that you should search the chambers yourself. You are not the Great Sovereign – this title not only comes with great power, but also gives access to what is hidden."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:614
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:412
 msgid "What do you have in mind, water witch? If Marbus takes on studying the tomes, who will lead the defence of the stronghold then? Why is it so important that he does it himself? It is the elders‘ task! If necessary, I will send the most suitable candidates for the task."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:615
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:413
 msgid "You know nothing about magic, orc! Your Elders have been enviously keeping their secrests for ages. The Sages knew that if the had left all their book on sight, they would have been burnt by a drunk mercenary or used for a wicked purpose. Thus they sealed all the knowledge in such a way that only the person knowing the right spells could open it. The Great Soveregin was the only exception."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:616
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:414
 msgid "Marbus is our leader now. Only he will be able to find the hidden scrolls and magic tomes. Assuming that some have survived. We will have to buy him time."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:625
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:423
 msgid "If you are telling the truth, we have no other choice. I myself need to go into the heart of the stronghold. Tell all the people able to fight to go outside the walls and search the outbuildings. We might get some food. As for the defence ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:626
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:424
 msgid "During the battle Kochan and Gewold will lead the army. Be unanimous and don’t let the enemy enter the stronghold. I am counting on you two!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:627
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:425
 msgid "I won’t let you down, cousin."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:628
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:426
 msgid "To me, soldiers! To me, lazy bastards! I will once again liven you folks up!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:648
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:446
 msgid "Defend the fortress."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:666
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:464
 msgid "We are not going to war, we only have to hold the stronghold! We need mobile units which will be able to draw enemies far from us and and set us free from their traps, and won’t let us get slaughtered under enemies‘ assault!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:674
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:472
 msgid "Oh hell! What do we need those water witches for? These are vast fields, grunts would come in more handy!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:675
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:473
 msgid "Silence, orc! Although Marbus let your command the army, This Person didn’t let you insult her daughters!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:683
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:481
 msgid "Go to hell with those bastards! We need strong warriors, muscular arms, heavy swords! It’s the only way to defeat the enemy!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:691
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:489
 msgid "Go on, go on, little children. We have to defeat the enemy!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:692
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:490
 msgid "Now we are talking! Strong massive trolls! Together we will defend the stronghold before Marbus come back from his... trip."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:700
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:498
 msgid "Put on your chainmails, grab your spears! We‘ve managed to get out of the deeps, and now it’s time to show them what we are really capable of!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:701
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:499
 msgid "Quick and swift units. With such an army we will definitely manage to defend the stronghold. If, of course, Gewold doesn’t interefere in the command more than necessary."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:709
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:507
 msgid "You want to shoot at them from the castle walls, goblin? If they come so close, we won't be able to retreat! You’d better take care of your mongrels and leave the command to me!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:710
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:508
 msgid "Our archers and crossbowmen are on the best warriors we’ve got. Using them well in battle might be the key to victory. It’s better to keep the enemy at bay than fight them within a sword’s length."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:715
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:513
 msgid "There are too many of them. On one side ghosts and spectres, and on the other the cavalry. Both sides have mobile units at their disposal, which can easily reach and eliminate us."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:716
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:514
 msgid "We are still lucky that humans and the undead also fight one another. If luck is on our side, we won’t draw much attention. We should move our units forward and form a wall which would protect the wounded."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:717
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:515
 msgid "And lead to a dozen of deaths? Sending our fastest units, which would distract our enemies‘ main forces, to different parts of the area would be a better solution."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:718
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:516
 msgid "Foolish midget! I’m not surprised the goblins are not esteemed in the Horde. You know next to nothing about warfare!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:719
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:517
 msgid "It’s not me who had to ask for help, unable to defend our capital, an orc city best prepared for a siege."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:720
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:518
 msgid "Shut up, both of you! This Person can’t stand listening to you whining. Instead, we’d better focus on defending the stronghold."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:725
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:523
 msgid "The orcs who came to the ruined stronghold are still defending themselves. Their obstinacy won’t last long, the undead are still growing in strength. It’s just a matter of time before they are decimated."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:726
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:524
 msgid "In the beginning, I planned to get rid of them fast, however, now I can’t see any chance of retreat. We can’t do more here, it’s time to fall back deep into our lands. Orcs‘ presence will slow down the undead pursuit and will minimise the losses. I’ve made up my mind, we are falling back!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:727
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:525
 msgid "What? Cowards! They are running away hoping to slow down their retreat! Now all of the undead forces will focus on us!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:728
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:526
 msgid "Indeed, this is not a pleasant turn of events. We won’t last long. If Marbus does not come back soon with the necessary information, we will all surely die."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:729
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:527
 msgid "This Person ordered the daughters to check out the underwater tunnels around. The lay of the land does not indicate that there may be any underground escape route or deep catacombs. We cannot save ourselves by disappearing underground."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:730
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:528
 msgid "Brilliant! The only thing we can do is to send forth our best warriors to defend us and hope we will buy us some time."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:756
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:555
 msgid "This is truly the end ... We have been surrounded, the siege is going to start now."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:757
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:556
 msgid "Yes ... I would never have thought that I’d have the chance to command an army with a goblin. I must admit I have learned a lot about your race throughout the journey and in the last battle. I must admit I even admire you. The way you mount wolves, how agile your are with bow and arrow. Remarkable!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:758
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:557
 msgid "It’s the same with you, Gewold. I would have never thought that I would be able to make friends with the mightiest warrior of the Great Horde. I had always thought your were drunkards who assault the weak. Now I see how wrong I was. You are able to fight with honour till you die, defending the ones you had promised to protect."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:759
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:558
 msgid "This Person is sorry to interrupt this moment of emotion, but the Great Sovereign is coming back..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:766
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:565
 msgid "I have found what we were looking for. And some other valuable stuff. It seems it’s not the time for explanation. We have to immediately head north, towards the woods."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:767
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:566
 msgid "Marbus! I’m glad you came back. Nonetheless, as you can see yourself, we cannot meet your expectations. We’ve been surrounded, we cannot break through the ring of the undead. Maybe in the group of our best warriors ... But not with the old people, women and children ... Not to mention the food wagons."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:768
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:567
 msgid "It’s not all true. Even though the ring of the undead is closing down on us, their numbers stopped growing. We could send someone to distract the main forces of the enemy and give the rest of us a chance to escape."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:769
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:568
 msgid "This Person sees a glimmer of hope in this plan. The undead are not that smart. We may lock ourselves in the stronghold and wait out until the undead rush with all their forces after the unit which would head in the opposite direction to ours."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:770
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:569
 msgid "No, I say no to it! I would have to send a few of my soldiers for a certain death?! This is pure madness, there must be another way!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:771
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:570
 msgid "There is no other way. We can’t wait any longer, too. So, it’s all settled."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:772
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:571
 msgid "Cousin! What are you doing! I have not granted you permission! If you go, better be ready to face the consequences!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:773
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:572
 msgid "Forgive me, Marbus, but what consequences there are for a dead man? I do not expect to come back from this ride. It’s my decision. Respect it, please, and let’s part as friends."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:774
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:573
 msgid "You really want to do this? Dying in battle is one thing, but such a sacrifice... In the whole history of all the clans, there have’t been many goblins who went down in the history so much, but I swear to you, if we survive this war, this is what will happen to you, Kochan."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:775
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:574
 msgid "I ...I don’t know what to say. You have supported me for years and helped me do the right things ... Without your advice ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:776
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:575
 msgid "You have been doing well earlier, without my advice. You don’t need me anymore, cousin. You can perfectly take care of yourself. Now you have other people who will give you a hand when you are in need. It’s time for me to go, I’ve drawn the attention of the undead. Farewell, Marbus."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\08_The_Storm.cfg:777
+#: Marbuss_Escape\scenarios\08_The_Storm.cfg:576
 msgid "Farewell, cousing. I hope to meet yet again ..."
 msgstr ""
 
@@ -4561,147 +4561,147 @@ msgid "For the elvish jarls!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:550
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:786
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:551
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:787
 msgid "Defeat all the undead"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:556
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:792
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:557
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:793
 msgid "Jarl Irick the High's Death"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:560
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:796
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:561
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:797
 msgid "The Great Lord Dirack's Death"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:564
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:804
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:565
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:805
 msgid "Beatrice's Death"
 msgstr ""
 
 #. [note]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:568
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:808
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:569
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:809
 msgid "The undead move through the snow faster than usual."
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:752
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:753
 msgid "King Wilhelm the Iron Hand"
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:776
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:777
 msgid "Axes! Ready your axes, these are orcs! Wait ... there are the undead, too! Hammers! Ready the hammers!"
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:777
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:778
 msgid "Welcome, King Wilhelm! These orcs are on our side, this is the Great Horde led by the orc Marbus."
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:778
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:779
 msgid "What?! I’ve heard of him! He has passed through our underground leaving only charred remains! But ... So be it! A war is being fought, and I don’t intend to bicker over petty things. Besides, no one has paid me for killing the orcs! Hahaha!"
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:779
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:780
 msgid "This dwarf is slightly ... crazy."
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:780
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:781
 msgid "This Person thinks otherwise ... He reeks of booze. His entire regiment reeks of booze ... For the Drowned Goddess’s sake, they can barely keep their balance!"
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:781
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:782
 msgid "King, are you sure your troops are ready to fight? Maybe you should rest awhile and join the battle when ..."
 msgstr ""
 
 #. [event]: id=WilhelmIronhand
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:782
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:783
 msgid "When!? When what? Don’t play the smart guy here, Ir ... Hic! ick ... I will show you how a dwarvish ... Hic! Regiment fights! Give them to me! Hammers! Hit the hammers on their skeletons!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:800
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:801
 msgid "The death of King Wilhelm Iron Fist"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:818
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:819
 msgid "Uh, my headache is stronger than before..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:819
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:820
 msgid "Dwarven king has fallen. That is the end.."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:829
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:830
 msgid "I didn't expect to die in this place..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:830
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:831
 msgid "No one expected this ..."
 msgstr ""
 
 #. [message]: role=farseer
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:854
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:855
 msgid "The undead are fleeing!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:881
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:882
 msgid "Told you so? Huh! We’ve defeated all of ... Hic! ... them ... and I didn’t even sweat ... You’d better give me ... Hic! ... some booze."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:882
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:883
 msgid "A devastating defeat was inflicted on the enemy here, but I fear it’s not the end. The will come back. With doubled strength. We have to be ready. Renew the magical barriers, patch up the walls. In the west, impassable mountains stretch away, and in the east thick woods. This is the only place through which you can get further north. You know, not including the dwarwish mines, but they ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:883
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:884
 msgid "... are as safe as my daughter’s chastity. One half of my troops is guarding the passages. The other is with me here. You are lucky, orc, to have left the underground before my coronation. Today, you wouldn’t make it in one piece."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:884
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:885
 msgid "After what I have seen I believe your every word, dwarf king. We all need to rest now. We’ve won a beautiful victory. However, one thing troubles me ... What about Kochan?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:885
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:886
 msgid "My people should be here in a minute, they are escorting him. Oh, I can see them!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:897
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:898
 msgid "My Lady ... I regret to inform we were not able to follow your orders. On our way here, the undead came at us. Apparently, the orc we were escorting lured them to us. They caught him ... we couldn’t do anything."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:898
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:899
 msgid "Thank you ... I wish it hadn’t happened ... Marbus ?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:899
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:900
 msgid "Kochan.... Damn it ... There is no time to mourn my cousin ... Let’s enjoy our victory! As for me ... I’ll go for a walk."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:920
+#: Marbuss_Escape\scenarios\10_Battle_of_Five_Armies.cfg:921
 msgid "This Person advises not to enter that place. There is a strange smell coming from the underground ... Ethanol ... It is getting stronger and stronger ..."
 msgstr ""
 
@@ -5036,428 +5036,428 @@ msgid "*Barks merrily and wags its tail*"
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:506
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:507
 msgid "This is a glyph ... We’d better take it with us. I bet it will become useful."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:507
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:508
 msgid "What the ...? A stone? Some magical contraption ... I may be useful."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:508
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:509
 msgid "This Person has found the glyph. I will no doubt be useful for finding the Gjallarhorn."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:509
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:510
 msgid "A magical stone ... I feel we will find it useful."
 msgstr ""
 
 #. [unit]: id=Gideon, type=Fire Drake, type=Inferno Drake, type=Armageddon Drake
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:526
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:527
 msgid "Gideon"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:545
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:546
 msgid "What the...?!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:546
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:547
 msgid "Waaaargh! Leave my cave be! What do you want from it?!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:547
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:548
 msgid "We are looking for the Gjallarhorn. We are not going to stay her for long."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:548
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:549
 msgid "Yeah, sure! First, the elves came and mollified me with their elvish food, but they won’t leave! You’ve left their corpses, and the soil has already soaked up the blood. You will pay for devastating my dwelling!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:549
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:550
 msgid "Draw your swords!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:556
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:557
 msgid "Cursed orcs! Wherever you turn up ... death always follows!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:561
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:562
 msgid "He is truly right. But it’s time to ease ourselves of this curse’s burden. Let’s take the glyph and try using it somehow."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:613
-msgid "This statue looks different from the rest. There seems to be a passage behind it. Meybe we could move it aside ..."
-msgstr ""
-
-#. [then]
-#. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:614
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:644
-msgid "What for? Let’s call some hefty-looking soldiers and take a batternig ram. It will yield."
+msgid "This statue looks different from the rest. There seems to be a passage behind it. Meybe we could move it aside ..."
 msgstr ""
 
 #. [then]
 #. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:615
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:645
-msgid "This is not the best idea. When I was in the catacombs of the stronghold, I came across some scriptures telling about such passages. If we use force to move the statue, the cave will collapse and finding the Gjallarhorn will take us months. Assuming, of course, it is still there."
+msgid "What for? Let’s call some hefty-looking soldiers and take a batternig ram. It will yield."
 msgstr ""
 
 #. [then]
 #. [else]
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:616
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:646
+msgid "This is not the best idea. When I was in the catacombs of the stronghold, I came across some scriptures telling about such passages. If we use force to move the statue, the cave will collapse and finding the Gjallarhorn will take us months. Assuming, of course, it is still there."
+msgstr ""
+
+#. [then]
+#. [else]
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:617
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:647
 msgid "What shall we do, then? Call the elvish witch so that she will cast a spell and unblock the passage for us?"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:617
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:618
 msgid "This Person thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts... or glyphs. We might find them here and they will open the passage."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:618
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:619
 msgid "Aidala is right. Let’s have a look around the cave and come back here when we find something."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:625
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:626
 msgid "We still don't have all the glyphs. It would be better to return here with all pieces of the puzzle."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:636
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:637
 msgid "Finally, we’ve collected all the glyphs. It’s time to have a look at the statue."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:637
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:648
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:638
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:649
 msgid "Over the spaces there are some words carved. This can be a riddle."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:643
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:644
 msgid "This statue looks different from the rest. There seems to be a passage behind it. Maybe we could move it aside ..."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:647
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:648
 msgid "This Person thinks it won’t be necessary. Look at the statue: it seems to be possible to be filled with something... A crystal of sorts... or glyphs. Why don’t we put the stones we found in the spaces on the statue. However, we will have to do it in the right order."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:659
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:660
 msgid "Damn it, not this way. Let’s start over."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:722
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:714
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:706
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:686
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:670
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:723
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:715
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:707
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:687
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:671
 msgid "Statue"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:672
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:673
 msgid "You need five signs to open the door. To arrange them correctly, watch from bird's view."
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:674
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:690
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:710
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:675
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:691
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:711
 msgid "Enter the glyph with the letter U"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:678
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:694
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:718
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:744
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:679
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:695
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:719
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:745
 msgid "Enter the glyph with the letter B"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:682
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:683
 msgid "Enter the glyph with the letter C"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:688
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:689
 msgid "You need five signs to open the door. To arrange them correctly, watch from bird's view. C"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:698
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:726
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:737
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:748
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:758
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:699
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:727
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:738
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:749
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:759
 msgid "Enter the glyph with the letter S"
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:702
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:762
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:703
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:763
 msgid "Enter the glyph with the letter L"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:708
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:709
 msgid "You need five signs to open the door. To arrange them correctly, watch from bird's view. CL"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:716
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:717
 msgid "You need five signs to open the door. To arrange them correctly, watch from bird's view. CLU"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:724
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:725
 msgid "You need five signs to open the door. To arrange them correctly, watch from bird's view. CLUB"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:769
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:770
 msgid "We’ve made it! The statue is moving!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:770
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:771
 msgid "This Person is thinking of a password ... CLUBS ... Oh yes, it we look at the shape of the cave..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:771
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:772
 msgid "This is of no importance! Let’s take the horn and set out to deal with the Wild Gon!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:772
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:773
 msgid "I’m afraid this is not the end of the dangers ... But it’s true, it’s time to set off. Follow me!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:826
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:830
 msgid "A rat! Dinner!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:834
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:838
 msgid "Filthy rodent! Some you fry them over fire and eat, but I’ve never manager to look a it! Disgusting!"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:837
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:841
 msgid "This Person has a question ..."
 msgstr ""
 
 #. [else]
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:838
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:842
 #: Marbuss_Escape\scenarios\14A_The_Change_of_Fate.cfg:383
 msgid "Yes, Aidala?"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:839
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:843
 msgid "Can we keep it?"
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:840
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:844
 msgid "What ?!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:846
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:850
 msgid "The rat. Can we keep it? It is so sweet and ... shaggy."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:847
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:851
 msgid "Barley is shaggy, too. However, it’s hard to call him sweet ..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:848
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:852
 msgid "*Barks merrily and jumps, stamping its paws on the ground*"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:849
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:853
 msgid "... or it isn’t."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:850
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:854
 msgid "But it’s your animal. I want one of my own."
 msgstr ""
 
 #. [then]
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:851
 #: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:855
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:859
 msgid "Ehh... This doesn’t seem to be a good idea. It can have rabies and pass it on to our army. But I can bring you an animal when all of this ends."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:854
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:858
 msgid "Rat. Can we keep it? It's so cute, and... Shaggy."
 msgstr ""
 
 #. [else]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:856
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:860
 msgid "Very well, Marbus."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:890
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:894
 msgid "Cursed flying rats! I can never shoot them! Waaargh!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:891
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:895
 msgid "*Cocks its head in an asking manner*"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:892
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:896
 msgid "This Person thinks you should be using some sedatives."
 msgstr ""
 
 #. [unit]: id=Trefl, type=Ancient Wose
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:906
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:910
 msgid "Clubs"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:917
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:921
 msgid "This Person thinks it’s high time to be ready for a hard battle ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:918
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:922
 msgid "Omomomom... Omomomom..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:919
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:923
 msgid "Maybe not ... He is probably .... Sleeping?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:920
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:924
 msgid "Sharpen your swords! Now we have the chance! Uproot the treant!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:921
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:925
 msgid "What ... what ...? What!? Who dares enter Clubs’s dwelling!?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:922
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:926
 msgid "And all our plan fell apart... I’m Marbus, The Great Sovereign of the Horde. I’ve come here to take the Gjallarhorn thanks to which we can destroy the King of Wild Gon and lift the curse from my race."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:923
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:927
 msgid "It’s fine ... If you are telling the truth, I have been sleeping here for thousand years. I bacace the guardian of this place and was planted but an orc shaman, one of your predecessors. He must have gathered the Great Horde and deafeated the King of Gon. What he did then was, however, very imprudent."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:924
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:928
 msgid "Imprudent? What do you mean, guardian?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:925
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:929
 msgid "The orc thought that he would be able to break the curse of the Wild Gond once and for all. He lived long. Very long. He was a great mage. He understood the true nature of the Curse. It draw its strength from the orcush nature itself, your wickedness and bloodthirst. It was supposed to be the final weapon against your kind, which was made by the beings across the ocean."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:926
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:930
 msgid "But the orc created a magical object, thanks to which the curse could be lifted for one thousand years. And yes, the object is the Gjallarhorn. After many years, the mage came to the conclusion that this was not enough. He created an amulet allowing you to bind the curse to you, take its burden upon oneself. The burden of the sins of the orcish race ..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:927
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:931
 msgid "Such a great sacrifice ... What happened next?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:928
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:932
 msgid "The shaman made ghis amulet at the dwarfish smithies, using the best tools the dwarves had. He worked hard for many months, and his warriors withstood the dwarfish siege. In the end they lost, and the mage fled. He was killed by the beardmen in a forgotten tunnel, where his ghost haunts, and the amulet awaits to be found. At least that is what the legend says."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:929
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:933
 msgid "So, enough talk. We’ve come for the artifact, so a trial awaits. To battle!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:963
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:967
 msgid "Phew ... It wasn’t easy. We can finally take the horn and leave."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:964
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:968
 msgid "Oh ... Such treants are a mere trifle for me. But killing them does not bring any joy. I prefer enemies which are bleeding!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:978
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:982
 msgid "You think it is so easy? Before you the the Gjallarhorn, first you have to defeat me!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:994
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:998
 msgid "At last! We have it. It’s time to leave the cave. We won’t find anything interesting here, and the Wild Gon is growing in strength with every minute!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1012
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1016
 msgid "You thought that would be so easy to do? Oh no, first you have to deal with me!"
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1030
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1034
 msgid "Skeletons dancing in a circle and large stone gates through which warriors with big swords and fangs come out have been carved on the statue. In the background, you there are figures in helmets and full armour who are panicking."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1031
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1035
 msgid "Someone carved a battle scene here: figures in full armour are fighting the ones with big swords and fangs... The former are losign sand retreating towards the boat."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1032
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1036
 msgid "The scene shows skeleton destroying cities and killing the countrymen, In the background there are orcs building ships and setting out in the sea."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1033
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1037
 msgid "Someone carved twelve skeletons in long robes, all of them with their hands up to the sky, and above them there is something that looks like an eclipse. In the middle of the skeleton circle, a shape of a ghost or a demons is looming."
 msgstr ""
 
 #. [scenario]: id=11_Gjallarhorn
-#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1034
+#: Marbuss_Escape\scenarios\11_Gjallarhorn.cfg:1038
 msgid "The low relief shows an orc, but not a typical one. He is holding a staff and a medallion. He is a bit shorter than most orcs, and seems to have a decent amount of goblin blood flowing in his veins. His face is worried, although there is determination in his eyes."
 msgstr ""
 
@@ -5572,7 +5572,7 @@ msgstr ""
 
 #. [event]
 #: Marbuss_Escape\scenarios\12_Lost_in_the_Snow.cfg:304
-msgid "The Gjallarhorn has already been obtained, Captain. However, as for now we aren’t summoning the King of Gon. We were sent to find you and escort safely to our camo. And now ... You have to give me the command."
+msgid "The Gjallarhorn has already been obtained, Captain. However, as for now we aren’t summoning the King of Gon. We were sent to find you and escort safely to our camp. And now ... You have to give me the command."
 msgstr ""
 
 #. [event]
@@ -6024,327 +6024,337 @@ msgid "This Person will do this with pleasure..."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:809
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:820
 msgid "Die! Argh... Finally I managed to beat you... We won! The Great Horde has prevailed!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:810
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:821
 msgid "You succeeded... I look at your faces and see joy on them. You rejoice over end of your ordeal... Your escape. Your, Marbus... You don't know... You don't understand... It's not the end yet. It is just a beginning, burden of your destiny is no longer on my shoulders... It's on yours now."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:811
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:822
 msgid "I reunited the Great Horde and led it to victory. I'll make it great again. Orcs will no longer be thieves and bandits, we'll create our own nation... Future smiles to us!"
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:812
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:823
 msgid "North... North is dispersed. Knalga, Northern Alliance, Elvish Jarls... All of them will turn agains you. Because who should they blame, if not orcs? Undeads are no more. The enemy, you united against, exists no more. Racial differences are bound to divide you again. I know... I know what you are thinking about."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:813
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:824
 msgid "You want to keep reins on the Great Horde, make it equal to Northern Alliance and other powers of these lands. You think that you saved this country, that you are a savior and everyone will treat you as one... But it's false... You don't know the truth... Kochan, you loved, who was your friend and brother, who let you come here... Was murdered... By elves."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:814
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:825
 msgid "No! You lie! You want to stir me up with Jarls, to make us betray them, kill them all while they are dispersed... But it would cause things to remain unchanged, the Great Horde would become again what it was all these years - a destructive force, that cannot change its fate!"
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:819
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:830
 msgid "Your cousin... Before death he compared elves to orcs... He stated, that you're the same... Thirsting for blood, power, possibilities... Every nation is in its eyes is the most important, most prominent... It doesn't matter what you do, destiny of Great Horde is to kill, pillage and violence. And I... I now it best."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:823
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:834
 msgid "Your cousin... Before death he threatened elves with all his might. He took hidden venom from his heart and used its power... Unfortunately he run out of it, and that's how a great advisor has fallen. And you... You should do the same. Take from your chalice filled with resentment. Let it become your strength against living... Just as in fight against me."
 msgstr ""
 
 #. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:827
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:838
 msgid "Your cousin... Before death begged elves for mercy. He tried to reach their sense, putting all his will in effort to change his fate... He hoped to erase hatred, that separated your races for centuries... And he died. Maybe it was a lesson for you to act in a different way... But from the other hand, maybe you should continue what he started."
 msgstr ""
 
 #. [then]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:830
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:841
 msgid "Farewell, Marbus... I wanted to congratulate you on your victory against me... But I'm afraid, that you only condemned yourself to fate worse than death. Now you only have to... make a choice."
 msgstr ""
 
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:943
-msgid "Go to abyss you came from, moster! Get out of my sight!"
+#. [else]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:933
+msgid "You really thought, that they are different from me in this matter? Well, no. You have to kill them with your own hand. It's the only way to save your people - by killing your predecessors."
 msgstr ""
 
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:944
-msgid "One less! Two left! And then King of Gon. Have I mentioned constantly arriving undead hordes? These on south are probably fighting only with scouting forces, and body of their army has been sent here!"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:945
-msgid "Gewold..."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:946
-msgid "Me? Ugh..."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:947
-msgid "I know you, because you were called a Great Sovereign too. You ruled over the Great Horde... I reappeared on this world during your reign. And I know you better than anyone else..."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:948
-msgid "Go away from me, demon! Begone!"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:949
-msgid "I know your thoughts... You think why it's not you, who fights against me. Why the Great Horde listens to Marbus's orders, not yours. You're jealous... Angry. You know, that he is unqualified to be a Sovereign, he's too... sensitive. The Battle of Five Armies... Union with that elvish fairy, Beatrice... Soon he'll drag down the Great Horde to be Northern Alliance's errand boy."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:950
-msgid "Shut up, you devil! Get away from me! I'm loyal to my Sovereign, my army! Loyal to Great Gorde!"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:951
-msgid "You're too weak to be my rival... But I know your plans... Even if you try to hide it from yourself, stigma of orcish nature is imprinted deep inside you. You'll give in to it. You'll yield to your nature..."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:956
-msgid "Another one... Ugh... Down..."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:957
-msgid "Marbus! Are you alright...?"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:958
-msgid "Ye...s... It's... I just have to take a breath for a moment..."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:959
-msgid "Aidala... Or rather Queen Tesh'Sebet, Mother of Cursed Sisters, Demon of the Ocean... Yes, I know you... The race of nagas never gave birth to more perverse, venomous and evil being than you. It's a honour to finally meet you in a battle."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:960
-msgid "Queen...?"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:961
-msgid "This Person prefers not to talk about it... It's a very old story... Sunken deep in a sea of reminiscences..."
+#. [else]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:934
+msgid "Curse you... But I'll do it - I'll kill all your demons, even if I have to do it with bare hands!"
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:962
-msgid "A story about daughter of great king murdered her family to take the throne... How she was hated, betrayed, and then exiled by her nation... And she left. But first, she slaughtered the whole kingdom with the help of her fanatics... How you call them? Daughters?"
+msgid "Go to abyss you came from, moster! Get out of my sight!"
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:963
-msgid "These fools deserved to die! And daughters of her... They are loyal to me... This Person loves them as own children."
+msgid "One less! Two left! And then King of Gon. Have I mentioned constantly arriving undead hordes? These on south are probably fighting only with scouting forces, and body of their army has been sent here!"
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:964
-msgid "Children, you'll never have. You won't procreate. Not with him. He won't even fall in love with you... Because who could? Even orcs fear to look at you, so much you emanate with bloodlust. No one can grant you with feelings. So was with your people, with your daughters, with Great Horde, and also with him."
+msgid "Gewold..."
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:965
-msgid "That's enough! This Person promises to destroy you! Even if I had to sunk this whole continent under ocean's waves, I'll do it! Die, begone! Go away!"
+msgid "Me? Ugh..."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:966
+msgid "I know you, because you were called a Great Sovereign too. You ruled over the Great Horde... I reappeared on this world during your reign. And I know you better than anyone else..."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:967
+msgid "Go away from me, demon! Begone!"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:968
+msgid "I know your thoughts... You think why it's not you, who fights against me. Why the Great Horde listens to Marbus's orders, not yours. You're jealous... Angry. You know, that he is unqualified to be a Sovereign, he's too... sensitive. The Battle of Five Armies... Union with that elvish fairy, Beatrice... Soon he'll drag down the Great Horde to be Northern Alliance's errand boy."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:969
+msgid "Shut up, you devil! Get away from me! I'm loyal to my Sovereign, my army! Loyal to Great Gorde!"
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:970
-msgid "Die! This is... the last one... Now it's your turn, demon... You'll die just like your guardians. You know, that this battle is over already."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:971
-msgid "To finish it, you have to kill me. And you know, it's not so easy. Aren't you out of breath already? Even if you ran all across the battlefield to kill my minions? You're barely standing... But off the subject, do you want to know, what is happening on south now?"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:972
-msgid "We're not intrested about south, demon! It only matters what is happening here and now. Don't listen to him, Marbus, he's only trying to buy some time. Finish it!"
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:973
-msgid "Your defense line has fallen an hour ago... Dwarvish king, that was to unite the Knalga, is drunkard and berserk, but when things got heated, he instantly got sober... He collapsed tunnels without even a glimpse backward. Some of his soldiers were still on the surface. They howled with pain, slaughtered by undeads."
-msgstr ""
-
-#. [case]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:974
-msgid "Great Lord Dirack was more brave... When he realized, that things turned at his disadvantage, he called his banners... Northern Alliance's cavalry once was on a par with Kingdom of Wesnoth's one. Once, cause it broke up after unsuccesful charge. Ghouls ate lord's body before eyes of his only son."
+msgid "You're too weak to be my rival... But I know your plans... Even if you try to hide it from yourself, stigma of orcish nature is imprinted deep inside you. You'll give in to it. You'll yield to your nature..."
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:975
-msgid "No... no! You liar! It couldn't happen, it just couldn't... Northern Alliance... Couldn't fell!"
+msgid "Another one... Ugh... Down..."
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:976
-msgid "Of course, there were also elves. Fierce, willing for revenge, and casting their spells... And in their foreground Beatrice... Her magical barrier cracked like a glass under our atacks... And fairy faded away along with her barrier... Blood streamed from her nose, eyes and ears, when she recited her prayers... But it was all to no avail."
+msgid "Marbus! Are you alright...?"
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:977
-msgid "No... No, no! And hunred times more no! Beatrice... Jarls... For Sacred Trees, my daughter was there!"
+msgid "Ye...s... It's... I just have to take a breath for a moment..."
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:978
-msgid "The defence fell... The few remaining troops that managed to flee are soon to be crushed by me. And it's all your fault, Marbus. Your defection. It wouldn't happen if you didn't resist, if you accepted your fate with dignity! But you, you had to protect your people at all costs, even if this meant to hide behind other's back... It's pitful, how deep your orcs have fallen under your command..."
+msgid "Aidala... Or rather Queen Tesh'Sebet, Mother of Cursed Sisters, Demon of the Ocean... Yes, I know you... The race of nagas never gave birth to more perverse, venomous and evil being than you. It's a honour to finally meet you in a battle."
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:979
-msgid "Even if you say the truth, we can still defead you... If we win this battle, all undeads will crumble into ashes. They will be gone along you. Every moment of delay means more deaths, so we can't prolong it any longer... Attack! Give me a way to this demon, I'm going to personally split his skull!"
+msgid "Queen...?"
 msgstr ""
 
 #. [case]
 #: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:980
+msgid "This Person prefers not to talk about it... It's a very old story... Sunken deep in a sea of reminiscences..."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:981
+msgid "A story about daughter of great king murdered her family to take the throne... How she was hated, betrayed, and then exiled by her nation... And she left. But first, she slaughtered the whole kingdom with the help of her fanatics... How you call them? Daughters?"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:982
+msgid "These fools deserved to die! And daughters of her... They are loyal to me... This Person loves them as own children."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:983
+msgid "Children, you'll never have. You won't procreate. Not with him. He won't even fall in love with you... Because who could? Even orcs fear to look at you, so much you emanate with bloodlust. No one can grant you with feelings. So was with your people, with your daughters, with Great Horde, and also with him."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:984
+msgid "That's enough! This Person promises to destroy you! Even if I had to sunk this whole continent under ocean's waves, I'll do it! Die, begone! Go away!"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:989
+msgid "Die! This is... the last one... Now it's your turn, demon... You'll die just like your guardians. You know, that this battle is over already."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:990
+msgid "To finish it, you have to kill me. And you know, it's not so easy. Aren't you out of breath already? Even if you ran all across the battlefield to kill my minions? You're barely standing... But off the subject, do you want to know, what is happening on south now?"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:991
+msgid "We're not intrested about south, demon! It only matters what is happening here and now. Don't listen to him, Marbus, he's only trying to buy some time. Finish it!"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:992
+msgid "Your defense line has fallen an hour ago... Dwarvish king, that was to unite the Knalga, is drunkard and berserk, but when things got heated, he instantly got sober... He collapsed tunnels without even a glimpse backward. Some of his soldiers were still on the surface. They howled with pain, slaughtered by undeads."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:993
+msgid "Great Lord Dirack was more brave... When he realized, that things turned at his disadvantage, he called his banners... Northern Alliance's cavalry once was on a par with Kingdom of Wesnoth's one. Once, cause it broke up after unsuccesful charge. Ghouls ate lord's body before eyes of his only son."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:994
+msgid "No... no! You liar! It couldn't happen, it just couldn't... Northern Alliance... Couldn't fell!"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:995
+msgid "Of course, there were also elves. Fierce, willing for revenge, and casting their spells... And in their foreground Beatrice... Her magical barrier cracked like a glass under our atacks... And fairy faded away along with her barrier... Blood streamed from her nose, eyes and ears, when she recited her prayers... But it was all to no avail."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:996
+msgid "No... No, no! And hunred times more no! Beatrice... Jarls... For Sacred Trees, my daughter was there!"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:997
+msgid "The defence fell... The few remaining troops that managed to flee are soon to be crushed by me. And it's all your fault, Marbus. Your defection. It wouldn't happen if you didn't resist, if you accepted your fate with dignity! But you, you had to protect your people at all costs, even if this meant to hide behind other's back... It's pitful, how deep your orcs have fallen under your command..."
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:998
+msgid "Even if you say the truth, we can still defead you... If we win this battle, all undeads will crumble into ashes. They will be gone along you. Every moment of delay means more deaths, so we can't prolong it any longer... Attack! Give me a way to this demon, I'm going to personally split his skull!"
+msgstr ""
+
+#. [case]
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:999
 msgid "That's what I was hoping for... But now, that Beatrice's barrier is broken, I can finally summon the core of my army... I summon you, my undeads!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1008
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1027
 msgid "Marbus... The Great Sovereign... Kochan has been killed by elves. I know that this message is hard for you, but we ought to act. Now we know that we cannot trust them. North is in dispersion, if we attack quickly enough..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1009
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1028
 msgid "You want to attack the North? This Person thinks, that alliance with other nations living on this lands is possible. Hard, but achievable. If we attack with all our mights, we can get something else - we will rule. But we have to consider the risk, Marbus... They are all going to hate us."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1010
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1029
 msgid "Trust those who killed my cousin, or seize whole North for my people? Both solutions are risky. First is denying everything we are. Changing our fate and following new, uncertain path. Second means going back to old glory, conquering lands and wealths through violence. A responsibility that big follows this decision... And the time is running out..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1011
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1030
 msgid "Warning! You're going to face the decesive choice, which is going to change the last scenario of this campaign. Every decision, that you made during your journey, life or death of your comrades-in-arms is going to affect the epilogue. You can still go back to this moment and see how the fates of Marbus will be if you make a different choice."
 msgstr ""
 
 #. [message]: speaker=Marbus
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1014
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1033
 msgid "This isn't an easy decision, but as a Great Sovereign I ought to make a choice. Now I'll announce my will... I choose..."
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1016
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1035
 msgid "Alliance with the North."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1018
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1037
 msgid "Even if there's a lot of differences, I still believe that we can change. Not only us, orcs. I think the whole North learned something. Battle of Five Armies opened our eyes... Together we are able to make great things... The King of Gon, who claimed that our fate is unalterable, has been defeated. It's high time to let us decide for ourselves. This time, though... Not by bloodlust."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1019
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1038
 msgid "This Person thinks, that this choice is bound to be followed by huge consequences. Battles are unavoidable... Regardless of it, whatever your way is going to be, This Person is going to swim after you."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1020
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1039
 msgid "So this is your decision... Alliance. Same as back then, when we gathered our forces on Jarl's territories? Humilliated and treated as wild dogs? Well... you made your choice... And now I'm going to make mine."
 msgstr ""
 
 #. [option]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1030
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1049
 msgid "Attacking the North."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1032
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1051
 msgid "I want you to be strong. To have to flee no more, never again. We defeated the King of Gon. We destroyed the threat, that bothered the whole North. And now it's time to defeat those, who killed my cousin, humilliated and despised us for ages! Prepare your swords, it's time to stab them into Jarls' backs!"
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1033
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1052
 msgid "So this Person won't be able to stop fighting. However, my people swore loyalty to you, Marbus. Nagas are a part of the Great Horde and will follow it into war. How sweet is going to be ruling lakes, rivers and seas, that the North has to offer. This Person will take such power."
 msgstr ""
 
 #. [command]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1034
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1053
 msgid "I'm glad you say so, the Great Sovereign. I got to admit... I didn't expect you to do that. You has become silent, shut inside and serious. But still you're an orc. One of us! After such a leader I'm going to follow into fights, me, and every one of my soldiers! Hone your swords, now!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1052
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1071
 msgid "Argh... Damned... Damned undead..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1053
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1072
 msgid "Jarl! Medic, call the medic!"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1054
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1073
 msgid "It's too late... Sovereign... But it's no dishonour to fall in such a battle... My soldiers are going to fight to the end... They must win. This is a matter of our all's fate..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1055
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1074
 msgid "That's how I will do, elven Jarl... That's how I will do..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1063
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1082
 msgid "Damn it! I got hit! Ugh..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1064
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1083
 msgid "I'm afraid you won't make it, human... It was good to fight along somebody from the Northern Alliance."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1065
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1084
 msgid "Yes... It was good to fight along you too... Don't fail in this battle... Neither the thing after it... Maybe the Great Horde will become a part of the Northern Alliance in the future?"
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1066
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1085
 msgid "Maybe, maybe... Farewell, Captain."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1075
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1094
 msgid "You killed one of my bravest warriors... Nobody handled bow and arrow as good as Morrigan... When she was alive, she was a powerful elvish huntress..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1076
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1095
 msgid "In your story there was someone similar... A woman in red coat, obsessed with vengeance... Her fate is intertwined with your decisions..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1084
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1103
 msgid "Govannon was once the best of dwarvish blackmiths... He could forge magical, runical weapons, able to hurt orcs better than steel hurts elves or nagas. When he fell from my hand, his body turned into silt... From his mouth acidic fluids spouted and intoxicated wells and underground, once clean, dwarven rivers... He served me well..."
 msgstr ""
 
 #. [event]
-#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1085
+#: Marbuss_Escape\scenarios\13_The_Mountain_of_Destiny.cfg:1104
 msgid "Orcs did much more harm to dwarves than a hundred of Govannons could do in a hundred of years! I see, that you're going the same way... the Snowfeet clan, whose undergrounds you were fleeing through... How much harm you dealt to them?"
 msgstr ""
 
