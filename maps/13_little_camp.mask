@@ -1,6 +1,5 @@
-border_size=0
-usage=mask
-
-_f, Co, _f
-Co, Gd^Ecf, Co
-Co, Co, Co
+_f, _f, _f, _f, _f
+_f, _f, Co, _f, _f
+_f, Co, Gd^Ecf, Co, _f
+_f, Co, Co, Co, _f
+_f, _f, _f, _f, _f
