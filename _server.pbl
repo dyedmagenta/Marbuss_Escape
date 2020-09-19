@@ -1,0 +1,22 @@
+title="Marbus's Escape"
+description="Many years passed, since orcs incited fear in hearts of elves, humans and dwarves. Many, since they dared to set foot on lands of Wesnoth. Many, since they were rolling in wealth. Among surviving orcish clans, there was also a certain Marbus's clan, too small to have a name, history or future. Will he successfully lead orcs through wild North, controlled by blood-thirsty, dark powers?
+
+Created by members of wesnoth.com.pl community and some friends."
+icon="units/orcs/sovereign-lead-2.png~RC(magenta>red)"
+
+type="campaign"
+
+version="1.1"
+author="Senile Conclave"
+passphrase="GET FROM DISCORD BEFORE SENDING, DO NOT COMMIT PASSWORD TO GIT UNDER ANY CIRCUMSTANCES"
+
+email="***********@*****"
+#feedback later when we make a thread
+
+[translation]
+    language="pl_PL"
+	title="Ucieczka Marbusa"
+    description="Wiele lat minęło, odkąd orkowie budzili postrach w sercach elfów, ludzi i krasnoludów. Wiele, odkąd odważyli się postawić stopę na ziemiach Wesnoth. Wiele, odkąd opływali w bogactwa. Wśród przetrwałych klanów orków, był również pewien klan Marbusa, klan zbyt mały, by mieć nazwę, historię bądź przyszłość. Czy uda mu się przeprowadzić orków przez dziką północ, opanowaną przez krwiożercze, mroczne moce?
+
+Kampania stworzona przez członków społeczności wesnoth.com.pl i ich znajomych"
+[/translation]
