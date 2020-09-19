@@ -11,7 +11,9 @@ author="Senile Conclave"
 passphrase="GET FROM DISCORD BEFORE SENDING, DO NOT COMMIT PASSWORD TO GIT UNDER ANY CIRCUMSTANCES"
 
 email="***********@*****"
-#feedback later when we make a thread
+[feedback]
+    topic_id=53204
+[/feedback]
 
 [translation]
     language="pl_PL"
